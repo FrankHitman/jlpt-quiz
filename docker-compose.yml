@@ -1,0 +1,44 @@
+# JLPT N1 刷題系統 — Docker 一鍵部署
+# 用法：docker compose up -d --build
+# 之後瀏覽器打開 http://localhost:5173
+
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: jlpt_app
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-jlpt_quiz_local}
+      POSTGRES_DB: jlpt_quiz
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U jlpt_app -d jlpt_quiz"]
+      interval: 5s
+      timeout: 3s
+      retries: 12
+
+  backend:
+    build:
+      context: .
+      dockerfile: docker/backend.Dockerfile
+    environment:
+      DATABASE_URL: postgresql://jlpt_app:${DB_PASSWORD:-jlpt_quiz_local}@db:5432/jlpt_quiz
+    ports:
+      - "8000:8000"
+    depends_on:
+      db:
+        condition: service_healthy
+
+  frontend:
+    build:
+      context: .
+      dockerfile: docker/frontend.Dockerfile
+      args:
+        VITE_API_BASE: ${VITE_API_BASE:-http://localhost:8000/api}
+    ports:
+      - "5173:80"
+    depends_on:
+      - backend
+
+volumes:
+  pgdata:

@@ -1,0 +1,141 @@
+# =====================================
+# Python / 后端相关
+# =====================================
+
+# 字节码文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C 语言扩展
+*.so
+
+# 包打包与分发
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# 虚拟环境
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# 单元测试与覆盖率报告
+.pytest_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# 翻译文件
+*.mo
+*.pot
+
+# Django / FastAPI / Flask 常用
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+instance/
+.webassets-cache
+
+# Celery 任务日志
+celerybeat-schedule
+celerybeat.pid
+
+
+# =====================================
+# React / 前端相关
+# =====================================
+
+# 依赖包
+/node_modules/
+# 若使用 pnpm 或 yarn，可按需补充，但通用的 node_modules 已足够覆盖
+
+# 生产环境构建产物
+/build/
+/dist/
+
+# React Native 缓存（如果涉及）
+.expo/
+ios/Pods/
+android/.gradle/
+
+
+# =====================================
+# 通用配置与环境变量
+# =====================================
+
+# 环境变量文件（保护密钥、密码等隐私）
+.env.*
+!.env.example
+
+# IDE、编辑器及系统文件
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# 版本控制工具合并冲突临时文件
+*.orig
+
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.ico
+*.webp
+*.svg
+*.eps
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.odt
+*.ods
+*.odp
+*.odg
+*.odf
+*.odh
+*.odm
+*.odn
