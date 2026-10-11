@@ -19,6 +19,8 @@ docker compose up -d --build
 
 常用命令：`docker compose logs -f` 查看日誌；`docker compose down` 停止（加 `-v` 會清空題庫資料）。
 
+> 版本更新：下載新版原始碼包覆蓋後，直接 `docker compose up -d --build` 即可——後端容器啟動時會自動做冪等遷移（加列、補新數據），舊的作答記錄不受影響，只有該套試卷的作答「明細」在數據版本變化時會重導清空。
+
 > 進階：部署到雲伺服器時，把 `docker-compose.yml` 中的 `VITE_API_BASE` 改為伺服器的公網地址（如 `http://你的IP:8000/api`）後重新 `docker compose up -d --build` 即可。
 
 ## 手動運行（不使用 Docker）

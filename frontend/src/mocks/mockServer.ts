@@ -31,6 +31,7 @@ interface RawQuestion {
   mondai_no: number | null;
   number_in_section: number;
   stem: string;
+  target_text: string | null;
   options: RawOption[];
   correct_option: string;
 }
@@ -54,11 +55,20 @@ interface RawExplanation {
   distractors: RawDistractor[] | null;
   evidence: string | null;
 }
+interface RawVocabulary {
+  section_code: string;
+  number_in_section: number;
+  word: string;
+  reading: string | null;
+  meaning_zh: string | null;
+  etymology_en: string | null;
+}
 interface RawExamJson {
   exam: { level: string; year: number; month: number; title: string };
   groups: RawGroup[];
   questions: RawQuestion[];
   explanations: RawExplanation[];
+  vocabulary: RawVocabulary[];
 }
 
 const data = raw as unknown as RawExamJson;
@@ -78,6 +88,13 @@ const groupByLocal = new Map<string, GroupRow>(groups.map((g) => [g.local_id, g]
 const explanationByKey = new Map<string, RawExplanation>(
   data.explanations.map((e) => [`${e.section_code}:${e.number_in_section}`, e]),
 );
+const vocabularyByKey = new Map<string, RawVocabulary[]>();
+for (const v of data.vocabulary ?? []) {
+  const k = `${v.section_code}:${v.number_in_section}`;
+  const arr = vocabularyByKey.get(k) ?? [];
+  arr.push(v);
+  vocabularyByKey.set(k, arr);
+}
 
 function toAnswering(q: QuestionRow): AnsweringQuestion {
   const g = q.group_local_id ? (groupByLocal.get(q.group_local_id) ?? null) : null;
@@ -90,6 +107,7 @@ function toAnswering(q: QuestionRow): AnsweringQuestion {
     mondai_no: q.mondai_no,
     number_in_section: q.number_in_section,
     stem: q.stem,
+    target_text: q.target_text ?? null,
     options: q.options.map((o) => ({ key: o.key, text: o.text })),
     group: g ? { id: g.id, group_type: g.group_type, title: g.title, content: g.content } : null,
   };
@@ -97,12 +115,20 @@ function toAnswering(q: QuestionRow): AnsweringQuestion {
 
 function getExplanation(q: QuestionRow): Explanation {
   const e = explanationByKey.get(`${q.section_code}:${q.number_in_section}`);
-  if (!e) return { key_point: null, analysis_zh: '暫無解析', distractors: null, evidence: null };
+  const vocab = (vocabularyByKey.get(`${q.section_code}:${q.number_in_section}`) ?? []).map((v) => ({
+    word: v.word,
+    reading: v.reading,
+    meaning_zh: v.meaning_zh,
+    etymology_en: v.etymology_en,
+  }));
+  if (!e)
+    return { key_point: null, analysis_zh: '暫無解析', distractors: null, evidence: null, vocabulary: vocab };
   return {
     key_point: e.key_point,
     analysis_zh: e.analysis_zh,
     distractors: e.distractors,
     evidence: e.evidence,
+    vocabulary: vocab,
   };
 }
 

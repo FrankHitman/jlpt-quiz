@@ -81,6 +81,11 @@ def main() -> None:
                 warnings.append(
                     f"Q{q['section_code']}:{q['number_in_section']} correct_option={q['correct_option']} 不在選項中"
                 )
+        tt = q.get("target_text")
+        if tt and tt not in (q.get("stem") or ""):
+            warnings.append(
+                f"Q{q['section_code']}:{q['number_in_section']} target_text={tt!r} 未在題干中原樣出現"
+            )
     for w in warnings:
         print("WARNING:", w)
 
@@ -127,12 +132,12 @@ def main() -> None:
                 cur.execute(
                     """INSERT INTO questions
                        (exam_id, group_id, section_code, qtype_code, mondai_no,
-                        number_in_section, stem, options, correct_option, audio_url)
-                       VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s) RETURNING id""",
+                        number_in_section, stem, options, correct_option, target_text, audio_url)
+                       VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s) RETURNING id""",
                     (exam_id, gid, q["section_code"], q["qtype_code"], q.get("mondai_no"),
                      q["number_in_section"], q["stem"],
                      json.dumps(q.get("options") or [], ensure_ascii=False),
-                     q["correct_option"], q.get("audio_url")),
+                     q["correct_option"], q.get("target_text"), q.get("audio_url")),
                 )
                 qid_map[(q["section_code"], q["number_in_section"])] = cur.fetchone()[0]
 
@@ -156,10 +161,11 @@ def main() -> None:
                 qid = qid_map.get((v.get("section_code"), v.get("number_in_section")))
                 cur.execute(
                     """INSERT INTO vocabulary
-                       (question_id, exam_id, word, reading, pos, meaning_zh, example_sentence, note)
-                       VALUES (%s,%s,%s,%s,%s,%s,%s,%s)""",
+                       (question_id, exam_id, word, reading, pos, meaning_zh, example_sentence, note, etymology_en)
+                       VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s)""",
                     (qid, exam_id, v["word"], v.get("reading"), v.get("pos"),
-                     v.get("meaning_zh"), v.get("example_sentence"), v.get("note")),
+                     v.get("meaning_zh"), v.get("example_sentence"), v.get("note"),
+                     v.get("etymology_en")),
                 )
                 n_vocab += 1
 

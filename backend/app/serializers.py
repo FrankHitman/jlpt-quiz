@@ -19,6 +19,15 @@ def group_to_out(g: models.QuestionGroup | None) -> schemas.GroupOut | None:
     )
 
 
+def vocabulary_to_out(v: models.Vocabulary) -> schemas.VocabularyOut:
+    return schemas.VocabularyOut(
+        word=v.word,
+        reading=v.reading,
+        meaning_zh=v.meaning_zh,
+        etymology_en=v.etymology_en,
+    )
+
+
 def question_to_out(q: models.Question) -> schemas.QuestionOut:
     """Build the answering-view of a question (no answer included)."""
     return schemas.QuestionOut(
@@ -29,6 +38,7 @@ def question_to_out(q: models.Question) -> schemas.QuestionOut:
         mondai_no=q.mondai_no,
         number_in_section=q.number_in_section,
         stem=q.stem,
+        target_text=q.target_text,
         options=[
             schemas.OptionItem(key=o.get("key"), text=o.get("text"))
             for o in (q.options or [])
@@ -38,7 +48,10 @@ def question_to_out(q: models.Question) -> schemas.QuestionOut:
     )
 
 
-def explanation_to_out(e: models.Explanation | None) -> schemas.ExplanationOut:
+def explanation_to_out(
+    e: models.Explanation | None,
+    vocab: list[models.Vocabulary] | None = None,
+) -> schemas.ExplanationOut:
     if e is None:
         return schemas.ExplanationOut(analysis_zh="")
     return schemas.ExplanationOut(
@@ -46,4 +59,7 @@ def explanation_to_out(e: models.Explanation | None) -> schemas.ExplanationOut:
         analysis_zh=e.analysis_zh,
         distractors=e.distractors,
         evidence=e.evidence,
+        vocabulary=[
+            vocabulary_to_out(v) for v in sorted(vocab or [], key=lambda x: x.id)
+        ],
     )

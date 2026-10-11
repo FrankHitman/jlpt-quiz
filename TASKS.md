@@ -91,6 +91,7 @@ CREATE TABLE questions (
   stem TEXT NOT NULL,                         -- 題干（含★標記與空格）
   options JSONB NOT NULL,                     -- [{"key":"1","text":"..."}]，固定4項
   correct_option VARCHAR(4) NOT NULL,
+  target_text TEXT,                           -- 題干中需強調的候選詞（漢字讀音/近義詞題），可空
   audio_url TEXT,
   created_at TIMESTAMPTZ DEFAULT now(),
   UNIQUE(exam_id, section_code, number_in_section)
@@ -113,7 +114,8 @@ CREATE TABLE vocabulary (
   pos VARCHAR(16),
   meaning_zh TEXT,
   example_sentence TEXT,
-  note TEXT
+  note TEXT,
+  etymology_en TEXT                           -- 片假名外來語的詞源英文（如 lead），可空
 );
 -- 用戶系統預留（暫不啟用登入，表先建好、API 留接口）
 CREATE TABLE users (
@@ -216,10 +218,10 @@ CREATE TABLE attempt_answers (
 |---|---|---|
 | GET | `/api/exams` | 試卷列表：`[{id, level, year, month, title, sections:[{code, name_zh, time_limit_min, question_count}]}]` |
 | GET | `/api/exams/{id}` | 試卷詳情（含 sections 與各題型題數統計） |
-| GET | `/api/exams/{id}/questions?section=lang_reading` | 作答用題目：**不含** `correct_option`；group 文章以 `group` 物件內嵌 |
+| GET | `/api/exams/{id}/questions?section=lang_reading` | 作答用題目：**不含** `correct_option`；含 `target_text`（題干強調詞，無則 null）；group 文章以 `group` 物件內嵌 |
 | GET | `/api/practice/questions?qtype_code=&exam_id=&section=&limit=20` | 專項練習題目（不含答案） |
 | POST | `/api/attempts` | 開始作答 `{exam_id, mode, section_code?, qtype_code?, question_ids?}`（mode 枚舉：`mock` 模擬考、`practice` 專項練習） → `{attempt_id, time_limit_min}` |
-| POST | `/api/attempts/{id}/submit` | 提交 `{answers:[{question_id, selected_option}]}` → `{total, correct, accuracy, per_question:[{question_id, selected_option, correct_option, is_correct, explanation:{key_point, analysis_zh, distractors, evidence}}], wrong_question_ids}` |
+| POST | `/api/attempts/{id}/submit` | 提交 `{answers:[{question_id, selected_option}]}` → `{total, correct, accuracy, per_question:[{question_id, selected_option, correct_option, is_correct, explanation:{key_point, analysis_zh, distractors, evidence, vocabulary:[{word, reading, meaning_zh, etymology_en}]}}], wrong_question_ids}` |
 | GET | `/api/attempts/{id}` | 查看某次作答結果（含錯題＋解析） |
 | POST | `/api/auth/register` | **預留**：暫回 501 `{"detail":"auth not enabled yet"}` |
 | POST | `/api/auth/login` | **預留**：暫回 501 |

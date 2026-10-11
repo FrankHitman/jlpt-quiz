@@ -88,7 +88,10 @@ def submit_attempt(
     for ans in payload.answers:
         q = (
             db.query(models.Question)
-            .options(joinedload(models.Question.explanation))
+            .options(
+                joinedload(models.Question.explanation),
+                joinedload(models.Question.vocabulary),
+            )
             .filter(models.Question.id == ans.question_id)
             .first()
         )
@@ -127,7 +130,7 @@ def submit_attempt(
                 selected_option=ans.selected_option,
                 correct_option=q.correct_option,
                 is_correct=is_ok,
-                explanation=explanation_to_out(q.explanation),
+                explanation=explanation_to_out(q.explanation, q.vocabulary),
             )
         )
 
@@ -175,7 +178,10 @@ def get_attempt(attempt_id: int, db: Session = Depends(get_db)):
     rows = (
         db.query(models.AttemptAnswer, models.Question)
         .join(models.Question, models.AttemptAnswer.question_id == models.Question.id)
-        .options(joinedload(models.Question.explanation))
+        .options(
+            joinedload(models.Question.explanation),
+            joinedload(models.Question.vocabulary),
+        )
         .filter(models.AttemptAnswer.attempt_id == att.id)
         .order_by(models.Question.number_in_section)
         .all()
@@ -186,7 +192,7 @@ def get_attempt(attempt_id: int, db: Session = Depends(get_db)):
             selected_option=aa.selected_option,
             correct_option=q.correct_option,
             is_correct=bool(aa.is_correct),
-            explanation=explanation_to_out(q.explanation),
+            explanation=explanation_to_out(q.explanation, q.vocabulary),
         )
         for aa, q in rows
     ]

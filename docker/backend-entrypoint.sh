@@ -14,21 +14,49 @@ done
 echo "[entrypoint] postgres is up"
 
 python3 - <<'EOF'
-import os, glob, subprocess, psycopg
+import os, glob, json, subprocess, psycopg
 url = os.environ['DATABASE_URL']
 conn = psycopg.connect(url)
 conn.autocommit = True
 with conn.cursor() as cur:
+    # 1) 全新庫：建表
     n = cur.execute("SELECT count(*) FROM information_schema.tables WHERE table_name='questions'").fetchone()[0]
     if n == 0:
         print("[entrypoint] creating tables from schema.sql")
         cur.execute(open('/app/pipeline/schema.sql', encoding='utf-8').read())
-    q = cur.execute("SELECT count(*) FROM questions").fetchone()[0]
-    print("[entrypoint] questions in db:", q)
-    if q == 0:
-        for jf in sorted(glob.glob('/app/pipeline/seed/*/exam.json')):
+    # 2) 舊庫升級：冪等加列（以後新增欄位也在此處追加一行）
+    for ddl in [
+        "ALTER TABLE questions ADD COLUMN IF NOT EXISTS target_text TEXT",
+        "ALTER TABLE vocabulary ADD COLUMN IF NOT EXISTS etymology_en TEXT",
+    ]:
+        cur.execute(ddl)
+    # 3) 匯入 seed 試卷
+    seeds = sorted(glob.glob('/app/pipeline/seed/*/exam.json'))
+    q_db = cur.execute("SELECT count(*) FROM questions").fetchone()[0]
+    print("[entrypoint] questions in db:", q_db)
+    if q_db == 0:
+        for jf in seeds:
             print("[entrypoint] importing", jf)
             subprocess.run(['python3', '/app/pipeline/import_exam.py', jf], check=True)
+    else:
+        # 舊庫：seed 比庫新（多了 target_text / 生詞等）時重新匯入；
+        # import 冪等，但會清空該套試卷的舊作答明細（attempt_answers 級聯）
+        need = False
+        for jf in seeds:
+            data = json.load(open(jf, encoding='utf-8'))
+            seed_tt = sum(1 for q in data['questions'] if q.get('target_text'))
+            db_tt = cur.execute("SELECT count(*) FROM questions WHERE target_text IS NOT NULL").fetchone()[0]
+            seed_v = len(data.get('vocabulary', []))
+            db_v = cur.execute("SELECT count(*) FROM vocabulary").fetchone()[0]
+            if seed_tt > db_tt or seed_v != db_v:
+                need = True
+                break
+        if need:
+            print("[entrypoint] seed data newer than db, re-importing")
+            for jf in seeds:
+                subprocess.run(['python3', '/app/pipeline/import_exam.py', jf], check=True)
+        else:
+            print("[entrypoint] db already up to date")
 conn.close()
 EOF
 

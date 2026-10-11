@@ -48,6 +48,8 @@ export interface AnsweringQuestion {
   mondai_no: number | null;
   number_in_section: number;
   stem: string;
+  /** 題干中需強調的候選詞原文（漢字讀音／近義詞題）；無則為 null */
+  target_text: string | null;
   options: OptionItem[];
   group: QuestionGroupView | null;
 }
@@ -57,11 +59,19 @@ export interface Distractor {
   why_wrong: string;
 }
 
+export interface VocabularyItem {
+  word: string;
+  reading: string | null;
+  meaning_zh: string | null;
+  etymology_en: string | null;
+}
+
 export interface Explanation {
   key_point: string | null;
   analysis_zh: string;
   distractors: Distractor[] | null;
   evidence: string | null;
+  vocabulary: VocabularyItem[];
 }
 
 export interface PerQuestionResult {

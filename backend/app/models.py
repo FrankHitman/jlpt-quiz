@@ -66,6 +66,7 @@ class Question(Base):
     stem: Mapped[str] = mapped_column(Text)
     options: Mapped[list] = mapped_column(JSON)  # [{key, text}, ...]
     correct_option: Mapped[str] = mapped_column(String(4))
+    target_text: Mapped[str | None] = mapped_column(Text, nullable=True)
     audio_url: Mapped[str | None] = mapped_column(Text, nullable=True)
 
     exam: Mapped["Exam"] = relationship(back_populates="questions")
@@ -73,6 +74,7 @@ class Question(Base):
     explanation: Mapped["Explanation | None"] = relationship(
         back_populates="question", uselist=False
     )
+    vocabulary: Mapped[list["Vocabulary"]] = relationship(back_populates="question")
 
 
 class Explanation(Base):
@@ -88,6 +90,25 @@ class Explanation(Base):
     evidence: Mapped[str | None] = mapped_column(Text, nullable=True)
 
     question: Mapped["Question"] = relationship(back_populates="explanation")
+
+
+class Vocabulary(Base):
+    __tablename__ = "vocabulary"
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    question_id: Mapped[int | None] = mapped_column(
+        ForeignKey("questions.id", ondelete="SET NULL"), nullable=True
+    )
+    exam_id: Mapped[int] = mapped_column(ForeignKey("exams.id", ondelete="CASCADE"))
+    word: Mapped[str] = mapped_column(Text)
+    reading: Mapped[str | None] = mapped_column(Text, nullable=True)
+    pos: Mapped[str | None] = mapped_column(String(16), nullable=True)
+    meaning_zh: Mapped[str | None] = mapped_column(Text, nullable=True)
+    example_sentence: Mapped[str | None] = mapped_column(Text, nullable=True)
+    note: Mapped[str | None] = mapped_column(Text, nullable=True)
+    etymology_en: Mapped[str | None] = mapped_column(Text, nullable=True)
+
+    question: Mapped["Question | None"] = relationship(back_populates="vocabulary")
 
 
 class User(Base):

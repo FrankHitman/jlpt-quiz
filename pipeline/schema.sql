@@ -37,6 +37,7 @@ CREATE TABLE questions (
   stem TEXT NOT NULL,                         -- 題干（含★標記與空格）
   options JSONB NOT NULL,                     -- [{"key":"1","text":"..."}]，固定4項
   correct_option VARCHAR(4) NOT NULL,
+  target_text TEXT,                           -- 題干中需強調的候選詞（漢字讀音/近義詞題），可空
   audio_url TEXT,
   created_at TIMESTAMPTZ DEFAULT now(),
   UNIQUE(exam_id, section_code, number_in_section)
@@ -59,7 +60,8 @@ CREATE TABLE vocabulary (
   pos VARCHAR(16),
   meaning_zh TEXT,
   example_sentence TEXT,
-  note TEXT
+  note TEXT,
+  etymology_en TEXT                           -- 片假名外來語的詞源英文（如 lead），可空
 );
 -- 用戶系統預留（暫不啟用登入，表先建好、API 留接口）
 CREATE TABLE users (

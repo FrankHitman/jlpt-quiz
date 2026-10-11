@@ -32,6 +32,7 @@ class QuestionOut(BaseModel):
     mondai_no: int | None = None
     number_in_section: int
     stem: str
+    target_text: str | None = None
     options: list[OptionItem]
     audio_url: str | None = None
     group: GroupOut | None = None
@@ -102,11 +103,19 @@ class SubmitIn(BaseModel):
     answers: list[AnswerIn]
 
 
+class VocabularyOut(BaseModel):
+    word: str
+    reading: str | None = None
+    meaning_zh: str | None = None
+    etymology_en: str | None = None
+
+
 class ExplanationOut(BaseModel):
     key_point: str | None = None
     analysis_zh: str
     distractors: list[Any] | None = None
     evidence: str | None = None
+    vocabulary: list[VocabularyOut] = []
 
 
 class PerQuestionResult(BaseModel):

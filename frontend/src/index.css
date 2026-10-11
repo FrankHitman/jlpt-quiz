@@ -506,6 +506,15 @@ h2 {
   padding-left: 1.2rem;
 }
 
+.vocab-list {
+  margin: 0.3rem 0 0;
+  padding-left: 1.2rem;
+}
+
+.vocab-list li {
+  margin-bottom: 0.15rem;
+}
+
 /* 文章分欄 */
 .split {
   display: grid;

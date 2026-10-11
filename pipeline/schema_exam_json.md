@@ -48,6 +48,7 @@
 | stem | string | 題干原文。問題6 保留 ★ 標記；聽解無題干時寫題型＋場景說明（如 `"聽解問題3・概要理解（無印刷內容，聽後作答）"`） |
 | options | array | `[{"key":"1","text":"..."},...]`。有印刷選項時必須 4 項；聽解無印刷選項（問題3、問題4、問題5-1番）時為 `[]`（絕不編造選項） |
 | correct_option | string | `"1"`–`"4"`，以答案表為最終依據 |
+| target_text | string\|null | 題干中需強調的候選詞原文（如漢字讀音題的 `頑丈`、近義詞題的 `誇張`）；前端渲染時加粗＋下劃線。必須在 `stem` 中原樣出現 |
 
 ## explanations
 
@@ -76,6 +77,7 @@
 | meaning_zh | string\|null | 繁中釋義 |
 | example_sentence | string\|null | 例句（優先用真題原句） |
 | note | string\|null | 記憶點／易混淆辨析 |
+| etymology_en | string\|null | 片假名外來語的詞源英文（如 `"lead"`、`"career anchor"`）；非外來語留空 |
 
 ## manifest.json（同目錄）
 
