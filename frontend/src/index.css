@@ -762,6 +762,24 @@ h2 {
   margin-top: 1rem;
 }
 
+.captcha-row {
+  display: flex;
+  gap: 0.6rem;
+  align-items: center;
+  margin-top: 0.3rem;
+}
+.captcha-row input {
+  flex: 1;
+  min-width: 0;
+}
+.captcha-img {
+  height: 44px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
 /* ---- 通用按鈕別名（沿用 .btn 設計語言） ---- */
 .primary-btn {
   display: inline-block;

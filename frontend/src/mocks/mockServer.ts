@@ -338,6 +338,12 @@ export const mockApi: QuizApi = {
   async register(): Promise<never> {
     throw new Error('演示模式不支援註冊，請用 VITE_USE_MOCK=false 構建連接真實後端');
   },
+  async registerWithCaptcha(): Promise<never> {
+    throw new Error('演示模式不支援註冊，請用 VITE_USE_MOCK=false 構建連接真實後端');
+  },
+  async captcha(): Promise<never> {
+    throw new Error('演示模式不支援驗證碼');
+  },
   async login(): Promise<never> {
     throw new Error('演示模式不支援登入，請用 VITE_USE_MOCK=false 構建連接真實後端');
   },

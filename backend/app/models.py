@@ -117,6 +117,7 @@ class User(Base):
 
     id: Mapped[int] = mapped_column(Integer, primary_key=True)
     username: Mapped[str | None] = mapped_column(Text, nullable=True, unique=True)
+    email: Mapped[str | None] = mapped_column(Text, nullable=True, unique=True)
     password_hash: Mapped[str | None] = mapped_column(Text, nullable=True)
     created_at: Mapped[object] = mapped_column(
         DateTime(timezone=True), server_default=func.now()

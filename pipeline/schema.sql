@@ -68,6 +68,7 @@ CREATE TABLE vocabulary (
 CREATE TABLE users (
   id SERIAL PRIMARY KEY,
   username TEXT UNIQUE,
+  email TEXT UNIQUE,
   password_hash TEXT,
   created_at TIMESTAMPTZ DEFAULT now()
 );

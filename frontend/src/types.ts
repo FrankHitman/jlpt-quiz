@@ -138,7 +138,15 @@ export interface QuizApi {
   getAttempt(attemptId: number): Promise<AttemptResult>;
   // ---- 認證（真實後端；演示模式不支援） ----
   register(username: string, password: string): Promise<AuthSession>;
+  registerWithCaptcha(input: {
+    username: string;
+    email: string;
+    password: string;
+    captcha_id: string;
+    captcha_code: string;
+  }): Promise<AuthSession>;
   login(username: string, password: string): Promise<AuthSession>;
+  captcha(): Promise<{ captcha_id: string; image: string }>;
   me(): Promise<AuthUser>;
   // ---- 錯題本（真實後端；需登入） ----
   listWrongAnswers(params?: {
@@ -156,6 +164,7 @@ export interface QuizApi {
 export interface AuthUser {
   id: number;
   username: string;
+  email?: string | null;
 }
 
 export interface AuthSession {

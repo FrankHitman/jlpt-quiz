@@ -162,9 +162,18 @@ class AuthIn(BaseModel):
     password: str = Field(min_length=6, max_length=72)
 
 
+class RegisterIn(BaseModel):
+    username: str = Field(min_length=3, max_length=32)
+    email: str = Field(min_length=5, max_length=254)
+    password: str = Field(min_length=6, max_length=72)
+    captcha_id: str = Field(min_length=1, max_length=64)
+    captcha_code: str = Field(min_length=1, max_length=16)
+
+
 class UserOut(BaseModel):
     id: int
     username: str
+    email: str | None = None
 
 
 class AuthOut(BaseModel):

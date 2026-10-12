@@ -8,7 +8,13 @@ interface AuthContextValue {
   user: AuthUser | null;
   /** 啟動時是否已完成 token 恢復（避免閃爍） */
   ready: boolean;
-  register: (username: string, password: string) => Promise<void>;
+  register: (input: {
+    username: string;
+    email: string;
+    password: string;
+    captcha_id: string;
+    captcha_code: string;
+  }) => Promise<void>;
   login: (username: string, password: string) => Promise<void>;
   logout: () => void;
 }
@@ -54,9 +60,21 @@ export function AuthProvider({ children }: { children: ReactNode }) {
   }, []);
 
   const register = useCallback(
-    async (username: string, password: string) => {
+    async (input: {
+      username: string;
+      email: string;
+      password: string;
+      captcha_id: string;
+      captcha_code: string;
+    }) => {
       const api = await getApi();
-      const s = await api.register(username.trim(), password);
+      const s = await api.registerWithCaptcha({
+        username: input.username.trim(),
+        email: input.email.trim(),
+        password: input.password,
+        captcha_id: input.captcha_id,
+        captcha_code: input.captcha_code,
+      });
       applySession(s.token, s.user);
     },
     [applySession],

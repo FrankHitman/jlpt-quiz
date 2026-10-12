@@ -120,6 +120,18 @@ export const realApi: QuizApi = {
       method: 'POST',
       body: JSON.stringify({ username, password }),
     }),
+  registerWithCaptcha: (input: {
+    username: string;
+    email: string;
+    password: string;
+    captcha_id: string;
+    captcha_code: string;
+  }) =>
+    request('/auth/register', {
+      method: 'POST',
+      body: JSON.stringify(input),
+    }),
+  captcha: () => request('/auth/captcha'),
   login: (username, password) =>
     request('/auth/login', {
       method: 'POST',
