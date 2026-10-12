@@ -1,6 +1,8 @@
 // 題型代碼表（TASKS.md 全系統統一），繁體中文名供 UI 顯示。
 export const QTYPE_ZH: Record<string, string> = {
   kanji_reading: '漢字讀音',
+  kanji_writing: '漢字表記',
+  word_formation: '詞語構成',
   vocab_fill: '語彙填空',
   synonym: '近義詞替換',
   word_usage: '詞語用法判斷',
