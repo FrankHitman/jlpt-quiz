@@ -1,0 +1,1488 @@
+{
+ "groups": [
+  {
+   "local_id": "g_text9",
+   "section_code": "lang_reading",
+   "group_type": "passage",
+   "title": "問題9 文章文法：天気予報と食品ロス",
+   "content": "以下は、新聞のカルムである。\n\n毎日の生活の中で、天気予報は欠かせない情報の一つだ。着る服装を選ぶときも、休日の予定を立てる時も、天気は 48 。毎朝天気予報をチェックしている人も多いだろう。\n\nそんな天気予報を活用した新たな取り組みが始まっている。気象情報から食品の高度な需要予測を行い、「食品ロス」、つまり、まだ食べられるのに捨てられてしまう食品を減らすというものだ。\n\n食品の中には、天候や気温に需要が大きく左右されるものも多い。需要予測を誤り、過剰に生産してしまうと、それだけ多くの食品ロスが生じてしまう。\n\n49 政府は、気象データとPOSデータ（何が、いつ、いくつ、いくらで売れたのかを示す販売情報）から高度な需要予測を行い、製造や販売の各社に提供する取り込みを始めた。その結果は、食品ロスを減らせるばかりではない。食品が無駄に捨てられることが少なくなるため、その処理の過程で発生する二酸化炭素を減らすこともできる。\n\n50 、まず、長期保存が出来ず気象状況が売り上げに大きく影響する「豆腐」と、特定の季節に需要が集中する「麺つゆ」に絞って実験が行われた。その結果、食品ロスを20〜30%減らせることがわかった。現在は、対象商品を拡大しながら、人工知能も取り入れ、さらに高度な需要予測が可能になってきているという。このように、私たちの生活に欠かせない気象情報は、食品ロス問題の解決にも役立っているのである。\n\n今後、より大きな成果が 51 。",
+   "sort_order": 1
+  }
+ ],
+ "questions": [
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 31,
+   "stem": "野党の追及に対し、大臣は満足な回答ができなかったどころか、質問の内容（　）理解できていなかった。",
+   "options": [
+    {
+     "key": "1",
+     "text": "すら"
+    },
+    {
+     "key": "2",
+     "text": "こそ"
+    },
+    {
+     "key": "3",
+     "text": "のみ"
+    },
+    {
+     "key": "4",
+     "text": "ほど"
+    }
+   ],
+   "correct_option": "1",
+   "group_local_id": null,
+   "target_text": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 32,
+   "stem": "最近（　）パソコンの調子がおかしい。この状態が続くようだったら一度修理に出したほうがよさそうだ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "ちっとも"
+    },
+    {
+     "key": "2",
+     "text": "いったい"
+    },
+    {
+     "key": "3",
+     "text": "どうも"
+    },
+    {
+     "key": "4",
+     "text": "まさか"
+    }
+   ],
+   "correct_option": "3",
+   "group_local_id": null,
+   "target_text": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 33,
+   "stem": "（広告で）川西ピアノ教室では、初心者、経験者（　）、どなたにでも丁寧に指導します。",
+   "options": [
+    {
+     "key": "1",
+     "text": "を通して"
+    },
+    {
+     "key": "2",
+     "text": "を問わず"
+    },
+    {
+     "key": "3",
+     "text": "にかけて"
+    },
+    {
+     "key": "4",
+     "text": "にもかかわらず"
+    }
+   ],
+   "correct_option": "2",
+   "group_local_id": null,
+   "target_text": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 34,
+   "stem": "めったに出かけないのに、外出するとき（　）大雨になる。",
+   "options": [
+    {
+     "key": "1",
+     "text": "にあたって"
+    },
+    {
+     "key": "2",
+     "text": "にかぎって"
+    },
+    {
+     "key": "3",
+     "text": "において"
+    },
+    {
+     "key": "4",
+     "text": "に際して"
+    }
+   ],
+   "correct_option": "2",
+   "group_local_id": null,
+   "target_text": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 35,
+   "stem": "昨夜よく眠れなかった（　）、体がだるい。",
+   "options": [
+    {
+     "key": "1",
+     "text": "からには"
+    },
+    {
+     "key": "2",
+     "text": "わけか"
+    },
+    {
+     "key": "3",
+     "text": "あまりに"
+    },
+    {
+     "key": "4",
+     "text": "せいか"
+    }
+   ],
+   "correct_option": "4",
+   "group_local_id": null,
+   "target_text": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 36,
+   "stem": "初めてこの町を訪れたが、不思議な（　）、ずっと前からここに住んでいるような気がする。",
+   "options": [
+    {
+     "key": "1",
+     "text": "ことに"
+    },
+    {
+     "key": "2",
+     "text": "うえに"
+    },
+    {
+     "key": "3",
+     "text": "くせに"
+    },
+    {
+     "key": "4",
+     "text": "ものに"
+    }
+   ],
+   "correct_option": "1",
+   "group_local_id": null,
+   "target_text": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 37,
+   "stem": "（会社で）A「じゃ、来週の打ち合わせも水曜日でいいですか。」B「あ、スケジュールを（　）ちょっとわからないので、後で連絡します。」",
+   "options": [
+    {
+     "key": "1",
+     "text": "確認していないと"
+    },
+    {
+     "key": "2",
+     "text": "確認してみないと"
+    },
+    {
+     "key": "3",
+     "text": "確認しているか"
+    },
+    {
+     "key": "4",
+     "text": "確認してみるか"
+    }
+   ],
+   "correct_option": "2",
+   "group_local_id": null,
+   "target_text": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 38,
+   "stem": "「一つの仕事を少なくとも三年は（　）、どこに行っても何もできない」と言われた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "やり続けられなかったら"
+    },
+    {
+     "key": "2",
+     "text": "やり続けられなくなっても"
+    },
+    {
+     "key": "3",
+     "text": "やり始められなかった"
+    },
+    {
+     "key": "4",
+     "text": "やり始められなくなっても"
+    }
+   ],
+   "correct_option": "1",
+   "group_local_id": null,
+   "target_text": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 39,
+   "stem": "仕事でも勉強でも、一度やると決めたら最後まで（　）ことが大事だと思う。",
+   "options": [
+    {
+     "key": "1",
+     "text": "やり直す"
+    },
+    {
+     "key": "2",
+     "text": "やりだす"
+    },
+    {
+     "key": "3",
+     "text": "やり抜く"
+    },
+    {
+     "key": "4",
+     "text": "やりかける"
+    }
+   ],
+   "correct_option": "3",
+   "group_local_id": null,
+   "target_text": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 40,
+   "stem": "（受付で）山川「すみません。ABC社の山川と申しますが、営業部の中西さんをお願いします。」受付「申し訳ございません。中西はただいま外出しておりますが。」山川「え、中西さんご本人から、この時間だったらいらっしゃると（　）が。」",
+   "options": [
+    {
+     "key": "1",
+     "text": "お聞きになったんです"
+    },
+    {
+     "key": "2",
+     "text": "申し上げたんです"
+    },
+    {
+     "key": "3",
+     "text": "ご存じなんです"
+    },
+    {
+     "key": "4",
+     "text": "伺ったんです"
+    }
+   ],
+   "correct_option": "4",
+   "group_local_id": null,
+   "target_text": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 41,
+   "stem": "就職が決まった会社に「早く働きたい」と話したら、その後連絡が来て、就職するまでの間、アルバイトを（　）。",
+   "options": [
+    {
+     "key": "1",
+     "text": "してあげることになった"
+    },
+    {
+     "key": "2",
+     "text": "してもらうことにした"
+    },
+    {
+     "key": "3",
+     "text": "させてあげることにした"
+    },
+    {
+     "key": "4",
+     "text": "させてもらうことになった"
+    }
+   ],
+   "correct_option": "4",
+   "group_local_id": null,
+   "target_text": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 42,
+   "stem": "A「先輩に食事に誘われちゃって。どうしよう。行きたくないなあ」B「どうして悩むの？嫌なら（　）？」A「そうなんだけど、先輩だし、断りにくくない？」",
+   "options": [
+    {
+     "key": "1",
+     "text": "断ればいいだけなの"
+    },
+    {
+     "key": "2",
+     "text": "断りたいだけなの"
+    },
+    {
+     "key": "3",
+     "text": "断ればいいだけでしょう"
+    },
+    {
+     "key": "4",
+     "text": "断りたいだけでしょう"
+    }
+   ],
+   "correct_option": "3",
+   "group_local_id": null,
+   "target_text": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 8,
+   "number_in_section": 43,
+   "stem": "もうすぐ高校卒業だ。この学校で先生や友達と過ごす＿＿　＿★＿　＿＿　＿＿。",
+   "options": [
+    {
+     "key": "1",
+     "text": "あと数週間"
+    },
+    {
+     "key": "2",
+     "text": "と思うと"
+    },
+    {
+     "key": "3",
+     "text": "のも"
+    },
+    {
+     "key": "4",
+     "text": "寂しさが増してくる"
+    }
+   ],
+   "correct_option": "1",
+   "group_local_id": null,
+   "target_text": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 8,
+   "number_in_section": 44,
+   "stem": "A「サラリーマンから農家＿＿　＿＿　＿★＿　＿＿　があるんだね。」B「自分の夢をどうしてもあきらめきれなくてね。」",
+   "options": [
+    {
+     "key": "1",
+     "text": "勇気"
+    },
+    {
+     "key": "2",
+     "text": "とは"
+    },
+    {
+     "key": "3",
+     "text": "ずいぶん"
+    },
+    {
+     "key": "4",
+     "text": "になる"
+    }
+   ],
+   "correct_option": "3",
+   "group_local_id": null,
+   "target_text": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 8,
+   "number_in_section": 45,
+   "stem": "遠足の日の朝、娘は、「いってきます」と＿＿　＿＿　＿★＿　＿＿　飛び出していった。",
+   "options": [
+    {
+     "key": "1",
+     "text": "終わらないか"
+    },
+    {
+     "key": "2",
+     "text": "言い終わるか"
+    },
+    {
+     "key": "3",
+     "text": "玄関を"
+    },
+    {
+     "key": "4",
+     "text": "のうちに"
+    }
+   ],
+   "correct_option": "4",
+   "group_local_id": null,
+   "target_text": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 8,
+   "number_in_section": 46,
+   "stem": "参考書を読んで完璧に＿＿　＿＿　＿★＿　＿＿　ということがよくある。",
+   "options": [
+    {
+     "key": "1",
+     "text": "理解した"
+    },
+    {
+     "key": "2",
+     "text": "問題を解いてみると"
+    },
+    {
+     "key": "3",
+     "text": "てきない"
+    },
+    {
+     "key": "4",
+     "text": "つもりでも"
+    }
+   ],
+   "correct_option": "2",
+   "group_local_id": null,
+   "target_text": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 8,
+   "number_in_section": 47,
+   "stem": "この池に＿＿　＿＿　＿★＿　＿＿　そうだ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "ものもいる"
+    },
+    {
+     "key": "2",
+     "text": "すむ"
+    },
+    {
+     "key": "3",
+     "text": "魚の中には"
+    },
+    {
+     "key": "4",
+     "text": "100年以上生きる"
+    }
+   ],
+   "correct_option": "4",
+   "group_local_id": null,
+   "target_text": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "text_grammar",
+   "mondai_no": 9,
+   "number_in_section": 48,
+   "stem": "天気は 48 。",
+   "options": [
+    {
+     "key": "1",
+     "text": "気になるもの"
+    },
+    {
+     "key": "2",
+     "text": "気になるだけ"
+    },
+    {
+     "key": "3",
+     "text": "気になるかどうか"
+    },
+    {
+     "key": "4",
+     "text": "気になるかのよう"
+    }
+   ],
+   "correct_option": "1",
+   "group_local_id": "g_text9",
+   "target_text": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "text_grammar",
+   "mondai_no": 9,
+   "number_in_section": 49,
+   "stem": "49 政府は、気象データとPOSデータから高度な需要予測を行い、製造や販売の各社に提供する取り組みを始めた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "なお"
+    },
+    {
+     "key": "2",
+     "text": "たとえば"
+    },
+    {
+     "key": "3",
+     "text": "そこで"
+    },
+    {
+     "key": "4",
+     "text": "ところが"
+    }
+   ],
+   "correct_option": "1",
+   "group_local_id": "g_text9",
+   "target_text": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "text_grammar",
+   "mondai_no": 9,
+   "number_in_section": 50,
+   "stem": "50 、まず、長期保存が出来ず気象状況が売り上げに大きく影響する「豆腐」と、特定の季節に需要が集中する「麺つゆ」に絞って実験が行われた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "この取り組みは"
+    },
+    {
+     "key": "2",
+     "text": "そういった取り組み"
+    },
+    {
+     "key": "3",
+     "text": "あのような取り組み"
+    },
+    {
+     "key": "4",
+     "text": "どちらの取り組みも"
+    }
+   ],
+   "correct_option": "1",
+   "group_local_id": "g_text9",
+   "target_text": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "text_grammar",
+   "mondai_no": 9,
+   "number_in_section": 51,
+   "stem": "今後、より大きな成果が 51 。",
+   "options": [
+    {
+     "key": "1",
+     "text": "期待できるからだ"
+    },
+    {
+     "key": "2",
+     "text": "期待できるそうだ"
+    },
+    {
+     "key": "3",
+     "text": "期待できるはずだった"
+    },
+    {
+     "key": "4",
+     "text": "期待できればよかった"
+    }
+   ],
+   "correct_option": "2",
+   "group_local_id": "g_text9",
+   "target_text": null
+  }
+ ],
+ "explanations": [
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 31,
+   "key_point": "〜すら（N2）",
+   "analysis_zh": "正解は 1「すら」。「〜すら」は「〜さえ」という意味で、極端な例を挙げて強調する。「質問の内容すら理解できていなかった」＝質問の内容さえ理解できていなかった（ひどい有様だ）。「どころか」との呼応で、予想を下回る事態を強調する文脈に合う。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「〜こそ」は強調だが、「今日こそ」のように決意・特定の時を強調する用法が中心。ここでは極端例の提示が求められる。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「〜のみ」は「だけ」と同義の限定。程度の強調ではなく、ここでは不自然。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「〜ほど」は程度・比較。「理解できていなかったほど」では文が完結しない。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "すら",
+    "2": "こそ",
+    "3": "のみ",
+    "4": "ほど"
+   },
+   "option_meanings": {
+    "1": "甚至、連",
+    "2": "正是、偏偏",
+    "3": "僅、只",
+    "4": "到…程度"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 32,
+   "key_point": "どうも（N2・副詞）",
+   "analysis_zh": "正解は 3「どうも」。「どうも」は漠然とした不調・不安を表す副詞。「どうも調子がおかしい」＝なんとなく調子が悪い感じがする。はっきりした原因は分からないが具合が悪い、という文脈に合う。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「ちっとも」は否定と呼応する（ちっとも〜ない＝全然〜ない）。肯定文では使えない。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「いったい」は疑問を強める（いったい誰だ）。疑問文でないここでは不自然。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「まさか」は「まさか〜ないだろう」という否定の推量と呼応する。ここでは不自然。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "ちっとも",
+    "2": "いったい",
+    "3": "どうも",
+    "4": "まさか"
+   },
+   "option_meanings": {
+    "1": "一點也不（須與否定呼應）",
+    "2": "究竟（加強疑問）",
+    "3": "總覺得、似乎",
+    "4": "該不會（與否定推量呼應）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 33,
+   "key_point": "〜を問わず（N2）",
+   "analysis_zh": "正解は 2「を問わず」。「〜を問わず」は「〜に関係なく」「〜によらず」という意味。「初心者、経験者を問わず」＝初心者か経験者かに関係なく。広告の「どなたにでも丁寧に指導」という文脈に合う。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「〜を通して」は手段・経由（友達を通して知り合った）や期間（一年を通して）。ここでは不自然。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「〜にかけて」は範囲（朝7時から8時にかけて）。人には使わない。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「〜にもかかわらず」は逆接（雨にもかかわらず）。「経験者にもかかわらず」では意味が通じない。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "をとおして",
+    "2": "をとわず",
+    "3": "にかけて",
+    "4": "にもかかわらず"
+   },
+   "option_meanings": {
+    "1": "經由、透過；整段期間",
+    "2": "不問、不論",
+    "3": "到…（範圍）",
+    "4": "儘管、不顧"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 34,
+   "key_point": "〜にかぎって（N2）",
+   "analysis_zh": "正解は 2「にかぎって」。「〜にかぎって」は「〜のときに限って」という意味で、皮肉・残念な気持ちを込めて使う。「外出するときにかぎって大雨になる」＝出かけるときに限って大雨になる（なんて運が悪いんだ）。「めったに出かけないのに」という文脈に合う。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「〜にあたって」は「〜の際に」という改まった表現（新学期にあたって）。皮肉のニュアンスはない。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「〜において」は場所・場面（市民センターにおいて）。ここでは不自然。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「〜に際して」は「〜のときに」という改まった表現（入居に際して）。皮肉のニュアンスはない。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "にあたって",
+    "2": "にかぎって",
+    "3": "において",
+    "4": "にさいして"
+   },
+   "option_meanings": {
+    "1": "在…之際（正式）",
+    "2": "偏偏在…的時候（帶無奈語氣）",
+    "3": "在…（場所、場面）",
+    "4": "在…之際（正式）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 35,
+   "key_point": "〜せいか（N2）",
+   "analysis_zh": "正解は 4「せいか」。「〜せいか」は「〜のせいかもしれない」という推量で、原因を不確かに述べる。「よく眠れなかったせいか、体がだるい」＝よく眠れなかったせいかもしれない、体がだるい。断定を避ける柔らかい言い方。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「〜からには」は「〜以上は」という決意・義務（やるからには最後までやれ）。ここでは不自然。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「〜わけか」は納得・確認（つまり時間がないわけか）。原因の推量ではない。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「〜あまりに」は程度が甚だしい（あまりに怪しい動き）。後ろに結果が続く形が普通で、ここでは不自然。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "からには",
+    "2": "わけか",
+    "3": "あまりに",
+    "4": "せいか"
+   },
+   "option_meanings": {
+    "1": "既然…就（決心、義務）",
+    "2": "原來是…啊（恍然大悟）",
+    "3": "過於…",
+    "4": "大概是因為…吧"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 36,
+   "key_point": "不思議なことに（N2・慣用表現）",
+   "analysis_zh": "正解は 1「ことに」。「不思議なことに」は話者の感情・評価を述べる慣用表現。「不思議なことに、ずっと前からここに住んでいるような気がする」＝不思議なことだが、昔から住んでいるような気がする。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「〜うえに」は追加（おいしいうえに安い）。「不思議なうえに」では意味が通じない。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「〜くせに」は非難（知らないくせに）。ここでは不自然。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「〜ものに」は逆接だが、「不思議なものに」という形では使わない。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "ことに",
+    "2": "うえに",
+    "3": "くせに",
+    "4": "ものに"
+   },
+   "option_meanings": {
+    "1": "不可思議的是",
+    "2": "而且、加上",
+    "3": "明明…卻（責備）",
+    "4": "卻、可是（逆接）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 37,
+   "key_point": "〜てみないと（N2）",
+   "analysis_zh": "正解は 2「確認してみないと」。「〜てみないと」は「〜てみなければ」という意味で、試してみないと分からないことを表す。「スケジュールを確認してみないとわからない」＝スケジュールを確認してみなければ分からない。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「確認していないと」は「確認していない状態では」という意味になり、「わからないので」と重複して不自然。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「確認しているか」は疑問形。「わからないので」とはつながらない。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「確認してみるか」は勧誘・疑問。「後で連絡します」とはつながらない。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "かくにんしていないと",
+    "2": "かくにんしてみないと",
+    "3": "かくにんしているか",
+    "4": "かくにんしてみるか"
+   },
+   "option_meanings": {
+    "1": "如果沒確認的話",
+    "2": "不確認看看的話",
+    "3": "是否有確認呢",
+    "4": "要確認看看嗎"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 38,
+   "key_point": "〜なかったら（N2・条件）",
+   "analysis_zh": "正解は 1「やり続けられなかったら」。「〜なかったら」は仮定条件。「三年はやり続けられなかったら、どこに行っても何もできない」＝三年続けられなかったら、どこへ行っても何もできない。複合動詞「やり続ける」＋可能の否定「られない」＋条件「たら」。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「〜ても」は逆接（たとえ〜でも）。「続けられなくなっても」では文脈に合わない。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「やり始められなかった」は「始められなかった」。「続ける」という文脈と矛盾する。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "二重に不自然（始められない＋ても）。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "やりつづけられなかったら",
+    "2": "やりつづけられなくなっても",
+    "3": "やりはじめられなかった",
+    "4": "やりはじめられなくなっても"
+   },
+   "option_meanings": {
+    "1": "如果沒能持續做下去",
+    "2": "就算變得無法持續",
+    "3": "如果沒能開始做",
+    "4": "就算變得無法開始"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 39,
+   "key_point": "〜抜く（N2・複合動詞）",
+   "analysis_zh": "正解は 3「やり抜く」。「〜抜く」は「最後までやり通す」という意味の複合動詞。「最後までやり抜く」＝最後までやり通す。「一度やると決めたら最後まで」という文脈に合う。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「やり直す」は「もう一度やる」。「最後まで」とは合わない。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「やりだす」は「やり始める」。「最後まで」とは合わない。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「やりかける」は「途中までやる」。「最後まで」とは矛盾する。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "やりなおす",
+    "2": "やりだす",
+    "3": "やりぬく",
+    "4": "やりかける"
+   },
+   "option_meanings": {
+    "1": "重做",
+    "2": "開始做",
+    "3": "堅持做到最後",
+    "4": "做到一半"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 40,
+   "key_point": "伺う（N2・謙譲語）",
+   "analysis_zh": "正解は 4「伺ったんです」。「伺う」は「聞く」の謙譲語。「中西さんご本人から…と伺った」＝ご本人から聞いた（へりくだった言い方）。目上の人から聞いたことを謙遜して言う表現。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「お聞きになった」は尊敬語。自分が聞いたことには使えない。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「申し上げる」は「言う」の謙譲語。「聞いた」という意味にはならない。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「ご存じ」は「知っている」の尊敬語。「聞いた」という文脈に合わない。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "おききになったんです",
+    "2": "もうしあげたんです",
+    "3": "ごぞんじなんです",
+    "4": "うかがったんです"
+   },
+   "option_meanings": {
+    "1": "您聽說了（尊敬語，不可用於自己）",
+    "2": "我說了（謙讓語，表說話）",
+    "3": "您知道（尊敬語）",
+    "4": "我聽說了（謙讓語）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 41,
+   "key_point": "〜させてもらう・〜ことになった（N2）",
+   "analysis_zh": "正解は 4「させてもらうことになった」。「させてもらう」は許可を得て〜する。「アルバイトをさせてもらうことになった」＝アルバイトをさせてもらうことになった（会社が許可してくれた）。「〜ことになった」は自分以外の要因による決定を表す。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「してあげる」は自分が相手にしてあげる。ここでは自分がさせてもらう立場なので逆。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「してもらうことにした」は自分が決めたことになるが、会社からの連絡で決まったので「〜ことになった」が自然。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「させてあげる」は自分が許可を与える立場。ここでは逆。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "してあげることになった",
+    "2": "してもらうことにした",
+    "3": "させてあげることにした",
+    "4": "させてもらうことになった"
+   },
+   "option_meanings": {
+    "1": "變成我幫（對方）做了",
+    "2": "決定請（對方）幫我做",
+    "3": "決定讓（對方）做",
+    "4": "得以被允許做（承蒙讓我做）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 42,
+   "key_point": "〜ばいい・でしょう（N2）",
+   "analysis_zh": "正解は 3「断ればいいだけでしょう」。「〜ばいい」は助言・提案。「断ればいいだけでしょう」＝断ればいいだけでしょう？（断れば済むことでしょう？）。BはAに「断ればいいじゃないか」と反語的に言っている。「でしょう」が反語のニュアンスを強める。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「断ればいいだけなの」は確認・納得の「なの」。反語のニュアンスが弱い。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「断りたいだけなの」は「断りたいだけ」という意味になり、助言にならない。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「断りたいだけでしょう」は確認の疑問文。助言にならない。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "ことわればいいだけなの",
+    "2": "ことわりたいだけなの",
+    "3": "ことわればいいだけででしょう",
+    "4": "ことわりたいだけででしょう"
+   },
+   "option_meanings": {
+    "1": "只要拒絕不就好了嗎（確認語氣）",
+    "2": "只是想拒絕而已",
+    "3": "拒絕掉不就好了嗎（反問語氣）",
+    "4": "只是想拒絕吧"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 43,
+   "key_point": "〜と思うと（N2）",
+   "analysis_zh": "正解は 1（語序 3124）。「過ごすのもあと数週間と思うと寂しさが増してくる」＝この学校で先生や友達と過ごすのもあと数週間だと思うと、寂しさが増してくる。「〜と思うと」は「〜と考えると」という意味。★の位置（2番目の空欄）には「あと数週間」（選択肢1）が入る。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "語序を組み立てると正しい文にならない（正解の語序は 3124）。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "語序を組み立てると正しい文にならない（正解の語序は 3124）。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "語序を組み立てると正しい文にならない（正解の語序は 3124）。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "あとすうしゅうかん",
+    "2": "とおもうと",
+    "3": "のも",
+    "4": "さびしさがましてくる"
+   },
+   "option_meanings": {
+    "1": "再過幾週",
+    "2": "一想到…就",
+    "3": "…這件事也",
+    "4": "寂寞感湧上來"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 44,
+   "key_point": "〜とは（N2・取り立て）",
+   "analysis_zh": "正解は 3（語序 4231）。「サラリーマンから農家になるとは、ずいぶん勇気があるんだね」＝サラリーマンから農家になるというのは、ずいぶん勇気があることだね。「〜とは」は事柄を取り上げて評価する用法。★の位置（3番目の空欄）には「ずいぶん」（選択肢3）が入る。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "語序を組み立てると正しい文にならない（正解の語序は 4231）。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "語序を組み立てると正しい文にならない（正解の語序は 4231）。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "語序を組み立てると正しい文にならない（正解の語序は 4231）。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "ゆうき",
+    "2": "とは",
+    "3": "ずいぶん",
+    "4": "になる"
+   },
+   "option_meanings": {
+    "1": "勇氣",
+    "2": "說到…（提出話題加以評價）",
+    "3": "相當、很",
+    "4": "變成"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 45,
+   "key_point": "〜か〜ないかのうちに（N2）",
+   "analysis_zh": "正解は 4（語序 2143）。「『いってきます』と言い終わるか終わらないかのうちに玄関を飛び出していった」＝「いってきます」と言い終わるか終わらないかのうちに（言い終わらないうちに）、玄関から飛び出していった。「〜か〜ないかのうちに」は「〜するやいなや」という意味のN2文型。★の位置（3番目の空欄）には「のうちに」（選択肢4）が入る。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "語序を組み立てると正しい文にならない（正解の語序は 2143）。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "語序を組み立てると正しい文にならない（正解の語序は 2143）。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "語序を組み立てると正しい文にならない（正解の語序は 2143）。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "おわらないか",
+    "2": "いいおわるか",
+    "3": "げんかんを",
+    "4": "のうちに"
+   },
+   "option_meanings": {
+    "1": "還沒結束嗎",
+    "2": "說完嗎",
+    "3": "玄關",
+    "4": "在…之前、趁…"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 46,
+   "key_point": "〜つもりでも（N2）",
+   "analysis_zh": "正解は 2（語序 1423）。「参考書を読んで完璧に理解したつもりでも、問題を解いてみるとてきないということがよくある」＝完璧に理解したつもりでも、問題を解いてみるとできないことがよくある。「〜つもりでも」は「〜と思っていても」という逆接。★の位置（3番目の空欄）には「問題を解いてみると」（選択肢2）が入る。※選択肢3は原卷印作「てきない」（「できない」の誤植と思われる）。照原文轉錄未改。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "語序を組み立てると正しい文にならない（正解の語序は 1423）。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "語序を組み立てると正しい文にならない（正解の語序は 1423）。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "語序を組み立てると正しい文にならない（正解の語序は 1423）。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "りかいした",
+    "2": "もんだいをといてみると",
+    "3": "てきない",
+    "4": "つもりでも"
+   },
+   "option_meanings": {
+    "1": "理解了",
+    "2": "一試著解題",
+    "3": "做不到（原卷作てきない，疑為できない之誤植）",
+    "4": "即使自以為…"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 47,
+   "key_point": "名詞修飾（連体修飾）（N2）",
+   "analysis_zh": "正解は 4（語序 2341）。「この池にすむ魚の中には100年以上生きるものもいるそうだ」＝この池にすむ魚の中には、100年以上生きるものもいるそうだ。「すむ」は名詞修飾形で「魚」を修飾。★の位置（3番目の空欄）には「100年以上生きる」（選択肢4）が入る。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "語序を組み立てると正しい文にならない（正解の語序は 2341）。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "語序を組み立てると正しい文にならない（正解の語序は 2341）。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "語序を組み立てると正しい文にならない（正解の語序は 2341）。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "ものもいる",
+    "2": "すむ",
+    "3": "さかなのなかには",
+    "4": "ひゃくねんいじょういきる"
+   },
+   "option_meanings": {
+    "1": "也有這樣的（東西）",
+    "2": "居住（修飾名詞）",
+    "3": "在魚當中",
+    "4": "活100年以上"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 48,
+   "key_point": "〜もの（N2・形式名詞）",
+   "analysis_zh": "正解は 1「気になるもの」。「天気は気になるもの」＝服装選びや休日の予定を立てる際に、天気は気にかかるものだ。「もの」は形式名詞で、一般論を述べる用法。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「気になるだけ」は限定。「天気は気になるだけ」では文脈に合わない。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「気になるかどうか」は疑問。「天気は気になるかどうか」では文が完結しない。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「気になるかのよう」は比況の推量。ここでは不自然。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "きになるもの",
+    "2": "きになるだけ",
+    "3": "きになるかどうか",
+    "4": "きになるかのよう"
+   },
+   "option_meanings": {
+    "1": "會在意的東西",
+    "2": "只是在意而已",
+    "3": "是否在意",
+    "4": "好像在意似的"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 49,
+   "key_point": "なお（N2・接続詞）",
+   "analysis_zh": "正解は 1「なお」。「なお」は「そのうえ」「さらに」という意味の接続詞で、関連情報を付け加える。「食品ロス削減の取り組み」という一般論に続けて、政府の具体的な取り組みを付け加える文脈に合う。※解析PDFの完型セクションでは正解の明示マークがなく、文意から1と判定。解析中に注記。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「たとえば」は例示。ここでは一般論に対する具体例というより、関連情報の追加なので「なお」が自然。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「そこで」は原因・理由を受けての結論。ここでは因果関係がない。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「ところが」は逆接。ここでは対比・逆接の関係がない。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "なお",
+    "2": "たとえば",
+    "3": "そこで",
+    "4": "ところが"
+   },
+   "option_meanings": {
+    "1": "此外、再者",
+    "2": "例如",
+    "3": "因此、於是",
+    "4": "然而"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 50,
+   "key_point": "こそあど（N2）",
+   "analysis_zh": "正解は 1「この取り組みは」。前文で述べられた政府の取り組みを指して「この取り組みは、まず、〜に絞って実験が行われた」と続ける。「この」は直前に述べたものを指す。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「そういった取り組み」は「そのような取り組み」。前文の内容を受けるには「この」が自然。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「あのような取り組み」は話し手から遠いものを指す。ここでは不自然。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「どちらの取り組みも」は二つの取り組みを指すが、ここでは一つの取り組みについて述べている。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "このとりくみは",
+    "2": "そういったとりくみ",
+    "3": "あのようなとりくみ",
+    "4": "どちらのとりくみも"
+   },
+   "option_meanings": {
+    "1": "這項舉措",
+    "2": "那樣的舉措",
+    "3": "那種舉措（遠指）",
+    "4": "兩項舉措都"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 51,
+   "key_point": "〜そうだ（伝聞）（N2）",
+   "analysis_zh": "正解は 2「期待できるそうだ」。「〜そうだ」は伝聞（人から聞いた話）を表す。「今後、より大きな成果が期待できるそうだ」＝今後、より大きな成果が期待できるということだ。新聞コラムの結びとして、見通しを伝聞形で柔らかく述べる。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「期待できるからだ」は理由の説明。「今後、より大きな成果が期待できるからだ」では文が完結しない。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「期待できるはずだった」は過去の期待の否定。未来の見通しを述べるここでは不自然。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「期待できればよかった」は願望の過去形。ここでは不自然。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "きたいできるからだ",
+    "2": "きたいできるそうだ",
+    "3": "きたいできるはずだった",
+    "4": "きたいできればよかった"
+   },
+   "option_meanings": {
+    "1": "因為可以期待",
+    "2": "據說可以期待",
+    "3": "本來應該可以期待的",
+    "4": "要是能期待就好了"
+   }
+  }
+ ],
+ "vocabulary": [
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 31,
+   "word": "追及",
+   "reading": "ついきゅう",
+   "pos": "名詞",
+   "meaning_zh": "追究、追查",
+   "example_sentence": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 32,
+   "word": "調子",
+   "reading": "ちょうし",
+   "pos": "名詞",
+   "meaning_zh": "狀況、狀態",
+   "example_sentence": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 33,
+   "word": "問わず",
+   "reading": "とわず",
+   "pos": "動詞",
+   "meaning_zh": "不問、不論",
+   "example_sentence": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 34,
+   "word": "大雨",
+   "reading": "おおあめ",
+   "pos": "名詞",
+   "meaning_zh": "大雨",
+   "example_sentence": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 35,
+   "word": "だるい",
+   "reading": "だるい",
+   "pos": "形容詞",
+   "meaning_zh": "倦怠、沒勁",
+   "example_sentence": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 36,
+   "word": "不思議",
+   "reading": "ふしぎ",
+   "pos": "形容動詞",
+   "meaning_zh": "不可思議",
+   "example_sentence": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 37,
+   "word": "打ち合わせ",
+   "reading": "うちあわせ",
+   "pos": "名詞",
+   "meaning_zh": "碰頭、商議",
+   "example_sentence": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 38,
+   "word": "少なくとも",
+   "reading": "すくなくとも",
+   "pos": "副詞",
+   "meaning_zh": "至少",
+   "example_sentence": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 39,
+   "word": "最後まで",
+   "reading": "さいごまで",
+   "pos": "副詞",
+   "meaning_zh": "到最後",
+   "example_sentence": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 40,
+   "word": "受付",
+   "reading": "うけつけ",
+   "pos": "名詞",
+   "meaning_zh": "接待處",
+   "example_sentence": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 41,
+   "word": "就職",
+   "reading": "しゅうしょく",
+   "pos": "名詞",
+   "meaning_zh": "就職",
+   "example_sentence": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 42,
+   "word": "誘う",
+   "reading": "さそう",
+   "pos": "動詞",
+   "meaning_zh": "邀請",
+   "example_sentence": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 43,
+   "word": "卒業",
+   "reading": "そつぎょう",
+   "pos": "名詞",
+   "meaning_zh": "畢業",
+   "example_sentence": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 44,
+   "word": "農家",
+   "reading": "のうか",
+   "pos": "名詞",
+   "meaning_zh": "農家",
+   "example_sentence": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 45,
+   "word": "遠足",
+   "reading": "えんそく",
+   "pos": "名詞",
+   "meaning_zh": "遠足",
+   "example_sentence": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 46,
+   "word": "参考書",
+   "reading": "さんこうしょ",
+   "pos": "名詞",
+   "meaning_zh": "參考書",
+   "example_sentence": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 47,
+   "word": "池",
+   "reading": "いけ",
+   "pos": "名詞",
+   "meaning_zh": "池塘",
+   "example_sentence": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 48,
+   "word": "欠かせない",
+   "reading": "かかせない",
+   "pos": "形容詞",
+   "meaning_zh": "不可或缺的",
+   "example_sentence": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 49,
+   "word": "需要予測",
+   "reading": "じゅようよそく",
+   "pos": "名詞",
+   "meaning_zh": "需求預測",
+   "example_sentence": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 50,
+   "word": "絞る",
+   "reading": "しぼる",
+   "pos": "動詞",
+   "meaning_zh": "聚焦、限定",
+   "example_sentence": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 51,
+   "word": "成果",
+   "reading": "せいか",
+   "pos": "名詞",
+   "meaning_zh": "成果",
+   "example_sentence": null
+  }
+ ]
+}

@@ -1,0 +1,2081 @@
+{
+ "groups": [],
+ "questions": [
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_reading",
+   "mondai_no": 1,
+   "number_in_section": 1,
+   "stem": "美しい情景が目に浮かんだ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "じょうけい"
+    },
+    {
+     "key": "2",
+     "text": "じょけい"
+    },
+    {
+     "key": "3",
+     "text": "じょうえい"
+    },
+    {
+     "key": "4",
+     "text": "じょえい"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": "情景"
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_reading",
+   "mondai_no": 1,
+   "number_in_section": 2,
+   "stem": "この世代の人達はコンピューターの知識が乏しいように思う。",
+   "options": [
+    {
+     "key": "1",
+     "text": "くわしい"
+    },
+    {
+     "key": "2",
+     "text": "とぼしい"
+    },
+    {
+     "key": "3",
+     "text": "まずしい"
+    },
+    {
+     "key": "4",
+     "text": "あやしい"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": "乏しい"
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_reading",
+   "mondai_no": 1,
+   "number_in_section": 3,
+   "stem": "ボランティアでお年寄りの介護をしている。",
+   "options": [
+    {
+     "key": "1",
+     "text": "かいごう"
+    },
+    {
+     "key": "2",
+     "text": "かんごう"
+    },
+    {
+     "key": "3",
+     "text": "かいご"
+    },
+    {
+     "key": "4",
+     "text": "かんご"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": "介護"
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_reading",
+   "mondai_no": 1,
+   "number_in_section": 4,
+   "stem": "今頃になって焦ってもしかたない。",
+   "options": [
+    {
+     "key": "1",
+     "text": "あせっても"
+    },
+    {
+     "key": "2",
+     "text": "しかっても"
+    },
+    {
+     "key": "3",
+     "text": "まよっても"
+    },
+    {
+     "key": "4",
+     "text": "いのっても"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": "焦って"
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_reading",
+   "mondai_no": 1,
+   "number_in_section": 5,
+   "stem": "高速道路の建設について、賛否が分かれた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "さんふ"
+    },
+    {
+     "key": "2",
+     "text": "さんぶ"
+    },
+    {
+     "key": "3",
+     "text": "きんひ"
+    },
+    {
+     "key": "4",
+     "text": "さんぴ"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": "賛否"
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_writing",
+   "mondai_no": 2,
+   "number_in_section": 6,
+   "stem": "この仕事は、山本さんにまかせておけば安心です。",
+   "options": [
+    {
+     "key": "1",
+     "text": "仕せて"
+    },
+    {
+     "key": "2",
+     "text": "担せて"
+    },
+    {
+     "key": "3",
+     "text": "任せて"
+    },
+    {
+     "key": "4",
+     "text": "但せて"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": "まかせて"
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_writing",
+   "mondai_no": 2,
+   "number_in_section": 7,
+   "stem": "新入生をテニスサークルにかんゆうした。",
+   "options": [
+    {
+     "key": "1",
+     "text": "勧誘"
+    },
+    {
+     "key": "2",
+     "text": "勧遊"
+    },
+    {
+     "key": "3",
+     "text": "観誘"
+    },
+    {
+     "key": "4",
+     "text": "観遊"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": "かんゆう"
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_writing",
+   "mondai_no": 2,
+   "number_in_section": 8,
+   "stem": "この計画はじゅんちょうに進んでいる。",
+   "options": [
+    {
+     "key": "1",
+     "text": "準長"
+    },
+    {
+     "key": "2",
+     "text": "準調"
+    },
+    {
+     "key": "3",
+     "text": "順長"
+    },
+    {
+     "key": "4",
+     "text": "順調"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": "じゅんちょう"
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_writing",
+   "mondai_no": 2,
+   "number_in_section": 9,
+   "stem": "落ち葉がつもった道を歩いた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "詰まった"
+    },
+    {
+     "key": "2",
+     "text": "満もった"
+    },
+    {
+     "key": "3",
+     "text": "占もった"
+    },
+    {
+     "key": "4",
+     "text": "積もった"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": "つもった"
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_writing",
+   "mondai_no": 2,
+   "number_in_section": 10,
+   "stem": "この状態がえいきゅうに続くわけではない。",
+   "options": [
+    {
+     "key": "1",
+     "text": "延久"
+    },
+    {
+     "key": "2",
+     "text": "永久"
+    },
+    {
+     "key": "3",
+     "text": "延及"
+    },
+    {
+     "key": "4",
+     "text": "永及"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": "えいきゅう"
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_formation",
+   "mondai_no": 3,
+   "number_in_section": 11,
+   "stem": "私も山口さんと( )意見です。",
+   "options": [
+    {
+     "key": "1",
+     "text": "等"
+    },
+    {
+     "key": "2",
+     "text": "同"
+    },
+    {
+     "key": "3",
+     "text": "共"
+    },
+    {
+     "key": "4",
+     "text": "似"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_formation",
+   "mondai_no": 3,
+   "number_in_section": 12,
+   "stem": "このバナナは甘い香りがするので、そろそろ食べ( )ですよ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "頃"
+    },
+    {
+     "key": "2",
+     "text": "期"
+    },
+    {
+     "key": "3",
+     "text": "刻"
+    },
+    {
+     "key": "4",
+     "text": "節"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_formation",
+   "mondai_no": 3,
+   "number_in_section": 13,
+   "stem": "本登録の前に、まずは( )登録を行ってください。",
+   "options": [
+    {
+     "key": "1",
+     "text": "先"
+    },
+    {
+     "key": "2",
+     "text": "予"
+    },
+    {
+     "key": "3",
+     "text": "仮"
+    },
+    {
+     "key": "4",
+     "text": "近"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 14,
+   "stem": "学生の頃、宿題は( )になってからやることが多かった。",
+   "options": [
+    {
+     "key": "1",
+     "text": "ぴりぴり"
+    },
+    {
+     "key": "2",
+     "text": "ばりばり"
+    },
+    {
+     "key": "3",
+     "text": "ぎりぎり"
+    },
+    {
+     "key": "4",
+     "text": "じりじり"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 15,
+   "stem": "生命保険を( )したいので、手続きを教えてください。",
+   "options": [
+    {
+     "key": "1",
+     "text": "廃止"
+    },
+    {
+     "key": "2",
+     "text": "解約"
+    },
+    {
+     "key": "3",
+     "text": "中止"
+    },
+    {
+     "key": "4",
+     "text": "解消"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 16,
+   "stem": "私たちは、お客様の( )に対応したサービスを提供しています。",
+   "options": [
+    {
+     "key": "1",
+     "text": "ニーズ"
+    },
+    {
+     "key": "2",
+     "text": "ストライキ"
+    },
+    {
+     "key": "3",
+     "text": "セールス"
+    },
+    {
+     "key": "4",
+     "text": "エコノミー"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 17,
+   "stem": "来年ここに新しい支店を( )することが決まった。",
+   "options": [
+    {
+     "key": "1",
+     "text": "創造"
+    },
+    {
+     "key": "2",
+     "text": "形成"
+    },
+    {
+     "key": "3",
+     "text": "工作"
+    },
+    {
+     "key": "4",
+     "text": "開設"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 18,
+   "stem": "卒業パーティーには、ちゃんとした( )で行ったほうがいいのかな。",
+   "options": [
+    {
+     "key": "1",
+     "text": "様子"
+    },
+    {
+     "key": "2",
+     "text": "容姿"
+    },
+    {
+     "key": "3",
+     "text": "外見"
+    },
+    {
+     "key": "4",
+     "text": "格好"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 19,
+   "stem": "店が忙しい時は臨時にアルバイトを( )いる。",
+   "options": [
+    {
+     "key": "1",
+     "text": "つかんで"
+    },
+    {
+     "key": "2",
+     "text": "ふくんで"
+    },
+    {
+     "key": "3",
+     "text": "やとって"
+    },
+    {
+     "key": "4",
+     "text": "かせいで"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 20,
+   "stem": "誰にも言えずにずっと悩んでいたが、昨日親友に( )相談してみた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "思いきって"
+    },
+    {
+     "key": "2",
+     "text": "うっかり"
+    },
+    {
+     "key": "3",
+     "text": "せっかく"
+    },
+    {
+     "key": "4",
+     "text": "知らず知らず"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "synonym",
+   "mondai_no": 5,
+   "number_in_section": 21,
+   "stem": "私の会社は最寄りの駅から歩いて15分です。",
+   "options": [
+    {
+     "key": "1",
+     "text": "一番大きい"
+    },
+    {
+     "key": "2",
+     "text": "一番近い"
+    },
+    {
+     "key": "3",
+     "text": "終点の"
+    },
+    {
+     "key": "4",
+     "text": "始発の"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": "最寄り"
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "synonym",
+   "mondai_no": 5,
+   "number_in_section": 22,
+   "stem": "演奏会で着るドレスは、いつも近所の店でレンタルしています。",
+   "options": [
+    {
+     "key": "1",
+     "text": "作って"
+    },
+    {
+     "key": "2",
+     "text": "買って"
+    },
+    {
+     "key": "3",
+     "text": "直して"
+    },
+    {
+     "key": "4",
+     "text": "借りて"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": "レンタル"
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "synonym",
+   "mondai_no": 5,
+   "number_in_section": 23,
+   "stem": "村上さんはほかの人に指図されるのが嫌いだそうだ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "命令"
+    },
+    {
+     "key": "2",
+     "text": "反対"
+    },
+    {
+     "key": "3",
+     "text": "注意"
+    },
+    {
+     "key": "4",
+     "text": "自慢"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": "指図"
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "synonym",
+   "mondai_no": 5,
+   "number_in_section": 24,
+   "stem": "この時期に旅行するなら、かさは欠かせない。",
+   "options": [
+    {
+     "key": "1",
+     "text": "ないといい"
+    },
+    {
+     "key": "2",
+     "text": "あるとじゃまだ"
+    },
+    {
+     "key": "3",
+     "text": "ないと困る"
+    },
+    {
+     "key": "4",
+     "text": "あると便利だ"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": "欠かせない"
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "synonym",
+   "mondai_no": 5,
+   "number_in_section": 25,
+   "stem": "雨は依然強かった。",
+   "options": [
+    {
+     "key": "1",
+     "text": "確かに"
+    },
+    {
+     "key": "2",
+     "text": "まだ"
+    },
+    {
+     "key": "3",
+     "text": "意外に"
+    },
+    {
+     "key": "4",
+     "text": "とても"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": "依然"
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_usage",
+   "mondai_no": 6,
+   "number_in_section": 26,
+   "stem": "栽培",
+   "options": [
+    {
+     "key": "1",
+     "text": "両親は牧場で牛を栽培して、チーズを作っています"
+    },
+    {
+     "key": "2",
+     "text": "私は今、生まれて半年の赤ちゃんを栽培しています"
+    },
+    {
+     "key": "3",
+     "text": "庭で見つけた虫の卵を栽培して、観察日記を書いた"
+    },
+    {
+     "key": "4",
+     "text": "この農場では、農薬を使わずに野菜を栽培しています"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_usage",
+   "mondai_no": 6,
+   "number_in_section": 27,
+   "stem": "急激",
+   "options": [
+    {
+     "key": "1",
+     "text": "イベントの開催日が近くなり、準備が急激に進められている"
+    },
+    {
+     "key": "2",
+     "text": "新しい駅ができて、市の人口が急激に増加している"
+    },
+    {
+     "key": "3",
+     "text": "このパンは非常に人気があり、朝8時に開店すると急激に売れていく"
+    },
+    {
+     "key": "4",
+     "text": "人気歌手が現れると、ファンの人たちが急激に取り囲んだ"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_usage",
+   "mondai_no": 6,
+   "number_in_section": 28,
+   "stem": "漏れる",
+   "options": [
+    {
+     "key": "1",
+     "text": "ジュースを注ぎすぎて、コップから漏れてしまった"
+    },
+    {
+     "key": "2",
+     "text": "転んでしまって、膝から血が漏れてきた"
+    },
+    {
+     "key": "3",
+     "text": "水道管に穴が開いているのか、水が漏れてきている"
+    },
+    {
+     "key": "4",
+     "text": "悲しい映画を見たせいか、涙が漏れてきた"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_usage",
+   "mondai_no": 6,
+   "number_in_section": 29,
+   "stem": "傾向",
+   "options": [
+    {
+     "key": "1",
+     "text": "ファッション誌によると、今年は黄色が傾向するそうだ"
+    },
+    {
+     "key": "2",
+     "text": "最近では、家族がばらばらに食事する傾向がある"
+    },
+    {
+     "key": "3",
+     "text": "姉は日本文学の研究に傾向している"
+    },
+    {
+     "key": "4",
+     "text": "この坂は傾向がきつくて、自転車だとつらい"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_usage",
+   "mondai_no": 6,
+   "number_in_section": 30,
+   "stem": "さっさと",
+   "options": [
+    {
+     "key": "1",
+     "text": "いつまでもテレビを見ていないで、さっさと宿題をしなさい"
+    },
+    {
+     "key": "2",
+     "text": "雷鳴りが出したと思ったら、さっさと雨が降り出した"
+    },
+    {
+     "key": "3",
+     "text": "さっさと着くので、もう少しそこで待っていてください"
+    },
+    {
+     "key": "4",
+     "text": "買ってまだ一週間なのに、さっさと壊れた"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null
+  }
+ ],
+ "explanations": [
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 1,
+   "key_point": "漢字読み・情景",
+   "analysis_zh": "正解是 1「じょうけい」。「情景」讀作 じょうけい，意為「景象、光景」。「美しい情景が目に浮かんだ」即「美麗的景象浮現在眼前」。",
+   "evidence": null,
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「女系」讀作 じょけい，意為「母系」，與題干無關。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「上映」讀作 じょうえい，意為「放映」，與題干無關。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "じょえい 不是常用詞，為干擾項。"
+    }
+   ],
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 2,
+   "key_point": "漢字読み・乏しい",
+   "analysis_zh": "正解是 2「とぼしい」。「乏しい」讀作 とぼしい，意為「缺乏、不足」。「知識が乏しい」即「知識匱乏」。",
+   "evidence": null,
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「詳しい」讀作 くわしい，意為「詳細、精通」，語義相反。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「貧しい」讀作 まずしい，意為「貧困」，與題干無關。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「怪しい」讀作 あやしい，意為「可疑」，與題干無關。"
+    }
+   ],
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 3,
+   "key_point": "漢字読み・介護",
+   "analysis_zh": "正解是 3「かいご」。「介護」讀作 かいご，意為「看護、照料（老人）」。",
+   "evidence": null,
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「会合」讀作 かいごう，意為「集會」，與題干無關。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「勘合」讀作 かんごう，意為「核對」，與題干無關。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「看護」讀作 かんご，意為「照顧病人」，雖近義但不是題干漢字的讀音。"
+    }
+   ],
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 4,
+   "key_point": "漢字読み・焦る",
+   "analysis_zh": "正解是 1「あせっても」。「焦る」讀作 あせる，意為「焦躁、著急」。「今頃になって焦ってもしかたない」即「事到如今著急也沒用」。",
+   "evidence": null,
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「叱る」讀作 しかる，意為「責罵」，與題干無關。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「迷う」讀作 まよう，意為「迷失、猶豫」，與題干無關。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「祈る」讀作 いのる，意為「祈禱」，與題干無關。"
+    }
+   ],
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 5,
+   "key_point": "漢字読み・賛否",
+   "analysis_zh": "正解是 4「さんぴ」。「賛否」讀作 さんぴ，意為「贊成與否」。「賛否が分かれた」即「贊成和反對意見出現分歧」。",
+   "evidence": null,
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「散歩」的誤讀；さんふ 不是「賛否」的讀音。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「散歩」的誤讀；さんぶ 不是「賛否」的讀音。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "きんひ 不是常用詞，為干擾項。"
+    }
+   ],
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 6,
+   "key_point": "表記・任せる",
+   "analysis_zh": "正解是 3「任せて」。「まかせて」是「任せる」的て形，意為「託付、交給」。「山本さんに任せておけば安心」即「交給山本先生就放心」。",
+   "evidence": null,
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「仕える（つかえる）」意為「侍奉、服務」，語義不合。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「担う（になう）」意為「擔負、承擔」，「まかせる」的漢字不是「担」。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「但」無「まかせる」的用法，為干擾項。"
+    }
+   ],
+   "option_readings": {
+    "1": "つかせて",
+    "2": "になせて",
+    "3": "まかせて"
+   },
+   "option_meanings": {
+    "1": "侍奉、服務",
+    "2": "擔負",
+    "3": "託付、交給"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 7,
+   "key_point": "表記・勧誘",
+   "analysis_zh": "正解是 1「勧誘」。「かんゆう」是「勧誘」，意為「勸說、招攬」。「新入生を勧誘する」即「招攬新生」。",
+   "evidence": null,
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「勧遊」不是常用詞，為干擾項。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「観誘」不是常用詞，為干擾項。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「観遊」不是常用詞，為干擾項。"
+    }
+   ],
+   "option_readings": {
+    "1": "かんゆう"
+   },
+   "option_meanings": {
+    "1": "勸說、招攬"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 8,
+   "key_point": "表記・順調",
+   "analysis_zh": "正解是 4「順調」。「じゅんちょう」是「順調」，意為「順利」。「順調に進む」即「順利進展」。",
+   "evidence": null,
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「準長」不是常用詞，為干擾項。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「準調」不是常用詞，為干擾項。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「順長」不是常用詞，為干擾項。"
+    }
+   ],
+   "option_readings": {
+    "4": "じゅんちょう"
+   },
+   "option_meanings": {
+    "4": "順利"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 9,
+   "key_point": "表記・積もる",
+   "analysis_zh": "正解是 4「積もった」。「つもった」是「積もった」，意為「堆積」。「落ち葉が積もった道」即「堆滿落葉的路」。",
+   "evidence": null,
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「詰まった（つまった）」意為「堵塞」，與落葉堆積無關。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「満もった」不是規範表記，為干擾項。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「占もった」不是規範表記；「占める（しめる）」意為「佔領」，語義不合。"
+    }
+   ],
+   "option_readings": {
+    "1": "つまった",
+    "2": "みちもった",
+    "3": "しめもった",
+    "4": "つもった"
+   },
+   "option_meanings": {
+    "1": "堵塞",
+    "2": "（非規範表記）",
+    "3": "（非規範表記）",
+    "4": "堆積"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 10,
+   "key_point": "表記・永久",
+   "analysis_zh": "正解是 2「永久」。「えいきゅう」是「永久」，意為「永遠、永恆」。「永久に続くわけではない」即「不會永遠持續下去」。",
+   "evidence": null,
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「延久」讀作 えんきゅう，是平安時代的年號，與題干無關。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「延及」不是常用詞，為干擾項。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「永及」不是常用詞，為干擾項。"
+    }
+   ],
+   "option_readings": {
+    "1": "えんきゅう",
+    "2": "えいきゅう"
+   },
+   "option_meanings": {
+    "1": "（年號）延久",
+    "2": "永遠、永恆"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 11,
+   "key_point": "語形成・同じ意見",
+   "analysis_zh": "正解是 2「同」。「同じ意見」表示「同樣的意見」，「同」作前綴表「相同」。",
+   "evidence": null,
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「等（とう）」多作後綴表等級（如「初等」），不能組成「等意見」。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「共（きょう）」表「共同」，「共意見」不是固定搭配。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「似（に）」作後綴表「像…」（如「母親似」），不能組成「似意見」。"
+    }
+   ],
+   "option_readings": {
+    "1": "とう",
+    "2": "どう",
+    "3": "きょう",
+    "4": "に"
+   },
+   "option_meanings": {
+    "1": "（後綴）等級",
+    "2": "相同、同樣",
+    "3": "共同",
+    "4": "（後綴）像…"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 12,
+   "key_point": "語形成・食べ頃",
+   "analysis_zh": "正解是 1「頃」。「食べ頃（たべごろ）」表示「（食物）正好吃的時候」。「そろそろ食べ頃です」即「差不多到了好吃的時候」。",
+   "evidence": null,
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「期（き/ご）」表時期（如「時期」），「食べ期」不是固定搭配。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「刻（こく）」表時刻（如「子刻」），「食べ刻」不成立。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「節（せつ）」表季節，「食べ節」不成立。"
+    }
+   ],
+   "option_readings": {
+    "1": "ころ",
+    "2": "き",
+    "3": "こく",
+    "4": "せつ"
+   },
+   "option_meanings": {
+    "1": "正當…的時候",
+    "2": "時期",
+    "3": "時刻",
+    "4": "季節"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 13,
+   "key_point": "語形成・仮登録",
+   "analysis_zh": "正解是 3「仮」。「仮登録（かりとうろく）」表示「臨時註冊、預註冊」，與「本登録（正式註冊）」相對。",
+   "evidence": null,
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「先（さき）」表前端，「先登録」不是固定搭配。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「予（よ）」表預先，「予登録」不成立。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「近（きん）」表附近，「近登録」不成立。"
+    }
+   ],
+   "option_readings": {
+    "1": "さき",
+    "2": "よ",
+    "3": "かり",
+    "4": "きん"
+   },
+   "option_meanings": {
+    "1": "前端、事先",
+    "2": "預先",
+    "3": "臨時、暫定",
+    "4": "附近"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 14,
+   "key_point": "擬態語・ぎりぎり",
+   "analysis_zh": "正解是 3「ぎりぎり」。「ぎりぎり」表示「勉強、極限」，「ぎりぎりになってから」即「拖到最後一刻才做」。",
+   "evidence": null,
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「ぴりぴり」表示酥麻感（如舌頭發麻），語義不合。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「ばりばり」表示麻利地（如麻利地工作），語義不合。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「じりじり」表示心急如焚，語義不合。"
+    }
+   ],
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 15,
+   "key_point": "語彙・解約",
+   "analysis_zh": "正解是 2「解約」。「解約（かいやく）」表示「解除契約」；保險、合約的解除用「解約」。",
+   "evidence": null,
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「廃止（はいし）」指廢除制度、法律，不用於個人保險。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「中止（ちゅうし）」指中途停止（如中止計劃），不用於解除保險契約。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「解消（かいしょう）」指消除（如消除疲勞、解除誤會），不用於保險。"
+    }
+   ],
+   "option_readings": {
+    "1": "はいし",
+    "2": "かいやく",
+    "3": "ちゅうし",
+    "4": "かいしょう"
+   },
+   "option_meanings": {
+    "1": "廢止、廢除",
+    "2": "解約、解除契約",
+    "3": "中止、停止",
+    "4": "消除、解除"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 16,
+   "key_point": "外来語・ニーズ",
+   "analysis_zh": "正解是 1「ニーズ」。「ニーズ」即 needs，意為「需求」。「お客様のニーズに対応する」即「應對客戶的需求」。",
+   "evidence": null,
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「ストライキ」即 strike，意為「罷工」，語義不合。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「セールス」即 sales，意為「銷售、推銷」，語義不合。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「エコノミー」即 economy，意為「經濟」，語義不合。"
+    }
+   ],
+   "option_readings": {
+    "1": "ニーズ",
+    "2": "ストライキ",
+    "3": "セールス",
+    "4": "エコノミー"
+   },
+   "option_meanings": {
+    "1": "需求",
+    "2": "罷工",
+    "3": "銷售、推銷",
+    "4": "經濟"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 17,
+   "key_point": "語彙・開設",
+   "analysis_zh": "正解是 4「開設」。「支店を開設する」是固定搭配，意為「開設分店」。",
+   "evidence": null,
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「創造（そうぞう）」意為「創造」，對象是新事物、價值，不用於分店。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「形成（けいせい）」意為「形成」，對象是性格、局面等，不用於分店。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「工作（こうさく）」意為「製作、手工作業」，語義不合。"
+    }
+   ],
+   "option_readings": {
+    "1": "そうぞう",
+    "2": "けいせい",
+    "3": "こうさく",
+    "4": "かいせつ"
+   },
+   "option_meanings": {
+    "1": "創造",
+    "2": "形成",
+    "3": "製作、手工作業",
+    "4": "開設、開辦"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 18,
+   "key_point": "語彙・格好",
+   "analysis_zh": "正解是 4「格好」。「格好（かっこう）」表示「打扮、裝束」。「ちゃんとした格好」即「得體的打扮」。",
+   "evidence": null,
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「様子（ようす）」意為「情況、樣子」，「ちゃんとした様子で行く」語義不通。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「容姿（ようし）」意為「容貌」，指天生的長相，不是「打扮」。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「外見（がいけん）」意為「外表」，多指給人的外在印象，不如「格好」貼切。"
+    }
+   ],
+   "option_readings": {
+    "1": "ようす",
+    "2": "ようし",
+    "3": "がいけん",
+    "4": "かっこう"
+   },
+   "option_meanings": {
+    "1": "情況、樣子",
+    "2": "容貌、姿容",
+    "3": "外表",
+    "4": "打扮、裝束"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 19,
+   "key_point": "語彙・雇う",
+   "analysis_zh": "正解是 3「やとって」。「雇う（やとう）」表示「雇用」。「アルバイトを雇う」是固定搭配。",
+   "evidence": null,
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「掴む（つかむ）」意為「抓住」，語義不合。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「含む（ふくむ）」意為「含有」，語義不合。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「稼ぐ（かせぐ）」意為「賺錢」，主語應是打工者本人，語義不合。"
+    }
+   ],
+   "option_readings": {
+    "1": "つかんで",
+    "2": "ふくんで",
+    "3": "やとって",
+    "4": "かせいで"
+   },
+   "option_meanings": {
+    "1": "抓住",
+    "2": "含有",
+    "3": "雇用",
+    "4": "賺錢"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 20,
+   "key_point": "副詞・思い切って",
+   "analysis_zh": "正解是 1「思いきって」。「思い切って（おもいきって）」表示「下定決心」。「一直煩惱、昨天終於鼓起勇氣找親友商量」符合語境。",
+   "evidence": null,
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「うっかり」表示「不小心、疏忽」，語義不合。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「せっかく」表示「好不容易、特意」，語義不合。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「知らず知らず」表示「不知不覺」，語義不合。"
+    }
+   ],
+   "option_readings": {
+    "1": "おもいきって",
+    "2": "うっかり",
+    "3": "せっかく",
+    "4": "しらずしらず"
+   },
+   "option_meanings": {
+    "1": "下定決心",
+    "2": "不小心、疏忽",
+    "3": "好不容易、特意",
+    "4": "不知不覺"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 21,
+   "key_point": "類義語・最寄り",
+   "analysis_zh": "正解是 2「一番近い」。「最寄り（もより）」表示「最近的」，與「一番近い」同義。",
+   "evidence": null,
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「一番大きい」意為「最大」，語義不合。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「終点の」意為「終點的」，語義不合。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「始発の」意為「始發的」，語義不合。"
+    }
+   ],
+   "option_readings": {
+    "1": "いちばんおおきい",
+    "2": "いちばんちかい",
+    "3": "しゅうてんの",
+    "4": "しはつの"
+   },
+   "option_meanings": {
+    "1": "最大的",
+    "2": "最近的",
+    "3": "終點的",
+    "4": "始發的"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 22,
+   "key_point": "類義語・レンタル",
+   "analysis_zh": "正解是 4「借りて」。「レンタル」即 rental，意為「租借」，與「借りる」同義。",
+   "evidence": null,
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「作って」意為「製作」，語義不合。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「買って」意為「購買」，與「租借」相反。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「直して」意為「修理」，語義不合。"
+    }
+   ],
+   "option_readings": {
+    "1": "つくって",
+    "2": "かって",
+    "3": "なおして",
+    "4": "かりて"
+   },
+   "option_meanings": {
+    "1": "製作",
+    "2": "購買",
+    "3": "修理",
+    "4": "借入"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 23,
+   "key_point": "類義語・指図",
+   "analysis_zh": "正解是 1「命令」。「指図（さしず）」表示「指示、吩咐」，與「命令（めいれい）」近義。",
+   "evidence": null,
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「反対（はんたい）」意為「反對」，語義不合。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「注意（ちゅうい）」意為「注意、提醒」，語義不合。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「自慢（じまん）」意為「自誇」，語義不合。"
+    }
+   ],
+   "option_readings": {
+    "1": "めいれい",
+    "2": "はんたい",
+    "3": "ちゅうい",
+    "4": "じまん"
+   },
+   "option_meanings": {
+    "1": "命令",
+    "2": "反對",
+    "3": "注意、提醒",
+    "4": "自誇"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 24,
+   "key_point": "類義語・欠かせない",
+   "analysis_zh": "正解是 3「ないと困る」。「欠かせない（かかせない）」表示「不可或缺」，即「沒有的話會很困擾」。",
+   "evidence": null,
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「ないといい」意為「沒有也好」，語義相反。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「あるとじゃまだ」意為「有的話很礙事」，語義相反。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「あると便利だ」只說「方便」，沒有傳達「不可或缺」的強度。"
+    }
+   ],
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 25,
+   "key_point": "類義語・依然",
+   "analysis_zh": "正解是 2「まだ」。「依然（いぜん）」表示「仍然、依舊」，與「まだ」近義。",
+   "evidence": null,
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「確かに（たしかに）」意為「確實」，語義不合。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「意外に（いがいに）」意為「出乎意料」，語義不合。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「とても」意為「非常」，表程度而非「仍然」。"
+    }
+   ],
+   "option_readings": {
+    "1": "たしかに",
+    "2": "まだ",
+    "3": "いがいに",
+    "4": "とても"
+   },
+   "option_meanings": {
+    "1": "確實",
+    "2": "仍然、還",
+    "3": "出乎意料地",
+    "4": "非常"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 26,
+   "key_point": "用法・栽培",
+   "analysis_zh": "正解是 4。「栽培（さいばい）」表示「（植物、作物的）栽培」，對象是植物；只有選項4的「野菜」符合。",
+   "evidence": null,
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "牛是動物，不能「栽培」，應用「飼う（かう，飼養）」。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "赤ちゃん（嬰兒）不能「栽培」，應用「育てる（そだてる，養育）」。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "虫の卵（蟲卵）不能「栽培」，應用「孵す（かえす，孵化）」。"
+    }
+   ],
+   "option_readings": {
+    "1": "りょうしんはぼくじょうでうしをさいばいして、チーズをつくっています",
+    "2": "わたしはいま、うまれてはんとしのあかちゃんをさいばいしています",
+    "3": "にわでみつけたむしのたまごをさいばいして、かんさつにっきをかいた",
+    "4": "こののうじょうでは、のうやくをつかわずにやさいをさいばいしています"
+   },
+   "option_meanings": {
+    "1": "父母在牧場養牛，製作起司。（牛不能用「栽培」）",
+    "2": "我正在養育出生半年的嬰兒。（嬰兒不能用「栽培」）",
+    "3": "把在庭院發現的蟲卵拿來栽培，寫了觀察日記。（蟲卵不能用「栽培」）",
+    "4": "這個農場不使用農藥栽培蔬菜。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 27,
+   "key_point": "用法・急激",
+   "analysis_zh": "正解是 2。「急激（きゅうげき）」表示「急劇」，修飾變化、發展等；「人口が急激に増加する」是典型搭配。",
+   "evidence": null,
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「準備が進められている」是按計劃推進，用「急激」不自然（應用「急ピッチで」等）。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "麵包「売れていく」是持續售出，用「急激に」修飾不自然。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "粉絲「取り囲んだ」是瞬間動作，「急激に」多修飾漸進的變化，搭配不當。"
+    }
+   ],
+   "option_readings": {
+    "1": "イベントのかいさいびがちかくなり、じゅんびがきゅうげきにすすめられている",
+    "2": "あたらしいえきができて、しのじんこうがきゅうげきにぞうかしている",
+    "3": "このパンはひじょうににんきがあり、あさ8じにかいてんするときゅうげきにうれていく",
+    "4": "にんきかしゅがあらわれると、ファンのひとたちがきゅうげきにとりかこんだ"
+   },
+   "option_meanings": {
+    "1": "活動舉辦日臨近，準備工作被急劇推進。（搭配不自然）",
+    "2": "新車站落成後，市區人口急劇增加。",
+    "3": "這款麵包非常受歡迎，早上8點開店後銷量急劇上升。（搭配不自然）",
+    "4": "人氣歌手一出現，粉絲們就急劇圍了上去。（搭配不自然）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 28,
+   "key_point": "用法・漏れる",
+   "analysis_zh": "正解是 3。「漏れる（もれる）」表示「（液體、氣體）漏出」；「水が漏れる」是典型用法。",
+   "evidence": null,
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "果汁從杯子「溢出」應用「溢れる（あふれる）」，「漏れる」指從縫隙漏出，語義不合。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "血從傷口「流出」應用「出る」「流れる」，「漏れる」不自然。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "眼淚「流出」應用「流れる」「出る」，「漏れる」不自然。"
+    }
+   ],
+   "option_readings": {
+    "1": "ジュースをそそぎすぎて、コップからもれてしまった",
+    "2": "ころんでしまって、ひざからちがもれてきた",
+    "3": "すいどうかんにあながあいているのか、みずがもれてきている",
+    "4": "かなしいえいがをみたせいか、なみだがもれてきた"
+   },
+   "option_meanings": {
+    "1": "果汁倒太多，從杯子漏出來了。（應用「溢れる」）",
+    "2": "跌倒了，血從膝蓋漏出來。（應用「流れる」）",
+    "3": "可能是水管破了洞，水漏出來了。",
+    "4": "可能是看了悲傷的電影，眼淚流了出來。（應用「流れる」）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 29,
+   "key_point": "用法・傾向",
+   "analysis_zh": "正解是 2。「傾向（けいこう）」是名詞，表「趨勢、動向」；「〜傾向がある」是固定句型。",
+   "evidence": null,
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「傾向」是名詞，不能直接作動詞用（「傾向する」不成立）。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「〜に傾向している」不是正確用法；表「專心致志」應用「専念する」。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "坡度「陡」應用「傾斜（けいしゃ）」，與「傾向」混淆。"
+    }
+   ],
+   "option_readings": {
+    "1": "ファッションしによると、ことしはきいろがけいこうするそうだ",
+    "2": "さいきんでは、かぞくがばらばらにしょくじするけいこうがある",
+    "3": "あねはにほんぶんがくのけんきゅうにけいこうしている",
+    "4": "このさかはけいこうがきつくて、じてんしゃだとつらい"
+   },
+   "option_meanings": {
+    "1": "據時尚雜誌報導，今年黃色似乎很流行。（「傾向」不能作動詞）",
+    "2": "最近，家人各吃各的的傾向很明顯。",
+    "3": "姐姐正專心於日本文學研究。（用法錯誤）",
+    "4": "這個坡很陡，騎自行車很辛苦。（混淆了「傾向」與「傾斜」）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 30,
+   "key_point": "用法・さっさと",
+   "analysis_zh": "正解是 1。「さっさと」表示「趕快、迅速地」，修飾人的有意志動作；「さっさと宿題をしなさい」即「趕快去做作業」。",
+   "evidence": null,
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "下雨是自然現象，「さっさと」不修飾無意志的自然現象（應用「急に」「突然」）。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「到達」不是說話人能控制的有意志動作，用「さっさと」不自然（應用「すぐ」）。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "東西「壞掉」是無意志變化，用「さっさと」不自然。"
+    }
+   ],
+   "option_readings": {
+    "1": "いつまでもテレビをみていないで、さっさとしゅくだいをしなさい",
+    "2": "かみなりがだしたと思ったら、さっさとあめがふりだした",
+    "3": "さっさとつくので、もうすこしそこでまっていてください",
+    "4": "かってまだいっしゅうかんなのに、さっさとこわれた"
+   },
+   "option_meanings": {
+    "1": "別一直看電視，趕快去做作業。",
+    "2": "還以為打雷了，雨就突然下了起來。（自然現象不用「さっさと」）",
+    "3": "很快就到，請再稍等一下。（「到達」非有意志動作）",
+    "4": "才買了一週就很快壞掉了。（無意志變化不用「さっさと」）"
+   }
+  }
+ ],
+ "vocabulary": [
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 1,
+   "word": "情景",
+   "reading": "じょうけい",
+   "pos": "名詞",
+   "meaning_zh": "景象、光景",
+   "example_sentence": "美しい情景が目に浮かんだ。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 2,
+   "word": "乏しい",
+   "reading": "とぼしい",
+   "pos": "形容詞",
+   "meaning_zh": "缺乏、不足",
+   "example_sentence": "コンピューターの知識が乏しい。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 3,
+   "word": "介護",
+   "reading": "かいご",
+   "pos": "名詞",
+   "meaning_zh": "看護、照料老人",
+   "example_sentence": "お年寄りの介護をする。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 4,
+   "word": "焦る",
+   "reading": "あせる",
+   "pos": "動詞",
+   "meaning_zh": "焦躁、著急",
+   "example_sentence": "今頃になって焦ってもしかたない。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 5,
+   "word": "賛否",
+   "reading": "さんぴ",
+   "pos": "名詞",
+   "meaning_zh": "贊成與否",
+   "example_sentence": "賛否が分かれた。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 6,
+   "word": "任せる",
+   "reading": "まかせる",
+   "pos": "動詞",
+   "meaning_zh": "託付、委託",
+   "example_sentence": "仕事を山本さんに任せる。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 7,
+   "word": "勧誘",
+   "reading": "かんゆう",
+   "pos": "名詞",
+   "meaning_zh": "勸說、招攬",
+   "example_sentence": "新入生をテニスサークルに勧誘する。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 8,
+   "word": "順調",
+   "reading": "じゅんちょう",
+   "pos": "形容動詞",
+   "meaning_zh": "順利",
+   "example_sentence": "計画が順調に進んでいる。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 9,
+   "word": "積もる",
+   "reading": "つもる",
+   "pos": "動詞",
+   "meaning_zh": "堆積",
+   "example_sentence": "落ち葉が積もった道。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 10,
+   "word": "永久",
+   "reading": "えいきゅう",
+   "pos": "名詞",
+   "meaning_zh": "永遠、永恆",
+   "example_sentence": "永久に続くわけではない。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 11,
+   "word": "同じ",
+   "reading": "おなじ",
+   "pos": "形容詞",
+   "meaning_zh": "相同的",
+   "example_sentence": "山口さんと同じ意見です。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 12,
+   "word": "頃",
+   "reading": "ころ",
+   "pos": "名詞",
+   "meaning_zh": "正當…的時候",
+   "example_sentence": "そろそろ食べ頃です。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 13,
+   "word": "仮登録",
+   "reading": "かりとうろく",
+   "pos": "名詞",
+   "meaning_zh": "臨時註冊、預註冊",
+   "example_sentence": "本登録の前に仮登録を行う。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 14,
+   "word": "ぎりぎり",
+   "reading": "",
+   "pos": "副詞",
+   "meaning_zh": "勉強、最後一刻",
+   "example_sentence": "宿題はぎりぎりになってからやる。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 15,
+   "word": "解約",
+   "reading": "かいやく",
+   "pos": "名詞",
+   "meaning_zh": "解除契約",
+   "example_sentence": "生命保険を解約する。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 16,
+   "word": "ニーズ",
+   "reading": "",
+   "pos": "名詞",
+   "meaning_zh": "需求",
+   "example_sentence": "お客様のニーズに対応する。",
+   "note": null,
+   "etymology_en": "needs"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 17,
+   "word": "開設",
+   "reading": "かいせつ",
+   "pos": "名詞",
+   "meaning_zh": "開設、開辦",
+   "example_sentence": "新しい支店を開設する。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 18,
+   "word": "格好",
+   "reading": "かっこう",
+   "pos": "名詞",
+   "meaning_zh": "打扮、裝束",
+   "example_sentence": "ちゃんとした格好で行く。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 19,
+   "word": "雇う",
+   "reading": "やとう",
+   "pos": "動詞",
+   "meaning_zh": "雇用",
+   "example_sentence": "臨時にアルバイトを雇う。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 20,
+   "word": "思い切る",
+   "reading": "おもいきる",
+   "pos": "動詞",
+   "meaning_zh": "下定決心",
+   "example_sentence": "思い切って相談してみた。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 21,
+   "word": "最寄り",
+   "reading": "もより",
+   "pos": "名詞",
+   "meaning_zh": "最近的",
+   "example_sentence": "最寄りの駅。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 22,
+   "word": "レンタル",
+   "reading": "",
+   "pos": "名詞",
+   "meaning_zh": "租借",
+   "example_sentence": "ドレスをレンタルする。",
+   "note": null,
+   "etymology_en": "rental"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 23,
+   "word": "指図",
+   "reading": "さしず",
+   "pos": "名詞",
+   "meaning_zh": "指示、吩咐",
+   "example_sentence": "人に指図されるのが嫌いだ。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 24,
+   "word": "欠かせない",
+   "reading": "かかせない",
+   "pos": "形容詞",
+   "meaning_zh": "不可或缺",
+   "example_sentence": "かさは欠かせない。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 25,
+   "word": "依然",
+   "reading": "いぜん",
+   "pos": "副詞",
+   "meaning_zh": "仍然、依舊",
+   "example_sentence": "雨は依然強かった。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 26,
+   "word": "栽培",
+   "reading": "さいばい",
+   "pos": "名詞",
+   "meaning_zh": "（植物、作物的）栽培",
+   "example_sentence": "野菜を栽培する。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 27,
+   "word": "急激",
+   "reading": "きゅうげき",
+   "pos": "形容動詞",
+   "meaning_zh": "急劇",
+   "example_sentence": "人口が急激に増加する。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 28,
+   "word": "漏れる",
+   "reading": "もれる",
+   "pos": "動詞",
+   "meaning_zh": "（液體、氣體）漏出",
+   "example_sentence": "水が漏れてきている。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 29,
+   "word": "傾向",
+   "reading": "けいこう",
+   "pos": "名詞",
+   "meaning_zh": "趨勢、動向",
+   "example_sentence": "ばらばらに食事する傾向がある。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 30,
+   "word": "さっさと",
+   "reading": "",
+   "pos": "副詞",
+   "meaning_zh": "趕快、迅速地",
+   "example_sentence": "さっさと宿題をしなさい。",
+   "note": null,
+   "etymology_en": null
+  }
+ ]
+}

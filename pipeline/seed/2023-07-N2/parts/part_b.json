@@ -1,0 +1,1491 @@
+{
+ "groups": [
+  {
+   "local_id": "g_text9",
+   "section_code": "lang_reading",
+   "group_type": "passage",
+   "title": "問題9 文章文法",
+   "content": "以下は、留学生がサービスのために書いた文章である。\n香道\nベルナールマリー\n「香道」とは、香りを楽しむ日本の伝統文化です。私は、友人が香道の体験ができる教に誘ってくれたのをきっかけに、初めて香道のことを知りました。私は普段から香水などで香りを楽しんでいるので、香道の体験も楽しむことができました。\n香道は、「香木」と呼ばれる木の破片を熱し、その香りを楽しみます。「香木」48 そのような名前の木がもともと存在するわけではありません。いくつかの種類の木の中で、様々な自然条件のもとで、年月の経過によって香りを発生させるようになった気をそう呼びます。人工的に生産できないため、大変貴重なものと49。\n香道には600年以上の歴史がありますが、その存在はあまり知られていません。数に限りがある香木は、香道が広まり需要が増えすぎればなくなるおそれもあります。50 香道ではあまり多くの弟子を受け入れませんでした。香道がよく知られていないのは、そういった事情もあるそうです。\n香道では、香りをかいで、じっくりと味わうことを「香りを聞く」と言います。香りに心を傾けて聞くことを基本に、香りを聞きながら古典文学を鑑賞したり、どれがどの香木の香りかを当てて楽しんだりもします。\n繊細な香りを心の中でゆっくり味わうことを通して、私は「香りを聞く」という意味がわかったような気がしました。香水のように手軽ではありませんが、このような香りの楽しみ方も51。",
+   "sort_order": 1
+  }
+ ],
+ "questions": [
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 31,
+   "stem": "この小説は、物語が進む（ ）主人公の少年の心理が変化していくのが面白い。",
+   "options": [
+    {
+     "key": "1",
+     "text": "としても"
+    },
+    {
+     "key": "2",
+     "text": "とはいえ"
+    },
+    {
+     "key": "3",
+     "text": "につれて"
+    },
+    {
+     "key": "4",
+     "text": "にあたって"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 32,
+   "stem": "昨日行ったレストランは、味もサービスも最低だった。（ ）行きたくない。",
+   "options": [
+    {
+     "key": "1",
+     "text": "二度と"
+    },
+    {
+     "key": "2",
+     "text": "必ずしも"
+    },
+    {
+     "key": "3",
+     "text": "まさか"
+    },
+    {
+     "key": "4",
+     "text": "あまりに"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 33,
+   "stem": "今回のオリンピックで、体操の青木選手は、メダルは獲得できなかった（ ）、素晴らしい演技を見せてくれた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "からといって"
+    },
+    {
+     "key": "2",
+     "text": "どころか"
+    },
+    {
+     "key": "3",
+     "text": "あげくに"
+    },
+    {
+     "key": "4",
+     "text": "ものの"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 34,
+   "stem": "60代の父が、趣味（ ）何歳から始めても遅くないだろうと言って、最近ピアノ教室に通い始めた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "としてだけ"
+    },
+    {
+     "key": "2",
+     "text": "としてなら"
+    },
+    {
+     "key": "3",
+     "text": "にとっては"
+    },
+    {
+     "key": "4",
+     "text": "にとっても"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null,
+   "audio_url": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 35,
+   "stem": "約束の時間に友人の家に着いてインターホンを押すと、慌てた様子で友人が玄関に出てきた。（ ）、パジャマ姿のままだった。",
+   "options": [
+    {
+     "key": "1",
+     "text": "起きるところだったら"
+    },
+    {
+     "key": "2",
+     "text": "起きるところらしく"
+    },
+    {
+     "key": "3",
+     "text": "起きるばかりだったら"
+    },
+    {
+     "key": "4",
+     "text": "起きたばかりらしく"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 36,
+   "stem": "「リマインド」とは、「再確認」の意味を持ち、「会議の日程が近づいてきたので、出席者にリマインドした。」（ ）使用されるビジネス用語である。",
+   "options": [
+    {
+     "key": "1",
+     "text": "というように"
+    },
+    {
+     "key": "2",
+     "text": "というような"
+    },
+    {
+     "key": "3",
+     "text": "ということのように"
+    },
+    {
+     "key": "4",
+     "text": "ということのような"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 37,
+   "stem": "学校や病院では定期的に避難訓練が行われている。避難訓練を（ ）、火災などがあったときに落ち着いて行動できるからだ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "しておくには"
+    },
+    {
+     "key": "2",
+     "text": "しているとしても"
+    },
+    {
+     "key": "3",
+     "text": "しておくことで"
+    },
+    {
+     "key": "4",
+     "text": "しているかというと"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 38,
+   "stem": "明日、友達と映画を見に行くことになった。映画館で映画を見るのは、大学の時以来だから、約5年（ ）だ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "まで"
+    },
+    {
+     "key": "2",
+     "text": "など"
+    },
+    {
+     "key": "3",
+     "text": "きり"
+    },
+    {
+     "key": "4",
+     "text": "ぶり"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 39,
+   "stem": "睡眠には、体や脳にたまった疲労をとる効果がある。睡眠時間を削ることは、体や脳を回復させる大切な機会を奪うことに（ ）のだ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "ほかならない"
+    },
+    {
+     "key": "2",
+     "text": "欠かせない"
+    },
+    {
+     "key": "3",
+     "text": "すぎない"
+    },
+    {
+     "key": "4",
+     "text": "限らない"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 40,
+   "stem": "（会社で）木村「山下さん、先ほど、さくら銀行の南さんからお電話がありまして、今日中に連絡してほしい（ ）。」山下「はい、わかりました。」",
+   "options": [
+    {
+     "key": "1",
+     "text": "ことになりました"
+    },
+    {
+     "key": "2",
+     "text": "とのことでした"
+    },
+    {
+     "key": "3",
+     "text": "と助かるのですが"
+    },
+    {
+     "key": "4",
+     "text": "ようにしてください"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null,
+   "audio_url": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 41,
+   "stem": "駅前に新しくできたカフェに友達を誘って行ってみたら、定休日だった。事前に確認しておく（ ）。",
+   "options": [
+    {
+     "key": "1",
+     "text": "しかなかった"
+    },
+    {
+     "key": "2",
+     "text": "ほどではなかった"
+    },
+    {
+     "key": "3",
+     "text": "べきだった"
+    },
+    {
+     "key": "4",
+     "text": "せいだった"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 42,
+   "stem": "（インタビューで）選手「今回優勝できたのは、多くの方に（ ）。本当にありがとうございました。」",
+   "options": [
+    {
+     "key": "1",
+     "text": "応援してくださったおかげたです"
+    },
+    {
+     "key": "2",
+     "text": "応援していただいたおかげです"
+    },
+    {
+     "key": "3",
+     "text": "応援してくださったことだと思います"
+    },
+    {
+     "key": "4",
+     "text": "応援していただいたことだと思います"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null,
+   "audio_url": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 8,
+   "number_in_section": 43,
+   "stem": "隣のクラスの友達とけんかをしてしまい、学校の廊下で ＿＿ ＿★＿ ＿なくなってしまった。",
+   "options": [
+    {
+     "key": "1",
+     "text": "こと"
+    },
+    {
+     "key": "2",
+     "text": "すら"
+    },
+    {
+     "key": "3",
+     "text": "目を合わせる"
+    },
+    {
+     "key": "4",
+     "text": "すれ違っても"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 8,
+   "number_in_section": 44,
+   "stem": "このソファーは、それなりの大きさはあるが、見た目＿＿ ＿★＿ ＿楽に動かせる。",
+   "options": [
+    {
+     "key": "1",
+     "text": "ほどの"
+    },
+    {
+     "key": "2",
+     "text": "ても"
+    },
+    {
+     "key": "3",
+     "text": "重さはないため"
+    },
+    {
+     "key": "4",
+     "text": "一人"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 8,
+   "number_in_section": 45,
+   "stem": "友達にスキー旅行に誘われている。返事を＿＿ ＿★＿ ＿まだ返事がきていない。",
+   "options": [
+    {
+     "key": "1",
+     "text": "決まっていなくて"
+    },
+    {
+     "key": "2",
+     "text": "仕事の予定が"
+    },
+    {
+     "key": "3",
+     "text": "しなければ"
+    },
+    {
+     "key": "4",
+     "text": "と思いながらも"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null,
+   "audio_url": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 8,
+   "number_in_section": 46,
+   "stem": "私は、美術館では音声ガイドの機械を借りて、説明を聞きながら作品を鑑賞する。作品のどこに＿＿ ＿★＿ ＿その作品をより深く味わえるからだ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "わかると"
+    },
+    {
+     "key": "2",
+     "text": "注目して"
+    },
+    {
+     "key": "3",
+     "text": "いいのかが"
+    },
+    {
+     "key": "4",
+     "text": "鑑賞したら"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 8,
+   "number_in_section": 47,
+   "stem": "雪が降っている＿＿ ＿★＿ ＿風がほとんどないからだろう。",
+   "options": [
+    {
+     "key": "1",
+     "text": "わりに"
+    },
+    {
+     "key": "2",
+     "text": "のは"
+    },
+    {
+     "key": "3",
+     "text": "寒く感じない"
+    },
+    {
+     "key": "4",
+     "text": "そんなに"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "text_grammar",
+   "mondai_no": 9,
+   "number_in_section": 48,
+   "stem": "「香木」48 そのような名前の木がもともと存在するわけではありません。",
+   "options": [
+    {
+     "key": "1",
+     "text": "のように"
+    },
+    {
+     "key": "2",
+     "text": "のほかに"
+    },
+    {
+     "key": "3",
+     "text": "といっても"
+    },
+    {
+     "key": "4",
+     "text": "であっても"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null,
+   "group_local_id": "g_text9"
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "text_grammar",
+   "mondai_no": 9,
+   "number_in_section": 49,
+   "stem": "人工的に生産できないため、大変貴重なものと49。",
+   "options": [
+    {
+     "key": "1",
+     "text": "しておきます"
+    },
+    {
+     "key": "2",
+     "text": "されています"
+    },
+    {
+     "key": "3",
+     "text": "しておく点です"
+    },
+    {
+     "key": "4",
+     "text": "されている点です"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null,
+   "audio_url": null,
+   "group_local_id": "g_text9"
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "text_grammar",
+   "mondai_no": 9,
+   "number_in_section": 50,
+   "stem": "数に限りがある香木は、香道が広まり需要が増えすぎればなくなるおそれもあります。50 香道ではあまり多くの弟子を受け入れませんでした。",
+   "options": [
+    {
+     "key": "1",
+     "text": "一方"
+    },
+    {
+     "key": "2",
+     "text": "ちなみに"
+    },
+    {
+     "key": "3",
+     "text": "ところが"
+    },
+    {
+     "key": "4",
+     "text": "そのため"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null,
+   "group_local_id": "g_text9"
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "text_grammar",
+   "mondai_no": 9,
+   "number_in_section": 51,
+   "stem": "香水のように手軽ではありませんが、このような香りの楽しみ方も51。",
+   "options": [
+    {
+     "key": "1",
+     "text": "いいものだと思いました"
+    },
+    {
+     "key": "2",
+     "text": "いいと思ったのでしょう"
+    },
+    {
+     "key": "3",
+     "text": "よかったはずです"
+    },
+    {
+     "key": "4",
+     "text": "よかったのではないでしょうか"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null,
+   "group_local_id": "g_text9"
+  }
+ ],
+ "explanations": [
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 31,
+   "key_point": "〜につれて（N2）",
+   "analysis_zh": "正解是 3「につれて」。「〜につれて」表示「隨著…」，前後項同步變化。小說情節推進，主人公少年的心理隨之變化，前後伴隨關係成立。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「としても」表假定逆接（就算…也），與「伴隨變化」語境不合。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「とはいえ」表轉折（雖說…但是），後項須為評價而非單純事實變化，不合。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「にあたって」表「值此…之際」，用於重要時刻，不合。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "としても",
+    "2": "とはいえ",
+    "3": "につれて",
+    "4": "にあたって"
+   },
+   "option_meanings": {
+    "1": "就算…也",
+    "2": "雖說…但是",
+    "3": "隨著…",
+    "4": "值此…之際"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 32,
+   "key_point": "二度と〜ない（N2）",
+   "analysis_zh": "正解是 1「二度と」。「二度と〜ない」表示「再也不…」，下接否定。「（二度と）行きたくない」＝不想再去第二次，與「味道服務都最差」呼應。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「必ずしも」後接否定表「未必」，語義不合。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「まさか」表意外（沒想到…），不合。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「あまりに」表程度過甚，後須接結果，不合。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "にどと",
+    "2": "かならずしも",
+    "3": "まさか",
+    "4": "あまりに"
+   },
+   "option_meanings": {
+    "1": "再也不…",
+    "2": "未必…",
+    "3": "沒想到…、萬一",
+    "4": "過於…"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 33,
+   "key_point": "〜ものの（N2）",
+   "analysis_zh": "正解是 4「ものの」。「〜ものの」表逆接「雖然…可是…」。雖沒拿到獎牌，卻帶來了精彩表演，轉折成立。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「からといって」表「雖有…原因，但不能直接得出結論」，不合。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「どころか」表程度反差極大（別說…連…都），不合。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「あげくに」表（不好的）最終結果，不合。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "からといって",
+    "2": "どころか",
+    "3": "あげくに",
+    "4": "ものの"
+   },
+   "option_meanings": {
+    "1": "雖說…但不能就此…",
+    "2": "別說…、哪裡…",
+    "3": "到頭來（壞結果）",
+    "4": "雖然…可是…"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 34,
+   "key_point": "〜としてなら（N2）",
+   "analysis_zh": "正解是 2「としてなら」。「Nとして」表身份立場（作為…）；加「なら」構成條件，「要是作為興趣的話」。父親的意思是：只要是作為興趣，幾歲開始都不晚。※本題解析未明示正解，按文意判定為 2；1「としてだけ」（只作為）語氣過於限定，3、4「にとって」須接人物立場，不合。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「としてだけ」表「只作為」，限定過強，與鼓勵語氣不合。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「にとっては」須接人物或立場主體，「趣味」不合。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「にとっても」同上，「趣味」不能作「にとって」的主體。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "としてだけ",
+    "2": "としてなら",
+    "3": "にとっては",
+    "4": "にとっても"
+   },
+   "option_meanings": {
+    "1": "只作為…",
+    "2": "要是作為…的話",
+    "3": "對…來說（對比）",
+    "4": "就算對…來說也"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 35,
+   "key_point": "〜たばかりらしい（N2）",
+   "analysis_zh": "正解是 4「起きたばかりらしく」。朋友睡眼惺忪、還穿著睡衣，可推測「好像剛起床」。「〜たばかり」表剛做完某事，「らしい」表推測。1、2 的「起きるところ」表「即將起床」，與「已經在玄關」矛盾；3「起きるばかり」接續錯誤。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「起きるところだったら」表假設（如果即將起床的話），與已起床的事實矛盾。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「起きるところらしく」接續不當，「ところ」不接「らしい」作此解。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「起きるばかりだったら」表假設，且「ばかり」前須接た形，不合。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "おきるところだったら",
+    "2": "おきるところらしく",
+    "3": "おきるばかりだったら",
+    "4": "おきたばかりらしく"
+   },
+   "option_meanings": {
+    "1": "如果即將起床的話",
+    "2": "好像即將起床",
+    "3": "如果剛要起床的話",
+    "4": "好像剛起床"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 36,
+   "key_point": "〜というように（N2）",
+   "analysis_zh": "正解是 1「というように」。「ように」後接動詞，「ような」後接名詞。空後是「使用される」（動詞），故用「というように」。3、4 的「ということのよう」表傳聞，而本句是下定義解說，不合。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「というような」後須接名詞，空後是動詞，不合。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「ということのように」表傳聞（聽說…），本句是定義解說，不合。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「ということのような」表傳聞＋後接名詞，雙重不合。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "というように",
+    "2": "というような",
+    "3": "ということのように",
+    "4": "ということのような"
+   },
+   "option_meanings": {
+    "1": "像…這樣（後接動詞）",
+    "2": "像…這樣的（後接名詞）",
+    "3": "聽說…那樣",
+    "4": "聽說…那樣的"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 37,
+   "key_point": "〜ておくことで（N2）",
+   "analysis_zh": "正解是 3「しておくことで」。「ておく」表預先做某事；「ことで」表原因。預先做避難訓練，是因為火災時能冷靜行動，因果成立。2、4 的「している」表反復或狀態，不合；1「には」表目的（為了），與「からだ」的因果解說不合。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「しておくには」表目的（為了預先…），與後項「からだ」因果解說不合。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「しているとしても」表逆接假定（就算一直…也），不合。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「しているかというと」表提出論點，不合。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "しておくには",
+    "2": "しているとしても",
+    "3": "しておくことで",
+    "4": "しているかというと"
+   },
+   "option_meanings": {
+    "1": "為了預先…",
+    "2": "就算一直…也",
+    "3": "因為預先…",
+    "4": "至於是否一直在…"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 38,
+   "key_point": "〜ぶり（N2）",
+   "analysis_zh": "正解是 4「ぶり」。「Nぶり」表「時隔…」。大學時以來約 5 年沒去電影院＝時隔約 5 年。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「まで」表終點（到…為止），不合。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「など」表列舉（等等），不合。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「きり」表「僅、就」（数量之少），不合。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "まで",
+    "2": "など",
+    "3": "きり",
+    "4": "ぶり"
+   },
+   "option_meanings": {
+    "1": "到…為止",
+    "2": "等等",
+    "3": "僅、就",
+    "4": "時隔…"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 39,
+   "key_point": "〜ほかならない（N2）",
+   "analysis_zh": "正解是 1「ほかならない」。「〜ほかならない」表「無非是、正是」。削減睡眠時間＝無非是奪走身心恢復的重要機會，斷定語氣成立。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「欠かせない」表「不可或缺」，主語應是機會本身，不合。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「すぎない」表「只不過是」，前接說話人認為不重要之事，語氣不合。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「限らない」表「不限於」，不合。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "ほかならない",
+    "2": "欠かせない",
+    "3": "すぎない",
+    "4": "限らない"
+   },
+   "option_meanings": {
+    "1": "無非是、正是",
+    "2": "不可或缺",
+    "3": "只不過是",
+    "4": "不限於…"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 40,
+   "key_point": "〜とのことだ（N2）",
+   "analysis_zh": "正解是 2「とのことでした」。「とのことだ」是傳達留言的典型句型。木村轉述南先生的留言：希望山下今天內聯繫他。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「ことになりました」表結果決定，不合。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「と助かるのですが」表委婉請求，與轉述留言不合，且「ほしい」重複。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「ようにしてください」表要求對方，與轉述不合。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "ことになりました",
+    "2": "とのことでした",
+    "3": "と助かるのですが",
+    "4": "ようにしてください"
+   },
+   "option_meanings": {
+    "1": "結果是…",
+    "2": "聽說是…（轉述）",
+    "3": "如果…就幫大忙了",
+    "4": "請務必…"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 41,
+   "key_point": "〜べきだった（N2）",
+   "analysis_zh": "正解是 3「べきだった」。「べきだった」表「本應該…（卻沒做）」的後悔。沒查營業時間就去了，事後後悔：早該先查好。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「しかなかった」表「只好…」，不合。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「ほどではなかった」表「不如…」，不合。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「せいだった」表原因（都怪…），此處是後悔未做，不合。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "しかなかった",
+    "2": "ほどではなかった",
+    "3": "べきだった",
+    "4": "せいだった"
+   },
+   "option_meanings": {
+    "1": "只好…",
+    "2": "不如…那樣",
+    "3": "本應該…",
+    "4": "都怪…、因為…"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 42,
+   "key_point": "ていただく＋おかげ（N2）",
+   "analysis_zh": "正解是 2「応援していただいたおかげです」。「多くの方に」表恩惠來源用「に」，故用謙讓語「いただく」；「おかげです」表「多虧了」。1 的「おかげたです」接續錯誤；3、4「ことだと思います」表判斷，與感謝語境不合。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「おかげたです」接續錯誤（おかげです為固定形）。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「ことだと思います」表個人判斷，與「感謝」語境不合。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "同上，判斷句型不合感謝語境。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "おうえんしてくださったおかげたです",
+    "2": "おうえんしていただいたおかげです",
+    "3": "おうえんしてくださったことだとおもいます",
+    "4": "おうえんしていただいたことだとおもいます"
+   },
+   "option_meanings": {
+    "1": "多虧了您應援（誤）",
+    "2": "多虧了大家的應援",
+    "3": "我覺得是您應援了",
+    "4": "我覺得是承蒙應援"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 43,
+   "key_point": "排序・すら＋ても（N2）",
+   "analysis_zh": "正解是 1（★位置），正確語序 4312：「すれ違っても目を合わせることすらなくなってしまった」。「すら」表「甚至…」，與 4「ても」搭配表「甚至在…的情況下都不…」。1「こと」只能接在 3 的動詞之後。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "★位置若放「すら」，則「こと」無處安放，接續斷裂。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "★位置若放「目を合わせる」，則「すら」修飾對象不明。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "★位置若放「すれ違っても」，則讓步從句位置錯誤。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "こと",
+    "2": "すら",
+    "3": "めをあわせる",
+    "4": "すれちがっても"
+   },
+   "option_meanings": {
+    "1": "…這件事",
+    "2": "甚至…",
+    "3": "對上視線",
+    "4": "就算擦肩而過"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 44,
+   "key_point": "排序・ほどの〜ない（N2）",
+   "analysis_zh": "正解是 4（★位置），正確語序 1342：「見た目ほどの重さはないため、一人でも楽に動かせる」。前半「が」表轉折，後文須是與預期不符的內容：看起來沒那麼重，所以一個人也能輕鬆搬動。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "★位置若放「ほどの」，則比較對象缺失。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "★位置若放「ても」，則「一人」與讓步搭配斷裂。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "★位置若放「重さはないため」，則原因從句位置錯誤。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "ほどの",
+    "2": "ても",
+    "3": "おもさはないため",
+    "4": "ひとり"
+   },
+   "option_meanings": {
+    "1": "…程度的",
+    "2": "就算…也",
+    "3": "因為沒有那麼重",
+    "4": "一個人"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 45,
+   "key_point": "排序・ながらも（N2）",
+   "analysis_zh": "正解是 2（★位置），正確語序 3421：「返事をしなければと思いながらも、仕事の予定が決まっていなくて、まだ返事がきていない」。關鍵是 4「ながらも」表轉折（雖然想著…），3 須排在 4 前；1 只能排在 2 後。※原卷末句作「まだ返事がきていない」，按上下文應為「できていない」之誤植，照錄原文。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "★位置若放「決まっていなくて」，則原因從句提前，轉折邏輯斷裂。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "★位置若放「しなければ」，則「と思いながらも」搭配斷裂。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "★位置若放「と思いながらも」，則轉折從句位置錯誤。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "きまっていなくて",
+    "2": "しごとのよていが",
+    "3": "しなければ",
+    "4": "とおもいながらも"
+   },
+   "option_meanings": {
+    "1": "因為還沒定下來",
+    "2": "工作的計劃",
+    "3": "必須…",
+    "4": "雖然想著…"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 46,
+   "key_point": "排序・〜か（N2）",
+   "analysis_zh": "正解是 3（★位置），正確語序 2431：「作品のどこに注目していいのかがわかると、その作品をより深く味わえるからだ」。「どこに」之後只能接 2「注目して」；1「と」表條件（如果…），3 須排在 1 前。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "★位置若放「わかると」，則條件從句提前，疑問詞搭配斷裂。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "★位置若放「注目して」，則「どこに」的賓語缺失。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "★位置若放「鑑賞したら」，則條件關係錯亂。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "わかると",
+    "2": "ちゅうもくして",
+    "3": "いいのかが",
+    "4": "かんしょうしたら"
+   },
+   "option_meanings": {
+    "1": "如果明白…",
+    "2": "關注…",
+    "3": "是否該…",
+    "4": "如果鑑賞…"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 47,
+   "key_point": "排序・わりに（N2）",
+   "analysis_zh": "正解是 3（★位置），正確語序 1432：「雪が降っているわりに寒く感じないのは、風がほとんどないからだろう」。考點是「わりに」（就…來說，出乎…），1 須在第一空；「のは…からだ」表先說結果後說原因，2 須在最後。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "★位置若放「わりに」，則逆接關係起點錯誤。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "★位置若放「のは」，則「…からだ」解釋句型斷裂。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "★位置若放「そんなに」，則程度副詞位置錯誤。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "わりに",
+    "2": "のは",
+    "3": "さむくかんじない",
+    "4": "そんなに"
+   },
+   "option_meanings": {
+    "1": "就…來說（出乎…）",
+    "2": "…的是",
+    "3": "不覺得冷",
+    "4": "那麼"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 48,
+   "key_point": "〜といっても（N2）",
+   "analysis_zh": "正解是 3「といっても」。「〜といっても」表「雖說叫…」。雖說叫「香木」，但本來並沒有叫這種名字的樹存在，轉折成立。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「のように」表比喻（像…一樣），不合。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「のほかに」表「除…之外」，不合。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「であっても」表讓步假定（就算…也），不合。"
+    }
+   ],
+   "evidence": "「香木」といっても、そのような名前の木がもともと存在するわけではありません。",
+   "option_readings": {
+    "1": "のように",
+    "2": "のほかに",
+    "3": "といっても",
+    "4": "であっても"
+   },
+   "option_meanings": {
+    "1": "像…一樣",
+    "2": "除…之外",
+    "3": "雖說叫…",
+    "4": "就算…也"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 49,
+   "key_point": "〜とされている（N2）",
+   "analysis_zh": "正解是 2「されています」。「〜とされている」表「被認為是…」。因不能人工生產，被視為非常珍貴之物。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「しておきます」表預先做某事，不合。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「しておく点です」表「要預先做到的點」，不合。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「されている点です」表「被認為的點」，「点」多餘，不合。"
+    }
+   ],
+   "evidence": "人工的に生産できないため、大変貴重なものとされています。",
+   "option_readings": {
+    "1": "しておきます",
+    "2": "されています",
+    "3": "しておくてんです",
+    "4": "されているてんです"
+   },
+   "option_meanings": {
+    "1": "預先做好",
+    "2": "被認為是…",
+    "3": "要預先做到的點",
+    "4": "被認為的點"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 50,
+   "key_point": "そのため（N2）",
+   "analysis_zh": "正解是 4「そのため」。前文說香木有限、需求增大有耗盡之虞，後文說因此沒收太多弟子，因果關係成立，選「そのため」。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「一方」表對比（另一方面），不合。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「ちなみに」表補充（順便一提），此處是因果，非補充。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「ところが」表結果與預期相反，前後無直接因果轉折，不合。"
+    }
+   ],
+   "evidence": "需要が増えすぎればなくなるおそれもあります。そのため、香道ではあまり多くの弟子を受け入れませんでした。",
+   "option_readings": {
+    "1": "いっぽう",
+    "2": "ちなみに",
+    "3": "ところが",
+    "4": "そのため"
+   },
+   "option_meanings": {
+    "1": "另一方面",
+    "2": "順便一提",
+    "3": "然而（出乎意料）",
+    "4": "因此"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 51,
+   "key_point": "〜ものだと思いました（N2）",
+   "analysis_zh": "正解是 1「いいものだと思いました」。作者通過親身體驗理解了「聞香」的意味，結尾抒發感想：覺得這樣的賞香方式也很好。過去的感想用「と思いました」。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「いいと思ったのでしょう」表推測（大概會覺得好吧），作者是親身感想，不合。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「よかったはずです」表推定（應該很好），不合親身感想語境。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「よかったのではないでしょうか」表反問尋求贊同，不合個人感想語境。"
+    }
+   ],
+   "evidence": "このような香りの楽しみ方もいいものだと思いました。",
+   "option_readings": {
+    "1": "いいものだとおもいました",
+    "2": "いいとおもったのでしょう",
+    "3": "よかったはずです",
+    "4": "よかったのではないでしょうか"
+   },
+   "option_meanings": {
+    "1": "覺得是好東西",
+    "2": "大概會覺得好吧",
+    "3": "應該是很好的",
+    "4": "難道不好嗎（反問）"
+   }
+  }
+ ],
+ "vocabulary": [
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 31,
+   "word": "物語",
+   "reading": "ものがたり",
+   "pos": "名詞",
+   "meaning_zh": "故事",
+   "example_sentence": "物語が進むにつれて、主人公の少年の心理が変化していく。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 33,
+   "word": "素晴らしい",
+   "reading": "すばらしい",
+   "pos": "形容詞",
+   "meaning_zh": "精彩的、極好的",
+   "example_sentence": "素晴らしい演技を見せてくれた。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 35,
+   "word": "慌てた",
+   "reading": "あわてた",
+   "pos": "動詞",
+   "meaning_zh": "慌張的",
+   "example_sentence": "慌てた様子で友人が玄関に出てきた。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 36,
+   "word": "再確認",
+   "reading": "さいかくにん",
+   "pos": "名詞",
+   "meaning_zh": "再次確認",
+   "example_sentence": "「リマインド」とは、「再確認」の意味を持つ。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 37,
+   "word": "避難訓練",
+   "reading": "ひなんくんれん",
+   "pos": "名詞",
+   "meaning_zh": "避難演習",
+   "example_sentence": "学校や病院では定期的に避難訓練が行われている。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 38,
+   "word": "以来",
+   "reading": "いらい",
+   "pos": "接續詞",
+   "meaning_zh": "自…以來",
+   "example_sentence": "大学の時以来、映画館で映画を見ていない。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 39,
+   "word": "疲労",
+   "reading": "ひろう",
+   "pos": "名詞",
+   "meaning_zh": "疲勞",
+   "example_sentence": "体や脳にたまった疲労をとる効果がある。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 40,
+   "word": "先ほど",
+   "reading": "さきほど",
+   "pos": "副詞",
+   "meaning_zh": "剛才",
+   "example_sentence": "先ほど、さくら銀行の南さんからお電話がありました。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 41,
+   "word": "定休日",
+   "reading": "ていきゅうび",
+   "pos": "名詞",
+   "meaning_zh": "固定休息日",
+   "example_sentence": "定休日だったので入れなかった。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 42,
+   "word": "優勝",
+   "reading": "ゆうしょう",
+   "pos": "名詞",
+   "meaning_zh": "奪冠、優勝",
+   "example_sentence": "今回優勝できたのは、多くの方のおかげです。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 43,
+   "word": "擦肩而過",
+   "reading": "すれちがい",
+   "pos": "名詞",
+   "meaning_zh": "擦肩而過",
+   "example_sentence": "すれ違っても目を合わせることすらなくなった。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 44,
+   "word": "見た目",
+   "reading": "みため",
+   "pos": "名詞",
+   "meaning_zh": "外觀、看起來",
+   "example_sentence": "見た目ほどの重さはない。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 46,
+   "word": "鑑賞",
+   "reading": "かんしょう",
+   "pos": "名詞",
+   "meaning_zh": "鑑賞",
+   "example_sentence": "説明を聞きながら作品を鑑賞する。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 47,
+   "word": "風",
+   "reading": "かぜ",
+   "pos": "名詞",
+   "meaning_zh": "風",
+   "example_sentence": "風がほとんどないからだろう。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 48,
+   "word": "香道",
+   "reading": "こうどう",
+   "pos": "名詞",
+   "meaning_zh": "香道（日本傳統文化）",
+   "example_sentence": "「香道」とは、香りを楽しむ日本の伝統文化です。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 48,
+   "word": "香木",
+   "reading": "こうぼく",
+   "pos": "名詞",
+   "meaning_zh": "香木",
+   "example_sentence": "「香木」と呼ばれる木の破片を熱する。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 49,
+   "word": "貴重",
+   "reading": "きちょう",
+   "pos": "形容動詞",
+   "meaning_zh": "珍貴",
+   "example_sentence": "大変貴重なものとされている。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 50,
+   "word": "弟子",
+   "reading": "でし",
+   "pos": "名詞",
+   "meaning_zh": "弟子、徒弟",
+   "example_sentence": "あまり多くの弟子を受け入れませんでした。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 51,
+   "word": "繊細",
+   "reading": "せんさい",
+   "pos": "形容動詞",
+   "meaning_zh": "細膩、精緻",
+   "example_sentence": "繊細な香りを心の中でゆっくり味わう。"
+  }
+ ]
+}

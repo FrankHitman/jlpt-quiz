@@ -1,0 +1,1530 @@
+{
+ "groups": [
+  {
+   "local_id": "g_text9",
+   "section_code": "lang_reading",
+   "group_type": "passage",
+   "title": "問題9 文章文法：地下駐輪場",
+   "content": "地下駐輪場\n\n誰もが安全に、そして快適に暮らせる街をつくるため、各自治体はさまざまな取り組みを行っている。特に都市部において、駅周辺の整備は重要な課題となる。\n\n今回取り上げるのは、自転車の【48】出し。多くの駅には駐輪場が設置されているが、スペースには限りがある。駐輪場を利用できない人が多くなると、道路や歩道など許可されていない場所に置かれる自転車が増え、車両や歩行者の通行の妨げになってしまう。\n\nそこで有効になるのが地下空間の利用だ。地下に駐輪場があること自体はそれほど珍しくない。だが最近では、新しいタイプの地下駐輪場も見られる。それは、地下に【49】。全自動式の地下駐輪場なのだ。自転車だけを運ぶエレベーターが設置されており、地上で自転車をエレベーターに乗せてボタンを押すと、機械によって地下の駐輪スペースへと運ばれる。そして、機械が判断して空いている場所へ収納してくれる。取り出すときも、暗証番号を入力すれば、機械が地上へ運んできてくれる。\n\n【50】にはさまざまなメリットがある。たとえば、出し入れの手軽さだ。荷物が多い人や子供連れにとっては、駐輪場の中を移動せずに自転車を取り出せるというのは非常に便利だ。また、人が出入りしないので、盗難の心配もない。\n\n駐輪場不足を解決し、より快適で安全な街に【51】、全自動式の地下駐輪場の設置は有効な手段の一つだといえる。今後も増えていきそうだ。",
+   "sort_order": 1
+  }
+ ],
+ "questions": [
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 31,
+   "stem": "このカレーは15分（ ）あればできるので、よく作る",
+   "options": [
+    {
+     "key": "1",
+     "text": "を"
+    },
+    {
+     "key": "2",
+     "text": "も"
+    },
+    {
+     "key": "3",
+     "text": "に"
+    },
+    {
+     "key": "4",
+     "text": "が"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 32,
+   "stem": "A「新しい携帯電話、ちょっと使いづらいんだよね」\nB「使っていれば（ ）慣れるよ」",
+   "options": [
+    {
+     "key": "1",
+     "text": "いまにも"
+    },
+    {
+     "key": "2",
+     "text": "ようやく"
+    },
+    {
+     "key": "3",
+     "text": "そのうち"
+    },
+    {
+     "key": "4",
+     "text": "いつのまに"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 33,
+   "stem": "今朝は寝坊してしまい、食事をする時間（ ）顔を洗う時間もなかった",
+   "options": [
+    {
+     "key": "1",
+     "text": "すら"
+    },
+    {
+     "key": "2",
+     "text": "しか"
+    },
+    {
+     "key": "3",
+     "text": "とはいえ"
+    },
+    {
+     "key": "4",
+     "text": "どころか"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 34,
+   "stem": "A「ねえ、経済学のレポート書けた？」\nB「うん、難しかったけど、（ ）書いたよ」",
+   "options": [
+    {
+     "key": "1",
+     "text": "書けば"
+    },
+    {
+     "key": "2",
+     "text": "書いてでも"
+    },
+    {
+     "key": "3",
+     "text": "書くだけは"
+    },
+    {
+     "key": "4",
+     "text": "書いたわりに"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 35,
+   "stem": "情報技術の発展（ ）、コミュニケーションの手段は多様化している。",
+   "options": [
+    {
+     "key": "1",
+     "text": "において"
+    },
+    {
+     "key": "2",
+     "text": "にこたえて"
+    },
+    {
+     "key": "3",
+     "text": "にあたって"
+    },
+    {
+     "key": "4",
+     "text": "にともなって"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 36,
+   "stem": "（歯医者のホームページで）虫歯が小さい（ ）、簡単な治療で済みます。虫歯かもしれないと思ったら、早めに受診するようにしましょう。",
+   "options": [
+    {
+     "key": "1",
+     "text": "うちなら"
+    },
+    {
+     "key": "2",
+     "text": "うちでも"
+    },
+    {
+     "key": "3",
+     "text": "だけなら"
+    },
+    {
+     "key": "4",
+     "text": "だけでも"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 37,
+   "stem": "A水族館では、2か月前にイルカの赤ちゃんが生まれてから来場者が増え、非常に混雑する（ ）、開館時間を早めることを検討している",
+   "options": [
+    {
+     "key": "1",
+     "text": "ようにしたとしても"
+    },
+    {
+     "key": "2",
+     "text": "ようにしたことから"
+    },
+    {
+     "key": "3",
+     "text": "ようになったとしても"
+    },
+    {
+     "key": "4",
+     "text": "ようになったことから"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 38,
+   "stem": "（ホテルで）\n客「これから西森町に行くんですが、どこかおいしい和食のお店はありませんか。」\nフロント「西森町に（ ）、『さくら』はいかがでしょうか。大変人気のあるお店です。」",
+   "options": [
+    {
+     "key": "1",
+     "text": "伺うんでしたら"
+    },
+    {
+     "key": "2",
+     "text": "伺いますと"
+    },
+    {
+     "key": "3",
+     "text": "いらっしゃるんでしたら"
+    },
+    {
+     "key": "4",
+     "text": "いらっしゃいますと"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 39,
+   "stem": "田中さんは仕事が忙しいらしく、最近テニスクラブの練習を（ ）だ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "休みかねない"
+    },
+    {
+     "key": "2",
+     "text": "休みがち"
+    },
+    {
+     "key": "3",
+     "text": "休むとのことだ"
+    },
+    {
+     "key": "4",
+     "text": "休むに違いない"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 40,
+   "stem": "飼っている犬が最近よくしゃっくりをする。心配になって病院で聞いてみたら、1時間以上続く場合は検査したほうがいいが、すぐに止まるなら（ ）と言われた",
+   "options": [
+    {
+     "key": "1",
+     "text": "心配しなければならない"
+    },
+    {
+     "key": "2",
+     "text": "心配しないでもない"
+    },
+    {
+     "key": "3",
+     "text": "心配するわけではない"
+    },
+    {
+     "key": "4",
+     "text": "心配することはない"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 41,
+   "stem": "私が教えている経営学の講義では、去年から、毎回学生に講義の感想や質問を書いて（ ）。そこから気づかされることも多いからだ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "出してもらうことにしている"
+    },
+    {
+     "key": "2",
+     "text": "出してもらうことがある"
+    },
+    {
+     "key": "3",
+     "text": "出してあげることにしている"
+    },
+    {
+     "key": "4",
+     "text": "出してあげることがある"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 42,
+   "stem": "A「ねえ、大変。これから行くお寺、見学するには（ ）だよ。ガイドブックのここに書いてある。」\nB「本当だ。今から予約できるか電話して聞いてみようか。」",
+   "options": [
+    {
+     "key": "1",
+     "text": "予約しないといけないみたい"
+    },
+    {
+     "key": "2",
+     "text": "予約しないといけないはずだ"
+    },
+    {
+     "key": "3",
+     "text": "予約したくなるみたい"
+    },
+    {
+     "key": "4",
+     "text": "予約したくなるはずだ"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 8,
+   "number_in_section": 43,
+   "stem": "この歌を聞く＿＿ ＿＿ ★ ＿＿ことだ。彼はカラオケに行くと必ずこの歌を歌っていた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "のは"
+    },
+    {
+     "key": "2",
+     "text": "思い出す"
+    },
+    {
+     "key": "3",
+     "text": "たびに"
+    },
+    {
+     "key": "4",
+     "text": "高校時代の友人の"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 8,
+   "number_in_section": 44,
+   "stem": "昨日、アルバイトに遅刻しそうだったので＿＿ ＿＿ ★ ＿＿、結局遅刻してしまった。",
+   "options": [
+    {
+     "key": "1",
+     "text": "タクシーに乗ったら"
+    },
+    {
+     "key": "2",
+     "text": "かえって時間がかかり"
+    },
+    {
+     "key": "3",
+     "text": "急ごうと思って"
+    },
+    {
+     "key": "4",
+     "text": "道が渋滞していたせいで"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 8,
+   "number_in_section": 45,
+   "stem": "来月結婚する友人に結婚式のスピーチを頼まれた。大勢の前で話すのは＿＿ ＿＿ ★ ＿＿引き受けることにした。",
+   "options": [
+    {
+     "key": "1",
+     "text": "悩んだのだが"
+    },
+    {
+     "key": "2",
+     "text": "と言われて"
+    },
+    {
+     "key": "3",
+     "text": "どうしても"
+    },
+    {
+     "key": "4",
+     "text": "苦手なので"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 8,
+   "number_in_section": 46,
+   "stem": "先日の政治家A氏の発言はあまりに無責任だ。＿＿ ＿＿ ★ ＿＿、と思う。",
+   "options": [
+    {
+     "key": "1",
+     "text": "政治家としての"
+    },
+    {
+     "key": "2",
+     "text": "うえで"
+    },
+    {
+     "key": "3",
+     "text": "発言しなければならなかった"
+    },
+    {
+     "key": "4",
+     "text": "自分の立場をよく考えた"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 8,
+   "number_in_section": 47,
+   "stem": "食事や睡眠などの生活習慣は一度乱れてしまうと＿＿ ＿＿ ★ ＿＿が大切だ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "規則正しい生活を"
+    },
+    {
+     "key": "2",
+     "text": "戻そうとしても"
+    },
+    {
+     "key": "3",
+     "text": "普段から意識することが"
+    },
+    {
+     "key": "4",
+     "text": "なかなか戻せないので"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_text9",
+   "section_code": "lang_reading",
+   "qtype_code": "text_grammar",
+   "mondai_no": 9,
+   "number_in_section": 48,
+   "stem": "今回取り上げるのは、自転車の【48】出し。",
+   "options": [
+    {
+     "key": "1",
+     "text": "問題だろう"
+    },
+    {
+     "key": "2",
+     "text": "問題である"
+    },
+    {
+     "key": "3",
+     "text": "問題とのことだ"
+    },
+    {
+     "key": "4",
+     "text": "問題ではないか"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_text9",
+   "section_code": "lang_reading",
+   "qtype_code": "text_grammar",
+   "mondai_no": 9,
+   "number_in_section": 49,
+   "stem": "それは、地下に【49】。全自動式の地下駐輪場なのだ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "つくられているにすぎない"
+    },
+    {
+     "key": "2",
+     "text": "つくられているに違いない"
+    },
+    {
+     "key": "3",
+     "text": "つくられているといってもよい"
+    },
+    {
+     "key": "4",
+     "text": "つくられているというだけではない"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_text9",
+   "section_code": "lang_reading",
+   "qtype_code": "text_grammar",
+   "mondai_no": 9,
+   "number_in_section": 50,
+   "stem": "【50】にはさまざまなメリットがある。",
+   "options": [
+    {
+     "key": "1",
+     "text": "駐輪場"
+    },
+    {
+     "key": "2",
+     "text": "ある駐輪場"
+    },
+    {
+     "key": "3",
+     "text": "このような駐輪場"
+    },
+    {
+     "key": "4",
+     "text": "そこの駐輪場"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_text9",
+   "section_code": "lang_reading",
+   "qtype_code": "text_grammar",
+   "mondai_no": 9,
+   "number_in_section": 51,
+   "stem": "駐輪場不足を解決し、より快適で安全な街に【51】、全自動式の地下駐輪場の設置は有効な手段の一つだといえる。",
+   "options": [
+    {
+     "key": "1",
+     "text": "しても"
+    },
+    {
+     "key": "2",
+     "text": "するために"
+    },
+    {
+     "key": "3",
+     "text": "なったように"
+    },
+    {
+     "key": "4",
+     "text": "なってはじめて"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null
+  }
+ ],
+ "explanations": [
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 31,
+   "key_point": "〜もあれば（N2・最低限の提示）",
+   "analysis_zh": "正解是 2「も」。「15分もあれば」表示「只要有15分鐘就夠了」，「も」提示最低限度，後接肯定時表「只須…就足夠」。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「を」是賓語標記，這裡沒有及物動詞可接"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「に」表時間點或場所，不合「あれば」的條件句"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「が」是主格標記，「15分があれば」語法可通但語義變成「15分鐘存在」而非「只須15分鐘」"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "を",
+    "2": "も",
+    "3": "に",
+    "4": "が"
+   },
+   "option_meanings": {
+    "1": "（賓格助詞）",
+    "2": "（也；只須）",
+    "3": "（在；向）",
+    "4": "（主格助詞）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 32,
+   "key_point": "そのうち（N2・副詞辨析）",
+   "analysis_zh": "正解是 3「そのうち」。「用著用著就會習慣」，「そのうち」表「過不久、遲早」，符合語境。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「いまにも」表「眼看就要」，多接危機或即將發生的事，不合「習慣」"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「ようやく」表「好不容易、終於」，指已經發生的事，不合未來推測"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「いつのまに」表「不知不覺間」，指回顧已發生的變化，不合"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "いまにも",
+    "2": "ようやく",
+    "3": "そのうち",
+    "4": "いつのまに"
+   },
+   "option_meanings": {
+    "1": "眼看就要",
+    "2": "終於、好不容易",
+    "3": "過不久、遲早",
+    "4": "不知不覺間"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 33,
+   "key_point": "〜どころか（N2）",
+   "analysis_zh": "正解是 4「どころか」。「別說吃飯了，連洗臉的時間都沒有」，「AどころかB」表「別說A，連B都…」，後項程度更甚。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「すら」表「甚至」，應為「食事をする時間すらなかった」，但後面還有「顔を洗う時間も」，結構不合"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「しか〜ない」表「只有」，語義相反"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「とはいえ」表「雖說…但是」，表轉折，不合並列遞進語氣"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "すら",
+    "2": "しか",
+    "3": "とはいえ",
+    "4": "どころか"
+   },
+   "option_meanings": {
+    "1": "甚至",
+    "2": "只有",
+    "3": "雖說…但是",
+    "4": "別說…"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 34,
+   "key_point": "V辞書形＋だけは（N2）",
+   "analysis_zh": "正解是 3「書くだけは」。「V辞書形＋だけは＋同一動詞た形」表「能做的都做了」，「雖然很難，但能寫的都寫了」。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「書けば」是條件形，「如果寫的話」語義不完整"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「書いてでも」表「即使寫」，語氣是讓步而非「竭盡所能」"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「わりに」表「與…相比不相稱」，「寫了但與之不相稱」語義不通"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "かけば",
+    "2": "かいてでも",
+    "3": "かくだけは",
+    "4": "かいたわりに"
+   },
+   "option_meanings": {
+    "1": "如果寫",
+    "2": "即使寫",
+    "3": "能寫的都寫了",
+    "4": "寫了但是（不相稱）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 35,
+   "key_point": "〜にともなって（N2）",
+   "analysis_zh": "正解是 4「にともなって」。「隨著資訊技術的發展」，表伴隨變化而發生的變化。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「において」表「在…方面/場合」，不表伴隨變化"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「にこたえて」表「回應…的要求」，需有要求對象"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「にあたって」表「值此…之際」，用於特定時機，不合漸進變化"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "において",
+    "2": "にこたえて",
+    "3": "にあたって",
+    "4": "にともなって"
+   },
+   "option_meanings": {
+    "1": "在…方面",
+    "2": "回應…",
+    "3": "值此…之際",
+    "4": "隨著…"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 36,
+   "key_point": "〜うちに・うちなら（N2）",
+   "analysis_zh": "正解是 1「うちなら」。「趁蛀牙還小的時候」，「うち」表某狀態持續的期間，「なら」表條件，「如果是在還小的階段」。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「うちでも」表「即使在…期間」，讓步語氣不合廣告文案的條件提示"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「だけなら」表「如果只是…」，語義可通但不如「うちなら」強調時機"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「だけでも」表「即使只是」，讓步語氣不合"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "うちなら",
+    "2": "うちでも",
+    "3": "だけなら",
+    "4": "だけでも"
+   },
+   "option_meanings": {
+    "1": "如果是在…的時候",
+    "2": "即使在…的時候",
+    "3": "如果只是…",
+    "4": "即使只是…"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 37,
+   "key_point": "ようになる＋ことから（N2）",
+   "analysis_zh": "正解是 4「ようになったことから」。「因為變得非常擁擠」，「ようになる」表狀態變化（非意志），「ことから」表客觀原因。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「ようにした」表人為努力使之，擁擠非人為意志造成"
+    },
+    {
+     "option": "2",
+     "why_wrong": "同上，「ようにした」不合非意志的狀態變化"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「としても」表讓步「即使」，與「検討している」的因果關係矛盾"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "ようにしたとしても",
+    "2": "ようにしたことから",
+    "3": "ようになったとしても",
+    "4": "ようになったことから"
+   },
+   "option_meanings": {
+    "1": "即使設法…",
+    "2": "因為設法…",
+    "3": "即使變得…",
+    "4": "因為變得…"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 38,
+   "key_point": "尊他語＋んでしたら（N2）",
+   "analysis_zh": "正解是 3「いらっしゃるんでしたら」。客人是尊敬對象，「行く」的尊他語是「いらっしゃる」；「と」表必然結果多用於自然現象，此處用條件「んでしたら」表假設更自然。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「伺う」是自謙語（自己去），對客人的動作不能用自謙語"
+    },
+    {
+     "option": "2",
+     "why_wrong": "同上自謙語誤用；且「と」表必然因果，不合推薦語氣"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「いらっしゃいますと」的「と」表「一…就…」的必然關係，不合假設推薦"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "うかがうんでしたら",
+    "2": "うかがいますと",
+    "3": "いらっしゃるんでしたら",
+    "4": "いらっしゃいますと"
+   },
+   "option_meanings": {
+    "1": "（自謙）如果要去",
+    "2": "（自謙）一去就",
+    "3": "（尊他）如果要去",
+    "4": "（尊他）一去就"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 39,
+   "key_point": "〜がち（N2）",
+   "analysis_zh": "正解是 2「休みがち」。「Vます＋がち」表「經常…、動不動就…」的消極傾向，「最近經常請假」。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「かねない」表「有可能…」的可能性，非習慣性傾向"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「とのことだ」表傳聞，「聽說要請假」與「最近」的持續狀態不合"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「に違いない」表強烈斷定，語氣過強且不表傾向"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "やすみかねない",
+    "2": "やすみがち",
+    "3": "やすむとのことだ",
+    "4": "やすむにちがいない"
+   },
+   "option_meanings": {
+    "1": "有可能請假",
+    "2": "經常請假",
+    "3": "聽說要請假",
+    "4": "一定會請假"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 40,
+   "key_point": "V辞書形＋ことはない（N2）",
+   "analysis_zh": "正解是 4「心配することはない」。「V辞書形＋ことはない」表「沒必要…」，「如果馬上就停就沒必要擔心」。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「なければならない」表「必須」，語義完全相反"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「ないでもない」表「也不是不…」即「有點」，語義不合醫生的安心保證"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「わけではない」表否定斷定「並不是…」，不表「沒必要」"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "しんぱいしなければならない",
+    "2": "しんぱいしないでもない",
+    "3": "しんぱいするわけではない",
+    "4": "しんぱいすることはない"
+   },
+   "option_meanings": {
+    "1": "必須擔心",
+    "2": "也不是不擔心",
+    "3": "並不是擔心",
+    "4": "沒必要擔心"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 41,
+   "key_point": "てもらう＋ことにしている（N2）",
+   "analysis_zh": "正解是 1「出してもらうことにしている」。學生交報告是「讓學生交（我得到）」，用「てもらう」；「ことにしている」表長期堅持的習慣。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「ことがある」表「有時」，與「毎回」矛盾"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「てあげる」是「我給學生」，方向錯誤（是學生交給老師）"
+    },
+    {
+     "option": "4",
+     "why_wrong": "方向錯誤且「ことがある」與「毎回」矛盾"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "だしてもらうことにしている",
+    "2": "だしてもらうことがある",
+    "3": "だしてあげることにしている",
+    "4": "だしてあげることがある"
+   },
+   "option_meanings": {
+    "1": "堅持讓（學生）交",
+    "2": "有時讓（學生）交",
+    "3": "堅持交給（學生）",
+    "4": "有時交給（學生）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 42,
+   "key_point": "みたい vs はずだ（N2）",
+   "analysis_zh": "正解是 1「予約しないといけないみたい」。說話人只是看到導覽書上的記載作推測，用「みたい」；「はずだ」表基於客觀理由的強斷定，此處只是看到文字，無充分推理過程。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「はずだ」需有客觀依據的推理，此處僅是看到記載，語氣過強"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「したくなる」表「變得想預約」，與「必須預約」語義不合"
+    },
+    {
+     "option": "4",
+     "why_wrong": "同上語義不合，且「はずだ」語氣過強"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "よやくしないといけないみたい",
+    "2": "よやくしないといけないはずだ",
+    "3": "よやくしたくなるみたい",
+    "4": "よやくしたくなるはずだ"
+   },
+   "option_meanings": {
+    "1": "好像必須預約",
+    "2": "一定是必須預約",
+    "3": "好像變得想預約",
+    "4": "一定是變得想預約"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 43,
+   "key_point": "〜たびに＋Vのは…のことだ（N2・排序）",
+   "analysis_zh": "正解是 1（語序3214）。「この歌を聞くたびに思い出すのは高校時代の友人のことだ」：「たびに」緊接動詞表「每當…就…」；「Vのは…のことだ」是強調句型，★位置為「のは」。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「思い出す」須緊接「たびに」之後，不能放在★"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「たびに」須接在「聞く」後，位置已固定"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「高校時代の友人の」是句尾名詞部分，不能放在★"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "のは",
+    "2": "おもいだす",
+    "3": "たびに",
+    "4": "こうこうじだいのゆうじんの"
+   },
+   "option_meanings": {
+    "1": "（強調句型）",
+    "2": "想起",
+    "3": "每當…就",
+    "4": "高中時代朋友的"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 44,
+   "key_point": "〜たら・〜せいで（N2・排序）",
+   "analysis_zh": "正解是 4（語序3142）。「急ごうと思ってタクシーに乗ったら、道が渋滞していたせいで、かえって時間がかかり」：「急ごうと思って」表意圖開頭；「たら」接意外發現；「せいで」表原因；★位置為「道が渋滞していたせいで」。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「タクシーに乗ったら」須接在「急ごうと思って」後，位置固定為第2"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「かえって時間がかかり」是結果，須在原因「せいで」之後"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「急ごうと思って」是句首意圖，不能放在★"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "タクシーにのったら",
+    "2": "かえってじかんがかかり",
+    "3": "いそごうとおもって",
+    "4": "みちがじゅうたいしていたせいで"
+   },
+   "option_meanings": {
+    "1": "一搭上計程車就",
+    "2": "反而花了時間",
+    "3": "想趕時間",
+    "4": "因為塞車"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 45,
+   "key_point": "どうしてもと言われて（N2・排序）",
+   "analysis_zh": "正解是 3（語序4132）。「大勢の前で話すのは苦手なので、悩んだのだが、どうしてもと言われて、引き受けることにした」：「どうしても（スピーチをお願いします）と言われて」是慣用搭配，34鎖定；12表因果在前。★位置為「どうしても」。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「悩んだのだが」須在「苦手なので」之後，位置固定為第2"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「と言われて」須與「どうしても」搭配在第4"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「苦手なので」是句首原因，位置固定為第1"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "なやんだのだが",
+    "2": "といわれて",
+    "3": "どうしても",
+    "4": "にがてなので"
+   },
+   "option_meanings": {
+    "1": "雖然煩惱",
+    "2": "被說…",
+    "3": "無論如何",
+    "4": "因為不擅長"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 46,
+   "key_point": "AとしてのN・Vたうえで（N2・排序）",
+   "analysis_zh": "正解是 2（語序1423）。「政治家としての自分の立場をよく考えたうえで発言しなければならなかった」：「AとしてのN」固定搭配開頭；「Vたうえで」表「在…基礎上再…」，42鎖定；★位置為「うえで」。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「政治家としての」開頭修飾「立場」，位置固定為第1"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「発言しなければならなかった」是句尾，位置固定為第4"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「自分の立場をよく考えた」須在「うえで」前，位置固定為第2"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "せいじかとしての",
+    "2": "うえで",
+    "3": "はつげんしなければならなかった",
+    "4": "じぶんのたちばをよくかんがえた"
+   },
+   "option_meanings": {
+    "1": "作為政治家的",
+    "2": "在…基礎上",
+    "3": "本應該發言",
+    "4": "充分考慮自己的立場"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 47,
+   "key_point": "V意向＋としてもV可能ない（N2・排序）",
+   "analysis_zh": "正解是 4（語序1243）。「規則正しい生活を戻そうとしてもなかなか戻せないので普段から意識することが大切だ」：「V意向＋としても＋V可能ない」表「即使想…也無法…」，124鎖定；★位置為「なかなか戻せないので」。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「規則正しい生活を」是賓語開頭，位置固定為第1"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「戻そうとしても」須接在賓語後，位置固定為第2"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「普段から意識することが」是句尾主語，位置固定為第4"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "きそくただしいせいかつを",
+    "2": "もどそうとしても",
+    "3": "ふだんからいしきすることが",
+    "4": "なかなかもどせないので"
+   },
+   "option_meanings": {
+    "1": "規律正常的生活",
+    "2": "即使想恢復",
+    "3": "平時就注意",
+    "4": "很難恢復，所以"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 48,
+   "key_point": "である（N2・文章文法）",
+   "analysis_zh": "正解是 2「問題である」。「這次要討論的是自行車的問題」，正式書面語的斷定。※原卷「【48】出し」的「出し」疑為誤植（中文翻譯亦略去），按「自転車の問題」理解；1表推測、3表傳聞、4表反問，皆不合開篇主題句。※本題解析未給正解，按文意判定。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「だろう」表推測，開篇主題句不應用推測語氣"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「とのことだ」表傳聞，無傳聞來源"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「ではないか」表反問或提議，不合陳述主題"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "もんだいだろう",
+    "2": "もんだいである",
+    "3": "もんだいとのことだ",
+    "4": "もんだいではないか"
+   },
+   "option_meanings": {
+    "1": "大概是問題吧",
+    "2": "是問題",
+    "3": "據說是問題",
+    "4": "難道不是問題嗎"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 49,
+   "key_point": "〜というだけではない（N2・文章文法）",
+   "analysis_zh": "正解是 4「つくられているというだけではない」。「它不只是在地下建造而已」，後文「全自動式」說明其超越之處，前後呼應。※本題解析未給正解，按文意判定。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「にすぎない」表「不過是」，與後文強調全自動的先進性矛盾"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「に違いない」表推測，說明文不應用推測"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「といってもよい」表「可以說是」，語氣弱且無遞進含義"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "つくられているにすぎない",
+    "2": "つくられているにちがいない",
+    "3": "つくられているといってもよい",
+    "4": "つくられているというだけではない"
+   },
+   "option_meanings": {
+    "1": "不過是被建造",
+    "2": "一定是被建造",
+    "3": "可以說是被建造",
+    "4": "不只是被建造"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 50,
+   "key_point": "こそあど（N2・文章文法）",
+   "analysis_zh": "正解是 3「このような駐輪場」。指代前文描述的全自動式地下駐輪場，「這樣的停車場」有多種優點。※本題解析未給正解，按文意判定。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「駐輪場」無限定，範圍過大（前文也提到普通駐輪場）"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「ある駐輪場」表「某個」，不特指前文所述"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「そこの」指遠處場所，此處無遠近對比"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "ちゅうりんじょう",
+    "2": "あるちゅうりんじょう",
+    "3": "このようなちゅうりんじょう",
+    "4": "そこのちゅうりんじょう"
+   },
+   "option_meanings": {
+    "1": "停車場",
+    "2": "某個停車場",
+    "3": "這樣的停車場",
+    "4": "那裡的停車場"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 51,
+   "key_point": "〜するために（N2・文章文法）",
+   "analysis_zh": "正解是 2「するために」。「為了解決停車場不足、為了讓城市更舒適安全」，表目的。※本題解析未給正解，按文意判定。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「しても」表讓步「即使」，與「有効な手段」的目的關係不合"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「なったように」表比況或樣態，不合目的語境"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「なってはじめて」表「變成…才…」，條件過強且語義不通"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "しても",
+    "2": "するために",
+    "3": "なったように",
+    "4": "なってはじめて"
+   },
+   "option_meanings": {
+    "1": "即使",
+    "2": "為了",
+    "3": "變得…一樣",
+    "4": "變成…才…"
+   }
+  }
+ ],
+ "vocabulary": [
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 31,
+   "word": "あれば",
+   "reading": "あれば",
+   "pos": "動詞",
+   "meaning_zh": "如果有",
+   "example_sentence": "15分もあればできる",
+   "note": "「ある」的假定形",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 32,
+   "word": "使いづらい",
+   "reading": "つかいづらい",
+   "pos": "形容詞",
+   "meaning_zh": "難用",
+   "example_sentence": "ちょっと使いづらいんだよね",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 33,
+   "word": "寝坊",
+   "reading": "ねぼう",
+   "pos": "名詞",
+   "meaning_zh": "睡過頭",
+   "example_sentence": "今朝は寝坊してしまい",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 34,
+   "word": "レポート",
+   "reading": "レポート",
+   "pos": "名詞",
+   "meaning_zh": "報告",
+   "example_sentence": null,
+   "note": null,
+   "etymology_en": "report"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 35,
+   "word": "多様化",
+   "reading": "たようか",
+   "pos": "名詞",
+   "meaning_zh": "多樣化",
+   "example_sentence": "手段は多様化している",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 36,
+   "word": "虫歯",
+   "reading": "むしば",
+   "pos": "名詞",
+   "meaning_zh": "蛀牙",
+   "example_sentence": "虫歯が小さいうちなら",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 37,
+   "word": "混雑",
+   "reading": "こんざつ",
+   "pos": "名詞",
+   "meaning_zh": "擁擠",
+   "example_sentence": "非常に混雑するようになった",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 38,
+   "word": "いらっしゃる",
+   "reading": "いらっしゃる",
+   "pos": "動詞",
+   "meaning_zh": "去/來/在（尊他）",
+   "example_sentence": "西森町にいらっしゃるんでしたら",
+   "note": "「行く・来る・いる」的尊他語",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 39,
+   "word": "がち",
+   "reading": "がち",
+   "pos": "接尾",
+   "meaning_zh": "動不動就…、偏向",
+   "example_sentence": "休みがちだ",
+   "note": "接在動詞ます形後，表消極傾向",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 40,
+   "word": "しゃっくり",
+   "reading": "しゃっくり",
+   "pos": "名詞",
+   "meaning_zh": "打嗝",
+   "example_sentence": "よくしゃっくりをする",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 41,
+   "word": "気づかされる",
+   "reading": "きづかされる",
+   "pos": "動詞",
+   "meaning_zh": "被點醒、受到啟發",
+   "example_sentence": "そこから気づかされることも多い",
+   "note": "「気づかせる」的被動形",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 42,
+   "word": "みたい",
+   "reading": "みたい",
+   "pos": "助動詞",
+   "meaning_zh": "好像（推測）",
+   "example_sentence": "予約しないといけないみたいだ",
+   "note": "與「はずだ」（強斷定）辨析",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 43,
+   "word": "たびに",
+   "reading": "たびに",
+   "pos": "接續",
+   "meaning_zh": "每當…就…",
+   "example_sentence": "聞くたびに思い出す",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 44,
+   "word": "せいで",
+   "reading": "せいで",
+   "pos": "接續",
+   "meaning_zh": "因為…（消極原因）",
+   "example_sentence": "道が渋滞していたせいで",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 45,
+   "word": "どうしても",
+   "reading": "どうしても",
+   "pos": "副詞",
+   "meaning_zh": "無論如何",
+   "example_sentence": "どうしてもと言われて",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 46,
+   "word": "うえで",
+   "reading": "うえで",
+   "pos": "接續",
+   "meaning_zh": "在…之後/基礎上",
+   "example_sentence": "考えたうえで発言する",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 47,
+   "word": "なかなか",
+   "reading": "なかなか",
+   "pos": "副詞",
+   "meaning_zh": "很難、遲遲",
+   "example_sentence": "なかなか戻せない",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 48,
+   "word": "取り上げる",
+   "reading": "とりあげる",
+   "pos": "動詞",
+   "meaning_zh": "提出討論、拿起",
+   "example_sentence": "今回取り上げるのは",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 49,
+   "word": "全自動式",
+   "reading": "ぜんじどうしき",
+   "pos": "名詞",
+   "meaning_zh": "全自動式",
+   "example_sentence": "全自動式の地下駐輪場",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 50,
+   "word": "メリット",
+   "reading": "メリット",
+   "pos": "名詞",
+   "meaning_zh": "優點",
+   "example_sentence": "さまざまなメリットがある",
+   "note": null,
+   "etymology_en": "merit"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 51,
+   "word": "快適",
+   "reading": "かいてき",
+   "pos": "形容動詞",
+   "meaning_zh": "舒適",
+   "example_sentence": "より快適で安全な街に",
+   "note": null,
+   "etymology_en": null
+  }
+ ]
+}

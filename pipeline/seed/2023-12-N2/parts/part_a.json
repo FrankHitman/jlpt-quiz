@@ -1,0 +1,2149 @@
+{
+ "groups": [],
+ "questions": [
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_reading",
+   "mondai_no": 1,
+   "number_in_section": 1,
+   "stem": "昨日から腕が痛くて困っている。",
+   "options": [
+    {
+     "key": "1",
+     "text": "こし"
+    },
+    {
+     "key": "2",
+     "text": "うで"
+    },
+    {
+     "key": "3",
+     "text": "かた"
+    },
+    {
+     "key": "4",
+     "text": "ひざ"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": "腕",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_reading",
+   "mondai_no": 1,
+   "number_in_section": 2,
+   "stem": "青木さんは善良な人です。",
+   "options": [
+    {
+     "key": "1",
+     "text": "せんりょう"
+    },
+    {
+     "key": "2",
+     "text": "ぜんりゅう"
+    },
+    {
+     "key": "3",
+     "text": "ぜんりょう"
+    },
+    {
+     "key": "4",
+     "text": "せんりゅう"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": "善良",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_reading",
+   "mondai_no": 1,
+   "number_in_section": 3,
+   "stem": "丸山さんは意外に幼いところがある。",
+   "options": [
+    {
+     "key": "1",
+     "text": "おさない"
+    },
+    {
+     "key": "2",
+     "text": "するどい"
+    },
+    {
+     "key": "3",
+     "text": "かしこい"
+    },
+    {
+     "key": "4",
+     "text": "しつこい"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": "幼い",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_reading",
+   "mondai_no": 1,
+   "number_in_section": 4,
+   "stem": "古いデータを削除した。",
+   "options": [
+    {
+     "key": "1",
+     "text": "そくよ"
+    },
+    {
+     "key": "2",
+     "text": "さくよ"
+    },
+    {
+     "key": "3",
+     "text": "そくじょ"
+    },
+    {
+     "key": "4",
+     "text": "さくじょ"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": "削除",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_reading",
+   "mondai_no": 1,
+   "number_in_section": 5,
+   "stem": "私たちは働く機会の平等を求めています。",
+   "options": [
+    {
+     "key": "1",
+     "text": "へいど"
+    },
+    {
+     "key": "2",
+     "text": "びょうどう"
+    },
+    {
+     "key": "3",
+     "text": "びょうど"
+    },
+    {
+     "key": "4",
+     "text": "へいどう"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": "平等",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_writing",
+   "mondai_no": 2,
+   "number_in_section": 6,
+   "stem": "お金のかんりは、きちんとしてください。",
+   "options": [
+    {
+     "key": "1",
+     "text": "管利"
+    },
+    {
+     "key": "2",
+     "text": "官理"
+    },
+    {
+     "key": "3",
+     "text": "管理"
+    },
+    {
+     "key": "4",
+     "text": "官利"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": "かんり",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_writing",
+   "mondai_no": 2,
+   "number_in_section": 7,
+   "stem": "今日から2週間のけんしゅうを行います。",
+   "options": [
+    {
+     "key": "1",
+     "text": "演習"
+    },
+    {
+     "key": "2",
+     "text": "研習"
+    },
+    {
+     "key": "3",
+     "text": "研修"
+    },
+    {
+     "key": "4",
+     "text": "演修"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": "けんしゅう",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_writing",
+   "mondai_no": 2,
+   "number_in_section": 8,
+   "stem": "社会はたえず変化している。",
+   "options": [
+    {
+     "key": "1",
+     "text": "完えず"
+    },
+    {
+     "key": "2",
+     "text": "絶えず"
+    },
+    {
+     "key": "3",
+     "text": "停えず"
+    },
+    {
+     "key": "4",
+     "text": "滞えず"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": "たえず",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_writing",
+   "mondai_no": 2,
+   "number_in_section": 9,
+   "stem": "選挙で誰に（だれに）とうひょうするかまだ決めていない。",
+   "options": [
+    {
+     "key": "1",
+     "text": "投票"
+    },
+    {
+     "key": "2",
+     "text": "当票"
+    },
+    {
+     "key": "3",
+     "text": "投標"
+    },
+    {
+     "key": "4",
+     "text": "当標"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": "とうひょう",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_writing",
+   "mondai_no": 2,
+   "number_in_section": 10,
+   "stem": "中島さん（なかじま）は何かをかかえて部屋に入ってきた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "押えて"
+    },
+    {
+     "key": "2",
+     "text": "捕えて"
+    },
+    {
+     "key": "3",
+     "text": "握えて"
+    },
+    {
+     "key": "4",
+     "text": "抱えて"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": "かかえて",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_formation",
+   "mondai_no": 3,
+   "number_in_section": 11,
+   "stem": "彼は兄に対抗（ ）を持っているようだ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "心"
+    },
+    {
+     "key": "2",
+     "text": "欲"
+    },
+    {
+     "key": "3",
+     "text": "願"
+    },
+    {
+     "key": "4",
+     "text": "熱"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_formation",
+   "mondai_no": 3,
+   "number_in_section": 12,
+   "stem": "引っ越しのための（ ）手続きをしなければならない。",
+   "options": [
+    {
+     "key": "1",
+     "text": "総"
+    },
+    {
+     "key": "2",
+     "text": "複"
+    },
+    {
+     "key": "3",
+     "text": "多"
+    },
+    {
+     "key": "4",
+     "text": "諸"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_formation",
+   "mondai_no": 3,
+   "number_in_section": 13,
+   "stem": "買い物をしている二人（ ）にインタビューをしました。",
+   "options": [
+    {
+     "key": "1",
+     "text": "出かけ"
+    },
+    {
+     "key": "2",
+     "text": "連れ"
+    },
+    {
+     "key": "3",
+     "text": "会い"
+    },
+    {
+     "key": "4",
+     "text": "集まり"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 14,
+   "stem": "このアニメは、登場人物がとてもかわいいと、若者の間で（ ）になっている。",
+   "options": [
+    {
+     "key": "1",
+     "text": "課題"
+    },
+    {
+     "key": "2",
+     "text": "題名"
+    },
+    {
+     "key": "3",
+     "text": "題材"
+    },
+    {
+     "key": "4",
+     "text": "話題"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 15,
+   "stem": "あのとき、友達に謝らなかったことをずっと（ ）している。",
+   "options": [
+    {
+     "key": "1",
+     "text": "同情"
+    },
+    {
+     "key": "2",
+     "text": "後悔"
+    },
+    {
+     "key": "3",
+     "text": "我慢"
+    },
+    {
+     "key": "4",
+     "text": "恐縮"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 16,
+   "stem": "楽器の音量を確認（かくにん）するために、コンサートの前日に会場で（ ）をした。",
+   "options": [
+    {
+     "key": "1",
+     "text": "チャージ"
+    },
+    {
+     "key": "2",
+     "text": "アポイントメント"
+    },
+    {
+     "key": "3",
+     "text": "オリエンテーション"
+    },
+    {
+     "key": "4",
+     "text": "リハーサル"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 17,
+   "stem": "この魚は、いつでもこの辺りの海にいるわけではなく、（ ）の時期にしかいない。",
+   "options": [
+    {
+     "key": "1",
+     "text": "特定"
+    },
+    {
+     "key": "2",
+     "text": "指定"
+    },
+    {
+     "key": "3",
+     "text": "固定"
+    },
+    {
+     "key": "4",
+     "text": "限定"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 18,
+   "stem": "この季節は乾燥していて、肌が（ ）になる。",
+   "options": [
+    {
+     "key": "1",
+     "text": "どろどろ"
+    },
+    {
+     "key": "2",
+     "text": "ふさふさ"
+    },
+    {
+     "key": "3",
+     "text": "かさかさ"
+    },
+    {
+     "key": "4",
+     "text": "べたべた"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 19,
+   "stem": "先生の発音をよく聞いて、同じになるように発音を（ ）みましょう。",
+   "options": [
+    {
+     "key": "1",
+     "text": "まねて"
+    },
+    {
+     "key": "2",
+     "text": "かなえて"
+    },
+    {
+     "key": "3",
+     "text": "映して"
+    },
+    {
+     "key": "4",
+     "text": "保って"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 20,
+   "stem": "金子さん（かねこ）とは初めて会ったが、お互いサッカーが大好きだと分かって、話が（ ）。",
+   "options": [
+    {
+     "key": "1",
+     "text": "飛び出した"
+    },
+    {
+     "key": "2",
+     "text": "行き過ぎた"
+    },
+    {
+     "key": "3",
+     "text": "盛り上がった"
+    },
+    {
+     "key": "4",
+     "text": "駆け抜けた"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "synonym",
+   "mondai_no": 5,
+   "number_in_section": 21,
+   "stem": "これについては、各自が責任を持つことにします。",
+   "options": [
+    {
+     "key": "1",
+     "text": "私"
+    },
+    {
+     "key": "2",
+     "text": "代表者"
+    },
+    {
+     "key": "3",
+     "text": "一人一人"
+    },
+    {
+     "key": "4",
+     "text": "あなた"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": "各自",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "synonym",
+   "mondai_no": 5,
+   "number_in_section": 22,
+   "stem": "明日はレポートを仕上げるつもりです。",
+   "options": [
+    {
+     "key": "1",
+     "text": "書く"
+    },
+    {
+     "key": "2",
+     "text": "完成させる"
+    },
+    {
+     "key": "3",
+     "text": "出す"
+    },
+    {
+     "key": "4",
+     "text": "整理する"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": "仕上げる",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "synonym",
+   "mondai_no": 5,
+   "number_in_section": 23,
+   "stem": "それは深刻な問題だ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "単純な"
+    },
+    {
+     "key": "2",
+     "text": "身近な"
+    },
+    {
+     "key": "3",
+     "text": "微妙な"
+    },
+    {
+     "key": "4",
+     "text": "重大な"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": "深刻な",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "synonym",
+   "mondai_no": 5,
+   "number_in_section": 24,
+   "stem": "今日は同僚（どうりょう）と食事に行く予定です。",
+   "options": [
+    {
+     "key": "1",
+     "text": "同じ会社の人"
+    },
+    {
+     "key": "2",
+     "text": "同じアパートの人"
+    },
+    {
+     "key": "3",
+     "text": "同じ出身地の人"
+    },
+    {
+     "key": "4",
+     "text": "同じクラスの人"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": "同僚",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "synonym",
+   "mondai_no": 5,
+   "number_in_section": 25,
+   "stem": "前田さん（まえだ）はさっきからうつむいている。",
+   "options": [
+    {
+     "key": "1",
+     "text": "上を向いて"
+    },
+    {
+     "key": "2",
+     "text": "横を向いて"
+    },
+    {
+     "key": "3",
+     "text": "下を向いて"
+    },
+    {
+     "key": "4",
+     "text": "後ろを向いて"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": "うつむいて",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_usage",
+   "mondai_no": 6,
+   "number_in_section": 26,
+   "stem": "廃止（はいし）",
+   "options": [
+    {
+     "key": "1",
+     "text": "両親は20年以上続けてきた店を廃止することにした。"
+    },
+    {
+     "key": "2",
+     "text": "点検のため、午前中はエレベーターの使用を廃止します。"
+    },
+    {
+     "key": "3",
+     "text": "雨が降ってきたので、今日のイベントは廃止します。"
+    },
+    {
+     "key": "4",
+     "text": "時代に合わない古い制度は廃止したほうがいい。"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": "廃止",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_usage",
+   "mondai_no": 6,
+   "number_in_section": 27,
+   "stem": "腫れる（はれる）",
+   "options": [
+    {
+     "key": "1",
+     "text": "森さんのポケットは、物が多くて腫れている。"
+    },
+    {
+     "key": "2",
+     "text": "今日はたくさん食べたので、おなかが腫れている。"
+    },
+    {
+     "key": "3",
+     "text": "サッカーの試合でけがをして、足が腫れてしまった。"
+    },
+    {
+     "key": "4",
+     "text": "オーブンでクッキーを焼いたら、だんだん腫れてきた。"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": "腫れる",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_usage",
+   "mondai_no": 6,
+   "number_in_section": 28,
+   "stem": "上達（じょうたつ）",
+   "options": [
+    {
+     "key": "1",
+     "text": "毎日練習しているので、ピアノがかなり上達した。"
+    },
+    {
+     "key": "2",
+     "text": "いい病院で治療してもらえたようで、祖父の体調は上達した。"
+    },
+    {
+     "key": "3",
+     "text": "同じ作家が好きなことが分かって、大野さん（おおの）との仲が上達した。"
+    },
+    {
+     "key": "4",
+     "text": "小川さん（おがわ）が詳しく説明してくれたので、理解が上達した。"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": "上達",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_usage",
+   "mondai_no": 6,
+   "number_in_section": 29,
+   "stem": "暮れ（くれ）",
+   "options": [
+    {
+     "key": "1",
+     "text": "この物語の暮れは、意外な内容だった。"
+    },
+    {
+     "key": "2",
+     "text": "旅行の暮れに、みんなで記念に写真を撮った。"
+    },
+    {
+     "key": "3",
+     "text": "授業の暮れに、先生が今日の宿題を出した。"
+    },
+    {
+     "key": "4",
+     "text": "今年の暮れは、実家で両親と過ごしたい。"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": "暮れ",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_usage",
+   "mondai_no": 6,
+   "number_in_section": 30,
+   "stem": "残高（ざんだか）",
+   "options": [
+    {
+     "key": "1",
+     "text": "私たちが会議室を利用できる残高は、あと10分です。"
+    },
+    {
+     "key": "2",
+     "text": "私の銀行口座の残高は、1,000円しかありません。"
+    },
+    {
+     "key": "3",
+     "text": "この町の残高は、ついに1万人を下回りました。"
+    },
+    {
+     "key": "4",
+     "text": "山の頂上までの残高は、100メートルくらいです。"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": "残高",
+   "audio_url": null
+  }
+ ],
+ "explanations": [
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 1,
+   "key_point": "漢字読み・腕（N2）",
+   "analysis_zh": "正解是 2「うで」。「腕」讀作 うで，意思是手臂。題干說「從昨天起手臂痛，很困擾」。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「こし」是「腰」的讀音，意思是腰部，與題干不合。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「かた」是「肩」的讀音，意思是肩膀。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「ひざ」是「膝」的讀音，意思是膝蓋。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 2,
+   "key_point": "漢字読み・善良（N2）",
+   "analysis_zh": "正解是 3「ぜんりょう」。「善良」讀作 ぜんりょう，意思是善良、正直純潔。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「せんりょう」是「染料」的讀音，與題干不合。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「ぜんりゅう」讀音錯誤，「良」不讀 りゅう。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「せんりゅう」讀音錯誤。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 3,
+   "key_point": "漢字読み・幼い（N2）",
+   "analysis_zh": "正解是 1「おさない」。「幼い」讀作 おさない，意思是年幼、孩子氣。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「するどい」是「鋭い」的讀音，意思是敏銳的。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「かしこい」是「賢い」的讀音，意思是聰明的。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「しつこい」是「執拗い」的讀音，意思是糾纏不休的。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 4,
+   "key_point": "漢字読み・削除（N2）",
+   "analysis_zh": "正解是 4「さくじょ」。「削除」讀作 さくじょ，意思是刪除。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「そくよ」讀音錯誤。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「さくよ」讀音錯誤，「除」不讀 よ。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「そくじょ」讀音錯誤，「削」才讀 さく。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 5,
+   "key_point": "漢字読み・平等（N2）",
+   "analysis_zh": "正解是 2「びょうどう」。「平等」讀作 びょうどう，意思是平等、無差別。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「へいど」讀音錯誤。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「びょうど」讀音錯誤，「等」不讀 ど。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「へいどう」讀音錯誤。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 6,
+   "key_point": "表記・管理（N2）",
+   "analysis_zh": "正解是 3「管理」。「かんり」寫作「管理」，意思是管理、保管。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「管利」不存在這個詞。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「官理」不存在這個詞。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「官利」不存在這個詞。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "かんり",
+    "2": "かんり",
+    "3": "かんり",
+    "4": "かんり"
+   },
+   "option_meanings": {
+    "1": "（非詞）",
+    "2": "（非詞）",
+    "3": "管理",
+    "4": "（非詞）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 7,
+   "key_point": "表記・研修（N2）",
+   "analysis_zh": "正解是 3「研修」。「けんしゅう」在此語境寫作「研修」，意思是進修、研習。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「演習」讀作 えんしゅう，意思是演習、練習，語境不合。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「研習」是非常用表記。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「演修」不存在這個詞。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "えんしゅう",
+    "2": "けんしゅう",
+    "3": "けんしゅう",
+    "4": "えんしゅう"
+   },
+   "option_meanings": {
+    "1": "演習、練習",
+    "2": "（非常用表記）",
+    "3": "進修、研習",
+    "4": "（非詞）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 8,
+   "key_point": "表記・絶えず（N2）",
+   "analysis_zh": "正解是 2「絶えず」。「たえず」寫作「絶えず」，意思是不間斷、無休止。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「完えず」不存在這個詞。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「停えず」表記錯誤。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「滞えず」表記錯誤（滞る是 とどこおる）。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "たえず",
+    "2": "たえず",
+    "3": "たえず",
+    "4": "たえず"
+   },
+   "option_meanings": {
+    "1": "（非詞）",
+    "2": "不間斷、無休止",
+    "3": "（表記錯誤）",
+    "4": "（表記錯誤）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 9,
+   "key_point": "表記・投票（N2）",
+   "analysis_zh": "正解是 1「投票」。「とうひょう」寫作「投票」，意思是投票。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「当票」不存在這個詞。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「投標」是中文式表記，日語不用。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「当標」不存在這個詞。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "とうひょう",
+    "2": "とうひょう",
+    "3": "とうひょう",
+    "4": "とうひょう"
+   },
+   "option_meanings": {
+    "1": "投票",
+    "2": "（非詞）",
+    "3": "（中文式表記）",
+    "4": "（非詞）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 10,
+   "key_point": "表記・抱える（N2）",
+   "analysis_zh": "正解是 4「抱えて」。「かかえて」在此語境（抱著某物進房間）寫作「抱える」，意思是抱、承擔。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「押える」讀作 おさえる，意思是按住、抑制。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「捕える」讀作 とらえる，意思是捕捉。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「握える」非常用表記（握る是 にぎる）。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "おさえて",
+    "2": "とらえて",
+    "3": "にぎえて",
+    "4": "かかえて"
+   },
+   "option_meanings": {
+    "1": "按住、抑制",
+    "2": "捕捉",
+    "3": "（非常用表記）",
+    "4": "抱、承擔"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 11,
+   "key_point": "語形成・対抗心（N2）",
+   "analysis_zh": "正解是 1「心」。「対抗心」表示對抗心、不服輸的心。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「対抗欲」不存在這個搭配。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「対抗願」不存在。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「対抗熱」不存在；「熱」常與「情熱」「熱心」搭配。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "たいこうしん",
+    "2": "たいこうよく",
+    "3": "たいこうがん",
+    "4": "たいこうねつ"
+   },
+   "option_meanings": {
+    "1": "對抗心、不服輸的心",
+    "2": "（非詞）",
+    "3": "（非詞）",
+    "4": "（非詞）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 12,
+   "key_point": "語形成・諸手続き（N2）",
+   "analysis_zh": "正解是 4「諸」。「諸」是接頭詞，表示「各種」，「諸手続き」即各種手續。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「総手続き」不存在這個搭配。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「複手続き」不存在。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「多手続き」不存在。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "そうてつづき",
+    "2": "ふくてつづき",
+    "3": "たてつづき",
+    "4": "しょてつづき"
+   },
+   "option_meanings": {
+    "1": "（非詞）",
+    "2": "（非詞）",
+    "3": "（非詞）",
+    "4": "各種手續"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 13,
+   "key_point": "語形成・二人連れ（N2）",
+   "analysis_zh": "正解是 2「連れ」。「連れ」是接尾詞，表示「伴侶、帶著」，「二人連れ」即兩個人一起。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「二人出かけ」不存在這個搭配。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「二人会い」不存在。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「二人集まり」不存在。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "ふたりでかけ",
+    "2": "ふたりづれ",
+    "3": "ふたりあい",
+    "4": "ふたりあつまり"
+   },
+   "option_meanings": {
+    "1": "（非詞）",
+    "2": "兩個人一起、結伴",
+    "3": "（非詞）",
+    "4": "（非詞）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 14,
+   "key_point": "文脈規定・話題（N2）",
+   "analysis_zh": "正解是 4「話題」。「話題になっている」表示成為話題、受到熱議。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「課題」意思是課題、待解決的問題，語境不合。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「題名」意思是標題，語境不合。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「題材」意思是題材、素材，語境不合。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "かだい",
+    "2": "だいめい",
+    "3": "だいざい",
+    "4": "わだい"
+   },
+   "option_meanings": {
+    "1": "課題、待解決的問題",
+    "2": "標題",
+    "3": "題材、素材",
+    "4": "話題、熱議的事"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 15,
+   "key_point": "文脈規定・後悔（N2）",
+   "analysis_zh": "正解是 2「後悔」。沒向朋友道歉而一直後悔，符合語境。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「同情」表示同情，語境不合。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「我慢」表示忍耐，語境不合。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「恐縮」表示惶恐、過意不去，多用於受恩惠時，語境不合。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "どうじょう",
+    "2": "こうかい",
+    "3": "がまん",
+    "4": "きょうしゅく"
+   },
+   "option_meanings": {
+    "1": "同情",
+    "2": "後悔",
+    "3": "忍耐",
+    "4": "惶恐、過意不去"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 16,
+   "key_point": "文脈規定・リハーサル（N2）",
+   "analysis_zh": "正解是 4「リハーサル」。為了確認樂器音量在音樂會前一天進行彩排。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「チャージ」表示充電，語境不合。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「アポイントメント」表示預約，語境不合。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「オリエンテーション」表示新人培訓、迎新，語境不合。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "チャージ",
+    "2": "アポイントメント",
+    "3": "オリエンテーション",
+    "4": "リハーサル"
+   },
+   "option_meanings": {
+    "1": "充電",
+    "2": "預約",
+    "3": "迎新、新人培訓",
+    "4": "彩排"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 17,
+   "key_point": "文脈規定・特定（N2）",
+   "analysis_zh": "正解是 1「特定」。「特定の時期」表示特定的時期，是固定搭配。「〜にしかいない」與之呼應：只在特定時期出現。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「指定」表示指定（人為規定），多用於場所、日期的人為指定，語境不合。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「固定」表示固定不變，多用於位置、金額，語境不合。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「限定」表示限定，多用於「期間限定」等促銷語境，「限定的時期」搭配不自然。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "とくてい",
+    "2": "してい",
+    "3": "こてい",
+    "4": "げんてい"
+   },
+   "option_meanings": {
+    "1": "特定",
+    "2": "指定",
+    "3": "固定",
+    "4": "限定"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 18,
+   "key_point": "文脈規定・かさかさ（N2）",
+   "analysis_zh": "正解是 3「かさかさ」。考查擬聲擬態詞。「かさかさ」表示乾燥、乾巴巴，符合語境。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「どろどろ」表示黏糊糊、爛泥狀，語境不合。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「ふさふさ」表示毛茸茸、濃密，語境不合。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「べたべた」表示黏膩，與乾燥相反。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "どろどろ",
+    "2": "ふさふさ",
+    "3": "かさかさ",
+    "4": "べたべた"
+   },
+   "option_meanings": {
+    "1": "黏糊糊",
+    "2": "毛茸茸、濃密",
+    "3": "乾燥、乾巴巴",
+    "4": "黏膩"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 19,
+   "key_point": "文脈規定・まねる（N2）",
+   "analysis_zh": "正解是 1「まねて」。「まねる」表示模仿。試著模仿老師的發音讓發音變得一樣。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「かなえる」表示實現（願望），語境不合。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「映す」表示映、照，語境不合。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「保つ」表示保持，語境不合。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "まねて",
+    "2": "かなえて",
+    "3": "うつして",
+    "4": "たもって"
+   },
+   "option_meanings": {
+    "1": "模仿",
+    "2": "實現",
+    "3": "映、照",
+    "4": "保持"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 20,
+   "key_point": "文脈規定・盛り上がる（N2）",
+   "analysis_zh": "正解是 3「盛り上がった」。考查複合動詞。「盛り上がる」表示聊得投機、高漲。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「飛び出す」表示突然出現、跳出，語境不合。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「行き過ぎる」表示經過、走過站，語境不合。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「駆け抜ける」表示跑過去、趕超過去，語境不合。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "とびだした",
+    "2": "いきすぎた",
+    "3": "もりあがった",
+    "4": "かけぬけた"
+   },
+   "option_meanings": {
+    "1": "突然出現、跳出",
+    "2": "經過、走過站",
+    "3": "聊得投機、高漲",
+    "4": "跑過去"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 21,
+   "key_point": "類義・各自（N2）",
+   "analysis_zh": "正解是 3「一人一人」。「各自」的意思是「各自」，「一人一人」意思是「每個人」，意思一致。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「私」是第一人稱，與「各自」意思不同。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「代表者」是代表，意思不同。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「あなた」是第二人稱，意思不同。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "わたし",
+    "2": "だいひょうしゃ",
+    "3": "ひとりひとり",
+    "4": "あなた"
+   },
+   "option_meanings": {
+    "1": "我",
+    "2": "代表",
+    "3": "每個人",
+    "4": "你"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 22,
+   "key_point": "類義・仕上げる（N2）",
+   "analysis_zh": "正解是 2「完成させる」。「仕上げる」是他動詞，意思是「完成」，「完成させる」使役形意思是「使完成」，意思一致。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「書く」只是寫，不含完成之意。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「出す」是提交，意思不同。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「整理する」是整理，意思不同。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "かく",
+    "2": "かんせいさせる",
+    "3": "だす",
+    "4": "せいりする"
+   },
+   "option_meanings": {
+    "1": "寫",
+    "2": "使完成",
+    "3": "提交",
+    "4": "整理"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 23,
+   "key_point": "類義・深刻（N2）",
+   "analysis_zh": "正解是 4「重大な」。「深刻」是な形容詞，意思是「嚴重的」。「重大な」也是な形容詞，意思是「嚴重的」，意思一致。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「単純な」意思是單純的，意思不同。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「身近な」意思是身邊的、切身的，意思不同。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「微妙な」意思是微妙的，意思不同。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "たんじゅんな",
+    "2": "みぢかな",
+    "3": "びみょうな",
+    "4": "じゅうだいな"
+   },
+   "option_meanings": {
+    "1": "單純的",
+    "2": "切身的",
+    "3": "微妙的",
+    "4": "嚴重的"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 24,
+   "key_point": "類義・同僚（N2）",
+   "analysis_zh": "正解是 1「同じ会社の人」。「同僚」的意思是「同事」，也就是「同一個公司的人」。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「同じアパートの人」是鄰居，意思不同。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「同じ出身地の人」是老鄉，意思不同。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「同じクラスの人」是同班同學，意思不同。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "おなじかいしゃのひと",
+    "2": "おなじアパートのひと",
+    "3": "おなじしゅっしんちのひと",
+    "4": "おなじクラスのひと"
+   },
+   "option_meanings": {
+    "1": "同一個公司的人",
+    "2": "同一棟公寓的人",
+    "3": "同鄉",
+    "4": "同班同學"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 25,
+   "key_point": "類義・うつむく（N2）",
+   "analysis_zh": "正解是 3「下を向いて」。「うつむく」的意思是「低頭」，也就是「向下看」。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「上を向いて」是向上看，方向相反。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「横を向いて」是看向旁邊，意思不同。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「後ろを向いて」是向後看，意思不同。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "うえをむいて",
+    "2": "よこをむいて",
+    "3": "したをむいて",
+    "4": "うしろをむいて"
+   },
+   "option_meanings": {
+    "1": "向上看",
+    "2": "看向旁邊",
+    "3": "向下看",
+    "4": "向後看"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 26,
+   "key_point": "用法・廃止（N2）",
+   "analysis_zh": "正解是 4。「廃止」的意思是「廢止、廢除、作廢」，一般指取消原先的制度、習慣等。選項4「不合時代的舊制度還是廢除為好」是正確的。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "店關門應用「店を閉める／たたむ」，不用「廃止」。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "暫停使用應用「使用を中止／停止する」，不用「廃止」。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "活動取消應用「イベントを中止する」，不用「廃止」。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "りょうしんは20ねんいじょうつづけてきたみせをはいしすることにした。",
+    "2": "てんけんのため、ごぜんちゅうはエレベーターのしようをはいしします。",
+    "3": "あめがふってきたので、きょうのイベントははいしします。",
+    "4": "じだいにあわないふるいせいどははいししたほうがいい。"
+   },
+   "option_meanings": {
+    "1": "父母打算把經營了20多年的店廢止。",
+    "2": "因檢修，上午暫停使用電梯。",
+    "3": "因為下雨，今天的活動取消。",
+    "4": "不合時代的舊制度還是廢除為好。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 27,
+   "key_point": "用法・腫れる（N2）",
+   "analysis_zh": "正解是 3。「腫れる」的意思是「腫」，一般指身體部位腫。因此選項3「我在足球比賽中受了傷，腳腫了」是正確的。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "口袋裝太多東西應用「膨れている／膨らんでいる」，不用「腫れる」。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "吃太多肚子脹應用「おなかが膨れている」，不用「腫れる」。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "餅乾烤得膨脹應用「膨らんできた」，不用「腫れる」。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "もりさんのポケットは、ものがおおくてはれている。",
+    "2": "きょうはたくさんたべたので、おなかがはれている。",
+    "3": "サッカーのしあいでけがをして、あしがはれてしまった。",
+    "4": "オーブンでクッキーをやいたら、だんだんはれてきた。"
+   },
+   "option_meanings": {
+    "1": "森先生的口袋東西太多鼓起來了。",
+    "2": "今天吃太多，肚子脹了。",
+    "3": "足球比賽受傷，腳腫了。",
+    "4": "用烤箱烤餅乾，慢慢膨脹起來。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 28,
+   "key_point": "用法・上達（N2）",
+   "analysis_zh": "正解是 1。「上達」的意思是「進步」，一般指學術和技術等的提高。因此選項1「因為每天都練習，所以鋼琴進步了很多」是正確的。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "身體狀況好轉應用「体調がよくなった／回復した」，不用「上達」。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "關係加深應用「仲が深まった」，不用「上達」。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "理解加深應用「理解が深まった」，不用「上達」。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "まいにちれんしゅうしているので、ピアノがかなりじょうたつした。",
+    "2": "いいびょういんでちりょうしてもらえたようで、そふのたいちょうはじょうたつした。",
+    "3": "おなじさっかがすきなことがわかって、おおのさんとのなかがじょうたつした。",
+    "4": "おがわさんがくわしくせつめいしてくれたので、りかいがじょうたつした。"
+   },
+   "option_meanings": {
+    "1": "每天練習，鋼琴進步很多。",
+    "2": "在好醫院接受治療，祖父身體好轉。",
+    "3": "發現喜歡同一個作家，和大野先生的關係加深。",
+    "4": "小川先生詳細說明，理解加深。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 29,
+   "key_point": "用法・暮れ（N2）",
+   "analysis_zh": "正解是 4。「暮れ」的意思是「歲末，年終，年底」，因此選項4「今年年底想和父母在老家過」是正確的。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "故事的結尾應用「物語の結末／終わり」，不用「暮れ」。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "旅行結束時應用「旅行の終わりに」，不用「暮れ」。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "下課前應用「授業の終わりに」，不用「暮れ」。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "このものがたりのくれは、いがいなないようだった。",
+    "2": "りょこうのくれに、みんなできねんにしゃしんをとった。",
+    "3": "じゅぎょうのくれに、せんせいがきょうのしゅくだいをだした。",
+    "4": "ことしのくれは、じっかでりょうしんとすごしたい。"
+   },
+   "option_meanings": {
+    "1": "這個故事的結尾內容出乎意料。",
+    "2": "旅行結束時大家一起拍了紀念照。",
+    "3": "下課前老師佈置了今天的作業。",
+    "4": "今年年底想在老家陪父母過。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 30,
+   "key_point": "用法・残高（N2）",
+   "analysis_zh": "正解是 2。「残高」的意思是「餘額」，常用於「銀行存款餘額」「賬戶餘額」等，因此選項2「我銀行賬戶的餘額只有1000日元」是正確的。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "會議室可用時間應用「残り時間」，不用「残高」。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "城鎮人口應用「人口」，不用「残高」。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "剩餘距離應用「残りの距離」，不用「残高」。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "わたしたちがかいぎしつをりようできるざんだかは、あと10ぷんです。",
+    "2": "わたしのぎんこうこうざのざんだかは、1000えんしかありません。",
+    "3": "このまちのざんだかは、ついに1まんにんをしたりまわりました。",
+    "4": "やまのちょうじょうまでのざんだかは、100メートルくらいです。"
+   },
+   "option_meanings": {
+    "1": "我們能使用會議室的時間還剩10分鐘。",
+    "2": "我銀行賬戶餘額只有1000日元。",
+    "3": "這個城鎮的人口終於跌破1萬人。",
+    "4": "到山頂還剩約100米。"
+   }
+  }
+ ],
+ "vocabulary": [
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 1,
+   "word": "腕",
+   "reading": "うで",
+   "pos": "名詞",
+   "meaning_zh": "手臂",
+   "example_sentence": "昨日から腕が痛くて困っている。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 2,
+   "word": "善良",
+   "reading": "ぜんりょう",
+   "pos": "形容動詞",
+   "meaning_zh": "善良、正直純潔",
+   "example_sentence": "青木さんは善良な人です。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 3,
+   "word": "幼い",
+   "reading": "おさない",
+   "pos": "形容詞",
+   "meaning_zh": "年幼、孩子氣",
+   "example_sentence": "丸山さんは意外に幼いところがある。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 4,
+   "word": "削除",
+   "reading": "さくじょ",
+   "pos": "名詞・サ変動詞",
+   "meaning_zh": "刪除",
+   "example_sentence": "古いデータを削除した。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 5,
+   "word": "平等",
+   "reading": "びょうどう",
+   "pos": "名詞・形容動詞",
+   "meaning_zh": "平等、無差別",
+   "example_sentence": "私たちは働く機会の平等を求めています。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 6,
+   "word": "管理",
+   "reading": "かんり",
+   "pos": "名詞・サ変動詞",
+   "meaning_zh": "管理、保管",
+   "example_sentence": "お金のかんりは、きちんとしてください。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 7,
+   "word": "研修",
+   "reading": "けんしゅう",
+   "pos": "名詞・サ変動詞",
+   "meaning_zh": "進修、研習",
+   "example_sentence": "今日から2週間のけんしゅうを行います。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 8,
+   "word": "絶えず",
+   "reading": "たえず",
+   "pos": "副詞",
+   "meaning_zh": "不間斷、無休止",
+   "example_sentence": "社会はたえず変化している。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 9,
+   "word": "投票",
+   "reading": "とうひょう",
+   "pos": "名詞・サ変動詞",
+   "meaning_zh": "投票",
+   "example_sentence": "選挙で誰に（だれに）とうひょうするかまだ決めていない。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 10,
+   "word": "抱える",
+   "reading": "かかえる",
+   "pos": "動詞",
+   "meaning_zh": "抱、承擔",
+   "example_sentence": "中島さん（なかじま）は何かをかかえて部屋に入ってきた。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 11,
+   "word": "対抗心",
+   "reading": "たいこうしん",
+   "pos": "名詞",
+   "meaning_zh": "對抗心、不服輸的心",
+   "example_sentence": "彼は兄に対抗心を持っているようだ。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 12,
+   "word": "諸",
+   "reading": "しょ",
+   "pos": "接頭詞",
+   "meaning_zh": "各種",
+   "example_sentence": "引っ越しのための諸手続きをしなければならない。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 13,
+   "word": "連れ",
+   "reading": "つれ",
+   "pos": "接尾詞",
+   "meaning_zh": "伴侶、帶著",
+   "example_sentence": "買い物をしている二人連れにインタビューをしました。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 14,
+   "word": "話題",
+   "reading": "わだい",
+   "pos": "名詞",
+   "meaning_zh": "話題、熱議的事",
+   "example_sentence": "若者の間で話題になっている。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 15,
+   "word": "後悔",
+   "reading": "こうかい",
+   "pos": "名詞・サ変動詞",
+   "meaning_zh": "後悔",
+   "example_sentence": "あのとき、友達に謝らなかったことをずっと後悔している。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 16,
+   "word": "リハーサル",
+   "reading": "リハーサル",
+   "pos": "名詞",
+   "meaning_zh": "彩排",
+   "example_sentence": null,
+   "note": null,
+   "etymology_en": "rehearsal"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 17,
+   "word": "特定",
+   "reading": "とくてい",
+   "pos": "名詞・形容動詞",
+   "meaning_zh": "特定",
+   "example_sentence": "特定の時期にしかいない。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 18,
+   "word": "かさかさ",
+   "reading": "かさかさ",
+   "pos": "副詞・擬態詞",
+   "meaning_zh": "乾燥、乾巴巴",
+   "example_sentence": "肌がかさかさになる。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 19,
+   "word": "まねる",
+   "reading": "まねる",
+   "pos": "動詞",
+   "meaning_zh": "模仿",
+   "example_sentence": "発音をまねてみましょう。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 20,
+   "word": "盛り上がる",
+   "reading": "もりあがる",
+   "pos": "動詞",
+   "meaning_zh": "聊得投機、高漲",
+   "example_sentence": "話が盛り上がった。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 21,
+   "word": "各自",
+   "reading": "かくじ",
+   "pos": "名詞",
+   "meaning_zh": "各自",
+   "example_sentence": "各自が責任を持つことにします。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 22,
+   "word": "仕上げる",
+   "reading": "しあげる",
+   "pos": "動詞",
+   "meaning_zh": "完成",
+   "example_sentence": "レポートを仕上げるつもりです。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 23,
+   "word": "深刻",
+   "reading": "しんこく",
+   "pos": "形容動詞",
+   "meaning_zh": "嚴重的",
+   "example_sentence": "それは深刻な問題だ。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 24,
+   "word": "同僚",
+   "reading": "どうりょう",
+   "pos": "名詞",
+   "meaning_zh": "同事",
+   "example_sentence": "今日は同僚と食事に行く予定です。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 25,
+   "word": "うつむく",
+   "reading": "うつむく",
+   "pos": "動詞",
+   "meaning_zh": "低頭",
+   "example_sentence": "前田さんはさっきからうつむいている。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 26,
+   "word": "廃止",
+   "reading": "はいし",
+   "pos": "名詞・サ変動詞",
+   "meaning_zh": "廢止、廢除",
+   "example_sentence": "時代に合わない古い制度は廃止したほうがいい。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 27,
+   "word": "腫れる",
+   "reading": "はれる",
+   "pos": "動詞",
+   "meaning_zh": "腫",
+   "example_sentence": "足が腫れてしまった。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 28,
+   "word": "上達",
+   "reading": "じょうたつ",
+   "pos": "名詞・サ変動詞",
+   "meaning_zh": "進步",
+   "example_sentence": "ピアノがかなり上達した。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 29,
+   "word": "暮れ",
+   "reading": "くれ",
+   "pos": "名詞",
+   "meaning_zh": "歲末、年底",
+   "example_sentence": "今年の暮れは、実家で両親と過ごしたい。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 30,
+   "word": "残高",
+   "reading": "ざんだか",
+   "pos": "名詞",
+   "meaning_zh": "餘額",
+   "example_sentence": "私の銀行口座の残高は、1,000円しかありません。",
+   "note": null,
+   "etymology_en": null
+  }
+ ]
+}

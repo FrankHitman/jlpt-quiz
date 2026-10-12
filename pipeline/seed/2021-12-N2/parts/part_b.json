@@ -1,0 +1,1530 @@
+{
+ "groups": [
+  {
+   "local_id": "g_text9",
+   "section_code": "lang_reading",
+   "group_type": "passage",
+   "title": "問題9 文章文法：「落語」体験",
+   "content": "今回、留学生センターで行われた文学体験のテーマは「落語」だった。落語は日本の伝統的な芸能の一つだ。着物を着た落語家が舞台に正座したまま、一人で何役も演じ、語って聞かせる。たいていは、面白く、おかしい話だ。私の国には演劇はあるが、落語のようなものはない。\n私は、文化体験が落語だと知って、実はがっかりした。以前、ある落語を授業で読んだが、あまり面白いと【48】話をただ聞いているのは退屈だろうと思ったし、聞き取れるかどうかも不安だった。\n【49】落語を聞いている間、私はよく笑った。落語家の動作や声の出し方は本当に面白くて、場面の様子もよくわかった。しぐさや話し方を変えて、親と子など二役以上を一人で演じ、会話を進める。座ったまま体を揺らして歩いている様子を見せ、家から店に移動したことを表す。食事の動作は、本当に何かを食べているようだった。\n文化体験が終わったとき、落語の印象がすっかり変わっていた。落語とは、落語家の動作と語りを同時に【50】。私は、話の細部は理解できていなかったかもしれない。しかし、落語家の動作と語りを通して、登場人物の性格や暮らしが感じられた。それに、映像や音楽や踊りがなくても、生き生きと話を伝え、人々を笑わせられる落語家の表現力にも感動した。\n落語には、怖い話や感動的な話もあるそうだ。落語家は【51】をするのだろうか。ぜひいろいろな落語を聞いてみたい。",
+   "sort_order": 1
+  }
+ ],
+ "questions": [
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 31,
+   "stem": "A「田中さんに話があるんだけど、今、会議中？」\nB「うん。」\nA「じゃあ、会議が終わるのを待つ（ ）ないね。」",
+   "options": [
+    {
+     "key": "1",
+     "text": "しか"
+    },
+    {
+     "key": "2",
+     "text": "だけ"
+    },
+    {
+     "key": "3",
+     "text": "まで"
+    },
+    {
+     "key": "4",
+     "text": "さえ"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 32,
+   "stem": "この道路拡散計画面を（ ）にあたっては、市民の皆様のご理解が必要です。",
+   "options": [
+    {
+     "key": "1",
+     "text": "進めた"
+    },
+    {
+     "key": "2",
+     "text": "進める"
+    },
+    {
+     "key": "3",
+     "text": "進めたい"
+    },
+    {
+     "key": "4",
+     "text": "進めよう"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 33,
+   "stem": "今日の試合は大雪で延期になった。（ ）この時期に大雪になるとは思わなかった。",
+   "options": [
+    {
+     "key": "1",
+     "text": "一体"
+    },
+    {
+     "key": "2",
+     "text": "二度と"
+    },
+    {
+     "key": "3",
+     "text": "まさか"
+    },
+    {
+     "key": "4",
+     "text": "かえって"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 34,
+   "stem": "水泳クラブの山田コーチは、私たちにとってコーチ（ ）兄のような存在です。",
+   "options": [
+    {
+     "key": "1",
+     "text": "に限らず"
+    },
+    {
+     "key": "2",
+     "text": "なしには"
+    },
+    {
+     "key": "3",
+     "text": "のおかげで"
+    },
+    {
+     "key": "4",
+     "text": "というより"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 35,
+   "stem": "X社の健康食品はテレビ番組で紹介（ ）以来、とても売れている。",
+   "options": [
+    {
+     "key": "1",
+     "text": "されて"
+    },
+    {
+     "key": "2",
+     "text": "される"
+    },
+    {
+     "key": "3",
+     "text": "されている"
+    },
+    {
+     "key": "4",
+     "text": "された"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 36,
+   "stem": "(店で) A「このシャツ、かわいい。でも、会社に着ていくには派手かな。」\nB「うん。デートで着る（ ）、仕事には派手すぎるよ。」",
+   "options": [
+    {
+     "key": "1",
+     "text": "にしては"
+    },
+    {
+     "key": "2",
+     "text": "としたら"
+    },
+    {
+     "key": "3",
+     "text": "ならともかく"
+    },
+    {
+     "key": "4",
+     "text": "からとはいえ"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 37,
+   "stem": "娘は、社会人（ ）朝一人で起きられない。私が起こさないといつまでも寝ている。",
+   "options": [
+    {
+     "key": "1",
+     "text": "にもなって"
+    },
+    {
+     "key": "2",
+     "text": "にもなれば"
+    },
+    {
+     "key": "3",
+     "text": "にでもなって"
+    },
+    {
+     "key": "4",
+     "text": "にでもなれば"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 38,
+   "stem": "友達は、お茶でうがいを（ ）、風邪をひかなくなったらしい。私も始めてみようと思う。",
+   "options": [
+    {
+     "key": "1",
+     "text": "しようとすれば"
+    },
+    {
+     "key": "2",
+     "text": "しようとしたことで"
+    },
+    {
+     "key": "3",
+     "text": "するようにすれば"
+    },
+    {
+     "key": "4",
+     "text": "するようにしたことで"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 39,
+   "stem": "彼女があのとき何を考えていたのか知りたいけれど、今はもう会うこともないので（ ）。",
+   "options": [
+    {
+     "key": "1",
+     "text": "確かめかねない"
+    },
+    {
+     "key": "2",
+     "text": "確かめるほかない"
+    },
+    {
+     "key": "3",
+     "text": "確かめようがない"
+    },
+    {
+     "key": "4",
+     "text": "確かめるわけではない"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 40,
+   "stem": "(不動産屋で)\n店員「お客様、本日いくつかのお部屋を（ ）が、ご希望に合うお部屋はございましたか。」\n客「最初のお部屋がいいなと思ったんですが、ちょっと検討させてください。」",
+   "options": [
+    {
+     "key": "1",
+     "text": "参りました"
+    },
+    {
+     "key": "2",
+     "text": "拝見しました"
+    },
+    {
+     "key": "3",
+     "text": "お越しいただきました"
+    },
+    {
+     "key": "4",
+     "text": "ご覧いただきました"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 41,
+   "stem": "カレーを大量に作りすぎて、一人では食べ（ ）と思ったので、友人をよんで食べた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "切れるのかもしれない"
+    },
+    {
+     "key": "2",
+     "text": "切れそうにない"
+    },
+    {
+     "key": "3",
+     "text": "かねないようだ"
+    },
+    {
+     "key": "4",
+     "text": "まずかねない"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 42,
+   "stem": "最近は毎月決まった金額でかけ放題の国際電話サービスがある。私が留学していたときにもそんなサービスがあったら（ ）。",
+   "options": [
+    {
+     "key": "1",
+     "text": "どれだけよかった"
+    },
+    {
+     "key": "2",
+     "text": "どれだけよかったか"
+    },
+    {
+     "key": "3",
+     "text": "どうしててもよかった"
+    },
+    {
+     "key": "4",
+     "text": "どうしてもよかったか"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 8,
+   "number_in_section": 43,
+   "stem": "もう酒は飲まないと __ __ ★ __ 絶対に守りたい。",
+   "options": [
+    {
+     "key": "1",
+     "text": "決めた"
+    },
+    {
+     "key": "2",
+     "text": "どんなに"
+    },
+    {
+     "key": "3",
+     "text": "以上は"
+    },
+    {
+     "key": "4",
+     "text": "誘われても"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 8,
+   "number_in_section": 44,
+   "stem": "必要なない物でも、欲しくなると __ __ ★ __ しまう。",
+   "options": [
+    {
+     "key": "1",
+     "text": "買わずには"
+    },
+    {
+     "key": "2",
+     "text": "すぐ買って"
+    },
+    {
+     "key": "3",
+     "text": "いられなく"
+    },
+    {
+     "key": "4",
+     "text": "なって"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 8,
+   "number_in_section": 45,
+   "stem": "パソコンの電源を入れたのだが、画面に「お待ちください」という __ __ ★ __、電源を入れ直した。",
+   "options": [
+    {
+     "key": "1",
+     "text": "待っても"
+    },
+    {
+     "key": "2",
+     "text": "何分"
+    },
+    {
+     "key": "3",
+     "text": "メッセージが出たまま"
+    },
+    {
+     "key": "4",
+     "text": "先に進まないので"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 8,
+   "number_in_section": 46,
+   "stem": "(電話で)\nA「すみません、来週の2時からの会議ですが、その時間、別の用件が入ってしまいまして、もしそちらのご都合が __ __ ★ __、いかがでしょうか。」\nB「こちらは大丈夫ですよ。」",
+   "options": [
+    {
+     "key": "1",
+     "text": "ありがたいんですが"
+    },
+    {
+     "key": "2",
+     "text": "変更していただけると"
+    },
+    {
+     "key": "3",
+     "text": "4時以降に"
+    },
+    {
+     "key": "4",
+     "text": "よろしければ"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 8,
+   "number_in_section": 47,
+   "stem": "20年前に初めてこの歌手の歌を聴いたとき、 __ __ ★ __。",
+   "options": [
+    {
+     "key": "1",
+     "text": "と思った"
+    },
+    {
+     "key": "2",
+     "text": "よく覚えている"
+    },
+    {
+     "key": "3",
+     "text": "のを"
+    },
+    {
+     "key": "4",
+     "text": "なんて美しい声なんだろう"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_text9",
+   "section_code": "lang_reading",
+   "qtype_code": "text_grammar",
+   "mondai_no": 9,
+   "number_in_section": 48,
+   "stem": "以前、ある落語を授業で読んだが、あまり面白いと【48】話をただ聞いているのは退屈だろうと思ったし、聞き取れるかどうかも不安だった。",
+   "options": [
+    {
+     "key": "1",
+     "text": "思えなかったまでだ"
+    },
+    {
+     "key": "2",
+     "text": "思えなかったほどだ"
+    },
+    {
+     "key": "3",
+     "text": "思えなかっただけだ"
+    },
+    {
+     "key": "4",
+     "text": "思えなかったからだ"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_text9",
+   "section_code": "lang_reading",
+   "qtype_code": "text_grammar",
+   "mondai_no": 9,
+   "number_in_section": 49,
+   "stem": "【49】落語を聞いている間、私はよく笑った。",
+   "options": [
+    {
+     "key": "1",
+     "text": "しかも"
+    },
+    {
+     "key": "2",
+     "text": "すなわち"
+    },
+    {
+     "key": "3",
+     "text": "ところが"
+    },
+    {
+     "key": "4",
+     "text": "したがって"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_text9",
+   "section_code": "lang_reading",
+   "qtype_code": "text_grammar",
+   "mondai_no": 9,
+   "number_in_section": 50,
+   "stem": "落語とは、落語家の動作と語りを同時に【50】。",
+   "options": [
+    {
+     "key": "1",
+     "text": "楽しむものなのだ"
+    },
+    {
+     "key": "2",
+     "text": "楽しむはずなのだ"
+    },
+    {
+     "key": "3",
+     "text": "楽しむようにするのだ"
+    },
+    {
+     "key": "4",
+     "text": "楽しむことになったのだ"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_text9",
+   "section_code": "lang_reading",
+   "qtype_code": "text_grammar",
+   "mondai_no": 9,
+   "number_in_section": 51,
+   "stem": "落語には、怖い話や感動的な話もあるそうだ。落語家は【51】をするのだろうか。",
+   "options": [
+    {
+     "key": "1",
+     "text": "どんな表現"
+    },
+    {
+     "key": "2",
+     "text": "その表現"
+    },
+    {
+     "key": "3",
+     "text": "表現"
+    },
+    {
+     "key": "4",
+     "text": "こういう表現"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null
+  }
+ ],
+ "explanations": [
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 31,
+   "key_point": "〜しか〜ない（N2）",
+   "analysis_zh": "正解是 1「しか」。「〜しか〜ない」表示限定，「只好等會議結束」。句意：A 想找田中談話但他在開會，只好等會議結束。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「だけ」表單純限定，但「待つだけない」不合文法；此處需「しか〜ない」的否定限定結構"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「まで」表時間終點，「待つまでない」語義不通"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「さえ」表遞進（連…都），與句意不符"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "しか",
+    "2": "だけ",
+    "3": "まで",
+    "4": "さえ"
+   },
+   "option_meanings": {
+    "1": "只（…才）",
+    "2": "只、僅",
+    "3": "到…為止",
+    "4": "甚至、連…都"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 32,
+   "key_point": "〜にあたっては（N2）",
+   "analysis_zh": "正解是 2「進める」。「動詞辭書形＋にあたっては」表示「在…之際」，用於正式場合。句意：在推進此道路擴建計畫之際，需要市民們的理解。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「進めた」為過去形，「にあたって」前需接辭書形"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「進めたい」為希望形，不合正式文體"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「進めよう」為意志形，不合此句型"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "すすめた",
+    "2": "すすめる",
+    "3": "すすめたい",
+    "4": "すすめよう"
+   },
+   "option_meanings": {
+    "1": "推進了",
+    "2": "推進",
+    "3": "想推進",
+    "4": "要推進"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 33,
+   "key_point": "副詞辨析（N2）",
+   "analysis_zh": "正解是 3「まさか」。「まさか」表示意外，「沒想到這個時期會下大雪」。句意：今天的比賽因大雪延期，沒想到這個時期會下大雪。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「一体」表疑問強調（究竟），不合此處"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「二度と」表「再也不」，後需接否定，與句意不符"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「かえって」表「反而」，語義不合"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "いったい",
+    "2": "にどと",
+    "3": "まさか",
+    "4": "かえって"
+   },
+   "option_meanings": {
+    "1": "究竟",
+    "2": "再也不",
+    "3": "沒想到、竟然",
+    "4": "反而"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 34,
+   "key_point": "というより（N2）",
+   "analysis_zh": "正解是 4「というより」。「AというよりB」表示「與其說是A，不如說是B」。句意：山田教練對我們來說，與其說是教練，更像是哥哥一樣的存在。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「に限らず」表「不限於」，語義不合"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「なしには」表「沒有…就不能」，不合句意"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「のおかげで」表原因（多虧），此處是比喻而非原因"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "にかぎらず",
+    "2": "なしには",
+    "3": "のおかげで",
+    "4": "というより"
+   },
+   "option_meanings": {
+    "1": "不限於",
+    "2": "沒有…就…",
+    "3": "多虧",
+    "4": "與其說…不如說"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 35,
+   "key_point": "〜て以来（N2）",
+   "analysis_zh": "正解是 1「されて」。「動詞て形＋以来」表示「自從…以來」。「紹介されて以来」＝自從在電視節目被介紹以來。句意：X 公司的健康食品自從在電視節目被介紹以來，賣得非常好。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「される」為辭書形，「以来」前需接て形"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「されている」為進行體，不合「以来」句型"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「された」為過去形，不合句型"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "されて",
+    "2": "される",
+    "3": "されている",
+    "4": "された"
+   },
+   "option_meanings": {
+    "1": "被…（て形）",
+    "2": "被…",
+    "3": "正被…",
+    "4": "被…了"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 36,
+   "key_point": "〜にしては（N2）",
+   "analysis_zh": "正解是 1「にしては」。「Nにしては」表示「以…來說」，「デートで着るにしては」＝以約會穿著來說（還可以）。句意：約會穿還可以，但上班穿就太花俏了。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「としたら」表假設（如果作為…），不合此處的評價語氣"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「ならともかく」表「如果是…也就罷了」，語氣過強且不自然"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「からとはいえ」表讓步（雖說是…），不合句意"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "にしては",
+    "2": "としたら",
+    "3": "ならともかく",
+    "4": "からとはいえ"
+   },
+   "option_meanings": {
+    "1": "以…來說",
+    "2": "如果作為…",
+    "3": "如果是…也就罷了",
+    "4": "雖說是…"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 37,
+   "key_point": "〜にもなって（N2）",
+   "analysis_zh": "正解是 1「にもなって」。「Nにもなって」表示「都已經是…了（卻還…）」，帶不滿語氣。句意：女兒都已經是上班族了，早上還是一個人起不來。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「にもなれば」為假設形，不合此處既定事實"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「にでもなって」的「でも」表舉例，不合"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「にでもなれば」同上，假設＋舉例皆不合"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "にもなって",
+    "2": "にもなれば",
+    "3": "にでもなって",
+    "4": "にでもなれば"
+   },
+   "option_meanings": {
+    "1": "都已經是…了",
+    "2": "如果成為…",
+    "3": "就算成為…",
+    "4": "如果就算成為…"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 38,
+   "key_point": "〜ようにしたことで（N2）",
+   "analysis_zh": "正解是 4「するようにしたことで」。「Vようにする」表示「養成…習慣」；「ことで」表原因。句意：朋友因為養成了用茶漱口的習慣，好像就不感冒了。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「しようとすれば」為假設（如果試圖做），不合既定事實"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「しようとしたことで」的「とした」表過去試圖，語義不自然"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「するようにすれば」為假設形，不合"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "しようとすれば",
+    "2": "しようとしたことで",
+    "3": "するようにすれば",
+    "4": "するようにしたことで"
+   },
+   "option_meanings": {
+    "1": "如果試圖做",
+    "2": "因為試圖做了",
+    "3": "如果養成習慣",
+    "4": "因為養成了習慣"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 39,
+   "key_point": "〜ようがない（N2）",
+   "analysis_zh": "正解是 3「確かめようがない」。「Vようがない」表示「沒辦法…」。句意：想知道她那時在想什麼，但現在已經見不到面了，所以沒辦法確認。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「かねない」表「有可能…」（負面可能），語義不合"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「ほかない」表「只能…」，不合句意"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「わけではない」表否定推斷，不合"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "たしかめかねない",
+    "2": "たしかめるほかない",
+    "3": "たしかめようがない",
+    "4": "たしかめるわけではない"
+   },
+   "option_meanings": {
+    "1": "有可能確認",
+    "2": "只能確認",
+    "3": "沒辦法確認",
+    "4": "並不是確認"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 40,
+   "key_point": "敬語・謙譲語（N2）",
+   "analysis_zh": "正解是 4「ご覧いただきました」。店員對客人用敬語，「ご覧いただく」＝您看了。句意：您今天看了幾個房間，有符合您希望的嗎？",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「参りました」是「来る・行く」的謙讓語，主語應是自己，不合"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「拝見しました」是「見る」的謙讓語，主語是自己，不合"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「お越しいただきました」＝您來了，與「看房間」語義不合"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "まいりました",
+    "2": "はいけんしました",
+    "3": "おこしいただきました",
+    "4": "ごらんいただきました"
+   },
+   "option_meanings": {
+    "1": "（謙）來了",
+    "2": "（謙）看了",
+    "3": "（敬）您來了",
+    "4": "（敬）您看了"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 41,
+   "key_point": "〜そうにない（N2）",
+   "analysis_zh": "正解是 2「切れそうにない」。「Vそうにない」表示「似乎無法…」。「食べ切れそうにない」＝似乎一個人吃不完。句意：咖哩做太多了，覺得一個人吃不完，就叫朋友來一起吃。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「切れるのかもしれない」表推測可能，不合此處的判斷語氣"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「かねないようだ」雙重推測，語義混亂"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「まずかねない」表「幾乎不可能不…」，語義不合"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "きれるのかもしれない",
+    "2": "きれそうにない",
+    "3": "かねないようだ",
+    "4": "まずかねない"
+   },
+   "option_meanings": {
+    "1": "可能吃得完",
+    "2": "似乎吃不完",
+    "3": "好像可能…",
+    "4": "幾乎不可能不…"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 42,
+   "key_point": "反実仮想の詠嘆（N2）",
+   "analysis_zh": "正解是 2「どれだけよかったか」。「〜たらどれだけ〜か」表示對過去的假設感嘆，「那該有多好啊」。句意：如果我留學時也有這種服務，那該有多好啊。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "缺少終助詞「か」，感嘆句不完整"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「どうしてても」語義不通"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「どうしても」表「無論如何」，不合"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "どれだけよかった",
+    "2": "どれだけよかったか",
+    "3": "どうしててもよかった",
+    "4": "どうしてもよかったか"
+   },
+   "option_meanings": {
+    "1": "多好啊（缺か）",
+    "2": "那該有多好啊",
+    "3": "（語義不通）",
+    "4": "無論如何都好嗎"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 43,
+   "key_point": "〜以上は（N2）・排序",
+   "analysis_zh": "正解語序是 1-3-2-4：「もう酒は飲まないと決めた以上は、どんなに誘われても絶対に守りたい。」（既然決定了不再喝酒，不管怎麼被勸都要堅守。）「決めた以上は」構成條件，「どんなに〜ても」表讓步。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「決めた」放第1空，與「以上は」構成「決めた以上は」（既然決定了），不放★"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「以上は」放第2空，接在「決めた」之後，不放★"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「誘われても」放第4空，與「どんなに」呼應表讓步，不放★"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "きめた",
+    "2": "どんなに",
+    "3": "いじょうは",
+    "4": "さそわれても"
+   },
+   "option_meanings": {
+    "1": "決定了",
+    "2": "不管多麼",
+    "3": "既然…",
+    "4": "即使被勸"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 44,
+   "key_point": "〜ずにはいられない（N2）・排序",
+   "analysis_zh": "正解語序是 1-3-4-2：「必要なない物でも、欲しくなると買わずにはいられなくなってすぐ買ってしまう。」（即使是不需要的東西，想要了就忍不住馬上買下來。）「買わずにはいられなくなる」為固定搭配。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「買わずには」放第1空，與「いられなく」構成「〜ずにはいられない」，不放★"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「すぐ買って」放第4空，表結果，不放★"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「いられなく」放第2空，緊接「買わずには」，不放★"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "かわずには",
+    "2": "すぐかって",
+    "3": "いられなく",
+    "4": "なって"
+   },
+   "option_meanings": {
+    "1": "不買的話",
+    "2": "馬上買",
+    "3": "忍不住",
+    "4": "變得"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 45,
+   "key_point": "排序・讓步從句",
+   "analysis_zh": "正解語序是 3-2-1-4：「画面に『お待ちください』というメッセージが出たまま、何分待っても先に進まないので、電源を入れ直した。」（畫面一直顯示「請稍候」，等了好幾分鐘都沒進展，只好重開機。）「という」後接名詞，「何分待っても」表讓步。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「何分」放第2空，與「待っても」搭配表「等了好幾分鐘都…」，不放★"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「メッセージが出たまま」放第1空，接在「という」之後，不放★"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「先に進まないので」放第4空，表原因作結，不放★"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "まっても",
+    "2": "なんぷん",
+    "3": "メッセージがでたまま",
+    "4": "さきにすすまないので"
+   },
+   "option_meanings": {
+    "1": "即使等",
+    "2": "好幾分鐘",
+    "3": "訊息一直顯示著",
+    "4": "因為沒有進展"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 46,
+   "key_point": "敬語排序",
+   "analysis_zh": "正解語序是 4-3-2-1：「もしそちらのご都合がよろしければ、4時以降に変更していただけるとありがたいんですが、いかがでしょうか。」（如果您方便的話，能否改到四點以後，將非常感謝。）敬語請求的典型句型。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「ありがたいんですが」放第4空，作結尾，不放★"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「4時以降に」放第2空，接在「よろしければ」之後，不放★"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「よろしければ」放第1空，作條件開頭，不放★"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "ありがたいんですが",
+    "2": "へんこうしていただけると",
+    "3": "よじいこうに",
+    "4": "よろしければ"
+   },
+   "option_meanings": {
+    "1": "將非常感謝",
+    "2": "如果能幫我更改",
+    "3": "改到四點以後",
+    "4": "如果您方便"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 47,
+   "key_point": "〜のをよく覚えている・排序",
+   "analysis_zh": "正解語序是 4-1-3-2：「20年前に初めてこの歌手の歌を聴いたとき、なんて美しい声なんだろうと思ったのをよく覚えている。」（清楚記得20年前第一次聽這位歌手唱歌時，心想「多麼美的聲音啊」。）「と思ったのをよく覚えている」為固定結構。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「と思った」放第2空，接在感嘆句之後，不放★"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「よく覚えている」放第4空，作句末結尾，不放★"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「なんて美しい声なんだろう」放第1空，作感嘆開頭，不放★"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "とおもった",
+    "2": "よくおぼえている",
+    "3": "のを",
+    "4": "なんてうつくしいこえなんだろう"
+   },
+   "option_meanings": {
+    "1": "心想",
+    "2": "清楚記得",
+    "3": "（名詞化）",
+    "4": "多麼美的聲音啊"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 48,
+   "key_point": "〜からだ（N2）",
+   "analysis_zh": "正解是 4「思えなかったからだ」。「からだ」說明原因：之所以失望（がっかりした），是因為之前在課上讀過的落語沒覺得有趣，所以覺得光聽故事會很無聊。※本題解析 PDF 缺少問題9，答案按文章內容判定。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「までだ」表程度（只到…程度），與此處說明原因的語氣不合"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「ほどだ」表程度，不合"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「だけだ」表單純限定，語氣弱於原因說明"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "おもえなかったまでだ",
+    "2": "おもえなかったほどだ",
+    "3": "おもえなかっただけだ",
+    "4": "おもえなかったからだ"
+   },
+   "option_meanings": {
+    "1": "只到沒覺得有趣的程度",
+    "2": "到沒覺得有趣的地步",
+    "3": "只是沒覺得有趣",
+    "4": "是因為沒覺得有趣"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 49,
+   "key_point": "逆接接続詞（N2）",
+   "analysis_zh": "正解是 3「ところが」。前文說以為會很無聊、擔心聽不懂，實際聽的時候卻笑得很開心，形成轉折。※本題解析 PDF 缺少問題9，答案按文章內容判定。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「しかも」表追加（而且），此處是轉折非追加"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「すなわち」表換言（即），不合"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「したがって」表結果（因此），與轉折語義相反"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "しかも",
+    "2": "すなわち",
+    "3": "ところが",
+    "4": "したがって"
+   },
+   "option_meanings": {
+    "1": "而且",
+    "2": "即、也就是",
+    "3": "然而、可是",
+    "4": "因此"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 50,
+   "key_point": "〜ものだ（定義・本質）（N2）",
+   "analysis_zh": "正解是 1「楽しむものなのだ」。「〜ものだ」在此表定義、本質：落語就是同時欣賞表演者的動作與講述的藝術。※本題解析 PDF 缺少問題9，答案按文章內容判定。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「はずだ」表推測（應該），不合定義語氣"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「ようにする」表努力養成習慣，不合"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「ことになった」表結果決定，不合"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "たのしむものなのだ",
+    "2": "たのしむはずなのだ",
+    "3": "たのしむようにするのだ",
+    "4": "たのしむことになったのだ"
+   },
+   "option_meanings": {
+    "1": "是同時欣賞的東西",
+    "2": "應該會欣賞",
+    "3": "要努力去欣賞",
+    "4": "變成要欣賞了"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 51,
+   "key_point": "疑問詞＋名詞（N2）",
+   "analysis_zh": "正解是 1「どんな表現」。前文提到落語有恐怖故事、感人故事等多種類型，作者好奇表演者會做「怎樣的表現」。※本題解析 PDF 缺少問題9，答案按文章內容判定。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「その表現」指前文提過的特定表現，此處是泛指疑問"
+    },
+    {
+     "option": "3",
+     "why_wrong": "單獨「表現」缺疑問詞，語義不完整"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「こういう表現」指「這種表現」，前文未具體描述某種表現"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "どんなひょうげん",
+    "2": "そのひょうげん",
+    "3": "ひょうげん",
+    "4": "こういうひょうげん"
+   },
+   "option_meanings": {
+    "1": "怎樣的表現",
+    "2": "那種表現",
+    "3": "表現",
+    "4": "這種表現"
+   }
+  }
+ ],
+ "vocabulary": [
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 31,
+   "word": "会議",
+   "reading": "かいぎ",
+   "pos": "名詞",
+   "meaning_zh": "會議",
+   "example_sentence": "会議が終わるのを待つ。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 32,
+   "word": "理解",
+   "reading": "りかい",
+   "pos": "名詞",
+   "meaning_zh": "理解",
+   "example_sentence": "市民の皆様のご理解が必要です。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 33,
+   "word": "延期",
+   "reading": "えんき",
+   "pos": "名詞・サ変動詞",
+   "meaning_zh": "延期",
+   "example_sentence": "試合は大雪で延期になった。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 34,
+   "word": "存在",
+   "reading": "そんざい",
+   "pos": "名詞",
+   "meaning_zh": "存在",
+   "example_sentence": "兄のような存在です。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 35,
+   "word": "紹介",
+   "reading": "しょうかい",
+   "pos": "名詞・サ変動詞",
+   "meaning_zh": "介紹",
+   "example_sentence": "テレビ番組で紹介されて以来。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 36,
+   "word": "派手",
+   "reading": "はで",
+   "pos": "形容動詞",
+   "meaning_zh": "花俏、華麗",
+   "example_sentence": "仕事には派手すぎるよ。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 37,
+   "word": "社会人",
+   "reading": "しゃかいじん",
+   "pos": "名詞",
+   "meaning_zh": "上班族、社會人士",
+   "example_sentence": "娘は、社会人にもなって朝一人で起きられない。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 38,
+   "word": "風邪",
+   "reading": "かぜ",
+   "pos": "名詞",
+   "meaning_zh": "感冒",
+   "example_sentence": "風邪をひかなくなったらしい。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 39,
+   "word": "確かめる",
+   "reading": "たしかめる",
+   "pos": "動詞",
+   "meaning_zh": "確認",
+   "example_sentence": "確かめようがない。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 40,
+   "word": "希望",
+   "reading": "きぼう",
+   "pos": "名詞",
+   "meaning_zh": "希望、期望",
+   "example_sentence": "ご希望に合うお部屋。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 41,
+   "word": "大量",
+   "reading": "たいりょう",
+   "pos": "名詞",
+   "meaning_zh": "大量",
+   "example_sentence": "カレーを大量に作りすぎて。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 42,
+   "word": "留学",
+   "reading": "りゅうがく",
+   "pos": "名詞・サ変動詞",
+   "meaning_zh": "留學",
+   "example_sentence": "私が留学していたときに。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 43,
+   "word": "守る",
+   "reading": "まもる",
+   "pos": "動詞",
+   "meaning_zh": "遵守",
+   "example_sentence": "絶対に守りたい。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 44,
+   "word": "我慢",
+   "reading": "がまん",
+   "pos": "名詞・サ変動詞",
+   "meaning_zh": "忍耐",
+   "example_sentence": "買わずにはいられなくなる。",
+   "note": "「〜ずにはいられない」＝忍不住…",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 45,
+   "word": "電源",
+   "reading": "でんげん",
+   "pos": "名詞",
+   "meaning_zh": "電源",
+   "example_sentence": "パソコンの電源を入れたのだが。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 46,
+   "word": "都合",
+   "reading": "つごう",
+   "pos": "名詞",
+   "meaning_zh": "方便、情況",
+   "example_sentence": "そちらのご都合がよろしければ。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 47,
+   "word": "歌手",
+   "reading": "かしゅ",
+   "pos": "名詞",
+   "meaning_zh": "歌手",
+   "example_sentence": "この歌手の歌を聴いたとき。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 48,
+   "word": "がっかり",
+   "reading": "がっかり",
+   "pos": "副詞・サ変動詞",
+   "meaning_zh": "失望",
+   "example_sentence": "実はがっかりした。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 49,
+   "word": "落語",
+   "reading": "らくご",
+   "pos": "名詞",
+   "meaning_zh": "落語（日本傳統曲藝）",
+   "example_sentence": "落語を聞いている間、私はよく笑った。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 50,
+   "word": "語り",
+   "reading": "かたり",
+   "pos": "名詞",
+   "meaning_zh": "講述、敘述",
+   "example_sentence": "落語家の動作と語りを同時に楽しむ。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 51,
+   "word": "表現",
+   "reading": "ひょうげん",
+   "pos": "名詞",
+   "meaning_zh": "表現",
+   "example_sentence": "落語家の表現力にも感動した。",
+   "note": null,
+   "etymology_en": null
+  }
+ ]
+}

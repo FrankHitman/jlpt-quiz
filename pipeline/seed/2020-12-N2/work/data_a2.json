@@ -1,0 +1,738 @@
+{
+ "questions": [
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_formation",
+   "mondai_no": 3,
+   "number_in_section": 11,
+   "stem": "宿題を( )提出するよう、先生に言われた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "復"
+    },
+    {
+     "key": "2",
+     "text": "改"
+    },
+    {
+     "key": "3",
+     "text": "再"
+    },
+    {
+     "key": "4",
+     "text": "補"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_formation",
+   "mondai_no": 3,
+   "number_in_section": 12,
+   "stem": "あの人は都会( )だ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "育ち"
+    },
+    {
+     "key": "2",
+     "text": "過ごし"
+    },
+    {
+     "key": "3",
+     "text": "始まり"
+    },
+    {
+     "key": "4",
+     "text": "生き"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_formation",
+   "mondai_no": 3,
+   "number_in_section": 13,
+   "stem": "( )仕事終わったので、休憩しよう。",
+   "options": [
+    {
+     "key": "1",
+     "text": "半"
+    },
+    {
+     "key": "2",
+     "text": "短"
+    },
+    {
+     "key": "3",
+     "text": "小"
+    },
+    {
+     "key": "4",
+     "text": "一"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 14,
+   "stem": "彼の演技はとても個人的で、見る人の( )が大きく分かれる。",
+   "options": [
+    {
+     "key": "1",
+     "text": "考慮"
+    },
+    {
+     "key": "2",
+     "text": "評価"
+    },
+    {
+     "key": "3",
+     "text": "信頼"
+    },
+    {
+     "key": "4",
+     "text": "測定"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 15,
+   "stem": "話し合いでは、相手の意見を( )し、よく聞くことが大切だ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "尊重"
+    },
+    {
+     "key": "2",
+     "text": "信仰"
+    },
+    {
+     "key": "3",
+     "text": "提案"
+    },
+    {
+     "key": "4",
+     "text": "発揮"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 16,
+   "stem": "この商品は、健康を気にする40代から50代の人を( )に開発しました。",
+   "options": [
+    {
+     "key": "1",
+     "text": "ゴール"
+    },
+    {
+     "key": "2",
+     "text": "インパクト"
+    },
+    {
+     "key": "3",
+     "text": "アピール"
+    },
+    {
+     "key": "4",
+     "text": "ターゲット"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 17,
+   "stem": "佐藤さんは服装や髪形が個性的で、他の人とは違う( )の雰囲気がある。",
+   "options": [
+    {
+     "key": "1",
+     "text": "定着"
+    },
+    {
+     "key": "2",
+     "text": "専用"
+    },
+    {
+     "key": "3",
+     "text": "独特"
+    },
+    {
+     "key": "4",
+     "text": "区別"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 18,
+   "stem": "前回の大会では、あの二人は最後まで優勝を( )していた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "戦って"
+    },
+    {
+     "key": "2",
+     "text": "争って"
+    },
+    {
+     "key": "3",
+     "text": "奪って"
+    },
+    {
+     "key": "4",
+     "text": "破って"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 19,
+   "stem": "高橋さんの家を訪ねたが、みんな出かけているようで、人の( )がなかった。",
+   "options": [
+    {
+     "key": "1",
+     "text": "動作"
+    },
+    {
+     "key": "2",
+     "text": "実感"
+    },
+    {
+     "key": "3",
+     "text": "気配"
+    },
+    {
+     "key": "4",
+     "text": "状態"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 20,
+   "stem": "彼は自分で決めたルールも守らない、( )人だ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "不規則な"
+    },
+    {
+     "key": "2",
+     "text": "あやふやな"
+    },
+    {
+     "key": "3",
+     "text": "大まかな"
+    },
+    {
+     "key": "4",
+     "text": "いいかげんな"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null
+  }
+ ],
+ "explanations": [
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 11,
+   "key_point": "語形成・接頭辞「再」",
+   "analysis_zh": "正解是 3「再」。「再提出（さいていしゅつ）」是重新提交；「再」作接頭辭表「再次」，如再利用（さいりよう）、再開発（さいかいはつ）、再放送（さいほうそう）、再就職（さいしゅうしょく）。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "復（ふく）作接尾表「多個」，如複数（ふくすう）；不能與「提出」組合成「再次提交」"
+    },
+    {
+     "option": "2",
+     "why_wrong": "改（かい）表悔改、修改、改正，如改訂（かいてい）、改革（かいかく）；「改提出」不是固定詞"
+    },
+    {
+     "option": "4",
+     "why_wrong": "補（ほ）作結尾詞表官職，如警部補（けいぶほ）、判事補（はんじほ）；不能表「再次」"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "ふく",
+    "2": "かい",
+    "3": "さい",
+    "4": "ほ"
+   },
+   "option_meanings": {
+    "1": "多個（複数）",
+    "2": "悔改；修改",
+    "3": "再次；重新",
+    "4": "（官職結尾，如警部補）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 12,
+   "key_point": "語形成・「都会育ち」",
+   "analysis_zh": "正解是 1「育ち」。「都会育ち（とかいそだち）」是在城市長大的；「育ち（そだち）」是教育、生長的環境，如「生まれは成都、育ちは上海です」生於成都長於上海。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "過ごし（すごし）是「過、度過」，如「楽しい毎日を過ごしている」過著開心的每天；「都会過ごし」不是固定搭配"
+    },
+    {
+     "option": "3",
+     "why_wrong": "始まり（はじまり）是開始，如「授業の始まりを知らせるベル」上課鈴聲；不能接在「都会」後表屬性"
+    },
+    {
+     "option": "4",
+     "why_wrong": "生き（いき）是活、生活，如「今を生きるべきだ」應該活在當下；「都会生き」不成立"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "そだち",
+    "2": "すごし",
+    "3": "はじまり",
+    "4": "いき"
+   },
+   "option_meanings": {
+    "1": "生長環境；教養",
+    "2": "度過",
+    "3": "開始",
+    "4": "活；生活"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 13,
+   "key_point": "語形成・接頭辞「一（ひと）」",
+   "analysis_zh": "正解是 4「一」。「一仕事（ひとしごと）」是這項工作、不容易的工作；「一（ひと）」除作數字外還可作接頭辭，一般讀作 ひと，如一言（ひとこと）幾句話、ひと時（ひととき）片刻、一先ず（ひとまず）暫且。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "半（はん）是中途、不徹底，如半道（はんみち）、半熟（はんじゅく）；「半仕事」不是固定詞"
+    },
+    {
+     "option": "2",
+     "why_wrong": "短（たん）是短，如短期（たんき）、短時間（たんじかん）；不能與「仕事」組合成慣用詞"
+    },
+    {
+     "option": "3",
+     "why_wrong": "小（こ）作接頭辭一般讀作 こ，如小石（こいし）小碎石、小利口（こりこう）小聰明；「小仕事」不成立"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "はん",
+    "2": "たん",
+    "3": "こ",
+    "4": "ひと"
+   },
+   "option_meanings": {
+    "1": "中途；不徹底",
+    "2": "短",
+    "3": "小（接頭辭）",
+    "4": "一（接頭辭，表「一番」）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 14,
+   "key_point": "文脈規定・名詞の選択",
+   "analysis_zh": "正解是 2「評価」。「評価（ひょうか）」是評價；演技很個人化，觀眾的評價差別很大，如「過大な評価を与えられた」被給予了過高的評價。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "考慮（こうりょ）是考慮，如「よく考慮した上でおへんじください」請好好考慮後給予答覆；此處不是「考慮」分開"
+    },
+    {
+     "option": "3",
+     "why_wrong": "信頼（しんらい）是信賴，如「お互いの信頼関係を築く」建立相互的信賴關係；演技不會讓「信賴」分開"
+    },
+    {
+     "option": "4",
+     "why_wrong": "測定（そくてい）是測量，如「距離を測定する」測定距離；用於物理量，不用於演技"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "こうりょ",
+    "2": "ひょうか",
+    "3": "しんらい",
+    "4": "そくてい"
+   },
+   "option_meanings": {
+    "1": "考慮",
+    "2": "評價",
+    "3": "信賴",
+    "4": "測量"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 15,
+   "key_point": "文脈規定・動詞の選択",
+   "analysis_zh": "正解是 1「尊重」。「尊重（そんちょう）」是尊重；商量的時候，尊重對方的意見、好好傾聽是很重要的，如「他人の違いを尊重しなければならない」必須要尊重別人的不同。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "信仰（しんこう）是信仰，如「信仰の自由は誰でも持っている権利です」信仰自由是誰都有的權利；與「聽取意見」無關"
+    },
+    {
+     "option": "3",
+     "why_wrong": "提案（ていあん）是建議、提案，如「私の提案は結局入れられなかった」結果我的提案沒被採納；此處是「聽」而非「提」"
+    },
+    {
+     "option": "4",
+     "why_wrong": "発揮（はっき）是發揮，如「平素の力を発揮できれば余裕で合格するだろう」只要發揮出平時的實力，應該會很輕鬆的合格"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "そんちょう",
+    "2": "しんこう",
+    "3": "ていあん",
+    "4": "はっき"
+   },
+   "option_meanings": {
+    "1": "尊重",
+    "2": "信仰",
+    "3": "提案；建議",
+    "4": "發揮"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 16,
+   "key_point": "文脈規定・カタカナ語の選択",
+   "analysis_zh": "正解是 4「ターゲット」。「ターゲット（target）」是目標、對象；這個商品是以對健康很在意的 40–50 多歲的人為目標開發的，如「今年の売り上げ額のターゲットは完成した」今年的營銷目標完成了。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "ゴール（goal）是（球）進門、達到目的（常用於結婚），如「彼らは三月にゴールインする」他們三月結婚；此處不是「進球」"
+    },
+    {
+     "option": "2",
+     "why_wrong": "インパクト（impact）是衝擊、影響力；無此常用搭配"
+    },
+    {
+     "option": "3",
+     "why_wrong": "アピール（appeal）是呼籲（如原水爆禁止のアピール呼籲禁止原子氫彈）、打動人心、受歡迎（如「彼の演説は大衆にアピールした」他的演說打動了群眾）；此處應用「目標」而非「呼籲」"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "ゴール",
+    "2": "インパクト",
+    "3": "アピール",
+    "4": "ターゲット"
+   },
+   "option_meanings": {
+    "1": "（球）進門；達到目的",
+    "2": "衝擊；影響力",
+    "3": "呼籲；打動人心",
+    "4": "目標；對象"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 17,
+   "key_point": "文脈規定・名詞の選択",
+   "analysis_zh": "正解是 3「独特」。「独特（どくとく）」是獨特；佐藤的服裝和髮型很有個性，和別人比起來有種獨特的感覺，如「彼の独特な話し方が面白い」他獨特的說話方式很有趣。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "定着（ていちゃく）是固定、附著，如「日本語として定着した外来語」在日語中已經固定下來的外來語"
+    },
+    {
+     "option": "2",
+     "why_wrong": "専用（せんよう）是專用，如「日本に女性専用車両がある」日本有女性專用車廂"
+    },
+    {
+     "option": "4",
+     "why_wrong": "区別（くべつ）是區別、區分，如「メスかオスか区別がつかない」分不清是雌性還是雄性"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "ていちゃく",
+    "2": "せんよう",
+    "3": "どくとく",
+    "4": "くべつ"
+   },
+   "option_meanings": {
+    "1": "固定；附著",
+    "2": "專用",
+    "3": "獨特",
+    "4": "區別；區分"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 18,
+   "key_point": "文脈規定・動詞の選択",
+   "analysis_zh": "正解是 2「争って」。「争う（あらそう）」是爭奪、競爭；「勝ち負けを争う」爭勝負。在上次的大賽上，那兩個人爭奪冠軍到了最後。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "戦う（たたかう）是戰鬥，也可指競賽、比賽（優勝をかけて戦う為勝利而比賽）；但「優勝を戦う」搭配不如「争う」自然"
+    },
+    {
+     "option": "3",
+     "why_wrong": "奪う（うばう）是搶奪、奪去，如「コロナウイルスの数多くの人の命を奪った」新冠病毒奪去了數很多人的命；也指被強烈吸引（その美しさは目を奪う被美所吸引了目光）"
+    },
+    {
+     "option": "4",
+     "why_wrong": "破る（やぶる）是破壞、打破（沈黙を破る打破沉默）、違反（交通規則を破る違反交通規則）"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "たたかって",
+    "2": "あらそって",
+    "3": "うばって",
+    "4": "やぶって"
+   },
+   "option_meanings": {
+    "1": "戰鬥；比賽",
+    "2": "爭奪；競爭",
+    "3": "搶奪；奪去",
+    "4": "打破；違反"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 19,
+   "key_point": "文脈規定・名詞の選択",
+   "analysis_zh": "正解是 3「気配」。「気配（けはい）」是動靜、跡象、樣子；去拜訪了高橋，但是好像大家都出去了，沒有人的跡象，如「外に人のいる気配がする」外面有人的動靜。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "動作（どうさ）是動作，如「動作が鈍い」動作遲鈍；此處不是「動作」"
+    },
+    {
+     "option": "2",
+     "why_wrong": "実感（じっかん）是確實感覺到，如「先生になってはじめて先生の大変さを実感した」成為老師以後才確實感受到老師的辛苦"
+    },
+    {
+     "option": "4",
+     "why_wrong": "状態（じょうたい）是狀態、情況，如「この状態では大学進学はむずかしい」這種狀態很難考進大學"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "どうさ",
+    "2": "じっかん",
+    "3": "けはい",
+    "4": "じょうたい"
+   },
+   "option_meanings": {
+    "1": "動作",
+    "2": "確實感覺",
+    "3": "動靜；跡象；樣子",
+    "4": "狀態；情況"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 20,
+   "key_point": "文脈規定・形容動詞の選択",
+   "analysis_zh": "正解是 4「いいかげんな」。「いい加減（いいかげん）」有「靠不住、敷衍」義；他是一個連自己制定的規則都不能遵守的靠不住的人。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "不規則（ふきそく）是不規律，如「不規則な生活をする」過著不規律的生活；指作息無規律，不合此處「不守規則」"
+    },
+    {
+     "option": "2",
+     "why_wrong": "あやふや是含糊，如「あやふやな返事をする」含糊其辭地回答；指態度含糊"
+    },
+    {
+     "option": "3",
+     "why_wrong": "大まか（おおまか）是馬虎、粗略，如「彼は大まかな人間」他是個馬虎的人、「大まかに見積もる」粗略的估算"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "ふきそくな",
+    "2": "あやふやな",
+    "3": "おおまかな",
+    "4": "いいかげんな"
+   },
+   "option_meanings": {
+    "1": "不規律的",
+    "2": "含糊的",
+    "3": "馬虎的；粗略的",
+    "4": "靠不住的；敷衍的"
+   }
+  }
+ ],
+ "vocabulary": [
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 11,
+   "word": "再提出",
+   "reading": "さいていしゅつ",
+   "pos": "名詞",
+   "meaning_zh": "重新提交",
+   "example_sentence": "宿題を再提出するよう、先生に言われた。",
+   "note": "「再」接頭辭表再次：再利用、再開発、再放送",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 12,
+   "word": "育ち",
+   "reading": "そだち",
+   "pos": "名詞",
+   "meaning_zh": "教育；生長的環境；教養",
+   "example_sentence": "あの人は都会育ちだ。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 13,
+   "word": "一仕事",
+   "reading": "ひとしごと",
+   "pos": "名詞",
+   "meaning_zh": "一項工作；一番事業",
+   "example_sentence": "一仕事終わったので、休憩しよう。",
+   "note": "「一」作接頭辭讀 ひと：一言（ひとこと）、ひと時（ひととき）",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 14,
+   "word": "評価",
+   "reading": "ひょうか",
+   "pos": "名詞・動詞",
+   "meaning_zh": "評價",
+   "example_sentence": "見る人の評価が大きく分かれる。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 15,
+   "word": "尊重",
+   "reading": "そんちょう",
+   "pos": "名詞・動詞",
+   "meaning_zh": "尊重",
+   "example_sentence": "相手の意見を尊重し、よく聞くことが大切だ。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 16,
+   "word": "ターゲット",
+   "reading": "ターゲット",
+   "pos": "名詞",
+   "meaning_zh": "目標；對象",
+   "example_sentence": "40代から50代の人をターゲットに開発しました。",
+   "note": null,
+   "etymology_en": "target"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 17,
+   "word": "独特",
+   "reading": "どくとく",
+   "pos": "形容動詞",
+   "meaning_zh": "獨特",
+   "example_sentence": "他の人とは違う独特の雰囲気がある。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 18,
+   "word": "争う",
+   "reading": "あらそう",
+   "pos": "動詞",
+   "meaning_zh": "爭奪；競爭",
+   "example_sentence": "あの二人は最後まで優勝を争っていた。",
+   "note": "「優勝を争う」是固定搭配；「戦う」多指戰鬥或比賽本身",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 19,
+   "word": "気配",
+   "reading": "けはい",
+   "pos": "名詞",
+   "meaning_zh": "動靜；跡象；樣子",
+   "example_sentence": "人の気配がなかった。",
+   "note": "「気配がする」是有動靜；「結婚する気配など少しもなかった」一點沒有要結婚的樣子",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 20,
+   "word": "いい加減",
+   "reading": "いいかげん",
+   "pos": "形容動詞",
+   "meaning_zh": "靠不住；敷衍；適度；馬虎",
+   "example_sentence": "いい加減なことばかり言う。",
+   "note": "多義詞：①適度（ちょうどいい加減の温度）②靠不住③敷衍、搪塞（人をいい加減にあしらう）",
+   "etymology_en": null
+  }
+ ]
+}

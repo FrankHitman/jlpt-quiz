@@ -1,0 +1,1530 @@
+{
+ "groups": [
+  {
+   "local_id": "g_text9",
+   "section_code": "lang_reading",
+   "group_type": "passage",
+   "title": "問題9 文章文法：ロボット・セラピー",
+   "content": "ロボット・セラピー\nブリュースター ジョン\n\n私はロボット工学を専攻しています。将来は医療分野でのロボット活用に関わる仕事をするのが夢です。今は「ロボット・セラピー」というものに興味があります。最近、介護の現場で注目されているものですが、みなさん、【48】。\n\n「ロボット・セラピー」なら聞いたことのある人も多いかもしれません。動物と触れ合うことで穏やかな気持ちになり、ストレスが減るなどの医療効果で知られています。しかし、実際に介護施設などで動物を飼おうとすると、アレルギーや世話の問題など、難しい面もあります。【49】、マニアル・セラピーに替わるものとして、最近、ロボット・セラピーが注目されるようになりました。\n\nロボット・セラピーのロボットには動物型、赤ちゃん型などがあり、それらに共通するのはコミュニケーションが可能だということです。どの型のロボットも、感覚機能を持っており、触れ合う人の様子や周囲の状況を判断して、様々な感情を表現することができます。例えば、だっこされたり、なでられたりすると、可愛い声を出して喜んだり、気持ち良さそうな表情をしたりします。こういったロボットとの触れ合いによって、精神的安定やコミュニケーション能力の改善などの効果が【50】。\n\n私が今学んでいるのはロボット工学の基礎です。将来こういったロボットの研究、開発に参加するために、これからも勉強を続けます。そして、医療分野に【51】。\n",
+   "sort_order": 1
+  }
+ ],
+ "questions": [
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 31,
+   "stem": "明日、海外に留学中の友人が1年( )帰国する。会って話を聞くのが楽しみだ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "おきに"
+    },
+    {
+     "key": "2",
+     "text": "たびに"
+    },
+    {
+     "key": "3",
+     "text": "ぶりに"
+    },
+    {
+     "key": "4",
+     "text": "うちに"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 32,
+   "stem": "12年間付き合っている彼女に、今年( )結婚を申し込もうと思っている。",
+   "options": [
+    {
+     "key": "1",
+     "text": "こそ"
+    },
+    {
+     "key": "2",
+     "text": "さえ"
+    },
+    {
+     "key": "3",
+     "text": "すら"
+    },
+    {
+     "key": "4",
+     "text": "のみ"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 33,
+   "stem": "腰の曲がった老人に似ている( )エビは「海老」とも書かれると聞いた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "ものを"
+    },
+    {
+     "key": "2",
+     "text": "とともに"
+    },
+    {
+     "key": "3",
+     "text": "うえで"
+    },
+    {
+     "key": "4",
+     "text": "ところから"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 34,
+   "stem": "上司「ゼミナー会場の準備はどう？順調？」\n部下「ええ、いすも並べ終わりましたし、( )資料を受付に運ぶだけです。」",
+   "options": [
+    {
+     "key": "1",
+     "text": "特に"
+    },
+    {
+     "key": "2",
+     "text": "あとは"
+    },
+    {
+     "key": "3",
+     "text": "少しも"
+    },
+    {
+     "key": "4",
+     "text": "あまりに"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 35,
+   "stem": "このテニスコートの利用料金は2時間1000円で、1時間しか使わない( )、1000円払わなければならない。",
+   "options": [
+    {
+     "key": "1",
+     "text": "場合でも"
+    },
+    {
+     "key": "2",
+     "text": "点でも"
+    },
+    {
+     "key": "3",
+     "text": "場合には"
+    },
+    {
+     "key": "4",
+     "text": "点には"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 36,
+   "stem": "毎日日記を書きつづけることは、( )、けっこう難しいことだ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "簡単らしいし"
+    },
+    {
+     "key": "2",
+     "text": "簡単なようであれば"
+    },
+    {
+     "key": "3",
+     "text": "簡単らしくて"
+    },
+    {
+     "key": "4",
+     "text": "簡単なようでいて"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 37,
+   "stem": "梅雨に入ってもほとんど雨が降らないので、庭の花が( )心配だ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "枯れていないことで"
+    },
+    {
+     "key": "2",
+     "text": "枯れてしまわないか"
+    },
+    {
+     "key": "3",
+     "text": "枯れていないからと"
+    },
+    {
+     "key": "4",
+     "text": "枯れてしまわないのを"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 38,
+   "stem": "今日は、本当は映画を( )が、雪が降ってきたので、やめた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "見に行ってばかりだ"
+    },
+    {
+     "key": "2",
+     "text": "見に行ったばかりだ"
+    },
+    {
+     "key": "3",
+     "text": "見に行くつもりだった"
+    },
+    {
+     "key": "4",
+     "text": "見に行ったつもりだった"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 39,
+   "stem": "今回の戦略が有効であったかどうかは、まだ結果が出ていない現時点では( )。",
+   "options": [
+    {
+     "key": "1",
+     "text": "判断すべきだ"
+    },
+    {
+     "key": "2",
+     "text": "判断しかねる"
+    },
+    {
+     "key": "3",
+     "text": "判断したにすぎない"
+    },
+    {
+     "key": "4",
+     "text": "判断ざるを得ない"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 40,
+   "stem": "この馬の絵は本物そっくりに描かれていて、今にも( )。",
+   "options": [
+    {
+     "key": "1",
+     "text": "走っていたい"
+    },
+    {
+     "key": "2",
+     "text": "走っているようだ"
+    },
+    {
+     "key": "3",
+     "text": "走り出しそうだ"
+    },
+    {
+     "key": "4",
+     "text": "走り出したがる"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 41,
+   "stem": "私たちが旅館に着くと、従業員たちが笑顔で「ようこそ( )」とあいさつしてくれた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "お越しくださいました"
+    },
+    {
+     "key": "2",
+     "text": "お伺いしました"
+    },
+    {
+     "key": "3",
+     "text": "お呼びいただきました"
+    },
+    {
+     "key": "4",
+     "text": "お迎えしました"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 42,
+   "stem": "木村「田中くん、アルバイトを探してるんだって？」\n田中「うん、そうなんだ。」\n木村「私が働いている店がアルバイトを募集しているから応募してみない？もちろん田中さんが( )。」",
+   "options": [
+    {
+     "key": "1",
+     "text": "いいなんて"
+    },
+    {
+     "key": "2",
+     "text": "よかったっけ"
+    },
+    {
+     "key": "3",
+     "text": "いいからだよね"
+    },
+    {
+     "key": "4",
+     "text": "よければだけど"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 8,
+   "number_in_section": 43,
+   "stem": "昨日、初めてパンを作ってみた。料理雑誌の＿＿＿ ＿＿★＿＿ ＿＿＿ ＿＿＿、うまく膨らまなかった。",
+   "options": [
+    {
+     "key": "1",
+     "text": "のに"
+    },
+    {
+     "key": "2",
+     "text": "レシピに書いてある"
+    },
+    {
+     "key": "3",
+     "text": "とおりに"
+    },
+    {
+     "key": "4",
+     "text": "作った"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 8,
+   "number_in_section": 44,
+   "stem": "「10倍がゆ」とは、＿＿＿ ＿＿★＿＿ ＿＿＿ ＿＿＿おかゆのことです。",
+   "options": [
+    {
+     "key": "1",
+     "text": "作った"
+    },
+    {
+     "key": "2",
+     "text": "水で"
+    },
+    {
+     "key": "3",
+     "text": "10倍の"
+    },
+    {
+     "key": "4",
+     "text": "米1に対して"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 8,
+   "number_in_section": 45,
+   "stem": "私が就職した商社は大手の＿＿＿ ＿＿★＿＿ ＿＿＿ ＿＿＿新人でも大きな仕事を任せてもらえるので、やりがいがある。",
+   "options": [
+    {
+     "key": "1",
+     "text": "決して"
+    },
+    {
+     "key": "2",
+     "text": "商社に比べると"
+    },
+    {
+     "key": "3",
+     "text": "やる気があれば"
+    },
+    {
+     "key": "4",
+     "text": "規模は大きくないが"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 8,
+   "number_in_section": 46,
+   "stem": "彼女は1970年代に活躍したジャズピアニストで、この人＿＿＿ ＿＿★＿＿ ＿＿＿ ＿＿＿大きな存在だった。",
+   "options": [
+    {
+     "key": "1",
+     "text": "語れない"
+    },
+    {
+     "key": "2",
+     "text": "日本のジャズは"
+    },
+    {
+     "key": "3",
+     "text": "抜きには"
+    },
+    {
+     "key": "4",
+     "text": "というほど"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 8,
+   "number_in_section": 47,
+   "stem": "贈り物をするときは、自分の勝手な＿＿＿ ＿＿★＿＿ ＿＿＿ ＿＿＿、相手の趣味や都合をよく考えて決めましょう。",
+   "options": [
+    {
+     "key": "1",
+     "text": "思い込みだけで"
+    },
+    {
+     "key": "2",
+     "text": "喜ばれるどころか"
+    },
+    {
+     "key": "3",
+     "text": "迷惑をかけることもあるので"
+    },
+    {
+     "key": "4",
+     "text": "品物を選ぶと"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_text9",
+   "section_code": "lang_reading",
+   "qtype_code": "text_grammar",
+   "mondai_no": 9,
+   "number_in_section": 48,
+   "stem": "みなさん、【48】。",
+   "options": [
+    {
+     "key": "1",
+     "text": "ご存知でしょう"
+    },
+    {
+     "key": "2",
+     "text": "ご存知だと思います"
+    },
+    {
+     "key": "3",
+     "text": "ご存知でしょうか"
+    },
+    {
+     "key": "4",
+     "text": "ご存知だと思いますか"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_text9",
+   "section_code": "lang_reading",
+   "qtype_code": "text_grammar",
+   "mondai_no": 9,
+   "number_in_section": 49,
+   "stem": "【49】、マニアル・セラピーに替わるものとして、最近、ロボット・セラピーが注目されるようになりました。",
+   "options": [
+    {
+     "key": "1",
+     "text": "そこで"
+    },
+    {
+     "key": "2",
+     "text": "そのうえ"
+    },
+    {
+     "key": "3",
+     "text": "それなのに"
+    },
+    {
+     "key": "4",
+     "text": "そういえば"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_text9",
+   "section_code": "lang_reading",
+   "qtype_code": "text_grammar",
+   "mondai_no": 9,
+   "number_in_section": 50,
+   "stem": "こういったロボットとの触れ合いによって、精神的安定やコミュニケーション能力の改善などの効果が【50】。",
+   "options": [
+    {
+     "key": "1",
+     "text": "得られる点です"
+    },
+    {
+     "key": "2",
+     "text": "得られてもかまいません"
+    },
+    {
+     "key": "3",
+     "text": "得られるのだそうです"
+    },
+    {
+     "key": "4",
+     "text": "得られなければなりません"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_text9",
+   "section_code": "lang_reading",
+   "qtype_code": "text_grammar",
+   "mondai_no": 9,
+   "number_in_section": 51,
+   "stem": "そして、医療分野に【51】。",
+   "options": [
+    {
+     "key": "1",
+     "text": "貢献するつもりでした"
+    },
+    {
+     "key": "2",
+     "text": "貢献すべきだからです"
+    },
+    {
+     "key": "3",
+     "text": "貢献できるようにしています"
+    },
+    {
+     "key": "4",
+     "text": "貢献できるようになりたいです"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null
+  }
+ ],
+ "explanations": [
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 31,
+   "key_point": "〜ぶりに（N2）",
+   "analysis_zh": "正解是 3「ぶりに」。「1年ぶりに帰国する」＝時隔一年回國。ぶりに表示「時隔～之後又～」，接表示時間的名詞。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "おきに表「每隔～」，用於規律性間隔（如5時間おきに），不合「時隔一年」的語境"
+    },
+    {
+     "option": "2",
+     "why_wrong": "たびに表「每當～時」，接動作性名詞或動詞，「1年たびに」不自然"
+    },
+    {
+     "option": "4",
+     "why_wrong": "うちに表「在～期間內（不知不覺～）」，接ている/ない/辭書形，與句意不合"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "おきに",
+    "2": "たびに",
+    "3": "ぶりに",
+    "4": "うちに"
+   },
+   "option_meanings": {
+    "1": "每隔",
+    "2": "每當～時",
+    "3": "時隔～之後又",
+    "4": "在～期間內"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 32,
+   "key_point": "〜こそ（N2・強調）",
+   "analysis_zh": "正解是 1「こそ」。「今年こそ」＝今年無論如何一定要，表強烈決心。こそ接在想強調的詞後，表示「正是、偏偏」。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "さえ表「就連」，用於極端例子，與「今年」表決心的語境不合"
+    },
+    {
+     "option": "3",
+     "why_wrong": "すら＝さえ的書面語，同上不合"
+    },
+    {
+     "option": "4",
+     "why_wrong": "のみ＝だけ「只有」，表限定，「只有今年」語義不通"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "こそ",
+    "2": "さえ",
+    "3": "すら",
+    "4": "のみ"
+   },
+   "option_meanings": {
+    "1": "正是、偏偏（強調）",
+    "2": "就連",
+    "3": "甚至（書面）",
+    "4": "只有"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 33,
+   "key_point": "〜ところから（N2・由來）",
+   "analysis_zh": "正解是 4「ところから」。「腰の曲がった老人に似ているところから」＝因為像腰彎的老人才被寫作「海老」。ところから表判斷的理由、名稱的由來。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "ものを表「要是～就好了」，表假設願望，不合"
+    },
+    {
+     "option": "2",
+     "why_wrong": "とともに表「隨著～」或「和～一起」，不合"
+    },
+    {
+     "option": "3",
+     "why_wrong": "うえで表「在～方面/之後」，不合"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "ものを",
+    "2": "とともに",
+    "3": "うえで",
+    "4": "ところから"
+   },
+   "option_meanings": {
+    "1": "要是～就好了",
+    "2": "隨著、和～一起",
+    "3": "在～方面",
+    "4": "因為～（由來、理由）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 34,
+   "key_point": "あとは〜だけ（N2）",
+   "analysis_zh": "正解是 2「あとは」。「あとは資料を受付に運ぶだけです」＝只剩下把資料搬到接待處了。あとは表「剩下的就只有～」，常與だけ呼應。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "特に「尤其」與「だけです」不搭配"
+    },
+    {
+     "option": "3",
+     "why_wrong": "少しも後接否定，「只剩下一點也」語義不通"
+    },
+    {
+     "option": "4",
+     "why_wrong": "あまりに「太、過於」表程度，不合"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "とくに",
+    "2": "あとは",
+    "3": "すこしも",
+    "4": "あまりに"
+   },
+   "option_meanings": {
+    "1": "尤其",
+    "2": "剩下的、接著",
+    "3": "一點也（後接否定）",
+    "4": "太、過於"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 35,
+   "key_point": "〜場合でも（N2・即使）",
+   "analysis_zh": "正解是 1「場合でも」。「1時間しか使わない場合でも」＝即使只用1小時。場合でも表「即使在～的情況下」，でも表讓步。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "点でも不自然，「即使這一點」不合語境"
+    },
+    {
+     "option": "3",
+     "why_wrong": "場合には表「在～的情況下」，は表限定而非讓步，後接「必須付錢」語氣不合"
+    },
+    {
+     "option": "4",
+     "why_wrong": "点には同上不自然"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "ばあいでも",
+    "2": "てんでも",
+    "3": "ばあいには",
+    "4": "てんには"
+   },
+   "option_meanings": {
+    "1": "即使在～的情況下",
+    "2": "即使這一點",
+    "3": "在～的情況下",
+    "4": "在這一點上"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 36,
+   "key_point": "〜ようでいて（N2・看似卻）",
+   "analysis_zh": "正解是 4「簡単なようでいて」。「簡単なようでいて、けっこう難しい」＝看似簡單，其實很難。ようでいて表「看起來～但實際上～」的轉折。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "簡単らしいし的らしい表推量，「聽說簡單」與後句轉折不合"
+    },
+    {
+     "option": "2",
+     "why_wrong": "ようであれば是假設「如果看起來簡單的話」，不合"
+    },
+    {
+     "option": "3",
+     "why_wrong": "簡単らしくて表傳聞或樣態的「好像簡單」，不合此處轉折語境"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "かんたんらしいし",
+    "2": "かんたんなようであれば",
+    "3": "かんたんらしくて",
+    "4": "かんたんなようでいて"
+   },
+   "option_meanings": {
+    "1": "好像簡單（還列舉原因）",
+    "2": "如果看起來簡單的話",
+    "3": "好像簡單",
+    "4": "看似～（實際卻）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 37,
+   "key_point": "〜ないか（N2・擔心是否）",
+   "analysis_zh": "正解是 2「枯れてしまわないか」。「枯れてしまわないか心配だ」＝擔心花會不會枯萎。〜ないか接在心配だ前，表對否定事態的擔憂。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "ことで表原因，「因為沒枯萎」與「心配」矛盾"
+    },
+    {
+     "option": "3",
+     "why_wrong": "からと表引用原因，不合"
+    },
+    {
+     "option": "4",
+     "why_wrong": "のを接心配だ不自然（のを心配だ非固定搭配）"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "かれていないことで",
+    "2": "かれてしまわないか",
+    "3": "かれていないからと",
+    "4": "かれてしまわないのを"
+   },
+   "option_meanings": {
+    "1": "因為沒枯萎",
+    "2": "會不會枯萎",
+    "3": "因為沒枯萎（引用）",
+    "4": "不會枯萎（名詞化）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 38,
+   "key_point": "〜つもりだった（N2・原本打算）",
+   "analysis_zh": "正解是 3「見に行くつもりだった」。「本当は映画を見に行くつもりだったが、雪が降ってきたのでやめた」＝本來打算去看電影，但下雪就作罷了。つもりだった表「原本打算（但沒實現）」。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "てばかりだ表「老是～」，表抱怨習慣，不合"
+    },
+    {
+     "option": "2",
+     "why_wrong": "たばかりだ表「剛～」，「剛去看」與「やめた」矛盾"
+    },
+    {
+     "option": "4",
+     "why_wrong": "たつもりだ表「自以為～」，「自以為去看了」不合"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "みにいってばかりだ",
+    "2": "みにいったばかりだ",
+    "3": "みにいくつもりだった",
+    "4": "みにいったつもりだった"
+   },
+   "option_meanings": {
+    "1": "老是去看",
+    "2": "剛去看",
+    "3": "原本打算去看",
+    "4": "自以為去看了"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 39,
+   "key_point": "〜かねる（N2・難以）",
+   "analysis_zh": "正解是 2「判断しかねる」。「判断しかねる」＝難以判斷。かねる接在動詞ます形後，表「難以～（因立場或心情上）」。結果還沒出來，現階段難以判斷。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "すべきだ表「應該」，「應該判斷」與「結果未出」矛盾"
+    },
+    {
+     "option": "3",
+     "why_wrong": "にすぎない表「只不過是」，不合"
+    },
+    {
+     "option": "4",
+     "why_wrong": "ざるを得ない表「不得不」，不合"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "はんだんすべきだ",
+    "2": "はんだんしかねる",
+    "3": "はんだんしたにすぎない",
+    "4": "はんだんざるをえない"
+   },
+   "option_meanings": {
+    "1": "應該判斷",
+    "2": "難以判斷",
+    "3": "只不過是判斷了",
+    "4": "不得不判斷"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 40,
+   "key_point": "〜そうだ（N2・樣態）",
+   "analysis_zh": "正解是 3「走り出しそうだ」。「今にも走り出しそうだ」＝彷彿馬上就要跑起來了。動詞ます形＋そうだ表樣態「看起來馬上要～」，常與今にも搭配。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "ていたい是第一人稱願望「想跑」，不合"
+    },
+    {
+     "option": "2",
+     "why_wrong": "ようだ表推測「好像在跑」，但「今にも」強調迫近，そうだ更貼切"
+    },
+    {
+     "option": "4",
+     "why_wrong": "たがる表第三人稱慾望「想跑」，不合"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "はしっていたい",
+    "2": "はしっているようだ",
+    "3": "はしりだしそうだ",
+    "4": "はしりだしたがる"
+   },
+   "option_meanings": {
+    "1": "（我想）跑",
+    "2": "好像在跑",
+    "3": "眼看就要跑起來",
+    "4": "（他）想跑起來"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 41,
+   "key_point": "敬語・お越しくださる（N2）",
+   "analysis_zh": "正解是 1「お越しくださいました」。員工對客人說「歡迎光臨」，来る的尊敬語是お越しになる／お越しくださる。「ようこそお越しくださいました」為固定歡迎語。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "お伺いしました是行く・来る・聞く的自謙語，方向錯誤（員工不能對客人自謙）"
+    },
+    {
+     "option": "3",
+     "why_wrong": "お呼びいただきました「承蒙您呼喚」，語義不合"
+    },
+    {
+     "option": "4",
+     "why_wrong": "お迎えしました是自謙語，員工迎接客人應用尊敬語"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "おこしくださいました",
+    "2": "おうかがいしました",
+    "3": "およびいただきました",
+    "4": "おむかえしました"
+   },
+   "option_meanings": {
+    "1": "您大駕光臨（尊敬）",
+    "2": "我前去/請教（自謙）",
+    "3": "承蒙您召喚",
+    "4": "我迎接（自謙）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 42,
+   "key_point": "〜ば〜だけど（N2・委婉）",
+   "analysis_zh": "正解是 4「よければだけど」。「もちろん田中さんがよければだけど」＝當然，如果田中你願意的話。よければだけど表委婉的條件，給對方留餘地。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "なんて表輕蔑或意外，「竟然說好」不合"
+    },
+    {
+     "option": "2",
+     "why_wrong": "っけ表確認記憶，「是很好來著？」不合"
+    },
+    {
+     "option": "3",
+     "why_wrong": "いいからだよね表斷定「因為是好的吧」，語氣過強，不合委婉邀請"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "いいなんて",
+    "2": "よかったっけ",
+    "3": "いいからだよね",
+    "4": "よければだけど"
+   },
+   "option_meanings": {
+    "1": "竟然說好（輕蔑/意外）",
+    "2": "是好的來著？（確認記憶）",
+    "3": "因為是好的吧",
+    "4": "如果你願意的話"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 43,
+   "key_point": "排序・とおりに＋のに（N2）",
+   "analysis_zh": "正解語序是 2341，★處填 4「作った」。「料理雑誌のレシピに書いてあるとおりに作ったのに、うまく膨らまなかった」＝明明按照料理雜誌食譜上寫的做的，麵包卻沒好好膨脹。とおりに（按照）前接動詞辭書形/ている/た形；のに（明明卻）前接普通形，表逆接。（完整語序：2→3→4→1）",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "のに是逆接，須放在★前接後句，不在★處"
+    },
+    {
+     "option": "2",
+     "why_wrong": "レシピに書いてある須接とおりに，排第2"
+    },
+    {
+     "option": "3",
+     "why_wrong": "とおりに須接動詞，排第3"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "のに",
+    "2": "れしぴにかいてある",
+    "3": "とおりに",
+    "4": "つくった"
+   },
+   "option_meanings": {
+    "1": "明明～卻",
+    "2": "食譜上寫著",
+    "3": "按照",
+    "4": "做了"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 44,
+   "key_point": "排序・に対して（N2）",
+   "analysis_zh": "正解語序是 4321，★處填 2「水で」。「米1に対して10倍の水で作ったおかゆ」＝用1份米對10份水煮成的粥。に対して表比例「對～」；10倍の修飾水；水で作った表材料手段。（完整語序：4→3→2→1）",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "作った修飾おかゆ須在最後，排第4"
+    },
+    {
+     "option": "3",
+     "why_wrong": "10倍の修飾水，排第2"
+    },
+    {
+     "option": "4",
+     "why_wrong": "米1に対して開頭，排第1"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "つくった",
+    "2": "みずで",
+    "3": "じゅうばいの",
+    "4": "こめいちにたいして"
+   },
+   "option_meanings": {
+    "1": "做成的",
+    "2": "用水",
+    "3": "10倍的",
+    "4": "對1份米"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 45,
+   "key_point": "排序・決して〜ない（N2）",
+   "analysis_zh": "正解語序是 2143，★處填 4「規模は大きくないが」。「大手の商社に比べると決して規模は大きくないが、やる気があれば新人でも大きな仕事を任せてもらえる」＝跟大商社比絕不算規模大，但只要有幹勁，新人也能被委以重任。決して後接否定；が表轉折。（完整語序：2→1→4→3）",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "決して須接否定（ないが），排第3"
+    },
+    {
+     "option": "2",
+     "why_wrong": "商社に比べると開頭作比較，排第1"
+    },
+    {
+     "option": "3",
+     "why_wrong": "やる気があれば接が的後半，排第4"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "けっして",
+    "2": "しょうしゃにくらべると",
+    "3": "やるきがあれば",
+    "4": "きぼはおおきくないが"
+   },
+   "option_meanings": {
+    "1": "絕不",
+    "2": "跟商社比起來",
+    "3": "如果有幹勁",
+    "4": "規模雖不大，但"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 46,
+   "key_point": "排序・〜抜きには〜ない（N2）",
+   "analysis_zh": "正解語序是 3214，★處填 1「語れない」。「この人抜きには日本のジャズは語れないというほど大きな存在だった」＝可以說是沒有她就談不上日本爵士樂的存在。抜きには〜ない表「沒有～就不行」；というほど表程度。（完整語序：3→2→1→4）",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "日本のジャズは是語れない的主語，排第4"
+    },
+    {
+     "option": "3",
+     "why_wrong": "抜きには接この人後，排第1"
+    },
+    {
+     "option": "4",
+     "why_wrong": "というほど表程度接存在前，排第3"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "かたれない",
+    "2": "にほんのじゃずは",
+    "3": "ぬきには",
+    "4": "というほど"
+   },
+   "option_meanings": {
+    "1": "無法談論",
+    "2": "日本的爵士樂",
+    "3": "沒有～就",
+    "4": "到～的地步"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 47,
+   "key_point": "排序・どころか（N2）",
+   "analysis_zh": "正解語序是 1423，★處填 4「品物を選ぶと」。「自分の勝手な思い込みだけで品物を選ぶと、喜ばれるどころか迷惑をかけることもあるので」＝如果只憑自己一廂情願選禮物，別說讓人高興，有時還會給人添麻煩。どころか表強烈否定前項、引出更甚的後項。（完整語序：1→4→2→3）",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "思い込みだけで接勝手な後，排第1"
+    },
+    {
+     "option": "2",
+     "why_wrong": "喜ばれるどころか接選ぶと後，排第2"
+    },
+    {
+     "option": "3",
+     "why_wrong": "迷惑をかけることもあるので結句，排第4"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "おもいこみだけで",
+    "2": "よろこばれるどころか",
+    "3": "めいわくをかけることもあるので",
+    "4": "しなものをえらぶと"
+   },
+   "option_meanings": {
+    "1": "只憑一廂情願",
+    "2": "別說受歡迎",
+    "3": "有時還會添麻煩，所以",
+    "4": "如果選禮物"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 48,
+   "key_point": "文章文法・でしょう（N2）",
+   "analysis_zh": "正解是 1「ご存知でしょう」。前文說「聽說過機器人療法的人可能很多」，接著對聽眾說「みなさん、ご存知でしょう」＝大家應該都知道吧。でしょう表有把握的推量，符合演講開場的語氣。※本題解析PDF未標註正解，按文意判定。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "ご存知だと思います是說話人自己的推測「我想大家知道」，不如でしょう貼合演講語氣"
+    },
+    {
+     "option": "3",
+     "why_wrong": "ご存知でしょうか表疑問「不知大家是否知道」，與前文「很多人聽說過」矛盾"
+    },
+    {
+     "option": "4",
+     "why_wrong": "ご存知だと思いますか是向對方確認自己的想法，語境不合"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "ごぞんじでしょう",
+    "2": "ごぞんじだとおもいます",
+    "3": "ごぞんじでしょうか",
+    "4": "ごぞんじだとおもいますか"
+   },
+   "option_meanings": {
+    "1": "您應該知道吧",
+    "2": "我想您知道",
+    "3": "不知您是否知道",
+    "4": "您覺得您知道嗎"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 49,
+   "key_point": "文章文法・そこで（N2）",
+   "analysis_zh": "正解是 1「そこで」。前文講在養老機構養動物的困難（過敏、照顧問題），接著說「因此，作為動物療法的替代品，機器人療法開始受到關注」。そこで表因果承接「於是、因此」。※本題解析PDF未標註正解，按文意判定。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "そのうえ表累加「而且」，此處是因果非累加"
+    },
+    {
+     "option": "3",
+     "why_wrong": "それなのに表逆接「儘管如此」，與文意相反"
+    },
+    {
+     "option": "4",
+     "why_wrong": "そういえば表話題轉換「說起來」，不合"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "そこで",
+    "2": "そのうえ",
+    "3": "それなのに",
+    "4": "そういえば"
+   },
+   "option_meanings": {
+    "1": "因此、於是",
+    "2": "而且",
+    "3": "儘管如此",
+    "4": "說起來"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 50,
+   "key_point": "文章文法・点です（N2）",
+   "analysis_zh": "正解是 1「得られる点です」。「効果が得られる点です」＝能獲得這些效果正是其優點所在。点です用於指出事物的要點、優點。※本題解析PDF未標註正解，按文意判定。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "てもかまいません表許可「即使～也沒關係」，不合"
+    },
+    {
+     "option": "3",
+     "why_wrong": "のだそうです表傳聞，與演講者介紹已知療效的語境不合"
+    },
+    {
+     "option": "4",
+     "why_wrong": "なければなりません表義務「必須」，不合"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "えられるてんです",
+    "2": "えられてもかまいません",
+    "3": "えられるのだそうです",
+    "4": "えられなければなりません"
+   },
+   "option_meanings": {
+    "1": "能獲得這一點",
+    "2": "即使獲得也沒關係",
+    "3": "聽說能獲得",
+    "4": "必須獲得"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 51,
+   "key_point": "文章文法・ようになりたい（N2）",
+   "analysis_zh": "正解是 4「貢献できるようになりたいです」。前文說為了將來參加機器人研究開發而繼續學習，接著「そして、医療分野に貢献できるようになりたいです」＝希望能為醫療領域做出貢獻。ようになりたい表願望「想變得能～」。※本題解析PDF未標註正解，按文意判定。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "つもりでした表過去的打算「本來打算」，與「これからも勉強を続けます」的未來志向矛盾"
+    },
+    {
+     "option": "2",
+     "why_wrong": "べきだからです表義務理由，句式不完整且不合"
+    },
+    {
+     "option": "3",
+     "why_wrong": "ようにしています表習慣性努力「正在努力做到」，不如なりたいです直接表願望貼切"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "こうけんするつもりでした",
+    "2": "こうけんすべきだからです",
+    "3": "こうけんできるようにしています",
+    "4": "こうけんできるようになりたいです"
+   },
+   "option_meanings": {
+    "1": "本來打算貢獻",
+    "2": "因為應該貢獻",
+    "3": "正在努力能貢獻",
+    "4": "想變得能貢獻"
+   }
+  }
+ ],
+ "vocabulary": [
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 31,
+   "word": "ぶり",
+   "reading": "ぶり",
+   "pos": "副詞",
+   "meaning_zh": "時隔",
+   "example_sentence": "1年ぶりに帰国する",
+   "note": "接時間名詞，表久違",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 32,
+   "word": "申し込む",
+   "reading": "もうしこむ",
+   "pos": "動詞",
+   "meaning_zh": "求婚、申請",
+   "example_sentence": "結婚を申し込む",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 33,
+   "word": "海老",
+   "reading": "えび",
+   "pos": "名詞",
+   "meaning_zh": "蝦",
+   "example_sentence": null,
+   "note": "腰の曲がった老人に似ているところから「海老」と書く",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 34,
+   "word": "受付",
+   "reading": "うけつけ",
+   "pos": "名詞",
+   "meaning_zh": "接待處",
+   "example_sentence": "資料を受付に運ぶ",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 35,
+   "word": "利用料金",
+   "reading": "りようりょうきん",
+   "pos": "名詞",
+   "meaning_zh": "使用費",
+   "example_sentence": null,
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 36,
+   "word": "書きつづける",
+   "reading": "かきつづける",
+   "pos": "動詞",
+   "meaning_zh": "持續寫",
+   "example_sentence": "毎日日記を書きつづける",
+   "note": "つづける表持續",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 37,
+   "word": "枯れる",
+   "reading": "かれる",
+   "pos": "動詞",
+   "meaning_zh": "枯萎",
+   "example_sentence": "庭の花が枯れてしまわないか心配だ",
+   "note": "〜てしまう表遺憾的結果",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 38,
+   "word": "つもり",
+   "reading": "つもり",
+   "pos": "名詞",
+   "meaning_zh": "打算、自以為",
+   "example_sentence": "見に行くつもりだった",
+   "note": "つもりだった＝原本打算但未實現",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 39,
+   "word": "戦略",
+   "reading": "せんりゃく",
+   "pos": "名詞",
+   "meaning_zh": "戰略",
+   "example_sentence": null,
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 40,
+   "word": "そっくり",
+   "reading": "そっくり",
+   "pos": "形容動詞",
+   "meaning_zh": "一模一樣",
+   "example_sentence": "本物そっくりに描かれている",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 41,
+   "word": "越す",
+   "reading": "こす",
+   "pos": "動詞",
+   "meaning_zh": "來、去（尊敬語お越しになる）",
+   "example_sentence": "ようこそお越しくださいました",
+   "note": "来る的尊敬語",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 42,
+   "word": "募集",
+   "reading": "ぼしゅう",
+   "pos": "名詞",
+   "meaning_zh": "招募",
+   "example_sentence": "アルバイトを募集している",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 43,
+   "word": "膨らむ",
+   "reading": "ふくらむ",
+   "pos": "動詞",
+   "meaning_zh": "膨脹",
+   "example_sentence": "うまく膨らまなかった",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 44,
+   "word": "粥",
+   "reading": "かゆ",
+   "pos": "名詞",
+   "meaning_zh": "粥",
+   "example_sentence": "10倍がゆ",
+   "note": "10倍がゆ＝10倍水煮的粥",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 45,
+   "word": "やりがい",
+   "reading": "やりがい",
+   "pos": "名詞",
+   "meaning_zh": "工作價值、幹勁",
+   "example_sentence": "やりがいがある",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 46,
+   "word": "抜き",
+   "reading": "ぬき",
+   "pos": "名詞",
+   "meaning_zh": "除去、沒有",
+   "example_sentence": "この人抜きには日本のジャズは語れない",
+   "note": "〜抜きには〜ない＝沒有～就不行",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 47,
+   "word": "思い込み",
+   "reading": "おもいこみ",
+   "pos": "名詞",
+   "meaning_zh": "一廂情願、主觀臆斷",
+   "example_sentence": "自分の勝手な思い込み",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 48,
+   "word": "存知",
+   "reading": "ぞんじ",
+   "pos": "名詞",
+   "meaning_zh": "知道（尊敬語ご存知）",
+   "example_sentence": "ご存知でしょう",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 49,
+   "word": "替わる",
+   "reading": "かわる",
+   "pos": "動詞",
+   "meaning_zh": "替代",
+   "example_sentence": "マニアル・セラピーに替わるもの",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 50,
+   "word": "触れ合い",
+   "reading": "ふれあい",
+   "pos": "名詞",
+   "meaning_zh": "接觸、交流",
+   "example_sentence": "ロボットとの触れ合い",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 51,
+   "word": "貢献",
+   "reading": "こうけん",
+   "pos": "名詞",
+   "meaning_zh": "貢獻",
+   "example_sentence": "医療分野に貢献できるようになりたい",
+   "note": null,
+   "etymology_en": null
+  }
+ ]
+}

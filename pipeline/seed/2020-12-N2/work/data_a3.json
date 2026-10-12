@@ -1,0 +1,738 @@
+{
+ "questions": [
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "synonym",
+   "mondai_no": 5,
+   "number_in_section": 21,
+   "stem": "ボランティアで町の名所をガイドしている。",
+   "options": [
+    {
+     "key": "1",
+     "text": "案内して"
+    },
+    {
+     "key": "2",
+     "text": "宣伝して"
+    },
+    {
+     "key": "3",
+     "text": "調査して"
+    },
+    {
+     "key": "4",
+     "text": "記録して"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": "ガイド",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "synonym",
+   "mondai_no": 5,
+   "number_in_section": 22,
+   "stem": "山口さんも真剣に作っていた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "上手に"
+    },
+    {
+     "key": "2",
+     "text": "自由に"
+    },
+    {
+     "key": "3",
+     "text": "積極的に"
+    },
+    {
+     "key": "4",
+     "text": "まじめに"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": "真剣に",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "synonym",
+   "mondai_no": 5,
+   "number_in_section": 23,
+   "stem": "彼女のような歌手はまれだと思う。",
+   "options": [
+    {
+     "key": "1",
+     "text": "あまりいない"
+    },
+    {
+     "key": "2",
+     "text": "人気が出ない"
+    },
+    {
+     "key": "3",
+     "text": "人気が出る"
+    },
+    {
+     "key": "4",
+     "text": "たくさんいる"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": "まれだ",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "synonym",
+   "mondai_no": 5,
+   "number_in_section": 24,
+   "stem": "この道は終日通行止めです。",
+   "options": [
+    {
+     "key": "1",
+     "text": "週末"
+    },
+    {
+     "key": "2",
+     "text": "夜間"
+    },
+    {
+     "key": "3",
+     "text": "一日中"
+    },
+    {
+     "key": "4",
+     "text": "今日まで"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": "終日",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "synonym",
+   "mondai_no": 5,
+   "number_in_section": 25,
+   "stem": "青木さんは髪をいじっていた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "切って"
+    },
+    {
+     "key": "2",
+     "text": "触って"
+    },
+    {
+     "key": "3",
+     "text": "洗って"
+    },
+    {
+     "key": "4",
+     "text": "乾かして"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": "いじって",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_usage",
+   "mondai_no": 6,
+   "number_in_section": 26,
+   "stem": "初期",
+   "options": [
+    {
+     "key": "1",
+     "text": "曲の初期の部分を聞いただけで、題名が何かわかりました"
+    },
+    {
+     "key": "2",
+     "text": "この建物は有名な建築物で、明治時代の初期に建てられました"
+    },
+    {
+     "key": "3",
+     "text": "池田選手は、試合の初期では負けていたが、最後には勝つことができた"
+    },
+    {
+     "key": "4",
+     "text": "今日は朝から雲に覆われ、初期は雨だったが、途中から雪に変わった"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": "初期",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_usage",
+   "mondai_no": 6,
+   "number_in_section": 27,
+   "stem": "打ち明ける",
+   "options": [
+    {
+     "key": "1",
+     "text": "仕事でわからないことがあれば、彼が何でも打ち明けてくれます"
+    },
+    {
+     "key": "2",
+     "text": "谷口さんが戻ってきたら、伝言を打ち明けておいてもらえますか"
+    },
+    {
+     "key": "3",
+     "text": "大事な情報はすぐに上司に打ち明けましょう"
+    },
+    {
+     "key": "4",
+     "text": "ずっと秘密にしていたことを友達に打ち明けた"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": "打ち明ける",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_usage",
+   "mondai_no": 6,
+   "number_in_section": 28,
+   "stem": "欠陥",
+   "options": [
+    {
+     "key": "1",
+     "text": "あの人の欠陥は、自分に都合の悪いことがあるとうそをつくことだ"
+    },
+    {
+     "key": "2",
+     "text": "眼鏡のレンズを硬い布でふいたら、欠陥がついてしまった"
+    },
+    {
+     "key": "3",
+     "text": "先月発表された車のブレーキに欠陥が見つかり、販売が中止された"
+    },
+    {
+     "key": "4",
+     "text": "このサービスを利用することの欠陥は費用が非常にかかることだ"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": "欠陥",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_usage",
+   "mondai_no": 6,
+   "number_in_section": 29,
+   "stem": "引退",
+   "options": [
+    {
+     "key": "1",
+     "text": "山本さんは去年入学したばかりの大学を引退し、別の大学を受験するらしい"
+    },
+    {
+     "key": "2",
+     "text": "これまで多くの名作を残した映画監督が、今回限り引退することを発表した"
+    },
+    {
+     "key": "3",
+     "text": "この書店はもうすぐ商店街から引退し、駅前のビルの中で店を始めるらしい"
+    },
+    {
+     "key": "4",
+     "text": "中村選手は前大会でのけがが回復せず、次の試合への出場を引退した"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": "引退",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_usage",
+   "mondai_no": 6,
+   "number_in_section": 30,
+   "stem": "ぎっしり",
+   "options": [
+    {
+     "key": "1",
+     "text": "大きな箱に本がぎっしり詰まっている"
+    },
+    {
+     "key": "2",
+     "text": "ジュースがコップにぎっしり入っている"
+    },
+    {
+     "key": "3",
+     "text": "少し太ったせいで、ズボンがぎっしりしている"
+    },
+    {
+     "key": "4",
+     "text": "朝の電車はいつも人でぎっしりしている"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": "ぎっしり",
+   "audio_url": null
+  }
+ ],
+ "explanations": [
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 21,
+   "key_point": "言い換え・カタカナ語",
+   "analysis_zh": "正解是 1「案内して」。「ガイド（guide）」在此是嚮導、導覽；作為志願者介紹了有名的地方，如「公園の中を案内する」陪同遊覽了公園。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "宣伝（せんでん）是宣傳，如「新製品を宣伝する」宣傳新產品；不是「導覽」"
+    },
+    {
+     "option": "3",
+     "why_wrong": "調査（ちょうさ）是調查，如「新製品の発売は事前にマーケティング調査をしなければならぬ」新產品的售賣必須要事先進行市場調查"
+    },
+    {
+     "option": "4",
+     "why_wrong": "記録（きろく）是記錄，如「会議の記録をとる」做會議記錄"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "あんないして",
+    "2": "せんでんして",
+    "3": "ちょうさして",
+    "4": "きろくして"
+   },
+   "option_meanings": {
+    "1": "嚮導；導覽",
+    "2": "宣傳",
+    "3": "調查",
+    "4": "記錄"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 22,
+   "key_point": "言い換え・副詞",
+   "analysis_zh": "正解是 4「まじめに」。「真剣（しんけん）」是認真、嚴肅；山口也認真的做了，如「真面目な顔して冗談を言う」用著認真的表情開玩笑。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "上手に（じょうずに）是擅長、高明，如「とても上手に日本語を話す」日語說的棒極了；指技巧好而非態度認真"
+    },
+    {
+     "option": "2",
+     "why_wrong": "自由に（じゆうに）是自由地，如「飛べるものなら、空を自由に飛びたいです」能飛的話，想在天空中自由的飛翔"
+    },
+    {
+     "option": "3",
+     "why_wrong": "積極的に（せっきょくてきに）是積極地，如「勇気をもって積極的に行動しよう」拿出勇氣積極行動吧"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "じょうずに",
+    "2": "じゆうに",
+    "3": "せっきょくてきに",
+    "4": "まじめに"
+   },
+   "option_meanings": {
+    "1": "擅長地；高明地",
+    "2": "自由地",
+    "3": "積極地",
+    "4": "認真地"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 23,
+   "key_point": "言い換え・形容動詞",
+   "analysis_zh": "正解是 1「あまりいない」。「まれ（稀）」是不常有、稀少；我覺得像她這樣的歌手很稀少，如「彼のような勤勉な学生はあまりいない」像他那樣勤勉的學生不常有。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "人気が出ない是沒人氣，如「歌い方が普通でなかなか人気が出ない」唱法太普通了沒什麼人氣；「稀少」不等於「沒人氣」"
+    },
+    {
+     "option": "3",
+     "why_wrong": "人気が出る是有人氣；語義相反"
+    },
+    {
+     "option": "4",
+     "why_wrong": "たくさんいる是有很多（人）；語義相反"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "あまりいない",
+    "2": "にんきがでない",
+    "3": "にんきがでる",
+    "4": "たくさんいる"
+   },
+   "option_meanings": {
+    "1": "不常有；很少",
+    "2": "沒人氣",
+    "3": "有人氣",
+    "4": "有很多"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 24,
+   "key_point": "言い換え・時間副詞",
+   "analysis_zh": "正解是 3「一日中」。「終日（しゅうじつ）」是終日、一整天；這條路整天都禁止通行，如「一日中ゲームをした」玩了一整天遊戲。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "週末（しゅうまつ）是週末；時間範圍不符"
+    },
+    {
+     "option": "2",
+     "why_wrong": "夜中（よなか）是半夜、深夜；時間範圍不符"
+    },
+    {
+     "option": "4",
+     "why_wrong": "今日まで（きょうまで）是到今天為止；語義不合"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "しゅうまつ",
+    "2": "よなか",
+    "3": "いちにちじゅう",
+    "4": "きょうまで"
+   },
+   "option_meanings": {
+    "1": "週末",
+    "2": "半夜；深夜",
+    "3": "一整天",
+    "4": "到今天為止"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 25,
+   "key_point": "言い換え・動詞",
+   "analysis_zh": "正解是 2「触って」。「弄る（いじる）」是擺弄、撥弄、觸碰；青木撥弄了一下頭髮。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "切る（きる）是切、割、剪，如「うかつに指を切ってしまった」不小心把手指切到了；也指中斷（縁を切る斷絕關係）、限期（期限を切る）、甩去（水を切る把水甩乾）"
+    },
+    {
+     "option": "3",
+     "why_wrong": "洗う（あらう）是洗，如「野菜を水で洗う」用水洗菜；也指徹底調查（事件のもとを洗う徹底調查時間的根源）"
+    },
+    {
+     "option": "4",
+     "why_wrong": "乾かす（かわかす）是曬乾、弄乾，如「雨に濡れた服をストーブで乾かす」把被雨淋濕的衣服用火爐晾乾"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "きって",
+    "2": "さわって",
+    "3": "あらって",
+    "4": "かわかして"
+   },
+   "option_meanings": {
+    "1": "剪；切斷",
+    "2": "觸碰；觸摸",
+    "3": "洗",
+    "4": "弄乾；曬乾"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 26,
+   "key_point": "用法・名詞「初期」",
+   "analysis_zh": "正解是 2。「初期（しょき）」是初期、剛開始的時候，用於事物發展的最初階段，如「初期の作品」初期作品、「明治時代の初期」明治初期。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「曲の初期の部分」不自然；樂曲的開頭部分應用「初め」「冒頭」「出だし」"
+    },
+    {
+     "option": "3",
+     "why_wrong": "比賽的進程應用「初め」「序盤」「前半」，「試合の初期」不是慣用搭配"
+    },
+    {
+     "option": "4",
+     "why_wrong": "天氣的變化應用「初めは」「最初は」，「初期は雨だった」不自然"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "きょくのしょきのぶぶんをきいただけで、だいめいがなにかわかりました",
+    "2": "このたてものはゆうめいなけんちくぶつで、めいじじだいのしょきにたてられました",
+    "3": "いけだせんしゅは、しあいのしょきではまけていたが、さいごにはかつことができた",
+    "4": "きょうはあさからくもにおおわれ、しょきはあめだったが、とちゅうからゆきにかわった"
+   },
+   "option_meanings": {
+    "1": "只聽了曲子最初的部分，就知道題名是什麼了",
+    "2": "這個建築物很有名，是在明治初期建造而成的",
+    "3": "池田選手在雖然比賽剛開始的時候落後，最後還是贏了",
+    "4": "今天早上就烏雲密布，剛開始下了雨，中途開始變成了雪"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 27,
+   "key_point": "用法・動詞「打ち明ける」",
+   "analysis_zh": "正解是 4。「打ち明ける（うちあける）」是坦率說出（秘密、心裡話）；向朋友坦白了一直以來當作秘密的事。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「打ち明ける」是說出秘密/心裡話，不是「教」；此處應用「教える（おしえる）」"
+    },
+    {
+     "option": "2",
+     "why_wrong": "轉達口信用「言い伝える（いいつたえる）」「伝える」，不用「打ち明ける」"
+    },
+    {
+     "option": "3",
+     "why_wrong": "向上司報告重要信息用「報告（ほうこく）する」，「打ち明ける」指傾訴秘密，不用於正式報告"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "しごとでわからないことがあれば、かれがなんでもうちあけてくれます",
+    "2": "たにぐちさんがもどってきたら、でんごんをうちあけておいてもらえますか",
+    "3": "だいじなじょうほうはすぐにじょうしにうちあけましょう",
+    "4": "ずっとひみつにしていたことをともだちにうちあけた"
+   },
+   "option_meanings": {
+    "1": "在工作上有什麼不懂的話，無論是什麼他都會教我",
+    "2": "谷口回來時候，能幫忙傳達一下口信嗎？",
+    "3": "重要的信息立刻向上司報告",
+    "4": "向朋友坦白了一直以來當作秘密的事"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 28,
+   "key_point": "用法・名詞「欠陥」",
+   "analysis_zh": "正解是 3。「欠陥（けっかん）」是缺陷，常指構造、機能上的缺陷；上個月發售的車發現了剎車的缺陷，中止了銷售。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "人的缺點用「欠点（けってん）」「短所（たんしょ）」，「欠陥」指物/構造的缺陷，不用於人的性格"
+    },
+    {
+     "option": "2",
+     "why_wrong": "鏡片被擦花是「擦り傷（すりきず）」擦傷、擦痕，如「眼鏡のレンズを硬い布でふいたら」用很硬的布擦了下鏡片；「欠陥」指先天缺陷"
+    },
+    {
+     "option": "4",
+     "why_wrong": "服務的缺點、費用高應用「欠点（けってん）」，「欠陥」不用於抽象服務的缺點"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "あのひとのけっかんは、じぶんにつごうのわるいことがあるとうそをつくことだ",
+    "2": "めがねのれんずをかたいぬのでふいたら、けっかんがついてしまった",
+    "3": "せんげつはっぴょうされたくるまのぶれーきにけっかんがみつかり、はんばいがちゅうしされた",
+    "4": "このさーびすをりようすることのけっかんはひようがひじょうにかかることだ"
+   },
+   "option_meanings": {
+    "1": "那個人的缺點是在對自己不利的事情方面說謊",
+    "2": "用很硬的布擦了下鏡片，結果把鏡片擦花了",
+    "3": "發現了上個月發售的車剎車的缺陷，中止了銷售",
+    "4": "利用那個服務的缺點是費用特別高"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 29,
+   "key_point": "用法・名詞「引退」",
+   "analysis_zh": "正解是 2。「引退（いんたい）」是隱退、退職（從某個重要地位或職位退職；職業選手退役）；至今為止留下了很多名作的電影導演，宣布了這次以後就隱退。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "從大學退學用「退学（たいがく）」；「引退」不用於學生退學"
+    },
+    {
+     "option": "3",
+     "why_wrong": "書店從商店街搬離、撤離用「撤退（てったい）」；「引退」指人從重要地位退下"
+    },
+    {
+     "option": "4",
+     "why_wrong": "謝絕下次比賽的出場用「辞退（じたい）」；「引退」指整個職業生涯的隱退"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "やまもとさんはきょにょんにゅうがくしたばかりのだいがくをいんたいし、べつのだいがくをじゅけんするらしい",
+    "2": "これまでおおくのめいさくをのこしたえいがかんとくが、こんかぎりいんたいすることをはっぴょうした",
+    "3": "このしょてんはもうすぐしょうてんがいからいんたいし、えきまえのびるのなかでみせをはじめるらしい",
+    "4": "なかむらせんしゅはぜんたいかいでのけががかいふくせず、つぎのしあいへのしゅつじょうをいんたいした"
+   },
+   "option_meanings": {
+    "1": "聽說山口從去年剛進的大學退學，又去考其他的學校了",
+    "2": "至今為止留下了很多名作的電影導演，宣布了這次以後就隱退",
+    "3": "好像這家書店很快要從商店街撤離，在車站前的大樓裡面開店",
+    "4": "中村選手由於上次大賽中受的傷沒能回復，謝絕了下次比賽的出場"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 30,
+   "key_point": "用法・副詞「ぎっしり」",
+   "analysis_zh": "正解是 1。「ぎっしり」是滿滿的（沒有空隙地被塞滿的樣子）；大箱子里塞滿了書。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "果汁倒滿杯子是液體充滿，用「たっぷり（充分、足夠、多）」；「ぎっしり」指固體物塞滿無空隙"
+    },
+    {
+     "option": "3",
+     "why_wrong": "褲子快被撐破（身體膨脹的樣子）用「ぱんぱん」，常用於肚子、足；「ぎっしり」不形容身體膨脹"
+    },
+    {
+     "option": "4",
+     "why_wrong": "電車擠滿人用「ぎゅうぎゅう（擠滿）」；「ぎっしり」指東西塞滿容器"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "おおきなはこにほんがぎっしりつまっている",
+    "2": "じゅーすがこっぷにぎっしりはいっている",
+    "3": "すこしふとったせいで、ずぼんがぎっしりしている",
+    "4": "あさのでんしゃはいつもひとでぎっしりしている"
+   },
+   "option_meanings": {
+    "1": "大箱子里塞滿了書",
+    "2": "杯子里倒滿了果汁",
+    "3": "就因為有點胖了，褲子快被撐破了",
+    "4": "早上的電車擠滿了人"
+   }
+  }
+ ],
+ "vocabulary": [
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 21,
+   "word": "ガイド",
+   "reading": "ガイド",
+   "pos": "名詞・動詞",
+   "meaning_zh": "嚮導；導覽；指南",
+   "example_sentence": "町の名所をガイドしている。",
+   "note": null,
+   "etymology_en": "guide"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 22,
+   "word": "真剣",
+   "reading": "しんけん",
+   "pos": "形容動詞",
+   "meaning_zh": "認真；嚴肅",
+   "example_sentence": "山口さんも真剣に作っていた。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 23,
+   "word": "まれ",
+   "reading": "まれ",
+   "pos": "形容動詞",
+   "meaning_zh": "稀少；罕見",
+   "example_sentence": "彼女のような歌手はまれだと思う。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 24,
+   "word": "終日",
+   "reading": "しゅうじつ",
+   "pos": "名詞・副詞",
+   "meaning_zh": "終日；一整天",
+   "example_sentence": "この道は終日通行止めです。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 25,
+   "word": "弄る",
+   "reading": "いじる",
+   "pos": "動詞",
+   "meaning_zh": "擺弄；撥弄；觸碰",
+   "example_sentence": "青木さんは髪をいじっていた。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 26,
+   "word": "初期",
+   "reading": "しょき",
+   "pos": "名詞",
+   "meaning_zh": "初期；剛開始的時候",
+   "example_sentence": "明治時代の初期に建てられました。",
+   "note": "用於事物/時代的最初階段；比賽、樂曲、天氣的開頭不用「初期」",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 27,
+   "word": "打ち明ける",
+   "reading": "うちあける",
+   "pos": "動詞",
+   "meaning_zh": "坦率說出（秘密、心裡話）；傾訴",
+   "example_sentence": "ずっと秘密にしていたことを友達に打ち明けた。",
+   "note": "對象是秘密、心裡話；「教える」「伝える」「報告する」不能替換",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 28,
+   "word": "欠陥",
+   "reading": "けっかん",
+   "pos": "名詞",
+   "meaning_zh": "缺陷；毛病（多指構造、機能上的缺陷）",
+   "example_sentence": "ブレーキに欠陥が見つかり、販売が中止された。",
+   "note": "人的缺點用「欠点」「短所」；擦傷用「擦り傷」",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 29,
+   "word": "引退",
+   "reading": "いんたい",
+   "pos": "名詞・動詞",
+   "meaning_zh": "隱退；退休（從重要地位/職位退職；選手退役）",
+   "example_sentence": "今回限り引退することを発表した。",
+   "note": "退學「退学」、撤離「撤退」、謝絕「辞退」不能混用",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 30,
+   "word": "ぎっしり",
+   "reading": "ぎっしり",
+   "pos": "副詞",
+   "meaning_zh": "滿滿地；塞得滿滿地（無空隙）",
+   "example_sentence": "大きな箱に本がぎっしり詰まっている。",
+   "note": "液體充滿用「たっぷり」；身體膨脹用「ぱんぱん」；人擠滿用「ぎゅうぎゅう」",
+   "etymology_en": null
+  }
+ ]
+}

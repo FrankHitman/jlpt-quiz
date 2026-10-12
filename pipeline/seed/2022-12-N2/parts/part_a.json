@@ -1,0 +1,2023 @@
+{
+ "groups": [],
+ "questions": [
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_reading",
+   "mondai_no": 1,
+   "number_in_section": 1,
+   "stem": "建物の入口に警備の人がいます。",
+   "options": [
+    {
+     "key": "1",
+     "text": "けいひ"
+    },
+    {
+     "key": "2",
+     "text": "けいび"
+    },
+    {
+     "key": "3",
+     "text": "けひ"
+    },
+    {
+     "key": "4",
+     "text": "けび"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": "警備",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_reading",
+   "mondai_no": 1,
+   "number_in_section": 2,
+   "stem": "絵を見て、想像力が刺激されました。",
+   "options": [
+    {
+     "key": "1",
+     "text": "じえき"
+    },
+    {
+     "key": "2",
+     "text": "じげき"
+    },
+    {
+     "key": "3",
+     "text": "しえき"
+    },
+    {
+     "key": "4",
+     "text": "しげき"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": "刺激",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_reading",
+   "mondai_no": 1,
+   "number_in_section": 3,
+   "stem": "ここが外れていますけど、どうしたんですか。",
+   "options": [
+    {
+     "key": "1",
+     "text": "はずれて"
+    },
+    {
+     "key": "2",
+     "text": "みだれて"
+    },
+    {
+     "key": "3",
+     "text": "やぶれて"
+    },
+    {
+     "key": "4",
+     "text": "つぶれて"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": "外れて",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_reading",
+   "mondai_no": 1,
+   "number_in_section": 4,
+   "stem": "私は世間の目を気にしすぎていたようだ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "せかん"
+    },
+    {
+     "key": "2",
+     "text": "せけん"
+    },
+    {
+     "key": "3",
+     "text": "せいかん"
+    },
+    {
+     "key": "4",
+     "text": "せいはん"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": "世間",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_reading",
+   "mondai_no": 1,
+   "number_in_section": 5,
+   "stem": "本田さんはとても勇ましい人だ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "たくましい"
+    },
+    {
+     "key": "2",
+     "text": "やかましい"
+    },
+    {
+     "key": "3",
+     "text": "いさましい"
+    },
+    {
+     "key": "4",
+     "text": "あつかましい"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": "勇ましい",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_writing",
+   "mondai_no": 2,
+   "number_in_section": 6,
+   "stem": "彼にはお金持ちになりたいというよくがない。",
+   "options": [
+    {
+     "key": "1",
+     "text": "欲"
+    },
+    {
+     "key": "2",
+     "text": "望"
+    },
+    {
+     "key": "3",
+     "text": "求"
+    },
+    {
+     "key": "4",
+     "text": "情"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": "よく",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_writing",
+   "mondai_no": 2,
+   "number_in_section": 7,
+   "stem": "私の職業は、はいゆうです。",
+   "options": [
+    {
+     "key": "1",
+     "text": "非憂"
+    },
+    {
+     "key": "2",
+     "text": "非優"
+    },
+    {
+     "key": "3",
+     "text": "俳憂"
+    },
+    {
+     "key": "4",
+     "text": "俳優"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": "はいゆう",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_writing",
+   "mondai_no": 2,
+   "number_in_section": 8,
+   "stem": "中山さんは、家族とはなれて、一人で暮らしているらしい。",
+   "options": [
+    {
+     "key": "1",
+     "text": "逃れて"
+    },
+    {
+     "key": "2",
+     "text": "別れて"
+    },
+    {
+     "key": "3",
+     "text": "離れて"
+    },
+    {
+     "key": "4",
+     "text": "避けて"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": "はなれて",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_writing",
+   "mondai_no": 2,
+   "number_in_section": 9,
+   "stem": "病院で医師のしんだんを受けた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "身断"
+    },
+    {
+     "key": "2",
+     "text": "診断"
+    },
+    {
+     "key": "3",
+     "text": "身談"
+    },
+    {
+     "key": "4",
+     "text": "診談"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": "しんだん",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_writing",
+   "mondai_no": 2,
+   "number_in_section": 10,
+   "stem": "AとBは、大きさがひとしい。",
+   "options": [
+    {
+     "key": "1",
+     "text": "並しい"
+    },
+    {
+     "key": "2",
+     "text": "等しい"
+    },
+    {
+     "key": "3",
+     "text": "似しい"
+    },
+    {
+     "key": "4",
+     "text": "比しい"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": "ひとしい",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_formation",
+   "mondai_no": 3,
+   "number_in_section": 11,
+   "stem": "(　　)制度には、大きな問題があります。",
+   "options": [
+    {
+     "key": "1",
+     "text": "近"
+    },
+    {
+     "key": "2",
+     "text": "在"
+    },
+    {
+     "key": "3",
+     "text": "常"
+    },
+    {
+     "key": "4",
+     "text": "現"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_formation",
+   "mondai_no": 3,
+   "number_in_section": 12,
+   "stem": "伯父は、電車の中で財布を盗まれてから用心(　　)なった。",
+   "options": [
+    {
+     "key": "1",
+     "text": "濃く"
+    },
+    {
+     "key": "2",
+     "text": "強く"
+    },
+    {
+     "key": "3",
+     "text": "深く"
+    },
+    {
+     "key": "4",
+     "text": "高く"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_formation",
+   "mondai_no": 3,
+   "number_in_section": 13,
+   "stem": "このアンケートでは、(　　)団体の活動についてお尋ねします。",
+   "options": [
+    {
+     "key": "1",
+     "text": "貴"
+    },
+    {
+     "key": "2",
+     "text": "尊"
+    },
+    {
+     "key": "3",
+     "text": "敬"
+    },
+    {
+     "key": "4",
+     "text": "偉"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 14,
+   "stem": "規則に(　　)した場合は、罰金を払わなければならない。",
+   "options": [
+    {
+     "key": "1",
+     "text": "相違"
+    },
+    {
+     "key": "2",
+     "text": "対決"
+    },
+    {
+     "key": "3",
+     "text": "違反"
+    },
+    {
+     "key": "4",
+     "text": "対抗"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 15,
+   "stem": "この体育館は、ロッカーやシャワーなどの(　　)がそろっている。",
+   "options": [
+    {
+     "key": "1",
+     "text": "用具"
+    },
+    {
+     "key": "2",
+     "text": "物体"
+    },
+    {
+     "key": "3",
+     "text": "設備"
+    },
+    {
+     "key": "4",
+     "text": "容器"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 16,
+   "stem": "化粧品メーカーが健康食品の分野に(　　)して成功した例もある。",
+   "options": [
+    {
+     "key": "1",
+     "text": "到達"
+    },
+    {
+     "key": "2",
+     "text": "転勤"
+    },
+    {
+     "key": "3",
+     "text": "直行"
+    },
+    {
+     "key": "4",
+     "text": "進出"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 17,
+   "stem": "この時期に雪が降ることはあるが、積もることは(　　)だ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "まれ"
+    },
+    {
+     "key": "2",
+     "text": "なだらか"
+    },
+    {
+     "key": "3",
+     "text": "ささやか"
+    },
+    {
+     "key": "4",
+     "text": "かすか"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 18,
+   "stem": "家の隣で夜遅くまでマンション建設工事が行われてうるさいので、建設会社に(　　)の電話をした。",
+   "options": [
+    {
+     "key": "1",
+     "text": "悪口"
+    },
+    {
+     "key": "2",
+     "text": "苦情"
+    },
+    {
+     "key": "3",
+     "text": "反論"
+    },
+    {
+     "key": "4",
+     "text": "皮肉"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 19,
+   "stem": "箱の中には、隙間なく(　　)お菓子が詰まっていた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "どしどし"
+    },
+    {
+     "key": "2",
+     "text": "どっしり"
+    },
+    {
+     "key": "3",
+     "text": "うじゃうじゃ"
+    },
+    {
+     "key": "4",
+     "text": "ぎっしり"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 20,
+   "stem": "私は前回の実験の結果にずっと疑問を(　　)いる。",
+   "options": [
+    {
+     "key": "1",
+     "text": "いだいて"
+    },
+    {
+     "key": "2",
+     "text": "にぎって"
+    },
+    {
+     "key": "3",
+     "text": "たもって"
+    },
+    {
+     "key": "4",
+     "text": "そなえて"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "synonym",
+   "mondai_no": 5,
+   "number_in_section": 21,
+   "stem": "あの選手にはテクニックがある。",
+   "options": [
+    {
+     "key": "1",
+     "text": "自信"
+    },
+    {
+     "key": "2",
+     "text": "技術"
+    },
+    {
+     "key": "3",
+     "text": "経験"
+    },
+    {
+     "key": "4",
+     "text": "体力"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": "テクニック",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "synonym",
+   "mondai_no": 5,
+   "number_in_section": 22,
+   "stem": "ここには大量の書籍が収められている。",
+   "options": [
+    {
+     "key": "1",
+     "text": "新聞"
+    },
+    {
+     "key": "2",
+     "text": "絵"
+    },
+    {
+     "key": "3",
+     "text": "本"
+    },
+    {
+     "key": "4",
+     "text": "手紙"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": "書籍",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "synonym",
+   "mondai_no": 5,
+   "number_in_section": 23,
+   "stem": "今年になって国の方針が一転した。",
+   "options": [
+    {
+     "key": "1",
+     "text": "すっかり変わった"
+    },
+    {
+     "key": "2",
+     "text": "少し変わった"
+    },
+    {
+     "key": "3",
+     "text": "やっと決まった"
+    },
+    {
+     "key": "4",
+     "text": "すぐに決まった"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": "一転した",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "synonym",
+   "mondai_no": 5,
+   "number_in_section": 24,
+   "stem": "この道具は先がとがっている。",
+   "options": [
+    {
+     "key": "1",
+     "text": "柔らかくなって"
+    },
+    {
+     "key": "2",
+     "text": "細くなって"
+    },
+    {
+     "key": "3",
+     "text": "硬くなって"
+    },
+    {
+     "key": "4",
+     "text": "太くなって"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": "とがっている",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "synonym",
+   "mondai_no": 5,
+   "number_in_section": 25,
+   "stem": "彼がしていることはくだらない。",
+   "options": [
+    {
+     "key": "1",
+     "text": "効果がない"
+    },
+    {
+     "key": "2",
+     "text": "目的がない"
+    },
+    {
+     "key": "3",
+     "text": "変化がない"
+    },
+    {
+     "key": "4",
+     "text": "価値がない"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": "くだらない",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_usage",
+   "mondai_no": 6,
+   "number_in_section": 26,
+   "stem": "頑固",
+   "options": [
+    {
+     "key": "1",
+     "text": "木村さんはとても頑固で、自分の考えを変えない"
+    },
+    {
+     "key": "2",
+     "text": "瓶のふたが頑固で、いくら力を入れても開かない"
+    },
+    {
+     "key": "3",
+     "text": "兄は体が頑固なので、風邪をほとんどひかない"
+    },
+    {
+     "key": "4",
+     "text": "相手チームの守りがとても頑固で、点が取れない"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": "頑固",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_usage",
+   "mondai_no": 6,
+   "number_in_section": 27,
+   "stem": "打ち合わせ",
+   "options": [
+    {
+     "key": "1",
+     "text": "本日11時から、来月の講演会の打ち合わせを行います"
+    },
+    {
+     "key": "2",
+     "text": "高校生のころはよく、親友と互いの悩みの打ち合わせをしました"
+    },
+    {
+     "key": "3",
+     "text": "ホテルに電話をして、眼鏡の忘れ物がないか打ち合わせをしました"
+    },
+    {
+     "key": "4",
+     "text": "実験の後、失敗の原因について打ち合わせを行いました"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": "打ち合わせ",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_usage",
+   "mondai_no": 6,
+   "number_in_section": 28,
+   "stem": "中断",
+   "options": [
+    {
+     "key": "1",
+     "text": "急に仕事が入ってしまい、レストランの予約を中断した"
+    },
+    {
+     "key": "2",
+     "text": "部屋のカーテンを閉めて、太陽の光を中断した"
+    },
+    {
+     "key": "3",
+     "text": "雨が強くなってきたので、やむまで試合を中断した"
+    },
+    {
+     "key": "4",
+     "text": "今日は用事があるため、友人からの誘いを中断した"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": "中断",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_usage",
+   "mondai_no": 6,
+   "number_in_section": 29,
+   "stem": "ベテラン",
+   "options": [
+    {
+     "key": "1",
+     "text": "あのベテランの電車は、今まで多くのお客さんを乗せてきた"
+    },
+    {
+     "key": "2",
+     "text": "大野先生は、この学校で昔から教えているベテランの先生だ"
+    },
+    {
+     "key": "3",
+     "text": "このベテランの時計は、もう生産していないので貴重だ"
+    },
+    {
+     "key": "4",
+     "text": "ここは、私が生まれる前からあるベテランのレストランだ"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": "ベテラン",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_usage",
+   "mondai_no": 6,
+   "number_in_section": 30,
+   "stem": "荒れる",
+   "options": [
+    {
+     "key": "1",
+     "text": "この靴は10年履き続けているから、かなり荒れている"
+    },
+    {
+     "key": "2",
+     "text": "入院で仕事を休んでいたので営業成績は荒れてしまった"
+    },
+    {
+     "key": "3",
+     "text": "冷蔵庫に入れておいたのに、りんごが荒れてしまった"
+    },
+    {
+     "key": "4",
+     "text": "今日は海が荒れていて、船で釣りに行くことはできない"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": "荒れる",
+   "audio_url": null
+  }
+ ],
+ "explanations": [
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 1,
+   "key_point": "漢字読み・警備",
+   "analysis_zh": "正解是 2「けいび」。「警備」讀作けいび（警戒、防衛）。注意與「経費（けいひ）」的濁音區別。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「けいひ」是「経費（經費）」的讀音。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「けひ」不是「警備」的讀音。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「けび」不是「警備」的讀音。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 2,
+   "key_point": "漢字読み・刺激",
+   "analysis_zh": "正解是 4「しげき」。「刺激」讀作しげき。注意是清音し不是濁音じ。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「じえき」不是「刺激」的讀音。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「じげき」濁音錯誤。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「しえき」不是「刺激」的讀音。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 3,
+   "key_point": "漢字読み・外れる",
+   "analysis_zh": "正解是 1「はずれて」。「外れる」讀作はずれる（脫落、偏離）。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「みだれて」是「乱れる（混亂）」的讀音。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「やぶれて」是「破れる（破裂）」的讀音。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「つぶれて」是「潰れる（壓壞）」的讀音。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 4,
+   "key_point": "漢字読み・世間",
+   "analysis_zh": "正解是 2「せけん」。「世間」讀作せけん（社會、世人）。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「せかん」不是「世間」的讀音。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「せいかん」是「精悍」等的讀音。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「せいはん」不是「世間」的讀音。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 5,
+   "key_point": "漢字読み・勇ましい",
+   "analysis_zh": "正解是 3「いさましい」。「勇ましい」讀作いさましい（勇敢）。注意與「逞しい（たくましい）」「喧しい（やかましい）」「厚かましい（あつかましい）」的區別。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「たくましい」是「逞しい（健壯）」的讀音。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「やかましい」是「喧しい（吵鬧）」的讀音。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「あつかましい」是「厚かましい（厚臉皮）」的讀音。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 6,
+   "key_point": "表記・欲",
+   "analysis_zh": "正解是 1「欲」。「よく」表欲望時寫作「欲」。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「望」讀ぼう／のぞみ，不讀よく。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「求」讀きゅう／もとめる，不讀よく。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「情」讀じょう，不讀よく。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 7,
+   "key_point": "表記・俳優",
+   "analysis_zh": "正解是 4「俳優」。「はいゆう（演員）」寫作「俳優」。注意「俳」與「非」、「優」與「憂」的區別。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「非憂」不存在此組合。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「非優」不存在此組合。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「俳憂」中「憂」字錯誤。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 8,
+   "key_point": "表記・離れる",
+   "analysis_zh": "正解是 3「離れて」。「はなれて」表分離、離開時寫作「離れる」。「故郷を離れる」。注意與「逃れる（のがれる，逃跑）」「別れる（わかれる）」「避ける（さける）」的區別。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「逃れて」表逃跑，不合「離開家人」語境。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「別れて」多用於夫妻分手，不合。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「避けて」表躲避，不合。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 9,
+   "key_point": "表記・診断",
+   "analysis_zh": "正解是 2「診断」。「しんだん（診斷）」寫作「診断」。注意「診」與「身」、「断」與「談」的區別。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「身断」不存在。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「身談」不存在。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「診談」不存在。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 10,
+   "key_point": "表記・等しい",
+   "analysis_zh": "正解是 2「等しい」。「ひとしい（相等）」寫作「等しい」。「ほとんどないに等しい」。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「並しい」不存在。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「似しい」不存在。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「比しい」不存在。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 11,
+   "key_point": "語形成・現制度",
+   "analysis_zh": "正解是 4「現」。「現」＋「制度」＝「現制度（げんせいど，現行制度）」。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「近制度」不是常用詞。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「在」不是常用接頭詞。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「常制度」不是常用詞。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "4": "げん"
+   },
+   "option_meanings": {
+    "4": "現（～）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 12,
+   "key_point": "語形成・用心深い",
+   "analysis_zh": "正解是 3「深く」。「用心深い（ようじんぶかい，十分小心）」是固定搭配。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「用心濃い」不是固定搭配。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「用心強い」不是固定搭配。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「用心高い」不是固定搭配。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "3": "ふかく"
+   },
+   "option_meanings": {
+    "3": "深（～）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 13,
+   "key_point": "語形成・貴団体",
+   "analysis_zh": "正解是 1「貴」。「貴団体（きだんたい，貴團體・敬稱）」是固定敬稱。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「尊団体」不是常用敬稱。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「敬団体」不是常用敬稱。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「偉団体」不是常用敬稱。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "き"
+   },
+   "option_meanings": {
+    "1": "貴（～）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 14,
+   "key_point": "文脈規定・違反",
+   "analysis_zh": "正解是 3「違反」。「規則に違反する（違反規則）」是固定搭配。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「相違（そうい）」表不同、差異，不合。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「対決（たいけつ）」表對決，無關。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「対抗（たいこう）」表對抗，不與「規則に」搭配。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "そうい",
+    "2": "たいけつ",
+    "3": "いはん",
+    "4": "たいこう"
+   },
+   "option_meanings": {
+    "1": "不同、差異",
+    "2": "對決",
+    "3": "違反、違背",
+    "4": "對抗"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 15,
+   "key_point": "文脈規定・設備",
+   "analysis_zh": "正解是 3「設備」。更衣室、淋浴等設施用「設備」。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「用具（ようぐ）」指小器具，不用于設施。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「物体（ぶったい）」語義過泛。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「容器（ようき）」指容器，完全不合。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "ようぐ",
+    "2": "ぶったい",
+    "3": "せつび",
+    "4": "ようき"
+   },
+   "option_meanings": {
+    "1": "用具、工具",
+    "2": "物體",
+    "3": "設備",
+    "4": "容器、器皿"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 16,
+   "key_point": "文脈規定・進出",
+   "analysis_zh": "正解是 4「進出」。「分野に進出する（進軍某領域）」是固定搭配。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「到達（とうたつ）」指到達某地，不用于「分野に」。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「転勤（てんきん）」指工作調動。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「直行（ちょっこう）」指直接前往。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "とうたつ",
+    "2": "てんきん",
+    "3": "ちょっこう",
+    "4": "しゅんしゅつ"
+   },
+   "option_meanings": {
+    "1": "到達",
+    "2": "調職",
+    "3": "直達",
+    "4": "進軍、進入新領域"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 17,
+   "key_point": "文脈規定・まれ",
+   "analysis_zh": "正解是 1「まれ」。「積もることはまれだ（積雪很罕見）」表頻率低。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「なだらか」表坡度平緩，不合。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「ささやか」表微小，不合。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「かすか」表微弱，不合。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "まれ",
+    "2": "なだらか",
+    "3": "ささやか",
+    "4": "かすか"
+   },
+   "option_meanings": {
+    "1": "罕見、稀少",
+    "2": "平緩、溫和",
+    "3": "微小",
+    "4": "微弱"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 18,
+   "key_point": "文脈規定・苦情",
+   "analysis_zh": "正解是 2「苦情」。「苦情の電話をする（打投訴電話）」是固定搭配。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「悪口（わるくち）」指背後說壞話，不用于正式投訴。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「反論（はんろん）」指反駁，不合。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「皮肉（ひにく）」指諷刺，不合。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "わるくち",
+    "2": "くじょう",
+    "3": "はんろん",
+    "4": "ひにく"
+   },
+   "option_meanings": {
+    "1": "壞話",
+    "2": "抱怨、投訴",
+    "3": "反駁",
+    "4": "諷刺"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 19,
+   "key_point": "文脈規定・ぎっしり",
+   "analysis_zh": "正解是 4「ぎっしり」。「隙間なくぎっしり詰まる（塞得滿滿的）」是固定搭配。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「どしどし」表接連不斷，不合。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「どっしり」表穩重，不合。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「うじゃうじゃ」表亂竄，不合。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "どしどし",
+    "2": "どっしり",
+    "3": "うじゃうじゃ",
+    "4": "ぎっしり"
+   },
+   "option_meanings": {
+    "1": "源源不斷",
+    "2": "穩重、厚實",
+    "3": "亂爬亂竄",
+    "4": "滿滿的"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 20,
+   "key_point": "文脈規定・抱く",
+   "analysis_zh": "正解是 1「いだいて」。「疑問を抱く（いだく，心懷疑問）」是固定搭配。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「握る（にぎる）」指用手握住，不合。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「保つ（たもつ）」指保持，不合。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「備える（そなえる）」指具備，不合。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "いだいて",
+    "2": "にぎって",
+    "3": "たもって",
+    "4": "そなえて"
+   },
+   "option_meanings": {
+    "1": "懷有（疑問）",
+    "2": "握住",
+    "3": "保持、保全",
+    "4": "具備、準備"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 21,
+   "key_point": "言い換え・テクニック",
+   "analysis_zh": "正解是 2「技術」。「テクニック（technique）」即「技術、技巧」。※解析PDF本題正解行缺失，按語言學無歧義取2。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「自信（じしん）」表信心，無關。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「経験（けいけん）」表經驗，無關。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「体力（たいりょく）」表體力，無關。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "じしん",
+    "2": "ぎじゅつ",
+    "3": "けいけん",
+    "4": "たいりょく"
+   },
+   "option_meanings": {
+    "1": "信心、自信",
+    "2": "技術、技巧",
+    "3": "經驗",
+    "4": "體力"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 22,
+   "key_point": "言い換え・書籍",
+   "analysis_zh": "正解是 3「本」。「書籍（しょせき）」即書、圖書，最接近「本」。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「新聞（しんぶん）」範圍過窄。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「絵（え）」無關。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「手紙（てがみ）」無關。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "しんぶん",
+    "2": "え",
+    "3": "ほん",
+    "4": "てがみ"
+   },
+   "option_meanings": {
+    "1": "報紙",
+    "2": "圖畫",
+    "3": "書",
+    "4": "信"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 23,
+   "key_point": "言い換え・一転する",
+   "analysis_zh": "正解是 1「すっかり変わった」。「一転する（いってんする）」表徹底轉變。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「少し変わった」程度不合。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「やっと決まった」與轉變無關。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「すぐに決まった」與轉變無關。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "すっかりかわった",
+    "2": "すこしかわった",
+    "3": "やっときまった",
+    "4": "すぐにきまった"
+   },
+   "option_meanings": {
+    "1": "徹底改變了",
+    "2": "稍微變了一點",
+    "3": "終於決定了",
+    "4": "馬上決定了"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 24,
+   "key_point": "言い換え・尖る",
+   "analysis_zh": "正解是 2「細くなって」。「尖る（とがる）」表變尖，「尖った鉛筆」。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「柔らかくなって」無關。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「硬くなって」無關。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「太くなって」與尖相反。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "やわらかくなって",
+    "2": "こまかくなって",
+    "3": "かたくなって",
+    "4": "ふとくなって"
+   },
+   "option_meanings": {
+    "1": "變柔軟",
+    "2": "變細",
+    "3": "變硬",
+    "4": "變粗"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 25,
+   "key_point": "言い換え・くだらない",
+   "analysis_zh": "正解是 4「価値がない」。「くだらない」表無用的、無價值的。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「効果がない」範圍過窄。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「目的がない」不合。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「変化がない」不合。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "こうかがない",
+    "2": "もくてきがない",
+    "3": "へんかがない",
+    "4": "かちがない"
+   },
+   "option_meanings": {
+    "1": "沒效果",
+    "2": "沒目的",
+    "3": "沒變化",
+    "4": "沒價值"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 26,
+   "key_point": "用法・頑固",
+   "analysis_zh": "正解是 1。「頑固（がんこ）」表固執，用于形容人的性格。2應用「固すぎて」，3應用「丈夫（じょうぶ）」，4應用「固くて」。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "瓶蓋應用「固すぎて」，「頑固」不用于物。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "身體結實應用「丈夫」，不用于身體。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "防守堅固應用「固くて」。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "きむらさんはとてもがんこで、じぶんのかんがえをかえない",
+    "2": "びんのふたががんこで、いくらちからをいれてもあかない",
+    "3": "あにはからだががんこなので、かぜをほとんどひかない",
+    "4": "あいてチームのまもりがとてもがんこで、てんがとれない"
+   },
+   "option_meanings": {
+    "1": "木村非常固執，不改變自己的想法。",
+    "2": "瓶蓋很固執，怎麼用力都打不開。",
+    "3": "哥哥身體很固執，幾乎不感冒。",
+    "4": "對方防守很固執，得不了分。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 27,
+   "key_point": "用法・打ち合わせ",
+   "analysis_zh": "正解是 1。「打ち合わせ」表商量、預備會，用于事前協商。2應用「相談」，3應用「問い合わせ」，4應用「話し合い」。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "商量煩惱應用「相談」。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "詢問應用「問い合わせ」。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "事後討論應用「話し合い」。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "ほんじつ11じから、らいげつのこうえんかいのうちあわせをおこないます",
+    "2": "こうこうせいのころはよく、しんゆうとたがいのなやみのうちあわせをしました",
+    "3": "ホテルにでんわをして、めがねのわすれものがないかうちあわせをしました",
+    "4": "じっけんのあと、しっぱいのげんいんについてうちあわせをおこないました"
+   },
+   "option_meanings": {
+    "1": "從今天11點開始，進行下個月演講會的預備會。",
+    "2": "高中時經常和好友商量彼此的煩惱。",
+    "3": "打電話給酒店詢問有無遺落眼鏡。",
+    "4": "實驗後就失敗原因進行了討論。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 28,
+   "key_point": "用法・中断",
+   "analysis_zh": "正解是 3。「中断（ちゅうだん）」表暫停進行中的事。1應用「キャンセル」，2應用「遮断」，4應用「断る」。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "取消預約應用「キャンセル」。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "隔絕應用「遮断」。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "拒絕應用「断る」。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "きゅうにしごとがはいってしまい、レストランのよやくをちゅうだんした",
+    "2": "へやのカーテンをしめて、たいようのひかりをちゅうだんした",
+    "3": "あめがつよくなってきたので、やむまでしあいをちゅうだんした",
+    "4": "きょうはようじがあるため、ゆうじんからのさそいをちゅうだんした"
+   },
+   "option_meanings": {
+    "1": "突然有工作，中斷了餐廳預約。",
+    "2": "關上窗簾，中斷了太陽光線。",
+    "3": "因雨變大，比賽中斷到雨停。",
+    "4": "今天有事，中斷了朋友邀請。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 29,
+   "key_point": "用法・ベテラン",
+   "analysis_zh": "正解是 2。「ベテラン（veteran）」表老手、老練的人，只用于人。1應用「旧型」，3應用「古い」，4應用「老舗」。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "電車應用「旧型」，「ベテラン」只用于人。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "時計應用「古い」。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "老店應用「老舗」。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "あのベテランのでんしゃは、いままでおおくのおきゃくさんをのせてきた",
+    "2": "おおのせんせいは、このがっこうでむかしからおしえているベテランのせんせいだ",
+    "3": "このベテランのとけいは、もうせいさんしていないのでちょうだ",
+    "4": "ここは、わたしがうまれるまえからあるベテランのレストランだ"
+   },
+   "option_meanings": {
+    "1": "那輛老手電車載過很多客人。",
+    "2": "大野老師是在這所學校從以前教書的老教師。",
+    "3": "這隻老手錶已停產，很珍貴。",
+    "4": "這裡是我出生前就有的老手餐廳。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 30,
+   "key_point": "用法・荒れる",
+   "analysis_zh": "正解是 4。「荒れる（あれる）」表天氣、海變壞。1應用「磨り減る」，2應用「落ち込む」，3應用「腐る」。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "鞋子磨損應用「磨り減る」。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "業績下滑應用「落ち込む」。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "蘋果腐爛應用「腐る」。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "このくつは10ねんはきつづけているから、かなりあれている",
+    "2": "にゅういんでしごとをやすんでいたのでえいぎょうせいせきはあれてしまった",
+    "3": "れいぞうこにいれておいたのに、りんごがあれてしまった",
+    "4": "きょうはうみがあれていて、ふねでつりにいくことはできない"
+   },
+   "option_meanings": {
+    "1": "這雙鞋穿了10年，相當破舊。",
+    "2": "因住院休息，營業成績下滑。",
+    "3": "明明放進冰箱，蘋果還是爛了。",
+    "4": "今天海上風浪，不能坐船釣魚。"
+   }
+  }
+ ],
+ "vocabulary": [
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 1,
+   "word": "警備",
+   "reading": "けいび",
+   "pos": "名詞",
+   "meaning_zh": "警戒、防衛",
+   "example_sentence": "警備が厳重だ。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 2,
+   "word": "刺激",
+   "reading": "しげき",
+   "pos": "名詞",
+   "meaning_zh": "刺激、激發",
+   "example_sentence": "想像力を刺激する。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 3,
+   "word": "外れる",
+   "reading": "はずれる",
+   "pos": "動詞",
+   "meaning_zh": "脫落、偏離",
+   "example_sentence": "ねじが外れる。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 4,
+   "word": "世間",
+   "reading": "せけん",
+   "pos": "名詞",
+   "meaning_zh": "社會、世人",
+   "example_sentence": "世間の目を気にする。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 5,
+   "word": "勇ましい",
+   "reading": "いさましい",
+   "pos": "形容詞",
+   "meaning_zh": "勇敢、雄壯",
+   "example_sentence": "勇ましい兵士。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 6,
+   "word": "欲",
+   "reading": "よく",
+   "pos": "名詞",
+   "meaning_zh": "欲望",
+   "example_sentence": "知識欲。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 7,
+   "word": "俳優",
+   "reading": "はいゆう",
+   "pos": "名詞",
+   "meaning_zh": "演員",
+   "example_sentence": "映画俳優。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 8,
+   "word": "離れる",
+   "reading": "はなれる",
+   "pos": "動詞",
+   "meaning_zh": "分離、離開",
+   "example_sentence": "故郷を離れる。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 9,
+   "word": "診断",
+   "reading": "しんだん",
+   "pos": "名詞",
+   "meaning_zh": "診斷、判斷",
+   "example_sentence": "診断書。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 10,
+   "word": "等しい",
+   "reading": "ひとしい",
+   "pos": "形容詞",
+   "meaning_zh": "相等、一樣",
+   "example_sentence": "ほとんどないに等しい。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 11,
+   "word": "現制度",
+   "reading": "げんせいど",
+   "pos": "名詞",
+   "meaning_zh": "現行制度",
+   "example_sentence": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 12,
+   "word": "用心深い",
+   "reading": "ようじんぶかい",
+   "pos": "形容詞",
+   "meaning_zh": "十分小心",
+   "example_sentence": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 13,
+   "word": "貴団体",
+   "reading": "きだんたい",
+   "pos": "名詞",
+   "meaning_zh": "貴團體（敬稱）",
+   "example_sentence": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 14,
+   "word": "違反",
+   "reading": "いはん",
+   "pos": "名詞",
+   "meaning_zh": "違反、違背",
+   "example_sentence": "契約に違反する。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 15,
+   "word": "設備",
+   "reading": "せつび",
+   "pos": "名詞",
+   "meaning_zh": "設備",
+   "example_sentence": "近代的な設備。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 16,
+   "word": "進出",
+   "reading": "しんしゅつ",
+   "pos": "名詞",
+   "meaning_zh": "進軍、進入新領域",
+   "example_sentence": "映画界に進出する。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 17,
+   "word": "まれ",
+   "reading": "まれ",
+   "pos": "形容動詞",
+   "meaning_zh": "罕見、稀少",
+   "example_sentence": "稀な出来事。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 18,
+   "word": "苦情",
+   "reading": "くじょう",
+   "pos": "名詞",
+   "meaning_zh": "抱怨、投訴",
+   "example_sentence": "相手から苦情が出る。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 19,
+   "word": "ぎっしり",
+   "reading": "ぎっしり",
+   "pos": "副詞",
+   "meaning_zh": "滿滿的",
+   "example_sentence": "ぎっしり詰まったスケジュール。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 20,
+   "word": "抱く",
+   "reading": "いだく",
+   "pos": "動詞",
+   "meaning_zh": "懷有、抱有",
+   "example_sentence": "不安の念を抱く。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 21,
+   "word": "テクニック",
+   "reading": "テクニック",
+   "pos": "名詞",
+   "meaning_zh": "技術、技巧",
+   "example_sentence": "演奏のテクニック。",
+   "etymology_en": "technique"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 22,
+   "word": "書籍",
+   "reading": "しょせき",
+   "pos": "名詞",
+   "meaning_zh": "書籍、圖書",
+   "example_sentence": "書籍を販売する。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 23,
+   "word": "一転する",
+   "reading": "いってんする",
+   "pos": "動詞",
+   "meaning_zh": "徹底轉變",
+   "example_sentence": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 24,
+   "word": "尖る",
+   "reading": "とがる",
+   "pos": "動詞",
+   "meaning_zh": "變尖",
+   "example_sentence": "尖った鉛筆。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 25,
+   "word": "くだらない",
+   "reading": "くだらない",
+   "pos": "形容詞",
+   "meaning_zh": "無用的、無價值的",
+   "example_sentence": "くだらない話。"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 26,
+   "word": "頑固",
+   "reading": "がんこ",
+   "pos": "形容動詞",
+   "meaning_zh": "固執",
+   "example_sentence": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 27,
+   "word": "打ち合わせ",
+   "reading": "うちあわせ",
+   "pos": "名詞",
+   "meaning_zh": "商量、預備會",
+   "example_sentence": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 28,
+   "word": "中断",
+   "reading": "ちゅうだん",
+   "pos": "名詞",
+   "meaning_zh": "中斷",
+   "example_sentence": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 29,
+   "word": "ベテラン",
+   "reading": "ベテラン",
+   "pos": "名詞",
+   "meaning_zh": "老手、老練的人",
+   "example_sentence": null,
+   "etymology_en": "veteran"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 30,
+   "word": "荒れる",
+   "reading": "あれる",
+   "pos": "動詞",
+   "meaning_zh": "（天氣）變壞、粗糙",
+   "example_sentence": null
+  }
+ ]
+}

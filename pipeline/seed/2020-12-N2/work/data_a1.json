@@ -1,0 +1,688 @@
+{
+ "questions": [
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_reading",
+   "mondai_no": 1,
+   "number_in_section": 1,
+   "stem": "倒さないように気をつけてください。",
+   "options": [
+    {
+     "key": "1",
+     "text": "くずさない"
+    },
+    {
+     "key": "2",
+     "text": "たおさない"
+    },
+    {
+     "key": "3",
+     "text": "こわさない"
+    },
+    {
+     "key": "4",
+     "text": "つぶさない"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": "倒さない",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_reading",
+   "mondai_no": 1,
+   "number_in_section": 2,
+   "stem": "今回の件での損害は数千万円にのぼった。",
+   "options": [
+    {
+     "key": "1",
+     "text": "ひかい"
+    },
+    {
+     "key": "2",
+     "text": "そんかい"
+    },
+    {
+     "key": "3",
+     "text": "そんがい"
+    },
+    {
+     "key": "4",
+     "text": "ひがい"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": "損害",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_reading",
+   "mondai_no": 1,
+   "number_in_section": 3,
+   "stem": "思ったより険しい山道だった。",
+   "options": [
+    {
+     "key": "1",
+     "text": "くるしい"
+    },
+    {
+     "key": "2",
+     "text": "さびしい"
+    },
+    {
+     "key": "3",
+     "text": "はげしい"
+    },
+    {
+     "key": "4",
+     "text": "けわしい"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": "険しい",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_reading",
+   "mondai_no": 1,
+   "number_in_section": 4,
+   "stem": "この辺りは比較的人通りが少ない。",
+   "options": [
+    {
+     "key": "1",
+     "text": "ひこうてい"
+    },
+    {
+     "key": "2",
+     "text": "ひこうてき"
+    },
+    {
+     "key": "3",
+     "text": "ひかくてき"
+    },
+    {
+     "key": "4",
+     "text": "ひかてき"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": "比較的",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_reading",
+   "mondai_no": 1,
+   "number_in_section": 5,
+   "stem": "飛行機は下降を始めた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "かこう"
+    },
+    {
+     "key": "2",
+     "text": "かくう"
+    },
+    {
+     "key": "3",
+     "text": "げこう"
+    },
+    {
+     "key": "4",
+     "text": "げくう"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": "下降",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_writing",
+   "mondai_no": 2,
+   "number_in_section": 6,
+   "stem": "鈴木さんはあざやかな色のシャツを着ていた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "鮮やか"
+    },
+    {
+     "key": "2",
+     "text": "美やか"
+    },
+    {
+     "key": "3",
+     "text": "清やか"
+    },
+    {
+     "key": "4",
+     "text": "純やか"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": "あざやか",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_writing",
+   "mondai_no": 2,
+   "number_in_section": 7,
+   "stem": "今年の夏休みはきせいの予定はありません。",
+   "options": [
+    {
+     "key": "1",
+     "text": "帰勢"
+    },
+    {
+     "key": "2",
+     "text": "帰斉"
+    },
+    {
+     "key": "3",
+     "text": "帰省"
+    },
+    {
+     "key": "4",
+     "text": "帰成"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": "きせい",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_writing",
+   "mondai_no": 2,
+   "number_in_section": 8,
+   "stem": "もう少しちぢめてください。",
+   "options": [
+    {
+     "key": "1",
+     "text": "薄めて"
+    },
+    {
+     "key": "2",
+     "text": "納めて"
+    },
+    {
+     "key": "3",
+     "text": "貯めて"
+    },
+    {
+     "key": "4",
+     "text": "縮めて"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": "ちぢめ",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_writing",
+   "mondai_no": 2,
+   "number_in_section": 9,
+   "stem": "これからさまざまなことをじっせんしていきたい。",
+   "options": [
+    {
+     "key": "1",
+     "text": "実施"
+    },
+    {
+     "key": "2",
+     "text": "実践"
+    },
+    {
+     "key": "3",
+     "text": "実桟"
+    },
+    {
+     "key": "4",
+     "text": "実旋"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": "じっせん",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_writing",
+   "mondai_no": 2,
+   "number_in_section": 10,
+   "stem": "西村氏の作品の中ではこの小説は、かなりいしょくだ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "異色"
+    },
+    {
+     "key": "2",
+     "text": "違色"
+    },
+    {
+     "key": "3",
+     "text": "異食"
+    },
+    {
+     "key": "4",
+     "text": "違食"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": "いしょく",
+   "audio_url": null
+  }
+ ],
+ "explanations": [
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 1,
+   "key_point": "漢字読み・動詞の読み分け",
+   "analysis_zh": "正解是 2「たおさない」。「倒す（たおす）」是弄倒、推翻、打敗，如「話に夢中になって、ビンをたおしてしまった」說話太投入，不小心把瓶子弄倒了。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "崩す（くずす）是打亂、拆散、兌開（把錢找開），如「列を崩す」打亂隊形，與「弄倒」無關"
+    },
+    {
+     "option": "3",
+     "why_wrong": "壊す（こわす）是破壞、損傷（健康、物品），如「体を壊す」搞壞身體，不是「弄倒」"
+    },
+    {
+     "option": "4",
+     "why_wrong": "潰す（つぶす）是弄碎、使破產、打發（時間），如「暇を潰す」打發空閒時間"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 2,
+   "key_point": "漢字読み・同音異義語の書き分け",
+   "analysis_zh": "正解是 3「そんがい」。「損害」讀 そんがい，是損失、耗損，如「損害を賠償する」賠償損失。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「ひかい」不是「損害」的讀音，無此常用詞彙"
+    },
+    {
+     "option": "2",
+     "why_wrong": "損壊（そんかい）是損壞（器物），如「器物を損壊する」損壞器物，指物品被破壞而非金錢損失"
+    },
+    {
+     "option": "4",
+     "why_wrong": "被害（ひがい）是受害、受災（人遭受災害），如「被害を見積もる」估算災害損失，主體是人而非金額"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 3,
+   "key_point": "漢字読み・形容詞の読み分け",
+   "analysis_zh": "正解是 4「けわしい」。「険しい」讀 けわしい，是險峻、艱險，也可指嚴厲，如「険しい道を登って、やっと頂上についた」攀登險峻的道路，總算登頂了。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "苦しい（くるしい）是難受、艱難、苦惱（主觀感受），如「苦しい仕事をやり遂げる」完成艱難的工作"
+    },
+    {
+     "option": "2",
+     "why_wrong": "寂しい（さびしい）是孤獨、寂寞、荒涼，如「家族がそばにいなくてさびしい」家人不在身邊，很寂寞"
+    },
+    {
+     "option": "3",
+     "why_wrong": "激しい（はげしい）是激烈、劇烈（程度強），如「激しい運動」劇烈運動，不形容山路險峻"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 4,
+   "key_point": "漢字読み・同音語の識別",
+   "analysis_zh": "正解是 3「ひかくてき」。「比較的」讀 ひかくてき，是相較而言、比較，如「今年の冬は比較的暖かい」今年冬天相較而言比較暖和。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "飛行艇（ひこうてい）是水上飛機，如「沖縄で飛行艇に乗った」在沖繩坐了水上飛機，與題意無關"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「ひこうてき」無此常用詞彙"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「ひかてき」無此常用詞彙"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 5,
+   "key_point": "漢字読み・注意：本題答案依解析標記",
+   "analysis_zh": "正解是 3「げこう」（依解析 PDF 的「正解：3」標記入庫）。※注意：權威辭典中「下降」（降下、下降）標準讀音為「かこう」（如下降気流），「げこう」通常是「下校」（放學）的讀音；此處解析明確標示正解為 3，依答案權威規則入庫，特此註明。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "下降（かこう）是辭典標準讀音（降下、下降），如「温度の下降が激しい」降溫很急劇；但本題解析標示正解為 3"
+    },
+    {
+     "option": "2",
+     "why_wrong": "架空（かくう）是虛構，如「登場人物は全部架空の人物である」登場人物都是虛構人物"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「げくう」無此常用詞彙"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 6,
+   "key_point": "表記・同音語の漢字選択",
+   "analysis_zh": "正解是 1「鮮やか」。「あざやか」寫作「鮮やか」，是鮮明、精湛，如「色彩が鮮やかに見える」色彩顯得鮮明。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「美やか」無此詞彙（美しい才是「美麗的」)"
+    },
+    {
+     "option": "3",
+     "why_wrong": "清らか（きよらか）是清澈、純潔，如「清らかな水」清澈的水，讀音不同"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「純やか」無此詞彙"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "あざやか",
+    "2": "びやか",
+    "3": "きよらか",
+    "4": "じゅんやか"
+   },
+   "option_meanings": {
+    "1": "鮮明；鮮艷",
+    "2": "（無此詞）",
+    "3": "清澈；純潔",
+    "4": "（無此詞）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 7,
+   "key_point": "表記・同音語の漢字選択",
+   "analysis_zh": "正解是 3「帰省」。「きせい」寫作「帰省」，是回鄉、返鄉，如「休暇を利用して帰省するつもりだ」我打算利用休假時間回家鄉。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「帰勢」無此詞彙"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「帰斉」無此詞彙"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「帰成」無此詞彙"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "きせい",
+    "2": "きせい",
+    "3": "きせい",
+    "4": "きせい"
+   },
+   "option_meanings": {
+    "1": "（無此詞）",
+    "2": "（無此詞）",
+    "3": "回鄉；返鄉",
+    "4": "（無此詞）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 8,
+   "key_point": "表記・同音語の漢字選択",
+   "analysis_zh": "正解是 4「縮めて」。「ちぢめる」寫作「縮める」，是縮短、弄短、削減，如「期限を縮める」縮減期限。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "薄める（うすめる）是弄稀薄、弄淡，如「味を薄めてください」請把味道調淡一點"
+    },
+    {
+     "option": "2",
+     "why_wrong": "納める（おさめる）是繳納、結束，如「税金を納めるのが義務だ」繳稅是義務"
+    },
+    {
+     "option": "3",
+     "why_wrong": "貯める（ためる）是存錢、儲存，如「若いうちにお金を貯める」趁著年輕存錢"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "うすめて",
+    "2": "おさめて",
+    "3": "ためて",
+    "4": "ちぢめて"
+   },
+   "option_meanings": {
+    "1": "弄淡；調稀",
+    "2": "繳納；結束",
+    "3": "存錢；儲存",
+    "4": "縮短；削減"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 9,
+   "key_point": "表記・同音語の漢字選択",
+   "analysis_zh": "正解是 2「実践」。「じっせん」在此寫作「実践」，是實踐、實行，如「議論するよりも実践することが大切だ」實踐比議論更重要。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "実施（じっし）是實施（計劃、手術等），如「手術を実施する」實施手術，讀音為 じっし"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「実桟」無此詞彙"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「実旋」無此詞彙"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "じっし",
+    "2": "じっせん",
+    "3": "じっせん",
+    "4": "じっせん"
+   },
+   "option_meanings": {
+    "1": "實施",
+    "2": "實踐；實行",
+    "3": "（無此詞）",
+    "4": "（無此詞）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 10,
+   "key_point": "表記・同音語の漢字選択",
+   "analysis_zh": "正解是 1「異色」。「いしょく」在此寫作「異色」，是不同顏色，引申為有特色、別具一格，如「彼は異色の画家です」他是一個有特色的畫家。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「違色」無此詞彙"
+    },
+    {
+     "option": "3",
+     "why_wrong": "異食（いしょく）是異食症（病症），如「息子さんの異食に悩んでいる」他煩惱於兒子的異食症，語義不合"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「違食」無此詞彙"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "いしょく",
+    "2": "いしょく",
+    "3": "いしょく",
+    "4": "いしょく"
+   },
+   "option_meanings": {
+    "1": "有特色；別具一格",
+    "2": "（無此詞）",
+    "3": "異食症",
+    "4": "（無此詞）"
+   }
+  }
+ ],
+ "vocabulary": [
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 1,
+   "word": "倒す",
+   "reading": "たおす",
+   "pos": "動詞",
+   "meaning_zh": "弄倒；推翻；打敗",
+   "example_sentence": "倒さないように気をつけてください。",
+   "note": "注意與「壊す（破壞）」「崩す（打亂）」區分",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 2,
+   "word": "損害",
+   "reading": "そんがい",
+   "pos": "名詞",
+   "meaning_zh": "損失；耗損",
+   "example_sentence": "今回の件での損害は数千万円にのぼった。",
+   "note": "「損害（そんがい）」是損失，「損壊（そんかい）」是器物損壞，「被害（ひがい）」是人受災",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 3,
+   "word": "険しい",
+   "reading": "けわしい",
+   "pos": "形容詞",
+   "meaning_zh": "險峻；艱險；嚴厲",
+   "example_sentence": "思ったより険しい山道だった。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 4,
+   "word": "比較的",
+   "reading": "ひかくてき",
+   "pos": "副詞",
+   "meaning_zh": "相較而言；比較",
+   "example_sentence": "この辺りは比較的人通りが少ない。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 5,
+   "word": "下降",
+   "reading": "げこう",
+   "pos": "名詞",
+   "meaning_zh": "下降；降下（本題依解析標記讀 げこう）",
+   "example_sentence": "飛行機は下降を始めた。",
+   "note": "辭典標準讀音為 かこう；本題解析標正解 げこう，特此註明",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 6,
+   "word": "鮮やか",
+   "reading": "あざやか",
+   "pos": "形容動詞",
+   "meaning_zh": "鮮明；鮮艷；精湛",
+   "example_sentence": "鈴木さんはあざやかな色のシャツを着ていた。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 7,
+   "word": "帰省",
+   "reading": "きせい",
+   "pos": "名詞・動詞",
+   "meaning_zh": "回鄉；返鄉",
+   "example_sentence": "今年の夏休みはきせいの予定はありません。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 8,
+   "word": "縮める",
+   "reading": "ちぢめる",
+   "pos": "動詞",
+   "meaning_zh": "縮短；弄短；削減",
+   "example_sentence": "もう少しちぢめてください。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 9,
+   "word": "実践",
+   "reading": "じっせん",
+   "pos": "名詞・動詞",
+   "meaning_zh": "實踐；實行",
+   "example_sentence": "これからさまざまなことをじっせんしていきたい。",
+   "note": "「実施（じっし）」是實施計劃/手術，「実践」是把理論付諸實踐",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 10,
+   "word": "異色",
+   "reading": "いしょく",
+   "pos": "名詞・形容動詞",
+   "meaning_zh": "不同顏色；有特色；別具一格",
+   "example_sentence": "この小説は、かなりいしょくだ。",
+   "note": "「異食（いしょく）」是病症名，注意區分",
+   "etymology_en": null
+  }
+ ]
+}

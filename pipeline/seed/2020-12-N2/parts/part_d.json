@@ -1,0 +1,2007 @@
+{
+ "groups": [
+  {
+   "local_id": "g_lis1_1",
+   "section_code": "listening",
+   "group_type": "dialogue",
+   "title": "聽解問題1・1番",
+   "content": "駅のホームで女の人と駅員が話しています。女の人はこの後まず、何をしますか。\nF：赤い傘の忘れ物なかったでしょうか。この辺に置いたと思って、探してみたんですが、ないんです。1時間くらい前なんですけど。\nM：傘ですか？さっきまで、掃除の人がいましたけどね。見つかった忘れ物は駅の事務所に置いてあるので、行って聞いてみてください。改札の隣です。もし事務所になかったら、隣の山川駅の忘れ物センターに聞いてみてもいいかもしれませんね。まれに、拾ったかたがそちらに、お届けになることもありますからね。\n女の人はこの後まず、何をしますか。",
+   "sort_order": 1
+  },
+  {
+   "local_id": "g_lis1_2",
+   "section_code": "listening",
+   "group_type": "dialogue",
+   "title": "聽解問題1・2番",
+   "content": "会社で男の人と女の人が話しています。男の人は語学の勉強のために、まず何をしますか。\nM：この間、課長に来年あたり、海外勤務になるかもしれないから、準備して置くようにって言われてたんですね。\nF：そう。\nM：今のうちに、語学の勉強しなきゃって思ってるんですが、何かいい方法ありませんか。\nF：そうね、うちの会社でも語学研修やってるでしょう。参加してる？\nM：残業や出張が多いので、なかなか。\nF：じゃ、通信教育がいいじゃない。移動中も勉強できるし、高くなくていいの知ってるから、後でメールで教えようか。\nM：ええ。ぜひ。時間を有効に活用できて、いいですね。\nF：ただ、あれは聞くのには慣れても話すのがね。少し耳が慣れてきたら、外国人の友達紹介するから、会ってみるといいよ。話すと会話の練習にもなるし。話すのが一番だからね。\nM：慣れたら、ぜひお願いします。\nF：あとは語学試験に申し込んでみるのもいいんじゃない。目標があれば、1人でも勉強続けようっていう気持ちになるし。\nM：そうですね、力がついてきたら、やってみます。\n男の人は語学の勉強のために、まず何をしますか。",
+   "sort_order": 2
+  },
+  {
+   "local_id": "g_lis1_3",
+   "section_code": "listening",
+   "group_type": "dialogue",
+   "title": "聽解問題1・3番",
+   "content": "会社で女の人と男の人が話しています。女の人は倉庫に入る時、どの順番で、入り口のボタンを押さなければなりませんか。\nF：すみません、地下の倉庫に行って、資料をとってきたいんですが、入り口の開け方がわからなくて。\nM：あ、最近管理が厳しくなって、入り口の横のボタンを押さないとダメなんだよ。倉庫は3つあるけど、何番の？\nF：えっと、2番です\nM：じゃあ倉庫の番号は002だね、それと暗証番号も必要だよ\nF：そうですか、暗証番号は？\nM：725だよ。ドアの横のボタンを暗証番号、開くのボタン、倉庫の番号、開くのボタンの番で押して。そうすればすぐドアが開くから。\nF：暗証番号、開く、倉庫の番号。\nM：その後に開くよ。\nF：はい、わかりました。ありがとうございます。\n女の人は倉庫に入る時、どの順番で、入り口のボタンを押さなければなりませんか。",
+   "sort_order": 3
+  },
+  {
+   "local_id": "g_lis1_4",
+   "section_code": "listening",
+   "group_type": "dialogue",
+   "title": "聽解問題1・4番",
+   "content": "ホテルの受付で女の人と男の人が話しています。女の人はどこでパソコンを使いますか。\nF：すみません、パソコンの貸し出しってできますか。部屋で仕事をしたいんですけど。\nM：貸出はしていないんですが、2階にビジネスセンターがございます。午前9時から午後10時までコピーやファクスもお使いいただけますが、申し訳ございません。あと10分程しかございませんね。\nF：そうですね、あの、この近くでパソコンを使えるところないでしょうか。\nM：でしたら、こちらから3分程歩いたところに、インターネットカフェがございます。でもお客様、ロビーにも1台でしたら、パソコンがございます。文章を直すぐらいでしたら、おつかいになりますよ。でも今お使いの方がいらっしゃいますね。お待ちになりますか。\nF：いいです。ちょっと歩きたいし、行ってきます。どうも、ありがとう。\n女の人はどこでパソコンを使いますか。",
+   "sort_order": 4
+  },
+  {
+   "local_id": "g_lis1_5",
+   "section_code": "listening",
+   "group_type": "dialogue",
+   "title": "聽解問題1・5番",
+   "content": "図書館で職員がボランティアの人たちに話しています。ボランティアの人はこれから何をしますか。\n本の整理のお手伝いありがとうございます。こちらの箱に図書館に新しく入った本が入れてありますので、本に貼ってあるラベルの番号を見て、同じ番号の棚に入れる作業を皆さんにお願いします。ラベルの番号は、本の分野などを表しています。先程、お配りした紙に、番号の見方を書いてありますので、参考にしてください。それで実はまだデータ入力が済んでいない本がありまして、今パソコンで作業中です。終わった分から、また箱に追加していきます。よろしくお願いします。\nボランティアの人はこれから何をしますか。",
+   "sort_order": 5
+  },
+  {
+   "local_id": "g_lis2_1",
+   "section_code": "listening",
+   "group_type": "dialogue",
+   "title": "聽解問題2・1番",
+   "content": "動物病院で女の人と医者が話しています。医者は女の人の犬が最近よく吠える理由はなんだといっていますか。\nF：先生、最近うちの犬がよく吠えて困るんです。知らない人がうちに来た時に吠えるのは分かるんですが、でもこうじゃなくても、何かよく吠えている。\nM：それは犬の無駄吠えと呼ばれるもので、ただ犬は決して無駄に吠えているわけじゃないので、何か原因があると思います。何かありませんか。\nF：そうですね。\nM：例えば運動が足りないので散歩に行きたいとか、餌が足りないとか。\nF：毎日散歩していますし、餌も充分にやってますが、最近引越ししたんですけど引越しする前はこんなことなかったんです。\nM：あ、そうですか。では、しばらく様子を見てあげてください。新しいところに慣れば自然に吠えなくなると思いますよ。\n医者は女の人の犬が最近よく吠える理由はなんだといっていますか。",
+   "sort_order": 6
+  },
+  {
+   "local_id": "g_lis2_2",
+   "section_code": "listening",
+   "group_type": "dialogue",
+   "title": "聽解問題2・2番",
+   "content": "大学で女の学生と男の学生が話しています。女の学生はどうして茶道クラブに入るといっていますか。女の学生です。\nF：私ね大学の茶道クラブに入ることにしたんだ。\nM：あ、お目当てはお茶を飲みながら、食べる美味しいお菓子。\nF：ふふふ、はずれ。茶道クラブにはね、大学生だけじゃなくて、子供から大人まで習いに来てるみたいで。\nM：え\nF：色々な年代の人と交流できるのが魅力なんだ。\nM：そういう機会はめったにないよね。それに茶道なら礼儀も学べるし、面白そうだね。\nF：そうだよ。じゃあ来週いくから一緒に行ってみる？着物を着て来る人もいるみたいだけど、普段着でいいんだって。\nM：じゃあ行ってみようかな。\n女の学生はどうして茶道クラブに入るといっていますか。",
+   "sort_order": 7
+  },
+  {
+   "local_id": "g_lis2_3",
+   "section_code": "listening",
+   "group_type": "dialogue",
+   "title": "聽解問題2・3番",
+   "content": "レストランで女の人と店長が話しています。店長はサラダについてどんなアドバイスをしていますか。\nF：店長、この前話してた新しいランチメニューのサラダを作ってみたんですが、どうでしょうか。\nM：あ、サラダだけで満足できるっていうあれね。珍しい野菜が入っていていね。色もきれいで、夏らしいね。\nF：ドレッシングの味も夏向きのさっぱりとしたものにしてみたんですが、ちょっと召し上がってみてください。\nM：いいんじゃない？ただこの1皿だけではちょっと量が少なくないかな。サラダに入っている肉の量を増やして、食べ応えがあるようにしたら？\nF：でもそうすると値段ももう少し上げないと。\nM：ええん、そうだね、でもボリュームがあっておいしければ少しぐらい高くても大丈夫だと思う。\nF：はい、分かりました。\n店長はサラダについてどんなアドバイスをしていますか。",
+   "sort_order": 8
+  },
+  {
+   "local_id": "g_lis2_4",
+   "section_code": "listening",
+   "group_type": "dialogue",
+   "title": "聽解問題2・4番",
+   "content": "電話で男の人と女の人が話しています。男の人は山田駅から学校までどうやって行けばいいといっていますか。\nM：はい、河野専門学校です。\nF：すみません、今日そちらの学校の写真展に伺いたいんですが、行き方がよく分からなくて教えていただけますか。今地下鉄の山田駅にいます。\nM：あ、山田駅は第1キャンパスの最寄り駅なんです。写真展は第2キャンパスの方です。\nF：え、そうなんですか。\nM：案内がわかりにくくて申し訳ありません。山田駅からですと、かなり歩くことになりますので、隣の南駅からバスでお越しいただくのが便利です。南駅からスポーツセンター駅というバス停が出ていますので、そちらのバスに乗って、河野専門学校前で降りると目の前です。\nF：スポーツセンター行きですね。\nM：はい、南駅から10分程で着きます。山田駅からバスが出ていませんので。\nF：わかりました。\n男の人は山田駅から学校までどうやって行けばいいといっていますか。",
+   "sort_order": 9
+  },
+  {
+   "local_id": "g_lis2_5",
+   "section_code": "listening",
+   "group_type": "dialogue",
+   "title": "聽解問題2・5番",
+   "content": "大学で先生が話しています。先生は農業を行う若者が増えた理由はなんだといっていますか。\n農業と言えば以前は辛い仕事と思われ、働き手が減ってしまいました。ところが最近は農業に着く若者が増えています。それは土に触れ、自分が作ったものを食べる生活に都会では味わえない精神的豊かさがあるからです。このような若者の中には、農業の経験がない人も見られ、各自治体は彼らを支援する制度や農業指導体制を検討しはじめています。\n先生は農業を行う若者が増えた理由はなんだといっていますか。",
+   "sort_order": 10
+  },
+  {
+   "local_id": "g_lis2_6",
+   "section_code": "listening",
+   "group_type": "dialogue",
+   "title": "聽解問題2・6番",
+   "content": "女の学生と男の人が話しています。男の人は本を編集者として重要なことはなんだといっていますか。\nF：先輩、出版社で編集のお仕事をされてるんですよね。\nM：えん、本の編集をしてるんだけど、担当してる作家に原稿を依頼したり、作品の参考になりそうな情報を集めて提供したりしてる。\nF：作家の方々とやり取りするんですね、私も実は興味があるんですけど、編集者としてどんなことが大切ですか。\nM：作家に作品についての意見を伝えたりすることかな。\nF：アイディアを提案したりするんですか。\nM：いや、そういうんじゃなくて、作品を良くするためには読者としての視点も必要だからね。そこをそんなに気にしなくてもいいかな。\nF：それにはいろんな知識や経験を必要ですよね。\nM：僕も一応さまざまな分野の人と付き合ったり、雑誌や本ではあ情報収集したりはしてるけど、でも一般の読者はそんなに知識や経験の豊富な人ばかりじゃないからねえ。そこはそんなに気にしなくてもいいかな。\nF：そうですか。\n男の人は本を編集者として重要なことはなんだといっていますか。",
+   "sort_order": 11
+  },
+  {
+   "local_id": "g_lis3_1",
+   "section_code": "listening",
+   "group_type": "dialogue",
+   "title": "聽解問題3・1番",
+   "content": "テレビでアナウンサーが話しています。\n北村市では来月、みかんの会というグループが活動を始めます。この会は、住民同士が繋がり、交流を深めることを目的に、市民が主体的に活動するもので、一人暮らしのお年寄りを訪問するようなボランティア活動をしたり、バザーなどのイベントを企画したりするそうです。名前からはみかんを栽培する会かなと想像するかもしれませんが、みかんの木はほかの果物に比べて育てやすく、半年あれば収穫できることから、みかんが実るように成果を出したいという意味を込めて名付けたそうです。親しみが持てる名前で、今後の活動も楽しみですね。\nアナウンサーは何について話していますか。\n1 新しい市民グループができること。\n2 来月、北村市でイベントを開催されること。\n3 北村市がみかんの栽培を始めたこと。\n4 みかんの名前を募集すること。",
+   "sort_order": 12
+  },
+  {
+   "local_id": "g_lis3_2",
+   "section_code": "listening",
+   "group_type": "dialogue",
+   "title": "聽解問題3・2番",
+   "content": "講演会で女の人が話しています。\n私は今は山に登って、自然の写真を撮る仕事をしているんですが、もともとは花屋で働いていたんです。ある日、通勤の途中、駅に貼られた大きなポスターを見たんですが、それが見たこともない美しい花の写真だったんです。調べたら、外国の山に咲いている珍しい花で、山専門の写真家が撮影したものでした。花屋の私が知らない花がこの世界にはたくさんあるんですね。その写真家に気いて雷に打たれたようなりました。それですぐにその写真家に連絡して、弟子にしてくださいって、お願いしたんです。どんな苦労が待っているかも知らずに、どうしても、あの花を自分の目で、見たいと思った、あの時の気持ちは今もよく覚えています。\n女の人は何について話していますか。\n1 山に登ることの魅力。\n2 転職を成功させる方法。\n3 写真家になったきっかけ。\n4 珍しい花の写真を撮る苦労。",
+   "sort_order": 13
+  },
+  {
+   "local_id": "g_lis3_3",
+   "section_code": "listening",
+   "group_type": "dialogue",
+   "title": "聽解問題3・3番",
+   "content": "ラジオで男の人が話しています。\n『虹色の僕ら』というアニメ、皆さんはテレビでご覧になったことがあるでしょうか。このアニメは独特の世界観と予想を裏切るストーリー展開で、多くのファンに支持されていますが、海外でも多くの人の心を掴み、評価が高まっているんだそうです。現在、海外の25カ国で放送されていて、原作の漫画も5つの言語に翻訳されています。昨年、長編アニメとして映画化されましたが、そのDVDの海外での売り上げも好調だそうです。日本に留まらず、世界中でファンを獲得しているようです。\n男の人は何について話していますか。\n1 海外で人気のあるアニメの共通点。\n2 アニメの翻訳の質の向上。\n3 映画化される漫画の増加。\n4 あるアニメの世界的な人気の高まり。",
+   "sort_order": 14
+  },
+  {
+   "local_id": "g_lis3_4",
+   "section_code": "listening",
+   "group_type": "dialogue",
+   "title": "聽解問題3・4番",
+   "content": "会社の食堂で、男の人と女の人が話しています。\nM：今日は魚の定食にしたの？いつもうんどんの健康診断の時、パンフレットをもらったんだけど、必要な栄養を取るには野菜1日に350グラム食べなきゃいけないんだって。私全然足りてないなと思って。朝はパンとコーヒーだけだったし、お昼は会社でうどんばかりだったから、食生活に問題あるなって。\nF：確かにこれだと健康的とは言えないね。\nM：夜はもともと家で、ちゃんとご飯作るようにしてたけど、それだけじゃなかなか350グラムも取れないし。\nM：でも僕も似たようなもんかもしれないなあ。野菜はもともとそんなに好きじゃないし。\nF：あと朝に野菜ジュースを作って飲むことにしたの。野菜だけだと飲みにくいけど、りんごとが果物も入れるとおいしいんだ。\n女の人は何について話していますか。\n1 理想的な栄養バランスの料理。\n2 野菜が健康にいい理由。\n3 食事の内容を改善したこと。\n4 野菜の美味しさに気づいたこと。",
+   "sort_order": 15
+  },
+  {
+   "local_id": "g_lis3_5",
+   "section_code": "listening",
+   "group_type": "dialogue",
+   "title": "聽解問題3・5番",
+   "content": "テレビの天気予報のコーナーで、アナウンサーが話しています。\n子供の頃、曇ってどこから来るのかなって思っていませんでしたか。雲は暖かい海水が水蒸気になり、それが冷やされてできたり、森林から発生した水蒸気が冷やされて出来たりします。自動車や工場から出る煙と水蒸気が合わさる場合もあります。また、暖かい空気と冷たい空気がぶつかった境目にも出来ます。雲が絨毯のように広がる美しい景色で有名な観光地がありますが、そのような景色もいくつかの条件のもと、空気が冷やされることで見られるんです。\nアナウンサーは何について話していますか。\n1 いろいろな雲の種類。\n2 空気の汚れと雲の関係。\n3 雲の発生の仕方。\n4 雲で有名な観光地。",
+   "sort_order": 16
+  },
+  {
+   "local_id": "g_lis4_1",
+   "section_code": "listening",
+   "group_type": "dialogue",
+   "title": "聽解問題4・1番",
+   "content": "最近、授業休みがちですね。\n1 時間に余裕が出来たんです。\n2 ちょっと体調がよくなくて。\n3 最近忙しいんですか。",
+   "sort_order": 17
+  },
+  {
+   "local_id": "g_lis4_2",
+   "section_code": "listening",
+   "group_type": "dialogue",
+   "title": "聽解問題4・2番",
+   "content": "明日お客さんの会社のパーティー、私の代わりに行ってくれない？\n1 一人で行くってこと。\n2 いいけど、どうしたの。\n3 行ってくれるの？ありがとう。",
+   "sort_order": 18
+  },
+  {
+   "local_id": "g_lis4_3",
+   "section_code": "listening",
+   "group_type": "dialogue",
+   "title": "聽解問題4・3番",
+   "content": "この自転車、前も後ろもこんなにパンクしてちゃ、僕には直しようがないよ。\n1 修理してくれたんだね\n2 結構簡単に修理できそうだね。\n3 誰か修理できる人いないかな。",
+   "sort_order": 19
+  },
+  {
+   "local_id": "g_lis4_4",
+   "section_code": "listening",
+   "group_type": "dialogue",
+   "title": "聽解問題4・4番",
+   "content": "本日は我が社の記念パーティーによくお越しくださいました。\n1 お招きありがとうございます、\n2 ご遠慮申し上げます。\n3 おいでください",
+   "sort_order": 20
+  },
+  {
+   "local_id": "g_lis4_5",
+   "section_code": "listening",
+   "group_type": "dialogue",
+   "title": "聽解問題4・5番",
+   "content": "あれ？さっき買った遊園地のお土産、どっか行っちゃった。\n1 お土産どこで買いたい？\n2 よく探した？\n3 違うものの方がよかった？",
+   "sort_order": 21
+  },
+  {
+   "local_id": "g_lis4_6",
+   "section_code": "listening",
+   "group_type": "dialogue",
+   "title": "聽解問題4・6番",
+   "content": "森さん、今日のお祭り楽しかったね。田中さんも来られるとよかったのにね。\n1 今日、田中さん来たの。\n2 来られなくて残念だったね。\n3 田中さんも来られてよかったね。",
+   "sort_order": 22
+  },
+  {
+   "local_id": "g_lis4_7",
+   "section_code": "listening",
+   "group_type": "dialogue",
+   "title": "聽解問題4・7番",
+   "content": "この間出してくれた新商品なんだけど、検討の結果、見送ることになったよ。\n1 採用していただけたんですね。ありがとうございます。\n2 いつ結果をおしえていただけますか。\n3 そうですか。何が問題だったんでしょうか。",
+   "sort_order": 23
+  },
+  {
+   "local_id": "g_lis4_8",
+   "section_code": "listening",
+   "group_type": "dialogue",
+   "title": "聽解問題4・8番",
+   "content": "3時の新幹線に乗るなら、今すぐ会社出ないと間に合わないよ。\n1 うん、今出るところ。\n2 それなら急がなくてもいいね、\n3 今出ても間に合わんだ、",
+   "sort_order": 24
+  },
+  {
+   "local_id": "g_lis4_9",
+   "section_code": "listening",
+   "group_type": "dialogue",
+   "title": "聽解問題4・9番",
+   "content": "木村先輩に紹介してもらったバイト、最初はやるつもりじゃなかったんだけどなぁ。\n1 もともとやりたかったんだ。\n2 やらなくて正解だったね。\n3 じゃ、何でやることにしたの？",
+   "sort_order": 25
+  },
+  {
+   "local_id": "g_lis4_10",
+   "section_code": "listening",
+   "group_type": "dialogue",
+   "title": "聽解問題4・10番",
+   "content": "僕のせいで、あんな結果になってしまって、彼には謝るほかないな。\n1 彼ならきっと分かってくれるよ。\n2 うまくいってよかったじゃない？\n3 そう。やっぱり謝らないんだ。",
+   "sort_order": 26
+  },
+  {
+   "local_id": "g_lis4_11",
+   "section_code": "listening",
+   "group_type": "dialogue",
+   "title": "聽解問題4・11番",
+   "content": "この前文化祭のステージに阿部くんが出てたんだけど、歌うまかったよ、ダンスはともかくとして。\n1 ダンスはいまいちだったの。\n2 ダンスもうまいなんですごいね。\n3 ダンスやらなかったんだ。",
+   "sort_order": 27
+  },
+  {
+   "local_id": "g_lis5_1",
+   "section_code": "listening",
+   "group_type": "dialogue",
+   "title": "聽解問題5・1番",
+   "content": "レストランで店長と店員二人が話しています。\n店長：この間、地元の野菜を使った料理のコンテストにうちも応募したでしょう。なんとうちのお店が出したアイディア、優秀賞になったんだって。\n男：やったね。僕たち頑張りましたもんね。\n店長：それで来月の1日に市民ホールで、受賞式があるから、考えてくれた2人にぜひ行ってほしいだけど。お店の宣伝にもなるし。お店には私が残るから。\n男：店長が行かないなんてだめですよ。その時間はお店閉めて3人で、行きませんか。\n店長：じゃ、せっかくの機会だし、そうしましょう。\n男：でも、山田さんのその日、業者との打ち合わせが入ってませんでしたか。\n女：そうだった。しかもその時間しかだめって言われてるんです。\n店長：じゃ、山田さん悪いけど、打ち合わせはお任せしますね。授賞式の日はよろしくお願いします。\n授賞式の日は誰が出席することにしましたか。\n1 店長だけ\n2 店員2人だけ\n3 店長と男の店員1人\n4 店長と店員2人",
+   "sort_order": 28
+  },
+  {
+   "local_id": "g_lis5_2",
+   "section_code": "listening",
+   "group_type": "dialogue",
+   "title": "聽解問題5・2番",
+   "content": "マラソン大会のボランティア説明会で説明を聴いた後、学生2人が話しています。\nこの度は緑山マラソン大会のボランティアへのご応募ありがとうございます。仕事は4種類あります。今から紙を配りますので、希望する仕事の番号に一つ丸をつけて、出してください。一番の仕事は道の脇に立って、観客がコースに入らないように対応する仕事です。二番の仕事はゴールした後の選手にタオルを手渡す仕事です。三番の仕事は当日の通訳です。海外からも選手が大勢参加しますので、その選手たちの案内を手伝っていただきます。四番の仕事は選手用の飲み物のペットボトルを会場に運んでおく仕事です。大会が始まるまでに、運び入れていただきます。\nA：初めてだから、どれがいいか迷っちゃうなあ。私にできそうなのはタオル配りかな。去年参加したんだよね。何やったの？\nB：観客が入らないように、コースの脇に立ってる係だよ。間近で選手が走ってるのを見られてよかったけど、今回はほかのをやってみたいなあ。高橋さんは将来海外で仕事をしたい言っていったけど、通訳なんていい経験になるんじゃない。\nA：もちろん、興味はあるんだけど、自信がないんだよね。\nB：せっかく勉強してるんだから使ってみないと。\nA：思い切って、チャレンジしてみる。森田君も一緒にやらない？\nB：僕は話学の才腕ないから、今回は事前準備の仕事にするよ。先に仕事が終わってる方が始まってから自由に選手を応援できるし。\n①女の人は何番の仕事に希望を出しますか。\n②男の人は何番の仕事に希望を出しますか。",
+   "sort_order": 29
+  }
+ ],
+ "questions": [
+  {
+   "group_local_id": "g_lis1_1",
+   "section_code": "listening",
+   "qtype_code": "listening_task",
+   "mondai_no": 1,
+   "number_in_section": 1,
+   "stem": "女の人はこの後まず、何をしますか。",
+   "options": [
+    {
+     "key": "1",
+     "text": "ホームで忘れ物をさがす"
+    },
+    {
+     "key": "2",
+     "text": "そうじの人に忘れ物がないか聞く"
+    },
+    {
+     "key": "3",
+     "text": "じむしょで忘れ物がないかたずねる"
+    },
+    {
+     "key": "4",
+     "text": "忘れ物センターに問い合わせる"
+    }
+   ],
+   "correct_option": "3",
+   "audio_url": "/static/audio/2020-12-N2-listening.mp3",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_lis1_2",
+   "section_code": "listening",
+   "qtype_code": "listening_task",
+   "mondai_no": 1,
+   "number_in_section": 2,
+   "stem": "男の人は語学の勉強のために、まず何をしますか。",
+   "options": [
+    {
+     "key": "1",
+     "text": "会社のけんしゅうに参加する"
+    },
+    {
+     "key": "2",
+     "text": "通信教育を受ける"
+    },
+    {
+     "key": "3",
+     "text": "外国人の友達と話す"
+    },
+    {
+     "key": "4",
+     "text": "試験に申し込む"
+    }
+   ],
+   "correct_option": "2",
+   "audio_url": "/static/audio/2020-12-N2-listening.mp3",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_lis1_3",
+   "section_code": "listening",
+   "qtype_code": "listening_task",
+   "mondai_no": 1,
+   "number_in_section": 3,
+   "stem": "女の人は倉庫に入る時、どの順番で、入り口のボタンを押さなければなりませんか。",
+   "options": [
+    {
+     "key": "1",
+     "text": "002→開く→725"
+    },
+    {
+     "key": "2",
+     "text": "002→開く→725→開く"
+    },
+    {
+     "key": "3",
+     "text": "725→開く→002"
+    },
+    {
+     "key": "4",
+     "text": "725→開く→002→開く"
+    }
+   ],
+   "correct_option": "4",
+   "audio_url": "/static/audio/2020-12-N2-listening.mp3",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_lis1_4",
+   "section_code": "listening",
+   "qtype_code": "listening_task",
+   "mondai_no": 1,
+   "number_in_section": 4,
+   "stem": "女の人はどこでパソコンを使いますか。",
+   "options": [
+    {
+     "key": "1",
+     "text": "自分の部屋"
+    },
+    {
+     "key": "2",
+     "text": "ビジネスセンター"
+    },
+    {
+     "key": "3",
+     "text": "インターネットカフェ"
+    },
+    {
+     "key": "4",
+     "text": "ロビー"
+    }
+   ],
+   "correct_option": "3",
+   "audio_url": "/static/audio/2020-12-N2-listening.mp3",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_lis1_5",
+   "section_code": "listening",
+   "qtype_code": "listening_task",
+   "mondai_no": 1,
+   "number_in_section": 5,
+   "stem": "ボランティアの人はこれから何をしますか。",
+   "options": [
+    {
+     "key": "1",
+     "text": "本にラベルをつける"
+    },
+    {
+     "key": "2",
+     "text": "本を図書館のたなに入れる"
+    },
+    {
+     "key": "3",
+     "text": "本のデータを入力する"
+    },
+    {
+     "key": "4",
+     "text": "本を箱に入れる"
+    }
+   ],
+   "correct_option": "2",
+   "audio_url": "/static/audio/2020-12-N2-listening.mp3",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_lis2_1",
+   "section_code": "listening",
+   "qtype_code": "listening_point",
+   "mondai_no": 2,
+   "number_in_section": 6,
+   "stem": "医者は女の人の犬が最近よく吠える理由はなんだといっていますか。",
+   "options": [
+    {
+     "key": "1",
+     "text": "来客が増えたから"
+    },
+    {
+     "key": "2",
+     "text": "運動が足りないから"
+    },
+    {
+     "key": "3",
+     "text": "えさが足りないから"
+    },
+    {
+     "key": "4",
+     "text": "生活環境が変わったから"
+    }
+   ],
+   "correct_option": "4",
+   "audio_url": "/static/audio/2020-12-N2-listening.mp3",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_lis2_2",
+   "section_code": "listening",
+   "qtype_code": "listening_point",
+   "mondai_no": 2,
+   "number_in_section": 7,
+   "stem": "女の学生はどうして茶道クラブに入るといっていますか。",
+   "options": [
+    {
+     "key": "1",
+     "text": "おいしいおかしが食べられるから"
+    },
+    {
+     "key": "2",
+     "text": "さまざまな世代の人と知り合えるから"
+    },
+    {
+     "key": "3",
+     "text": "れいぎが学べるから"
+    },
+    {
+     "key": "4",
+     "text": "着物を着ることができるから"
+    }
+   ],
+   "correct_option": "2",
+   "audio_url": "/static/audio/2020-12-N2-listening.mp3",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_lis2_3",
+   "section_code": "listening",
+   "qtype_code": "listening_point",
+   "mondai_no": 2,
+   "number_in_section": 8,
+   "stem": "店長はサラダについてどんなアドバイスをしていますか。",
+   "options": [
+    {
+     "key": "1",
+     "text": "野菜の種類を変えたほうがいい"
+    },
+    {
+     "key": "2",
+     "text": "ドレッシングの味を変えたほうがいい"
+    },
+    {
+     "key": "3",
+     "text": "入れる肉の量を増やしたほうがいい"
+    },
+    {
+     "key": "4",
+     "text": "値段を少し安くしたほうがいい"
+    }
+   ],
+   "correct_option": "3",
+   "audio_url": "/static/audio/2020-12-N2-listening.mp3",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_lis2_4",
+   "section_code": "listening",
+   "qtype_code": "listening_point",
+   "mondai_no": 2,
+   "number_in_section": 9,
+   "stem": "男の人は山田駅から学校までどうやって行けばいいといっていますか。",
+   "options": [
+    {
+     "key": "1",
+     "text": "歩いて行く"
+    },
+    {
+     "key": "2",
+     "text": "バスに乗って行く"
+    },
+    {
+     "key": "3",
+     "text": "地下鉄で南前へ行き、そこから歩く"
+    },
+    {
+     "key": "4",
+     "text": "地下鉄で南駅へ行き、そこからバスに乗る"
+    }
+   ],
+   "correct_option": "4",
+   "audio_url": "/static/audio/2020-12-N2-listening.mp3",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_lis2_5",
+   "section_code": "listening",
+   "qtype_code": "listening_point",
+   "mondai_no": 2,
+   "number_in_section": 10,
+   "stem": "先生は農業を行う若者が増えた理由はなんだといっていますか。",
+   "options": [
+    {
+     "key": "1",
+     "text": "せんしんてきなゆたかを味わえるから"
+    },
+    {
+     "key": "2",
+     "text": "のうぎょうの経験がなくても始められるから"
+    },
+    {
+     "key": "3",
+     "text": "じちたいのしえん制度があるから"
+    },
+    {
+     "key": "4",
+     "text": "のうぎょうしどうが受けられるから"
+    }
+   ],
+   "correct_option": "1",
+   "audio_url": "/static/audio/2020-12-N2-listening.mp3",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_lis2_6",
+   "section_code": "listening",
+   "qtype_code": "listening_point",
+   "mondai_no": 2,
+   "number_in_section": 11,
+   "stem": "男の人は本を編集者として重要なことはなんだといっていますか。",
+   "options": [
+    {
+     "key": "1",
+     "text": "作家に面白いアイディアをていあんすること"
+    },
+    {
+     "key": "2",
+     "text": "作家に読者の立場からの意見を伝えること"
+    },
+    {
+     "key": "3",
+     "text": "さまざまな分野の人と付き合うこと"
+    },
+    {
+     "key": "4",
+     "text": "さまざまな情報を集めること"
+    }
+   ],
+   "correct_option": "2",
+   "audio_url": "/static/audio/2020-12-N2-listening.mp3",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_lis3_1",
+   "section_code": "listening",
+   "qtype_code": "listening_summary",
+   "mondai_no": 3,
+   "number_in_section": 12,
+   "stem": "聽解問題3（概要理解）・1番：電視播報員介紹北村市新成立的市民團體「蜜柑之會」。アナウンサーは何について話していますか。（無印刷選項）",
+   "options": [],
+   "correct_option": "1",
+   "audio_url": "/static/audio/2020-12-N2-listening.mp3",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_lis3_2",
+   "section_code": "listening",
+   "qtype_code": "listening_summary",
+   "mondai_no": 3,
+   "number_in_section": 13,
+   "stem": "聽解問題3（概要理解）・2番：女性講述自己從花店店員成為山岳攝影師的契機。女の人は何について話していますか。（無印刷選項）",
+   "options": [],
+   "correct_option": "3",
+   "audio_url": "/static/audio/2020-12-N2-listening.mp3",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_lis3_3",
+   "section_code": "listening",
+   "qtype_code": "listening_summary",
+   "mondai_no": 3,
+   "number_in_section": 14,
+   "stem": "聽解問題3（概要理解）・3番：男播報員談動畫《虹色的我們》在海外的高人氣。男の人は何について話していますか。（無印刷選項）",
+   "options": [],
+   "correct_option": "4",
+   "audio_url": "/static/audio/2020-12-N2-listening.mp3",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_lis3_4",
+   "section_code": "listening",
+   "qtype_code": "listening_summary",
+   "mondai_no": 3,
+   "number_in_section": 15,
+   "stem": "聽解問題3（概要理解）・4番：公司食堂裡男女談論改善飲食內容。女の人は何について話していますか。（無印刷選項）",
+   "options": [],
+   "correct_option": "3",
+   "audio_url": "/static/audio/2020-12-N2-listening.mp3",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_lis3_5",
+   "section_code": "listening",
+   "qtype_code": "listening_summary",
+   "mondai_no": 3,
+   "number_in_section": 16,
+   "stem": "聽解問題3（概要理解）・5番：電視氣象節目講解雲的形成原理。アナウンサーは何について話していますか。（無印刷選項）",
+   "options": [],
+   "correct_option": "3",
+   "audio_url": "/static/audio/2020-12-N2-listening.mp3",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_lis4_1",
+   "section_code": "listening",
+   "qtype_code": "listening_response",
+   "mondai_no": 4,
+   "number_in_section": 17,
+   "stem": "聽解問題4（即時應答）・1番：最近、授業休みがちですね。（無印刷選項）",
+   "options": [],
+   "correct_option": "2",
+   "audio_url": "/static/audio/2020-12-N2-listening.mp3",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_lis4_2",
+   "section_code": "listening",
+   "qtype_code": "listening_response",
+   "mondai_no": 4,
+   "number_in_section": 18,
+   "stem": "聽解問題4（即時應答）・2番：明日お客さんの会社のパーティー、私の代わりに行ってくれない？（無印刷選項）",
+   "options": [],
+   "correct_option": "2",
+   "audio_url": "/static/audio/2020-12-N2-listening.mp3",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_lis4_3",
+   "section_code": "listening",
+   "qtype_code": "listening_response",
+   "mondai_no": 4,
+   "number_in_section": 19,
+   "stem": "聽解問題4（即時應答）・3番：この自転車、前も後ろもこんなにパンクしてちゃ、僕には直しようがないよ。（無印刷選項）",
+   "options": [],
+   "correct_option": "3",
+   "audio_url": "/static/audio/2020-12-N2-listening.mp3",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_lis4_4",
+   "section_code": "listening",
+   "qtype_code": "listening_response",
+   "mondai_no": 4,
+   "number_in_section": 20,
+   "stem": "聽解問題4（即時應答）・4番：本日は我が社の記念パーティーによくお越しくださいました。（無印刷選項）",
+   "options": [],
+   "correct_option": "1",
+   "audio_url": "/static/audio/2020-12-N2-listening.mp3",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_lis4_5",
+   "section_code": "listening",
+   "qtype_code": "listening_response",
+   "mondai_no": 4,
+   "number_in_section": 21,
+   "stem": "聽解問題4（即時應答）・5番：あれ？さっき買った遊園地のお土産、どっか行っちゃった。（無印刷選項）",
+   "options": [],
+   "correct_option": "2",
+   "audio_url": "/static/audio/2020-12-N2-listening.mp3",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_lis4_6",
+   "section_code": "listening",
+   "qtype_code": "listening_response",
+   "mondai_no": 4,
+   "number_in_section": 22,
+   "stem": "聽解問題4（即時應答）・6番：森さん、今日のお祭り楽しかったね。田中さんも来られるとよかったのにね。（無印刷選項）",
+   "options": [],
+   "correct_option": "2",
+   "audio_url": "/static/audio/2020-12-N2-listening.mp3",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_lis4_7",
+   "section_code": "listening",
+   "qtype_code": "listening_response",
+   "mondai_no": 4,
+   "number_in_section": 23,
+   "stem": "聽解問題4（即時應答）・7番：この間出してくれた新商品なんだけど、検討の結果、見送ることになったよ。（無印刷選項）",
+   "options": [],
+   "correct_option": "3",
+   "audio_url": "/static/audio/2020-12-N2-listening.mp3",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_lis4_8",
+   "section_code": "listening",
+   "qtype_code": "listening_response",
+   "mondai_no": 4,
+   "number_in_section": 24,
+   "stem": "聽解問題4（即時應答）・8番：3時の新幹線に乗るなら、今すぐ会社出ないと間に合わないよ。（無印刷選項）",
+   "options": [],
+   "correct_option": "1",
+   "audio_url": "/static/audio/2020-12-N2-listening.mp3",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_lis4_9",
+   "section_code": "listening",
+   "qtype_code": "listening_response",
+   "mondai_no": 4,
+   "number_in_section": 25,
+   "stem": "聽解問題4（即時應答）・9番：木村先輩に紹介してもらったバイト、最初はやるつもりじゃなかったんだけどなぁ。（無印刷選項）",
+   "options": [],
+   "correct_option": "3",
+   "audio_url": "/static/audio/2020-12-N2-listening.mp3",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_lis4_10",
+   "section_code": "listening",
+   "qtype_code": "listening_response",
+   "mondai_no": 4,
+   "number_in_section": 26,
+   "stem": "聽解問題4（即時應答）・10番：僕のせいで、あんな結果になってしまって、彼には謝るほかないな。（無印刷選項）",
+   "options": [],
+   "correct_option": "1",
+   "audio_url": "/static/audio/2020-12-N2-listening.mp3",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_lis4_11",
+   "section_code": "listening",
+   "qtype_code": "listening_response",
+   "mondai_no": 4,
+   "number_in_section": 27,
+   "stem": "聽解問題4（即時應答）・11番：この前文化祭のステージに阿部くんが出てたんだけど、歌うまかったよ、ダンスはともかくとして。（無印刷選項）",
+   "options": [],
+   "correct_option": "1",
+   "audio_url": "/static/audio/2020-12-N2-listening.mp3",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_lis5_1",
+   "section_code": "listening",
+   "qtype_code": "listening_comprehensive",
+   "mondai_no": 5,
+   "number_in_section": 28,
+   "stem": "聽解問題5（統合理解）・1番：餐廳店長與兩名店員商量授獎儀式由誰出席。授賞式の日は誰が出席することにしましたか。（無印刷選項）",
+   "options": [],
+   "correct_option": "1",
+   "audio_url": "/static/audio/2020-12-N2-listening.mp3",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_lis5_2",
+   "section_code": "listening",
+   "qtype_code": "listening_comprehensive",
+   "mondai_no": 5,
+   "number_in_section": 29,
+   "stem": "①女の人は何番の仕事に希望を出しますか。",
+   "options": [
+    {
+     "key": "1",
+     "text": "タイプ1"
+    },
+    {
+     "key": "2",
+     "text": "タイプ2"
+    },
+    {
+     "key": "3",
+     "text": "タイプ3"
+    },
+    {
+     "key": "4",
+     "text": "タイプ4"
+    }
+   ],
+   "correct_option": "3",
+   "audio_url": "/static/audio/2020-12-N2-listening.mp3",
+   "target_text": null
+  },
+  {
+   "group_local_id": "g_lis5_2",
+   "section_code": "listening",
+   "qtype_code": "listening_comprehensive",
+   "mondai_no": 5,
+   "number_in_section": 30,
+   "stem": "②男の人は何番の仕事に希望を出しますか。",
+   "options": [
+    {
+     "key": "1",
+     "text": "タイプ1"
+    },
+    {
+     "key": "2",
+     "text": "タイプ2"
+    },
+    {
+     "key": "3",
+     "text": "タイプ3"
+    },
+    {
+     "key": "4",
+     "text": "タイプ4"
+    }
+   ],
+   "correct_option": "4",
+   "audio_url": "/static/audio/2020-12-N2-listening.mp3",
+   "target_text": null
+  }
+ ],
+ "explanations": [
+  {
+   "section_code": "listening",
+   "number_in_section": 1,
+   "key_point": "聽解・課題理解：行動選擇",
+   "analysis_zh": "正解是 3。站員明確指示「見つかった忘れ物は駅の事務所に置いてあるので、行って聞いてみてください。改札の隣です」，所以女生接下來首先要去事務所詢問。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "站員沒說在月台找，只指示去事務所問"
+    },
+    {
+     "option": "2",
+     "why_wrong": "掃除的人已經離開（さっきまで），且站員指示先去事務所"
+    },
+    {
+     "option": "4",
+     "why_wrong": "忘れ物センター是「如果事務所沒有」的備案，不是首先要做的"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "ホームでわすれものをさがす",
+    "2": "そうじのひとにわすれものがないかきく",
+    "3": "じむしょでわすれものがないかたずねる",
+    "4": "わすれものセンターにとうあわせる"
+   },
+   "option_meanings": {
+    "1": "在月台找遺失物",
+    "2": "問打掃的人有沒有遺失物",
+    "3": "去事務所詢問有沒有遺失物",
+    "4": "向遺失物中心詢問"
+   }
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 2,
+   "key_point": "聽解・課題理解：行動選擇",
+   "analysis_zh": "正解是 2。女生建議「通信教育がいいじゃない。移動中も勉強できるし」，男生回答「ええ。ぜひ」表示接受，所以首先要做的是接受通信教育。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "女生問是否參加公司研修，男生說殘業出差多、很難參加，已排除"
+    },
+    {
+     "option": "3",
+     "why_wrong": "和外國朋友聊天是「耳朵習慣之後」的事，不是首先"
+    },
+    {
+     "option": "4",
+     "why_wrong": "報考語言考試是「有實力之後」才考慮，不是首先"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "かいしゃのけんしゅうにさんかする",
+    "2": "つうしんきょういくをうける",
+    "3": "がいこくじんのともだちとはなす",
+    "4": "しけんにもうしこむ"
+   },
+   "option_meanings": {
+    "1": "參加公司的研修",
+    "2": "接受通信教育",
+    "3": "和外國朋友聊天",
+    "4": "報名考試"
+   }
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 3,
+   "key_point": "聽解・課題理解：順序理解",
+   "analysis_zh": "正解是 4。男生說明的順序是「暗証番号（725)、開くのボタン、倉庫の番号（002)、開くのボタン」，即 725→開く→002→開く，對應選項4。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "順序顛倒（先倉庫編號再密碼），且缺了最後的「開く」"
+    },
+    {
+     "option": "2",
+     "why_wrong": "順序顛倒，原文是先密碼（725)後倉庫編號（002)"
+    },
+    {
+     "option": "3",
+     "why_wrong": "缺了最後的「開く」，完整順序有四步"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "002→開く→725",
+    "2": "002→開く→725→開く",
+    "3": "725→開く→002",
+    "4": "725→開く→002→開く"
+   },
+   "option_meanings": {
+    "1": "倉庫編號002→開→密碼725",
+    "2": "倉庫編號002→開→密碼725→開",
+    "3": "密碼725→開→倉庫編號002",
+    "4": "密碼725→開→倉庫編號002→開"
+   }
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 4,
+   "key_point": "聽解・課題理解：場所選擇",
+   "analysis_zh": "正解是 3。商務中心只剩10分鐘就要關門，大廳的電腦有人在用要等，女生說「ちょっと歩きたいし、行ってきます」決定去步行3分鐘的網咖。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "酒店不提供電腦外借，無法在房間用"
+    },
+    {
+     "option": "2",
+     "why_wrong": "商務中心只剩10分鐘就要關門，時間不夠"
+    },
+    {
+     "option": "4",
+     "why_wrong": "大廳的電腦有人在用，要等，女生不想等"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "じぶんのへや",
+    "2": "ビジネスセンター",
+    "3": "インターネットカフェ",
+    "4": "ロビー"
+   },
+   "option_meanings": {
+    "1": "自己的房間",
+    "2": "商務中心",
+    "3": "網咖",
+    "4": "大廳"
+   }
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 5,
+   "key_point": "聽解・課題理解：行動選擇",
+   "analysis_zh": "正解是 2。職員指示「本に貼ってあるラベルの番号を見て、同じ番号の棚に入れる作業を皆さんにお願いします」，所以志工接下來要按標籤號把書放入書架。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "標籤已經貼好，貼標籤不是志工的工作"
+    },
+    {
+     "option": "3",
+     "why_wrong": "數據輸入是職員自己正在做的事（今パソコンで作業中です）"
+    },
+    {
+     "option": "4",
+     "why_wrong": "方向相反，是從箱子取出放入書架，不是放入箱子"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "ほんにラベルをつける",
+    "2": "ほんをとしょかんのたなにいれる",
+    "3": "ほんのデータをにゅうりょくする",
+    "4": "ほんをはこにいれる"
+   },
+   "option_meanings": {
+    "1": "給書貼標籤",
+    "2": "把書放入圖書館書架",
+    "3": "輸入書籍數據",
+    "4": "把書放入箱子"
+   }
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 6,
+   "key_point": "聽解・要点理解：原因推断",
+   "analysis_zh": "正解是 4。女生說每天散步、飼料充足，排除運動和飼料不足；醫生聽到「最近引越しした」後判斷「新しいところに慣れば自然に吠えなくなる」，即搬家導致生活環境變化才是原因。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "對陌生人吠叫女生表示能理解，不是最近吠叫增加的原因"
+    },
+    {
+     "option": "2",
+     "why_wrong": "女生說每天都有散步，已排除"
+    },
+    {
+     "option": "3",
+     "why_wrong": "女生說飼料給得很充足，已排除"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "らいきゃくがふえたから",
+    "2": "うんどうがたりないから",
+    "3": "えさがたりないから",
+    "4": "せいかつかんきょうがかわったから"
+   },
+   "option_meanings": {
+    "1": "因為客人增加了",
+    "2": "因為運動不足",
+    "3": "因為飼料不足",
+    "4": "因為生活環境改變了"
+   }
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 7,
+   "key_point": "聽解・要点理解：理由把握",
+   "analysis_zh": "正解是 2。女生親口說「色々な年代の人と交流できるのが魅力なんだ」，即能和各年齡層的人交流是入社的理由。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "這是男生的猜測（お目当ては…お菓子），女生說「はずれ」否定了"
+    },
+    {
+     "option": "3",
+     "why_wrong": "學禮儀是男生附和時提到的，不是女生說的理由"
+    },
+    {
+     "option": "4",
+     "why_wrong": "穿和服只是順帶提到（着物を着て来る人もいるみたい），不是理由"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "おいしいおかしがたべられるから",
+    "2": "さまざまなせだいのひととしりあえるから",
+    "3": "れいぎがまなべるから",
+    "4": "きものをきることができるから"
+   },
+   "option_meanings": {
+    "1": "因為能吃到好吃的點心",
+    "2": "因為能認識各年齡層的人",
+    "3": "因為能學禮儀",
+    "4": "因為能穿和服"
+   }
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 8,
+   "key_point": "聽解・要点理解：建議內容",
+   "analysis_zh": "正解是 3。店長說「サラダに入っている肉の量を増やして、食べ応えがあるようにしたら」，即增加肉量讓人有飽足感。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "店長稱讚了珍稀蔬菜和顏色，沒說要換種類"
+    },
+    {
+     "option": "2",
+     "why_wrong": "店長沒評價醬汁味道，只針對份量給建議"
+    },
+    {
+     "option": "4",
+     "why_wrong": "店長說貴一點也沒關係（少しぐらい高くても大丈夫），方向相反"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "やさいのしゅるいをかえたほうがいい",
+    "2": "ドレッシングのあじをかえたほうがいい",
+    "3": "いれるにくのりょうをふやしたほうがいい",
+    "4": "ねだんをすこしやすくしたほうがいい"
+   },
+   "option_meanings": {
+    "1": "最好換蔬菜種類",
+    "2": "最好換醬汁味道",
+    "3": "最好增加肉的份量",
+    "4": "最好把價格降低一點"
+   }
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 9,
+   "key_point": "聽解・要点理解：路線指示",
+   "analysis_zh": "正解是 4。男生說從山田站走過去很遠，建議「隣の南駅からバスでお越しいただくのが便利」，即搭地鐵到南站再轉巴士。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "男生說從山田站走「かなり歩くことになる」，不建議走路"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「山田駅からバスが出ていません」，山田站沒有巴士"
+    },
+    {
+     "option": "3",
+     "why_wrong": "是要搭巴士不是走路，且站名是南駅不是南前"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "あるいていく",
+    "2": "バスにのっていく",
+    "3": "ちかてつでみなみまえへいき、そこからあるく",
+    "4": "ちかてつでみなみえきへいき、そこからバスにのる"
+   },
+   "option_meanings": {
+    "1": "走路去",
+    "2": "搭巴士去",
+    "3": "搭地鐵到南前再走路",
+    "4": "搭地鐵到南站再轉巴士"
+   }
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 10,
+   "key_point": "聽解・要点理解：理由把握",
+   "analysis_zh": "正解是 1。老師說「土に触れ、自分が作ったものを食べる生活に都会では味わえない精神的豊かさがあるから」，即能體驗都市沒有的心靈富足。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "無經驗者增加是現象描述，不是原因"
+    },
+    {
+     "option": "3",
+     "why_wrong": "自治體支援制度是針對現象的對策，不是年輕人務農的原因"
+    },
+    {
+     "option": "4",
+     "why_wrong": "農業指導體制是對策，不是原因"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "せんしんてきなゆたかをあじわえるから",
+    "2": "のうぎょうのけいけんがなくてもはじめられるから",
+    "3": "じちたいのしえんせいどがあるから",
+    "4": "のうぎょうしどうがうけられるから"
+   },
+   "option_meanings": {
+    "1": "因為能體驗心靈上的富足",
+    "2": "因為沒農業經驗也能開始",
+    "3": "因為有自治體的支援制度",
+    "4": "因為能接受農業指導"
+   }
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 11,
+   "key_point": "聽解・要点理解：要點把握",
+   "analysis_zh": "正解是 2。男生說「作家に作品についての意見を伝えたりすることかな」，並強調「作品を良くするためには読者としての視点も必要」，即從讀者立場傳達意見最重要。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "女生問是否提案創意，男生說「いや、そういうんじゃなくて」否定了"
+    },
+    {
+     "option": "3",
+     "why_wrong": "結交各領域的人只是他平時在做的事，不是他認為最重要的"
+    },
+    {
+     "option": "4",
+     "why_wrong": "收集資訊是工作內容之一，但他說一般讀者不需要豐富知識，重點在讀者視角"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "さっかに おもしろいアイディアをていあんすること",
+    "2": "さっかに どくしゃのたちばからのいけんをつたえること",
+    "3": "さまざまなぶんやのひととつきあうこと",
+    "4": "さまざまなじょうほうをあつめること"
+   },
+   "option_meanings": {
+    "1": "向作家提有趣的創意",
+    "2": "從讀者立場向作家傳達意見",
+    "3": "和各領域的人交往",
+    "4": "收集各種資訊"
+   }
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 12,
+   "key_point": "聽解・概要理解：主旨把握",
+   "analysis_zh": "正解是 1。整段在介紹「みかんの会」這個新團體的成立目的（住民交流）和活動內容，主題就是新市民團體的誕生。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 13,
+   "key_point": "聽解・概要理解：主旨把握",
+   "analysis_zh": "正解是 3。整段講述她看到海報上的花卉照片後深受震撼、拜攝影師為師的經過，主題就是成為攝影師的契機。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 14,
+   "key_point": "聽解・概要理解：主旨把握",
+   "analysis_zh": "正解是 4。全段圍繞一部動畫在海外25國播出、漫畫譯成5種語言、DVD海外暢銷，主題就是這部動畫在世界範圍內人氣高漲。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 15,
+   "key_point": "聽解・概要理解：主旨把握",
+   "analysis_zh": "正解是 3。女生說自己改吃魚定食、早上做蔬菜汁喝，談的是自己改善飲食內容的實際行動。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 16,
+   "key_point": "聽解・概要理解：主旨把握",
+   "analysis_zh": "正解是 3。全段說明雲的各種形成方式（海水蒸發、森林水汽、冷暖空氣交界等），主題就是雲是怎麼產生的。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 17,
+   "key_point": "聽解・即時應答",
+   "analysis_zh": "正解是 2。對方關心你最近常缺課，最自然的回應是說明原因：「有點身體不舒服」。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 18,
+   "key_point": "聽解・即時應答",
+   "analysis_zh": "正解是 2。對方請你代為出席，答應前先問原因「いいけど、どうしたの」最自然；選項3是對方聽到答應後才會說的話。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 19,
+   "key_point": "聽解・即時應答",
+   "analysis_zh": "正解是 3。說話人表示自己修不好（直しようがない），最自然的接話是幫忙想辦法：「有沒有會修的人呢」。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 20,
+   "key_point": "聽解・即時應答",
+   "analysis_zh": "正解是 1。這是迎賓致詞，賓客回應「感謝您的邀請」最得體。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 21,
+   "key_point": "聽解・即時應答",
+   "analysis_zh": "正解是 2。東西不見了，最自然的回應是「有好好找過嗎？」；選項1、3都文不對題。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 22,
+   "key_point": "聽解・即時應答",
+   "analysis_zh": "正解是 2。「来られるとよかったのに」表示田中沒能來、感到遺憾，回應「沒能來真可惜」最自然。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 23,
+   "key_point": "聽解・即時應答",
+   "analysis_zh": "正解是 3。提案被否決（見送る），最得體的回應是接受並追問原因；選項1誤解為被採用，選項2還在問何時公布結果，都不合情境。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 24,
+   "key_point": "聽解・即時應答",
+   "analysis_zh": "正解是 1。對方提醒再不出發就趕不上車，回應「嗯，正要出門」最自然；選項2、3都與「會遲到」的前提矛盾。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 25,
+   "key_point": "聽解・即時應答",
+   "analysis_zh": "正解是 3。說話人話鋒一轉（んだけどなぁ）暗示後來改變主意去做了，最自然的接話是追問「那後來為什麼決定去做呢？」。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 26,
+   "key_point": "聽解・即時應答",
+   "analysis_zh": "正解是 1。說話人自責想道歉，安慰「他一定會理解的」最貼切；選項2說「順利真是太好了」與「あんな結果」矛盾，選項3誤解為不道歉。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 27,
+   "key_point": "聽解・即時應答",
+   "analysis_zh": "正解是 1。「ダンスはともかくとして」表示把舞蹈擱置不談、暗示舞蹈不行，回應「舞蹈不太行啊」最準確。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 28,
+   "key_point": "聽解・統合理解：結論把握",
+   "analysis_zh": "正解按官方答案表記為 1（店長だけ）。※注意：解析 PDF 本題標註正解為 3（店長と男の店員1人）；從對話內容看，山田さん（女店員）要去廠商開會，最後店長說「授賞式の日はよろしくお願いします」，出席者應為店長＋男店員，與解析標註一致。但官方答案表（試卷末頁「参考答案」）本題記為 1，按「以答案表為最終依據」原則入庫為 1。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 29,
+   "key_point": "聽解・統合理解：人物意向",
+   "analysis_zh": "正解是 3。女生一開始想選2番（タオル配り），但在男生建議下決定挑戰3番（通訳）：「思い切って、チャレンジしてみる」。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "1番是站在路邊管制觀眾的工作，去年男生做過，今年想換"
+    },
+    {
+     "option": "2",
+     "why_wrong": "2番是女生最初的想法，但最後決定挑戰通訳"
+    },
+    {
+     "option": "4",
+     "why_wrong": "4番是事前準備工作，是男生的選擇"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 30,
+   "key_point": "聽解・統合理解：人物意向",
+   "analysis_zh": "正解是 4。男生說「今回は事前準備の仕事にするよ」，事前準備即4番（把飲料瓶運到會場，大會開始前完成），這樣開始後可以自由為選手加油。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "1番是男生去年做過的工作，今年想換別的"
+    },
+    {
+     "option": "2",
+     "why_wrong": "2番是遞毛巾，男生沒選"
+    },
+    {
+     "option": "3",
+     "why_wrong": "3番是通訳，男生說自己沒語言才能（話学の才腕ない）"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  }
+ ],
+ "vocabulary": [
+  {
+   "section_code": "listening",
+   "number_in_section": 1,
+   "word": "忘れ物",
+   "reading": "わすれもの",
+   "pos": "名詞",
+   "meaning_zh": "遺失物",
+   "example_sentence": "赤い傘の忘れ物なかったでしょうか。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 1,
+   "word": "改札",
+   "reading": "かいさつ",
+   "pos": "名詞",
+   "meaning_zh": "剪票口、閘機",
+   "example_sentence": "改札の隣です。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 2,
+   "word": "通信教育",
+   "reading": "つうしんきょういく",
+   "pos": "名詞",
+   "meaning_zh": "函授教育、通信教育",
+   "example_sentence": "通信教育がいいじゃない。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 2,
+   "word": "残業",
+   "reading": "ざんぎょう",
+   "pos": "名詞・サ変動詞",
+   "meaning_zh": "加班",
+   "example_sentence": "残業や出張が多いので、なかなか。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 3,
+   "word": "暗証番号",
+   "reading": "あんしょうばんごう",
+   "pos": "名詞",
+   "meaning_zh": "密碼",
+   "example_sentence": "暗証番号は725だよ。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 3,
+   "word": "倉庫",
+   "reading": "そうこ",
+   "pos": "名詞",
+   "meaning_zh": "倉庫",
+   "example_sentence": "地下の倉庫に行って、資料をとってきたいんですが。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 4,
+   "word": "貸し出し",
+   "reading": "かしだし",
+   "pos": "名詞",
+   "meaning_zh": "出借",
+   "example_sentence": "パソコンの貸し出しってできますか。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 4,
+   "word": "ビジネスセンター",
+   "reading": "ビジネスセンター",
+   "pos": "名詞",
+   "meaning_zh": "商務中心",
+   "example_sentence": "2階にビジネスセンターがございます。",
+   "note": null,
+   "etymology_en": "business center"
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 5,
+   "word": "棚",
+   "reading": "たな",
+   "pos": "名詞",
+   "meaning_zh": "架子",
+   "example_sentence": "同じ番号の棚に入れる作業をお願いします。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 5,
+   "word": "分野",
+   "reading": "ぶんや",
+   "pos": "名詞",
+   "meaning_zh": "領域、方面",
+   "example_sentence": "ラベルの番号は、本の分野などを表しています。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 6,
+   "word": "吠える",
+   "reading": "ほえる",
+   "pos": "動詞",
+   "meaning_zh": "吠叫",
+   "example_sentence": "最近うちの犬がよく吠えて困るんです。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 6,
+   "word": "引越し",
+   "reading": "ひっこし",
+   "pos": "名詞",
+   "meaning_zh": "搬家",
+   "example_sentence": "最近引越ししたんですけど。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 7,
+   "word": "茶道",
+   "reading": "さどう",
+   "pos": "名詞",
+   "meaning_zh": "茶道",
+   "example_sentence": "大学の茶道クラブに入ることにしたんだ。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 7,
+   "word": "魅力",
+   "reading": "みりょく",
+   "pos": "名詞",
+   "meaning_zh": "魅力",
+   "example_sentence": "色々な年代の人と交流できるのが魅力なんだ。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 8,
+   "word": "食べ応え",
+   "reading": "たべごたえ",
+   "pos": "名詞",
+   "meaning_zh": "飽足感、吃起來的滿足感",
+   "example_sentence": "食べ応えがあるようにしたら？",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 8,
+   "word": "ドレッシング",
+   "reading": "ドレッシング",
+   "pos": "名詞",
+   "meaning_zh": "沙拉醬",
+   "example_sentence": "ドレッシングの味も夏向きのさっぱりとしたものにしてみたんですが。",
+   "note": null,
+   "etymology_en": "dressing"
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 9,
+   "word": "最寄り駅",
+   "reading": "もよりえき",
+   "pos": "名詞",
+   "meaning_zh": "最近的車站",
+   "example_sentence": "山田駅は第1キャンパスの最寄り駅なんです。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 9,
+   "word": "バス停",
+   "reading": "バスてい",
+   "pos": "名詞",
+   "meaning_zh": "巴士站",
+   "example_sentence": "スポーツセンター駅というバス停が出ていますので。",
+   "note": null,
+   "etymology_en": "bus stop"
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 10,
+   "word": "精神的豊かさ",
+   "reading": "せいしんてきゆたかさ",
+   "pos": "名詞",
+   "meaning_zh": "心靈上的富足",
+   "example_sentence": "都会では味わえない精神的豊かさがあるからです。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 10,
+   "word": "働き手",
+   "reading": "はたらきて",
+   "pos": "名詞",
+   "meaning_zh": "勞動力、工作者",
+   "example_sentence": "働き手が減ってしまいました。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 11,
+   "word": "原稿",
+   "reading": "げんこう",
+   "pos": "名詞",
+   "meaning_zh": "原稿",
+   "example_sentence": "担当してる作家に原稿を依頼したり。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 11,
+   "word": "視点",
+   "reading": "してん",
+   "pos": "名詞",
+   "meaning_zh": "視點、觀點",
+   "example_sentence": "読者としての視点も必要だからね。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 12,
+   "word": "主体的に",
+   "reading": "しゅたいてきに",
+   "pos": "副詞",
+   "meaning_zh": "主動地、自主地",
+   "example_sentence": "市民が主体的に活動するもので。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 12,
+   "word": "親しみ",
+   "reading": "したしみ",
+   "pos": "名詞",
+   "meaning_zh": "親切感、親近感",
+   "example_sentence": "親しみが持てる名前で。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 13,
+   "word": "きっかけ",
+   "reading": "きっかけ",
+   "pos": "名詞",
+   "meaning_zh": "契機、起因",
+   "example_sentence": "写真家になったきっかけ。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 13,
+   "word": "弟子",
+   "reading": "でし",
+   "pos": "名詞",
+   "meaning_zh": "弟子、徒弟",
+   "example_sentence": "弟子にしてくださいって、お願いしたんです。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 14,
+   "word": "世界観",
+   "reading": "せかいかん",
+   "pos": "名詞",
+   "meaning_zh": "世界觀",
+   "example_sentence": "独特の世界観と予想を裏切るストーリー展開で。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 14,
+   "word": "裏切る",
+   "reading": "うらぎる",
+   "pos": "動詞",
+   "meaning_zh": "背叛、辜負（此處指超出預期）",
+   "example_sentence": "予想を裏切るストーリー展開。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 15,
+   "word": "定食",
+   "reading": "ていしょく",
+   "pos": "名詞",
+   "meaning_zh": "定食、套餐",
+   "example_sentence": "今日は魚の定食にしたの？",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 15,
+   "word": "食生活",
+   "reading": "しょくせいかつ",
+   "pos": "名詞",
+   "meaning_zh": "飲食生活",
+   "example_sentence": "食生活に問題あるなって。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 16,
+   "word": "水蒸気",
+   "reading": "すいじょうき",
+   "pos": "名詞",
+   "meaning_zh": "水蒸氣",
+   "example_sentence": "暖かい海水が水蒸気になり。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 16,
+   "word": "境目",
+   "reading": "さかいめ",
+   "pos": "名詞",
+   "meaning_zh": "交界、分界",
+   "example_sentence": "暖かい空気と冷たい空気がぶつかった境目。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 17,
+   "word": "休みがち",
+   "reading": "やすみがち",
+   "pos": "形容詞",
+   "meaning_zh": "經常缺席、動不動就請假",
+   "example_sentence": "最近、授業休みがちですね。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 17,
+   "word": "体調",
+   "reading": "たいちょう",
+   "pos": "名詞",
+   "meaning_zh": "身體狀況",
+   "example_sentence": "ちょっと体調がよくなくて。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 18,
+   "word": "代わりに",
+   "reading": "かわりに",
+   "pos": "副詞",
+   "meaning_zh": "代替、代為",
+   "example_sentence": "私の代わりに行ってくれない？",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 19,
+   "word": "パンク",
+   "reading": "パンク",
+   "pos": "名詞・サ変動詞",
+   "meaning_zh": "爆胎、漏氣",
+   "example_sentence": "前も後ろもこんなにパンクしてちゃ。",
+   "note": null,
+   "etymology_en": "puncture"
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 19,
+   "word": "直しようがない",
+   "reading": "なしょうがない",
+   "pos": "慣用句",
+   "meaning_zh": "沒辦法修、修不好",
+   "example_sentence": "僕には直しようがないよ。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 20,
+   "word": "お越し",
+   "reading": "おこし",
+   "pos": "名詞",
+   "meaning_zh": "光臨、到來（敬語）",
+   "example_sentence": "よくお越しくださいました。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 20,
+   "word": "お招き",
+   "reading": "おまねき",
+   "pos": "名詞",
+   "meaning_zh": "邀請（敬語）",
+   "example_sentence": "お招きありがとうございます。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 21,
+   "word": "お土産",
+   "reading": "おみやげ",
+   "pos": "名詞",
+   "meaning_zh": "伴手禮、紀念品",
+   "example_sentence": "遊園地のお土産、どっか行っちゃった。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 22,
+   "word": "祭り",
+   "reading": "まつり",
+   "pos": "名詞",
+   "meaning_zh": "祭典、廟會",
+   "example_sentence": "今日のお祭り楽しかったね。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 23,
+   "word": "見送る",
+   "reading": "みおくる",
+   "pos": "動詞",
+   "meaning_zh": "擱置、暫緩（此處指否決提案）",
+   "example_sentence": "検討の結果、見送ることになったよ。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 23,
+   "word": "検討",
+   "reading": "けんとう",
+   "pos": "名詞・サ変動詞",
+   "meaning_zh": "研討、審議",
+   "example_sentence": "検討の結果。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 24,
+   "word": "間に合う",
+   "reading": "まにあう",
+   "pos": "動詞",
+   "meaning_zh": "趕上、來得及",
+   "example_sentence": "今すぐ会社出ないと間に合わないよ。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 25,
+   "word": "紹介",
+   "reading": "しょうかい",
+   "pos": "名詞・サ変動詞",
+   "meaning_zh": "介紹",
+   "example_sentence": "木村先輩に紹介してもらったバイト。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 26,
+   "word": "せい",
+   "reading": "せい",
+   "pos": "名詞",
+   "meaning_zh": "原因、緣故",
+   "example_sentence": "僕のせいで、あんな結果になってしまって。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 26,
+   "word": "ほかない",
+   "reading": "ほかない",
+   "pos": "慣用句",
+   "meaning_zh": "只好、不得不",
+   "example_sentence": "彼には謝るほかないな。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 27,
+   "word": "ともかくとして",
+   "reading": "ともかくとして",
+   "pos": "慣用句",
+   "meaning_zh": "姑且不論、撇開不談",
+   "example_sentence": "ダンスはともかくとして。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 27,
+   "word": "いまいち",
+   "reading": "いまいち",
+   "pos": "副詞",
+   "meaning_zh": "不太理想、差一點",
+   "example_sentence": "ダンスはいまいちだったの。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 28,
+   "word": "受賞式",
+   "reading": "じゅしょうしき",
+   "pos": "名詞",
+   "meaning_zh": "頒獎儀式",
+   "example_sentence": "受賞式があるから、考えてくれた2人にぜひ行ってほしいだけど。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 28,
+   "word": "打ち合わせ",
+   "reading": "うちあわせ",
+   "pos": "名詞",
+   "meaning_zh": "開會、商談",
+   "example_sentence": "業者との打ち合わせが入ってませんでしたか。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 28,
+   "word": "優秀賞",
+   "reading": "ゆうしゅうしょう",
+   "pos": "名詞",
+   "meaning_zh": "優秀獎",
+   "example_sentence": "優秀賞になったんだって。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 29,
+   "word": "思い切って",
+   "reading": "おもいきって",
+   "pos": "副詞",
+   "meaning_zh": "下定決心、豁出去",
+   "example_sentence": "思い切って、チャレンジしてみる。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 29,
+   "word": "通訳",
+   "reading": "つうやく",
+   "pos": "名詞",
+   "meaning_zh": "口譯、翻譯",
+   "example_sentence": "三番の仕事は当日の通訳です。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 30,
+   "word": "事前準備",
+   "reading": "じぜんじゅんび",
+   "pos": "名詞",
+   "meaning_zh": "事前準備",
+   "example_sentence": "今回は事前準備の仕事にするよ。",
+   "note": null,
+   "etymology_en": null
+  }
+ ]
+}
