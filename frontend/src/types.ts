@@ -76,6 +76,8 @@ export interface Explanation {
   evidence: string | null;
   /** 四個選項的假名注音，如 {"1":"がんじょう"}；無則為 null（mock/舊數據可省略） */
   option_readings?: Record<string, string> | null;
+  /** 四個選項的中文意思，如 {"1":"堅固"}；無則為 null */
+  option_meanings?: Record<string, string> | null;
   vocabulary: VocabularyItem[];
 }
 

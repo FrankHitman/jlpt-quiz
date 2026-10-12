@@ -335,6 +335,14 @@ export default function WrongBook() {
           <div className="wrong-stem">
             {renderStem(w.question.stem, w.question.target_text)}
           </div>
+          {w.question.group && (
+            <div className="passage-box">
+              {w.question.group.title && (
+                <div className="passage-title">{w.question.group.title}</div>
+              )}
+              <div className="passage-content">{w.question.group.content}</div>
+            </div>
+          )}
           {expanded.has(w.id) && (
             <div className="wrong-expl">
               <ExplanationBlock

@@ -60,6 +60,7 @@ def explanation_to_out(
         distractors=e.distractors,
         evidence=e.evidence,
         option_readings=e.option_readings,
+        option_meanings=e.option_meanings,
         vocabulary=[
             vocabulary_to_out(v) for v in sorted(vocab or [], key=lambda x: x.id)
         ],

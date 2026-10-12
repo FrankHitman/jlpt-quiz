@@ -89,6 +89,7 @@ class Explanation(Base):
     distractors: Mapped[list | None] = mapped_column(JSON, nullable=True)
     evidence: Mapped[str | None] = mapped_column(Text, nullable=True)
     option_readings: Mapped[dict | None] = mapped_column(JSON, nullable=True)  # {"1": "がんじょう", ...} 選項假名注音
+    option_meanings: Mapped[dict | None] = mapped_column(JSON, nullable=True)  # {"1": "堅固", ...} 選項中文意思
 
     question: Mapped["Question"] = relationship(back_populates="explanation")
 

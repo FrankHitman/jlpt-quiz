@@ -30,6 +30,7 @@ with conn.cursor() as cur:
         "ALTER TABLE vocabulary ADD COLUMN IF NOT EXISTS etymology_en TEXT",
         "ALTER TABLE explanations ADD COLUMN IF NOT EXISTS option_readings JSONB",
         "ALTER TABLE users ADD COLUMN IF NOT EXISTS email TEXT",
+        "ALTER TABLE explanations ADD COLUMN IF NOT EXISTS option_meanings JSONB",
         """CREATE TABLE IF NOT EXISTS wrong_answers (
           id SERIAL PRIMARY KEY,
           user_id INT NOT NULL REFERENCES users(id) ON DELETE CASCADE,

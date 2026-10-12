@@ -50,6 +50,7 @@ CREATE TABLE explanations (
   distractors JSONB,                          -- [{"option":"2","why_wrong":"..."}] 迷惑選項為何錯
   evidence TEXT,                              -- 原文依據（讀解：引用關鍵句＋位置；無則NULL）
   option_readings JSONB,                      -- {"1":"がんじょう",...} 四個選項的假名注音（純假名選項可省略）
+  option_meanings JSONB,                      -- {"1":"堅固",...} 四個選項的中文意思（純假名選項/無印刷選項可省略）
   created_at TIMESTAMPTZ DEFAULT now()
 );
 CREATE TABLE vocabulary (

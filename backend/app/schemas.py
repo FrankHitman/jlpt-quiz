@@ -117,6 +117,7 @@ class ExplanationOut(BaseModel):
     distractors: list[Any] | None = None
     evidence: str | None = None
     option_readings: dict[str, str] | None = None
+    option_meanings: dict[str, str] | None = None
     vocabulary: list[VocabularyOut] = []
 
 

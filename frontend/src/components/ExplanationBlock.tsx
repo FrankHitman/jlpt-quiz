@@ -20,12 +20,18 @@ export function ExplanationBlock({
     // 注音與原文相同（純假名選項）時不重複顯示
     return r === textOf(key) ? null : r;
   };
-  const optLabel = (key: string): React.ReactNode => (
-    <>
-      選項 {key} {textOf(key)}
-      {readingOf(key) ? `（${readingOf(key)}）` : ''}
-    </>
-  );
+  const meaningOf = (key: string): string | null =>
+    explanation.option_meanings?.[key] ?? null;
+  /** 選項標註：選項3 部門（ぶもん；部門）——有注音/意思才顯示括號 */
+  const optLabel = (key: string): React.ReactNode => {
+    const notes = [readingOf(key), meaningOf(key)].filter(Boolean) as string[];
+    return (
+      <>
+        選項 {key} {textOf(key)}
+        {notes.length > 0 ? `（${notes.join('；')}）` : ''}
+      </>
+    );
+  };
 
   return (
     <div className="explanation">
