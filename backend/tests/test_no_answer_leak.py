@@ -47,8 +47,35 @@ def test_practice_questions_never_leak_answer():
         assert "correct_option" not in q, f"answer leaked in question {q['id']}"
 
 
-def test_auth_placeholders_return_501():
-    for path in ("/api/auth/register", "/api/auth/login"):
-        r = client.post(path, json={})
-        assert r.status_code == 501
-        assert r.json() == {"detail": "auth not enabled yet"}
+def test_auth_register_login_flow():
+    uname = "pytest_user_auth"
+    # 註冊成功回 token
+    r = client.post(
+        "/api/auth/register", json={"username": uname, "password": "pytest123"}
+    )
+    assert r.status_code == 200, r.text
+    body = r.json()
+    assert body["token"] and body["user"]["username"] == uname
+    token = body["token"]
+    # 重複註冊 400
+    r = client.post(
+        "/api/auth/register", json={"username": uname, "password": "pytest123"}
+    )
+    assert r.status_code == 400
+    # 錯誤密碼 401
+    r = client.post(
+        "/api/auth/login", json={"username": uname, "password": "wrongpass"}
+    )
+    assert r.status_code == 401
+    # 登入成功
+    r = client.post(
+        "/api/auth/login", json={"username": uname, "password": "pytest123"}
+    )
+    assert r.status_code == 200
+    # me 需 token
+    assert client.get("/api/auth/me").status_code == 401
+    r = client.get("/api/auth/me", headers={"Authorization": f"Bearer {token}"})
+    assert r.status_code == 200
+    assert r.json()["username"] == uname
+    # 錯題本未登入 401
+    assert client.get("/api/wrong-answers").status_code == 401

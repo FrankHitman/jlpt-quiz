@@ -1,5 +1,7 @@
 import type { AnsweringQuestion, PerQuestionResult } from '../types';
 import { qtypeName } from '../qtypes';
+import { apiOrigin } from '../api/client';
+import { ExplanationBlock } from './ExplanationBlock';
 
 /**
  * 把 stem 中第一次出現的 target_text 包成粗體＋下劃線。
@@ -43,6 +45,14 @@ export function QuestionCard({ question, selected, onSelect, disabled, review, s
         </div>
       )}
       <div className="qcard-stem">{renderStem(question.stem, question.target_text)}</div>
+      {question.audio_url && (
+        <div className="qcard-audio">
+          <audio controls preload="none" src={`${apiOrigin()}${question.audio_url}`}>
+            你的瀏覽器不支援音頻播放。
+          </audio>
+          <div className="audio-hint">聽力音頻（整卷共用）：播放後按順序作答</div>
+        </div>
+      )}
       {question.options.length === 0 ? (
         <div className="notice">此題為聽解題，無印刷選項（暫無音頻，僅供查看題型）。</div>
       ) : (
@@ -78,54 +88,15 @@ export function QuestionCard({ question, selected, onSelect, disabled, review, s
         <div className="explanation">
           <div className="expl-row">
             <strong>你的答案：</strong>
-            {review.selected_option ?? '未作答'}
-            <span className="expl-sep">　</span>
-            <strong>正確答案：</strong>
-            {review.correct_option}
+            {review.selected_option
+              ? `選項 ${review.selected_option} ${question.options.find((o) => o.key === review.selected_option)?.text ?? ''}`
+              : '未作答'}
           </div>
-          {review.explanation.key_point && (
-            <div className="expl-row">
-              <strong>考點：</strong>
-              {review.explanation.key_point}
-            </div>
-          )}
-          <div className="expl-row">
-            <strong>解析：</strong>
-            {review.explanation.analysis_zh}
-          </div>
-          {review.explanation.distractors && review.explanation.distractors.length > 0 && (
-            <div className="expl-row">
-              <strong>迷惑選項：</strong>
-              <ul className="distractors">
-                {review.explanation.distractors.map((d) => (
-                  <li key={d.option}>
-                    選項 {d.option}：{d.why_wrong}
-                  </li>
-                ))}
-              </ul>
-            </div>
-          )}
-          {review.explanation.evidence && (
-            <div className="expl-row">
-              <strong>原文依據：</strong>
-              {review.explanation.evidence}
-            </div>
-          )}
-          {review.explanation.vocabulary && review.explanation.vocabulary.length > 0 && (
-            <div className="expl-row">
-              <strong>生詞：</strong>
-              <ul className="vocab-list">
-                {review.explanation.vocabulary.map((v, i) => (
-                  <li key={i}>
-                    {v.word}
-                    {v.reading ? `（${v.reading}）` : ''}
-                    {v.meaning_zh ? `：${v.meaning_zh}` : ''}
-                    {v.etymology_en ? ` ← 英語 ${v.etymology_en}` : ''}
-                  </li>
-                ))}
-              </ul>
-            </div>
-          )}
+          <ExplanationBlock
+            explanation={review.explanation}
+            options={question.options}
+            correctOption={review.correct_option}
+          />
         </div>
       )}
     </div>

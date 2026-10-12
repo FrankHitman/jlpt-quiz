@@ -42,11 +42,20 @@ export default function Home() {
                 <Link className="btn btn-primary" to={`/mock/${exam.id}`}>
                   模擬考試
                 </Link>
+                {exam.sections.some((s) => s.code === 'listening' && s.has_audio) && (
+                  <Link className="btn btn-primary" to={`/mock/${exam.id}?section=listening`}>
+                    聽解模擬考
+                  </Link>
+                )}
                 <Link className="btn" to={`/practice?examId=${exam.id}`}>
                   專項練習
                 </Link>
               </div>
-              <div className="exam-note">模擬考僅提供「言語知識・讀解」（110 分鐘）；聽解暫無音頻。</div>
+              <div className="exam-note">
+                {exam.sections.some((s) => s.code === 'listening' && s.has_audio)
+                  ? '模擬考提供「言語知識・讀解」（110 分鐘）與「聽解」（55 分鐘，含音頻）。'
+                  : '模擬考僅提供「言語知識・讀解」（110 分鐘）；聽解暫無音頻。'}
+              </div>
             </div>
           );
         })}

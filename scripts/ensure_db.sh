@@ -40,10 +40,16 @@ if [ "$($PSQL -d jlpt_quiz -tA -c "SELECT count(*) FROM information_schema.table
   $PSQL -d jlpt_quiz -f /tmp/jlpt_schema.sql > /dev/null
 fi
 
-# 5. 匯入試卷（若空）
-if [ "$($PSQL -d jlpt_quiz -tA -c 'SELECT count(*) FROM questions')" = "0" ]; then
-  log "importing 2025-12 exam data..."
-  (cd "$QUIZ/pipeline" && "$QUIZ/backend/venv/bin/python" import_exam.py "$QUIZ/pipeline/seed/2025-12/exam.json")
-fi
+# 5. 匯入試卷（缺哪套補哪套；真正持久來源是 pipeline/seed/*/exam.json）
+for seed in "$QUIZ/pipeline/seed"/*/; do
+  [ -f "$seed/exam.json" ] || continue               # seed 仍在轉錄中則跳過
+  slug="$(basename "$seed")"                       # e.g. 2025-12
+  y="${slug%%-*}"; m="${slug##*-}"
+  n="$($PSQL -d jlpt_quiz -tA -c "SELECT count(*) FROM questions q JOIN exams e ON e.id=q.exam_id WHERE e.year=$y AND e.month=$m" 2>/dev/null || echo -1)"
+  if [ "$n" = "0" ]; then
+    log "importing $slug exam data..."
+    (cd "$QUIZ/pipeline" && "$QUIZ/backend/venv/bin/python" import_exam.py "$seed/exam.json")
+  fi
+done
 
 log "OK — questions=$($PSQL -d jlpt_quiz -tA -c 'SELECT count(*) FROM questions'), explanations=$($PSQL -d jlpt_quiz -tA -c 'SELECT count(*) FROM explanations')"

@@ -1,0 +1,33 @@
+{
+ "level": "N1",
+ "year": 2024,
+ "month": 7,
+ "total_questions": 96,
+ "by_section": {
+  "lang_reading": 66,
+  "listening": 30
+ },
+ "missing": [],
+ "listening_without_printed_options": [
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28
+ ],
+ "answer_verified": true,
+ "answer_source": "PDF p.45 答案表（2024年7月日语能力考试 N1真题答案）",
+ "notes": "本卷結構：問題7僅4題(41-44，說明誤寫41-45)；問題9共8題(49-56)；問題4聽解11題。p.40的5番/6番印刷選項經答案表核對為多餘頁，未入庫。無聽解音頻。"
+}

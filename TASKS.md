@@ -146,6 +146,20 @@ CREATE TABLE attempt_answers (
   answered_at TIMESTAMPTZ DEFAULT now(),
   UNIQUE(attempt_id, question_id)
 );
+-- 錯題本（需登入；提交時答錯自動收錄）
+CREATE TABLE wrong_answers (
+  id SERIAL PRIMARY KEY,
+  user_id INT NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+  question_id INT NOT NULL REFERENCES questions(id) ON DELETE CASCADE,
+  attempt_id INT REFERENCES attempts(id) ON DELETE SET NULL,
+  created_at TIMESTAMPTZ DEFAULT now(),
+  wrong_count INT NOT NULL DEFAULT 1,
+  mastered BOOLEAN NOT NULL DEFAULT FALSE,
+  mastered_at TIMESTAMPTZ,
+  review_count INT NOT NULL DEFAULT 0,
+  last_reviewed_at TIMESTAMPTZ,
+  UNIQUE(user_id, question_id)
+);
 ```
 
 **驗收標準**：
@@ -223,13 +237,24 @@ CREATE TABLE attempt_answers (
 | POST | `/api/attempts` | 開始作答 `{exam_id, mode, section_code?, qtype_code?, question_ids?}`（mode 枚舉：`mock` 模擬考、`practice` 專項練習） → `{attempt_id, time_limit_min}` |
 | POST | `/api/attempts/{id}/submit` | 提交 `{answers:[{question_id, selected_option}]}` → `{total, correct, accuracy, per_question:[{question_id, selected_option, correct_option, is_correct, explanation:{key_point, analysis_zh, distractors, evidence, vocabulary:[{word, reading, meaning_zh, etymology_en}]}}], wrong_question_ids}` |
 | GET | `/api/attempts/{id}` | 查看某次作答結果（含錯題＋解析） |
-| POST | `/api/auth/register` | **預留**：暫回 501 `{"detail":"auth not enabled yet"}` |
-| POST | `/api/auth/login` | **預留**：暫回 501 |
+| POST | `/api/auth/register` | 註冊 `{username, password}` → `{token, user}`；重複用戶名 400 |
+| POST | `/api/auth/login` | 登入 `{username, password}` → `{token, user}`；失敗 401 |
+| GET | `/api/auth/me` | 憑 token 回當前用戶（需登入） |
+| GET | `/api/wrong-answers?mastered=&qtype_code=` | 錯題本列表（需登入）：question（無答案）＋explanation（含生詞）＋wrong_count/mastered |
+| POST | `/api/wrong-answers/{id}/master` | 標記已掌握（需登入） |
+| POST | `/api/wrong-answers/{id}/unmaster` | 取消掌握（需登入） |
+| DELETE | `/api/wrong-answers/{id}` | 刪除錯題（需登入） |
+| POST | `/api/wrong-answers/practice` | 錯題重練 `{question_ids}` → 建 `mode='practice'`、`section_code='wrong_review'` 的 attempt（需登入） |
 
 **用戶系統預留**（`app/auth.py`）：
 - `get_current_user_optional()`：讀 `Authorization: Bearer <token>`；無 header 則回 `None`，**不得報錯**；有 header 但未啟用則忽略。
 - 所有 `/api/attempts*` 經由該依賴把 `user_id`（可為 NULL）寫入 attempts 表。
 - `users` 表已建好，啟用時只需實作 register/login 發 token。
+
+**用戶系統已啟用（2026-10-11）**：
+- JWT（pyjwt，HS256，30 天有效期），密鑰取 `JWT_SECRET` 環境變數（無則開發預設值＋日誌警告）。
+- `POST /api/attempts`、`/submit` 用可選認證：登入用戶自動寫入 `attempts.user_id`，匿名保持 NULL。
+- 提交時：登入用戶答錯的題自動 upsert 進 `wrong_answers`（wrong_count+1；曾掌握則重置）；`section_code='wrong_review'` 的重練提交中答對的題自動 mastered=true、review_count+1。
 
 **驗收標準**：
 - `uvicorn app.main:app` 啟動無報錯；`curl`  walkthrough：建 attempt → 取題 → 提交 → 正確率計算正確 → 錯題解析完整。
@@ -258,7 +283,7 @@ CREATE TABLE attempt_answers (
    - 閱讀文章與題目左右分欄（文章可滾動）。
 3. **專項練習 `/practice`**：篩選器（年份＋題型，如「文法填空」「一詞多義」）；**無倒計時**；提交整套後每題即時顯示 ✓/✗＋正確答案＋解析。
 4. **成績頁 `/result/:attemptId`**：正確率、按 section／題型統計、**錯題集**（題干＋你的答案＋正確答案＋完整解析＋原文依據），支援「只看錯題」篩選。
-5. **AuthContext 預留**：`src/auth/AuthContext.tsx` stub（`user: null`，`login()` 拋 `Auth not enabled yet`），全站經它取用戶，後期接登入零改動。
+5. **AuthContext 已實作（2026-10-11）**：`src/auth/AuthContext.tsx` 為真實實作（localStorage 存 token、啟動時 `/auth/me` 恢復、401 自動登出）；頂欄有登入／註冊彈窗、用戶名＋退出；`/wrong-book` 錯題本頁（篩選未掌握／已掌握／題型、展開解析、勾選重練、標記掌握／刪除）。匿名模式一切照舊可用。
 
 **驗收標準**：
 - `npm run build` 成功；手動走查：選卷 → 模擬考倒計時 → 中途提交 → 成績頁正確率與錯題解析正確。

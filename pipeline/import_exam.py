@@ -148,11 +148,12 @@ def main() -> None:
                     print(f"WARNING: explanation 找不到對應題目 {e['section_code']}:{e['number_in_section']}，跳過")
                     continue
                 cur.execute(
-                    """INSERT INTO explanations (question_id, key_point, analysis_zh, distractors, evidence)
-                       VALUES (%s,%s,%s,%s,%s)""",
+                    """INSERT INTO explanations (question_id, key_point, analysis_zh, distractors, evidence, option_readings)
+                       VALUES (%s,%s,%s,%s,%s,%s)""",
                     (qid, e.get("key_point"), e["analysis_zh"],
                      json.dumps(e.get("distractors") or [], ensure_ascii=False),
-                     e.get("evidence")),
+                     e.get("evidence"),
+                     json.dumps(e.get("option_readings") or {}, ensure_ascii=False)),
                 )
                 n_exp += 1
 

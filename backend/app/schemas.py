@@ -45,6 +45,7 @@ class SectionSummary(BaseModel):
     name_zh: str
     time_limit_min: int
     question_count: int
+    has_audio: bool = False
 
 
 class ExamListItem(BaseModel):
@@ -115,6 +116,7 @@ class ExplanationOut(BaseModel):
     analysis_zh: str
     distractors: list[Any] | None = None
     evidence: str | None = None
+    option_readings: dict[str, str] | None = None
     vocabulary: list[VocabularyOut] = []
 
 
@@ -151,3 +153,44 @@ class AttemptDetail(BaseModel):
     overtime: bool = False
     per_question: list[PerQuestionResult] = []
     wrong_question_ids: list[int] = []
+
+
+# ---------- auth ----------
+
+class AuthIn(BaseModel):
+    username: str = Field(min_length=3, max_length=32)
+    password: str = Field(min_length=6, max_length=72)
+
+
+class UserOut(BaseModel):
+    id: int
+    username: str
+
+
+class AuthOut(BaseModel):
+    token: str
+    user: UserOut
+
+
+# ---------- wrong answers （錯題本） ----------
+
+class WrongAnswerItem(BaseModel):
+    id: int
+    question: QuestionOut
+    correct_option: str
+    explanation: ExplanationOut
+    wrong_count: int
+    mastered: bool
+    mastered_at: datetime | None = None
+    review_count: int
+    last_reviewed_at: datetime | None = None
+    created_at: datetime | None = None
+
+
+class WrongPracticeIn(BaseModel):
+    question_ids: list[int] = Field(min_length=1, max_length=100)
+
+
+class WrongPracticeOut(BaseModel):
+    attempt_id: int
+    questions: list[QuestionOut]

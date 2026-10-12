@@ -37,12 +37,23 @@ def list_exams(db: Session = Depends(get_db)):
                 )
                 .scalar()
             )
+            has_audio = (
+                db.query(models.Question.id)
+                .filter(
+                    models.Question.exam_id == e.id,
+                    models.Question.section_code == s.code,
+                    models.Question.audio_url.isnot(None),
+                )
+                .first()
+                is not None
+            )
             sec_out.append(
                 schemas.SectionSummary(
                     code=s.code,
                     name_zh=s.name_zh,
                     time_limit_min=s.time_limit_min,
                     question_count=cnt or 0,
+                    has_audio=has_audio,
                 )
             )
         out.append(

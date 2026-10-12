@@ -32,6 +32,7 @@ interface RawQuestion {
   number_in_section: number;
   stem: string;
   target_text: string | null;
+  audio_url?: string | null;
   options: RawOption[];
   correct_option: string;
 }
@@ -108,6 +109,7 @@ function toAnswering(q: QuestionRow): AnsweringQuestion {
     number_in_section: q.number_in_section,
     stem: q.stem,
     target_text: q.target_text ?? null,
+    audio_url: q.audio_url ?? null,
     options: q.options.map((o) => ({ key: o.key, text: o.text })),
     group: g ? { id: g.id, group_type: g.group_type, title: g.title, content: g.content } : null,
   };
@@ -204,6 +206,7 @@ export const mockApi: QuizApi = {
         name_zh: SECTION_META[code].name_zh,
         time_limit_min: SECTION_META[code].time_limit_min,
         question_count: questions.filter((q) => q.section_code === code).length,
+        has_audio: questions.some((q) => q.section_code === code && q.audio_url),
       }))
       .filter((s) => s.question_count > 0);
     return [{ id: EXAM_ID, level: e.level, year: e.year, month: e.month, title: e.title, sections }];
@@ -218,6 +221,7 @@ export const mockApi: QuizApi = {
         name_zh: SECTION_META[code].name_zh,
         time_limit_min: SECTION_META[code].time_limit_min,
         question_count: questions.filter((q) => q.section_code === code).length,
+        has_audio: questions.some((q) => q.section_code === code && q.audio_url),
       }))
       .filter((s) => s.question_count > 0);
     const order: string[] = [];
@@ -328,5 +332,28 @@ export const mockApi: QuizApi = {
       questions: sa.question_ids.map((id) => toAnswering(questions[id - 1])),
       ...sa.result,
     };
+  },
+
+  // 演示模式不支援登入與錯題本
+  async register(): Promise<never> {
+    throw new Error('演示模式不支援註冊，請用 VITE_USE_MOCK=false 構建連接真實後端');
+  },
+  async login(): Promise<never> {
+    throw new Error('演示模式不支援登入，請用 VITE_USE_MOCK=false 構建連接真實後端');
+  },
+  async me(): Promise<never> {
+    throw new Error('演示模式不支援登入');
+  },
+  async listWrongAnswers(): Promise<never> {
+    throw new Error('演示模式不支援錯題本');
+  },
+  async setWrongAnswerMastered(): Promise<never> {
+    throw new Error('演示模式不支援錯題本');
+  },
+  async deleteWrongAnswer(): Promise<never> {
+    throw new Error('演示模式不支援錯題本');
+  },
+  async startWrongPractice(): Promise<never> {
+    throw new Error('演示模式不支援錯題本');
   },
 };

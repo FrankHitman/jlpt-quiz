@@ -1,12 +1,10 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
-import { useNavigate, useParams } from 'react-router-dom';
+import { useNavigate, useParams, useSearchParams } from 'react-router-dom';
 import { getApi } from '../api';
 import type { AnsweringQuestion, ExamDetail } from '../types';
 import { Timer } from '../components/Timer';
 import { QuestionCard } from '../components/QuestionCard';
 import { QuestionNav } from '../components/QuestionNav';
-
-const SECTION = 'lang_reading';
 
 interface Progress {
   attempt_id: number;
@@ -16,11 +14,11 @@ interface Progress {
   flags: string[];
 }
 
-const progKey = (examId: string) => `jlpt-progress-mock-${examId}`;
+const progKey = (examId: string, section: string) => `jlpt-progress-mock-${examId}-${section}`;
 
-function loadProgress(examId: string): Progress | null {
+function loadProgress(examId: string, section: string): Progress | null {
   try {
-    const s = localStorage.getItem(progKey(examId));
+    const s = localStorage.getItem(progKey(examId, section));
     return s ? (JSON.parse(s) as Progress) : null;
   } catch {
     return null;
@@ -29,12 +27,15 @@ function loadProgress(examId: string): Progress | null {
 
 export default function MockExam() {
   const { examId = '' } = useParams();
+  const [searchParams] = useSearchParams();
   const navigate = useNavigate();
   const examIdNum = Number(examId);
+  // ?section=listening 開聽解模擬考，其餘預設言語讀解
+  const SECTION = searchParams.get('section') === 'listening' ? 'listening' : 'lang_reading';
 
   const [exam, setExam] = useState<ExamDetail | null>(null);
   const [questions, setQuestions] = useState<AnsweringQuestion[] | null>(null);
-  const [progress, setProgress] = useState<Progress | null>(() => loadProgress(examId));
+  const [progress, setProgress] = useState<Progress | null>(() => loadProgress(examId, SECTION));
   const [idx, setIdx] = useState(0);
   const [now, setNow] = useState(() => Date.now());
   const [submitting, setSubmitting] = useState(false);
@@ -62,7 +63,7 @@ export default function MockExam() {
   useEffect(() => {
     if (progress) {
       try {
-        localStorage.setItem(progKey(examId), JSON.stringify(progress));
+        localStorage.setItem(progKey(examId, SECTION), JSON.stringify(progress));
       } catch {
         /* 忽略 */
       }
@@ -102,7 +103,7 @@ export default function MockExam() {
         }));
         await a.submitAttempt(progress.attempt_id, answers);
         try {
-          localStorage.removeItem(progKey(examId));
+          localStorage.removeItem(progKey(examId, SECTION));
         } catch {
           /* 忽略 */
         }
@@ -172,10 +173,12 @@ export default function MockExam() {
           <>
             <h2>{exam.title}</h2>
             <ul className="rules">
-              <li>範圍：言語知識（文字・語彙・文法）・讀解，共 {section?.question_count ?? '—'} 題</li>
+              <li>範圍：{section?.name_zh ?? '—'}，共 {section?.question_count ?? '—'} 題</li>
               <li>時間：{section?.time_limit_min ?? 110} 分鐘倒計時，時間到自動提交</li>
               <li>可中途手動提交；可將題目「標記待定」稍後回來檢查</li>
-              <li>聽解因暫無音頻，本次不提供模擬考</li>
+              {SECTION === 'listening' && (
+                <li>聽解音頻為整卷單個文件，請先播放再按順序作答</li>
+              )}
             </ul>
             <button type="button" className="btn btn-primary btn-lg" onClick={() => void start()}>
               開始考試

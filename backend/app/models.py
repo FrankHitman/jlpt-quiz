@@ -1,7 +1,7 @@
 """SQLAlchemy models mapped to the existing jlpt_quiz schema (built by T1)."""
 from __future__ import annotations
 
-from sqlalchemy import JSON, Boolean, DateTime, ForeignKey, Integer, String, Text
+from sqlalchemy import JSON, Boolean, DateTime, ForeignKey, Integer, String, Text, UniqueConstraint
 from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column, relationship
 from sqlalchemy.sql import func
 
@@ -88,6 +88,7 @@ class Explanation(Base):
     analysis_zh: Mapped[str] = mapped_column(Text)
     distractors: Mapped[list | None] = mapped_column(JSON, nullable=True)
     evidence: Mapped[str | None] = mapped_column(Text, nullable=True)
+    option_readings: Mapped[dict | None] = mapped_column(JSON, nullable=True)  # {"1": "がんじょう", ...} 選項假名注音
 
     question: Mapped["Question"] = relationship(back_populates="explanation")
 
@@ -117,6 +118,13 @@ class User(Base):
     id: Mapped[int] = mapped_column(Integer, primary_key=True)
     username: Mapped[str | None] = mapped_column(Text, nullable=True, unique=True)
     password_hash: Mapped[str | None] = mapped_column(Text, nullable=True)
+    created_at: Mapped[object] = mapped_column(
+        DateTime(timezone=True), server_default=func.now()
+    )
+
+    wrong_answers: Mapped[list["WrongAnswer"]] = relationship(
+        back_populates="user", cascade="all, delete-orphan"
+    )
 
 
 class Attempt(Base):
@@ -159,3 +167,38 @@ class AttemptAnswer(Base):
     is_correct: Mapped[bool | None] = mapped_column(Boolean, nullable=True)
 
     attempt: Mapped["Attempt"] = relationship(back_populates="answers")
+
+
+class WrongAnswer(Base):
+    """錯題本：每用戶每題一條，答錯自動收錄。"""
+
+    __tablename__ = "wrong_answers"
+    __table_args__ = (
+        UniqueConstraint("user_id", "question_id", name="uq_wrong_answers_user_question"),
+    )
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    user_id: Mapped[int] = mapped_column(
+        ForeignKey("users.id", ondelete="CASCADE")
+    )
+    question_id: Mapped[int] = mapped_column(
+        ForeignKey("questions.id", ondelete="CASCADE")
+    )
+    attempt_id: Mapped[int | None] = mapped_column(
+        ForeignKey("attempts.id", ondelete="SET NULL"), nullable=True
+    )
+    created_at: Mapped[object] = mapped_column(
+        DateTime(timezone=True), server_default=func.now()
+    )
+    wrong_count: Mapped[int] = mapped_column(Integer, default=1)
+    mastered: Mapped[bool] = mapped_column(Boolean, default=False)
+    mastered_at: Mapped[object | None] = mapped_column(
+        DateTime(timezone=True), nullable=True
+    )
+    review_count: Mapped[int] = mapped_column(Integer, default=0)
+    last_reviewed_at: Mapped[object | None] = mapped_column(
+        DateTime(timezone=True), nullable=True
+    )
+
+    user: Mapped["User"] = relationship(back_populates="wrong_answers")
+    question: Mapped["Question"] = relationship()

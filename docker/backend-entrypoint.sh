@@ -24,10 +24,24 @@ with conn.cursor() as cur:
     if n == 0:
         print("[entrypoint] creating tables from schema.sql")
         cur.execute(open('/app/pipeline/schema.sql', encoding='utf-8').read())
-    # 2) 舊庫升級：冪等加列（以後新增欄位也在此處追加一行）
+    # 2) 舊庫升級：冪等遷移（以後新增欄位/表也在此處追加）
     for ddl in [
         "ALTER TABLE questions ADD COLUMN IF NOT EXISTS target_text TEXT",
         "ALTER TABLE vocabulary ADD COLUMN IF NOT EXISTS etymology_en TEXT",
+        "ALTER TABLE explanations ADD COLUMN IF NOT EXISTS option_readings JSONB",
+        """CREATE TABLE IF NOT EXISTS wrong_answers (
+          id SERIAL PRIMARY KEY,
+          user_id INT NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+          question_id INT NOT NULL REFERENCES questions(id) ON DELETE CASCADE,
+          attempt_id INT REFERENCES attempts(id) ON DELETE SET NULL,
+          created_at TIMESTAMPTZ DEFAULT now(),
+          wrong_count INT NOT NULL DEFAULT 1,
+          mastered BOOLEAN NOT NULL DEFAULT FALSE,
+          mastered_at TIMESTAMPTZ,
+          review_count INT NOT NULL DEFAULT 0,
+          last_reviewed_at TIMESTAMPTZ,
+          UNIQUE(user_id, question_id)
+        )""",
     ]:
         cur.execute(ddl)
     # 3) 匯入 seed 試卷

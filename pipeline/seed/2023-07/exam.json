@@ -1,0 +1,5554 @@
+{
+ "exam": {
+  "level": "N1",
+  "year": 2023,
+  "month": 7,
+  "title": "2023年7月 JLPT N1"
+ },
+ "groups": [
+  {
+   "local_id": "g_q7",
+   "section_code": "lang_reading",
+   "group_type": "passage",
+   "title": "問題7 一生の仕事",
+   "sort_order": 1,
+   "content": "自分の作品を読み返さぬ日はないと言っていい。\n書斎の手近な場所に全著作を収めた棚があり、読書や執筆に倦んだときには適当に一冊を抜き出して読み始める。退屈して寝てしまうときもあれば、仕事をそっちのけで読了してしまうこともある。\nまさかナルシストではない。復読に耐えるほどたいそうな（41）。わが子はよその子よりもかわゆいと思う親の情である。\n読みながら勝手に感心したり、あきれ果てたり、（42）。\n気に入らない点があるのなら書き直せば良さそうなものだが、どうしてもできない。単行本を文庫本するときですら。校閲上の明らかな誤りの他にはまず筆を入れるということがない。横着なわけではなく、読めば読むほどその文章を書いていたころの自分を（43）のである。いくらか齢を食ったからといって、飾なりに懸命であったおのれの文章を滅ぼすことは忍びないし、その問いに得たものも多いが喪ったものもまた多かろうと思えば勇気も要る。\n出来栄えのいかんに関わらず、自分なりに全きをめざしていたのである。そうした過去の自分には敬意を払い続けねばならないし、また同時に現在の自分は、未来の自分に恥らぬ小説を書かねばなるまい。一生の仕事（44）そうしたものであろうと思う。\nかくにかくに、この短い文章もいつか読み返して愕然とするのであろうが。"
+  },
+  {
+   "local_id": "g_q8_1",
+   "section_code": "lang_reading",
+   "group_type": "passage",
+   "title": "問題8（一）情報社会",
+   "sort_order": 2,
+   "content": "情報社会、あるいは情報か社会といっても員ですが、そこで懸命に生きていこうとすると、まず出てくる悲鳴があります。つまり、あまりにも多くの情報があって、その中のどれが本当なのか、何を選んだらいいかわからない。今、流行っているものの情報に熱心であればあるほど、世間で流行っていることを知らないと自分が遅れるんじゃないか、という焦りみたいなものが人間を突き動かすのが情報か社会の特徴です。"
+  },
+  {
+   "local_id": "g_q8_2",
+   "section_code": "lang_reading",
+   "group_type": "passage",
+   "title": "問題8（二）書くこと",
+   "sort_order": 3,
+   "content": "以下は、「書くこと」について述べたものである。\n「思ったこと」や「考えたこと」という抽象的な存在が文字という具体的な存在に変化した瞬間、その筆者は自分自身の「思ったこと」や「考えたこと」を、直接、自分の目で「見た」ことになる。つまり、客観的に「観察」することになるわけだ。「書くこと」は「読むこと」。自分の文章を読みながら書き進めるのが、「書く」という作業なのである。観察はほとんど必然的に「批判」のこころを呼び起こす。「思ったこと」や「考えたこと」の後さや甘さ、書いた瞬間に思い知らされるのである。"
+  },
+  {
+   "local_id": "g_q8_3",
+   "section_code": "lang_reading",
+   "group_type": "passage",
+   "title": "問題8（三）広告と消費者心理",
+   "sort_order": 4,
+   "content": "昔と比べてモノが売れなくなり、広告の動きも悪くなっていることから、表現の面白さや新規性ばっかりに走ってしまう一要は、本来、最も大切であるはずの消費者心理のツボを十分につききれていない、分析しきれていない、いわば表面上の、表現にこだわった広告が増えているように感じます。\n消費者心理は「本質」、表現は「伝え方」とも言い換えられますが、最も大切な本質を重視せず、表面上の伝え方ばかりに重きが置かれるようになっている状況は、いかがなものでしょうか。本質なきところに良い伝え方など存在するはずがないのです。"
+  },
+  {
+   "local_id": "g_q8_4",
+   "section_code": "lang_reading",
+   "group_type": "passage",
+   "title": "問題8（四）対話",
+   "sort_order": 5,
+   "content": "語り合えば語り合うほど他人と自分の違いがより繊細にわかるようになる。それが対話だ。「伝わらない」「わかりあえない」という戸惑いや痛みから出発すること。そこで他人の異なる思いや考えに耳を澄まし、自分の考えを話のなかで鍛えていく。そうして厚い対話ができていく。（原文は縦書き囲み記事、ここでは横書きに起こした）"
+  },
+  {
+   "local_id": "g_q9_1",
+   "section_code": "lang_reading",
+   "group_type": "passage",
+   "title": "問題9（一）常識を疑う・学問",
+   "sort_order": 6,
+   "content": "「常識を疑ってみる」ということ、実はそれが学問の始まりでもあります。勉強が「強いて勉める」という受動的な側面を持つものであるならば、学問は「問うで学ぶ」ことであり、極めて能動的な行為です。自ら主体的な行為として問うことを通して、常識とされてきたものの見方を疑い、それを少しずらすなどして、別の見方を見出そうとしていきます。学問の「正解」はひとつとは限りません。学ぶこととは、単純に知識を増やすということではなく、ましてやテストで覚えたことを吐き出すことでもなく、それを自分のものとして再編成していくことであり、さらに言えば自分の物差しが変わり、自分自身が変わっていくことなのです。そして、思いがけない大発見や、独創的なアイデアが生まれるかもしれません。\n「疑う」という言葉は、通常は否定的な意味で使われます。「人を疑う」と言えば、普通の人を信用しないということと同義なわけです。私も、人を疑って生きるよりも、できるだけ人を信じて生きていていと思っています。しかし、世の中で当たり前とされている事柄を「疑う」ことが必要な時もあります。「常識だから」という一言で目を閉ざし、それに安易に取り込まれてしまうことなく、そこを少しずらしたところに面白いことを見出していくために。それは、何事も信用しないというような厭世的な生き方に譲るのではなく、むしろ創造的で豊かな世界を紡ぎだしていくための、積極的な営みなのです。"
+  },
+  {
+   "local_id": "g_q9_2",
+   "section_code": "lang_reading",
+   "group_type": "passage",
+   "title": "問題9（二）カタクリ",
+   "sort_order": 7,
+   "content": "春に美しい花をさかせるカタクリは、アリに種まきをさせるという驚くべき戦略を持っている。カタクリの種は熟すのは花が咲いてから、およそ2ヶ月後だ。はじけて地面に落ちた種は、すぐにアリがやってきて巣に運んでいってしまう。薄茶色の種の先に白い部分がある。これが脂肪分に富んだエライオソームと呼ばれるものだ。アリはこの部分に引かれることが分かっている。エライオソームはアリにとってそれほど魅力的な物質であるらしい。\n運ばれた種はアリの巣に貯蔵されることになるが、アリは二日もすると、せっかく運び込んだ種を巣から運び出してしまう。種は巣の中深いところに持ち込まれても初ができないから、これはカタクリにとって好都合だ。どうしてアリがせっかく集めた種を棄ててしまうのだろうか。実は熟して地上に落ちたばかりのカタクリの種についているエライオソームは、アリの幼虫が共通して持つにおい近い物質を持っているのだという。アリは種を食べ物として集めるわけではなく、自分の幼虫と思って巣に持ち帰るらしいというわけだ。ところが種がはじけてから24時間もすると、アリの死んだ幼虫のにおいに変わるのだそうだ。それで今度はアリは種を巣の外に捨てに行くのだというから恐れ入ってしまう。"
+  },
+  {
+   "local_id": "g_q9_3",
+   "section_code": "lang_reading",
+   "group_type": "passage",
+   "title": "問題9（三）子は親の鏡",
+   "sort_order": 8,
+   "content": "子は親の鏡と言われる。こどもを見ればおやが分かるということだが、こどもは親のしぐさ、もの言いを実によく見ている。三つにもなれば如何にも生意気で反論などをするものだが、「そんな言い方をするもんじゃない」といったら負けだ。「あら、あなたの言い方とそっくりよ」と横からチクリと揶揄されるのがオチだから。全くこどもは物真似の名人なのである。アイドル歌手からくまのプーさんの喋り方まで、見境なく貪欲にコピーしてしまう。コピーすることによってこどもたちはすべてを獲得してゆく。こどもたちは個性的であろうなどと少しも考えない。みんなと同じようにできることが嬉しくてたまらないのだ。\nだが、こどもの再現のありさまを少し注意ぶかく観察していると、この性能の良い複写機の、本当の性能の良さが見えてくる。大人たちの考えるコピーとはいささか違うのである。こどもたちの身体的能力、言語的能力が未熟なのでオリジナルなものの完璧なコピーができない。従ってこどもはオリジナルなものを自由に改変する。切り捨て、誇張する。それはオリジナルなものからの絶妙な逸脱なのである。この模倣行為は、むしろ、一人のこどもの生きる全体のなかで、今全く新しく意味付けられた別のオリジナルなものが生成していると言ってもいいものなのだ。\nこどもが模倣をしながらも、とりわけ個性的であるのは、このような模倣モデルからの自由な逸脱があるからだ。私たちがこどもをみて楽しむのも、その逸脱のほほえましさなのではないか。"
+  },
+  {
+   "local_id": "g_q9_4",
+   "section_code": "lang_reading",
+   "group_type": "passage",
+   "title": "問題9（四）ユニバーサルデザイン",
+   "sort_order": 9,
+   "content": "人々の肉体には、実は大きな幅がある。生まれ持った個性があり、成長の段階で著しく変改するこうした人間が使用するものを作る際の方向性には、二つの選択肢がある。一つは、異なる体格や身体能力を持つ多数の人々のが同じものや環境を平等に使えるようにする方法。もう一つは、それぞれの体格や能力に合わせて、いくつかのサイズや機能を用意する方法である。前者は経済的に有利な試みだが、その効果に限界があるケースが多い。後者は多様なユーザーに対応できるが、開発に時間がかかり、しかも作られたもののコストが上昇してしまうという問題性を孕んでいる。\nユニバーサルデザイン（UD）では、使い手の様々な問題負担を抑えつつ、個人に不平等感を抱かせないデザインやものづくりを求められている。デザインに平等という意識を上手に反映させていくために、多様な使い手とできるだけ接触し対話を行い、使い手に対する知識と体験を広げることが効果的だ。私たちは平等という感覚をどのような時に感じ、考えるのかという点でを、見つめ直したい。\n私たちが平等かどうかを意識するのは、確かな不平等の予感や印象を持つときであることは間違いない。平等がきちんと保証されている場合、その状況は私たちにとって自然なことであり、問題意識を芽生えることはない。しかしデザインやものづくりに当たっては、問題が発生してから平等について考えるのではなく、ものやサービスに常に必要な普通の意識であるととらえたい。"
+  },
+  {
+   "local_id": "g_q10",
+   "section_code": "lang_reading",
+   "group_type": "passage",
+   "title": "問題10 ロボットと心",
+   "sort_order": 10,
+   "content": "以下は、筆者がほかの研究員とともに開発したロボットについて書かれた文章である。\n通常、ロボットに対するプログミングは、センサから取得した情報に応じてロボットが何らかの反応をするようなものを作っていく。たとえば「障害物を察知したら避ける」といった具合のものである。しかし、僕はロボピーがもっと適当に、意味のない動きも含めてさまざまな行動を取るようにしたのだ。\n300以上の動作プログラムをし、動作パターンが次々にどういう順番で発現するかというルールを700以上プログラムした。その結果複雑に、多様に動くロボットが実現された。ここまでやると、自分たちでもプログラムがどう作用するかわからなくなる。何に反応して、どんな行動をするか予測不能になった。\nそんなプログラミングをしておいたロボピーを研究室に置いていたら、何が起こったか。\n僕らがミーティングをしているとき、突然ロボピーは僕らの音声を認識し、「そうではないよ」と言って手をぶらぶらさせながらどこかへ向かって歩きだしたのだ。それを見て僕らは呆気にとられながらも、ロボピーに意思を感じてしまった。僕らの話を聞いていて、彼は思うところがあり、だからどこへ行ってしまったのだろう、と。\nもちろんそれは、ロボピーの中のあるプログラムが、何かをきっかけに作動しただけのことだ。だがなにか首尾一貫したひとつの意思決定機構から生み出された行動であるかのように見えたのだ。\n僕はそのとき確信した。「心とは、観察する側の問題である」と。\n非常に単純な機械の動きに「心を感じますか」と問えば、感じると言う人は少ない。多少複雑でも、原理を知っていれば「それは心ではない」と言う。しかし、人間は複雑である。いや、虫程度でもいい。動きが相当以上に複雑なものに対しては、相手のことを一から、すべては理解しきれない。自分の頭の中で完全に再現しきれない、解釈しきれない、理解しきれないほど複雑なもの、仕組みがよくわからないくらい入りくんだものが目の前にあると、「こいつは、私の知らないところで勝手に独立して考え、動いているのだろう」という想像が働く。その浮かんできた想像に名前をつけずにはいられなくなる。それを「心」と呼んでいるのだ。\n心とは、複雑に動くモノに現実的にあるというより、その動きを経ている響が想像しているものなのだ。そしてその心は、見ている側の自分にもないと都合が悪い。とくに人間同士であればお互いに「心がある」と感じてしまっている。だからひとはみな「自分には心がある」とおもう。しかし心は、実は自分の中にいくら問い合わせ、内地してみてもしょうがない。相手を観察し、想像することでしかわからないものなのだ。"
+  },
+  {
+   "local_id": "g_q11",
+   "section_code": "lang_reading",
+   "group_type": "passage",
+   "title": "問題11 メモの取り方（A・B）",
+   "sort_order": 11,
+   "content": "私は普段からメモ魔ですが、人の講演に行くと、必死にメモを取りながら話を聞きます。せっかくその場にいるのだから、最大限吸収して帰ろうと考えます。あるいは友達とくだらない話をしている時でも、「あれ？」と思ったことや、「いい話だ」と思ったことは、何でもその場でメモを取るようにしています。そこで何を感じたり、新しく知り得たもんは、別の機会に自分の役に立つかもしれないからです。\n新しい発想や考え方のヒントを得たいといつも問題意識を持っていれば、何気なく人の発言のなかにも発見があるはずです。メモをとらなければ忘れてしまいますので、必然的にメモをとることになります。手を動かして、記録を取る結果、記憶にも残りやすくなります。こうして意識化・可視化することが大切なのです。\n話を聞いている時に、視線も上げずにただひたすらメモを取っている人がいる。熱心さは伝わるが、質問もされないと興味や関心を持って聞いてもらえているのか不安になる。このような人は、メモを取ることが目的になってしまっているのではないか。多くの情報を正確に書きとることに集中してしまい、肝心な内容が頭に入っていないのだ。\nしかしどんなに正確にめもを取ったとしても、内容が理解できていなければ、あとでメモを活かすこともできない。受け身ではなく、自分に必要な情報は何か、自分だったらどうするかというように自分と関連付けて、主体的に考えながら聞くことが必要だ。メモは、あとで話を整理する際の手がかりになれば十分である。"
+  },
+  {
+   "local_id": "g_q12",
+   "section_code": "lang_reading",
+   "group_type": "passage",
+   "title": "問題12 教育の役割",
+   "sort_order": 12,
+   "content": "企業にとっても、人々にとっても、さきのみえない不安な時代である、そしてそんな不安な時代を生きる子供たちに、「生きる力」をつけさせたいという「親心」は、わからないではない。また企業の経営者が、少しでも優秀な人材を取り込みたいと考えるのは、必然ではあるだろう。地域の衰退や職司の空洞化を食い止められる人間が現れてくれれば、わたしたちの不安な気持ちも、いくぶんなりとも和らぐというものである。\nしかし、まがりなりにも教育学を専門とする者として、ここは言わせてほしい。現代日本社会の問題を、なんでもかんでも教育で解決しようというのはいただけない。\n確かに教育は、人間を育てることを通じて、人々の人生や社会の未来に対して、一定の貢献を為すことができる。しかしわたしに言わせれば、そのような教育の役立ちの度合いは、決して大きいものではない。教育には不確定性がつきものである。これはもう、教育養成のテキストでも論じられる「教育学の基本のキ」だ。教えたからといって、その分だけ子どもが育つというわけではないし、教えたつもりがないのに、子供の方が勝手に学んでいるということもある。もちろん教師も教育学者も、その確率論的な育ちをどうにかして望ましい方向に向ける努力はするが、なんと言っても育つのは子どもなのだから、「最小限のコストで最大限のメリットを達成しなさい」「必要な人材をきっちりきっちり、耳をそろえて社会に納品しなさい」などという注文を、そうそう請け負うことはできない。\nそれにそもそも教育は、経済のためだけのものでも、共同体の維持のためだけのものでも、家族のためだけのものでもない。市場も、国家も、地域共同体も、そして家族も、もっと役に立つ教育をしろ、意味のある教育をしろとうちうけけど、それぞれ注文はバラバラなのである。もちろん教育は、それぞれの要求に（確率論的に）少しずつ貢献はする。しかしそれをもって推進めて、どれかの目的のためにだけに合理化・効率化しようとすれば、教育はずいぶんと歪なものになる。まして、みんながみんな教育からそれぞれの利益を引き出そうと躍起になっても、そんな過剰な期待に引き裂かれた教育がうまく機能するとは思えない。\n（中略）\n停滞の続くこの社会で、誰もが不安に押しつぶされ、ちょうどその分だけ教育なる過剰な期待や希望を託そうとしている。その結果、教育、なかでも学校教育が、改革の為に呑まれ、余裕をなくしそうになっている。教育に多くをまとめすぎると警報を鳴らすことは、結果的に、この社会と教育を持論させるためにいま一番必要なことなのではないだろうか。"
+  },
+  {
+   "local_id": "g_q13",
+   "section_code": "lang_reading",
+   "group_type": "passage",
+   "title": "問題13 いきいき運動教室のご案内",
+   "sort_order": 13,
+   "content": "木原市健康づくりセンター いきいき運動教室のご案内\n健康のために、楽しく運動しませんか。健康づくりセンターでは、三つのクラスを毎週開港しています「通年開講」、1回ごとの予約制なので、ご自分のペースで受講ができます。\n下の①②両方に当てはまる方 ①市内在住、もしくは市内で勤務している。18歳以上の方 ②健康づくりセンターの健康度測定を、受講日から過去1年以内に受けた方 ※健康度測定の内容や予約方法等の詳細は、ホームページでご確認ください。\n水曜日：ダンスA（初心者でもできるゆっくりしたダンスをします）／木曜日：ダンスB（リズムに合わせて緩く動くダンスをします）／金曜日：体操（全身を使った体操をします）\n〈時間〉10:40–11:00 〈会場〉第一運動室 〈料金〉1回500円\n◆予約の仕組み ・申し込みは各クラス毎回必要で、先着順です（各クラス定員20名） ・予約の種類は、基本予約と追加予約があります。基本予約：すべてのクラスの中から週に1回分だけ予約できます。基本予約は、受講日の前の週から可能です。 追加予約：実施日の2日前に定員に達していないクラスに限り、基本予約1回分のほかに追加予約ができます。追加予約が可能な回数は週1回のみです。空きは2日前から、健康づくりセンター窓口か電話で確認できます。 ◆予約方法 ・いきいき運動教室の予約が初めての方は、健康度測定の結果票をお持ちになり、窓口で予約してください。 ・予約が2回目以降の方は、健康づくりセンターにある予約機か電話でしてください。 ◆料金の支払い ・受講日当日に、自動受付支払機で料金を支払ってください（受講者カードが必要です。忘れた方は窓口で対応します）。 木原市健康づくりセンター電話：02-1124-45"
+  }
+ ],
+ "questions": [
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_reading",
+   "mondai_no": 1,
+   "number_in_section": 1,
+   "stem": "思わぬ出来事に、辺りは騒然としていた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "ぼぜん"
+    },
+    {
+     "key": "2",
+     "text": "そぜん"
+    },
+    {
+     "key": "3",
+     "text": "ぼうぜん"
+    },
+    {
+     "key": "4",
+     "text": "そうぜん"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": "騒然",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_reading",
+   "mondai_no": 1,
+   "number_in_section": 2,
+   "stem": "西村さんは、いたずらした子どもを優しく諭した。",
+   "options": [
+    {
+     "key": "1",
+     "text": "さとした"
+    },
+    {
+     "key": "2",
+     "text": "あやした"
+    },
+    {
+     "key": "3",
+     "text": "ただした"
+    },
+    {
+     "key": "4",
+     "text": "いやした"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": "諭した",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_reading",
+   "mondai_no": 1,
+   "number_in_section": 3,
+   "stem": "社会生活を送るうえで、秩序を守ることは重要だ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "ちつじょう"
+    },
+    {
+     "key": "2",
+     "text": "しつじょ"
+    },
+    {
+     "key": "3",
+     "text": "ちつじょ"
+    },
+    {
+     "key": "4",
+     "text": "しつじょう"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": "秩序",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_reading",
+   "mondai_no": 1,
+   "number_in_section": 4,
+   "stem": "この辺りは犯人が潜伏しているという情報が入った。",
+   "options": [
+    {
+     "key": "1",
+     "text": "せんふく"
+    },
+    {
+     "key": "2",
+     "text": "ぜんぷく"
+    },
+    {
+     "key": "3",
+     "text": "ぜんふく"
+    },
+    {
+     "key": "4",
+     "text": "せんぷく"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": "潜伏",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_reading",
+   "mondai_no": 1,
+   "number_in_section": 5,
+   "stem": "アナウンサーの朗らかな声が響いた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "きよらか"
+    },
+    {
+     "key": "2",
+     "text": "ほがらか"
+    },
+    {
+     "key": "3",
+     "text": "やわらか"
+    },
+    {
+     "key": "4",
+     "text": "なめらか"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": "朗らかな",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_reading",
+   "mondai_no": 1,
+   "number_in_section": 6,
+   "stem": "新しい市長は地域文化の振興に力を入れている。",
+   "options": [
+    {
+     "key": "1",
+     "text": "しんきょう"
+    },
+    {
+     "key": "2",
+     "text": "じんこう"
+    },
+    {
+     "key": "3",
+     "text": "しんこう"
+    },
+    {
+     "key": "4",
+     "text": "じんきょう"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": "振興",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 2,
+   "number_in_section": 7,
+   "stem": "今は両親と暮らしているが、卒業して就職したら、家を出て（ ）したいと思っている。",
+   "options": [
+    {
+     "key": "1",
+     "text": "自制"
+    },
+    {
+     "key": "2",
+     "text": "自立"
+    },
+    {
+     "key": "3",
+     "text": "自重"
+    },
+    {
+     "key": "4",
+     "text": "自任"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 2,
+   "number_in_section": 8,
+   "stem": "この企業は、売り上げの一部を町に寄付することで、町の人々に利益を（ ）している。",
+   "options": [
+    {
+     "key": "1",
+     "text": "返上"
+    },
+    {
+     "key": "2",
+     "text": "還元"
+    },
+    {
+     "key": "3",
+     "text": "配給"
+    },
+    {
+     "key": "4",
+     "text": "譲渡"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 2,
+   "number_in_section": 9,
+   "stem": "今日は朝から空が（ ）と曇っていて、今にも雨が降り出しそうだ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "びっしょり"
+    },
+    {
+     "key": "2",
+     "text": "どっさり"
+    },
+    {
+     "key": "3",
+     "text": "どんより"
+    },
+    {
+     "key": "4",
+     "text": "ぐったり"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 2,
+   "number_in_section": 10,
+   "stem": "この生産管理システムは、維持費の高さが（ ）になってなかなか普及しない。",
+   "options": [
+    {
+     "key": "1",
+     "text": "ノイズ"
+    },
+    {
+     "key": "2",
+     "text": "ロック"
+    },
+    {
+     "key": "3",
+     "text": "タブー"
+    },
+    {
+     "key": "4",
+     "text": "ネック"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 2,
+   "number_in_section": 11,
+   "stem": "大きな声で歌うと、ストレスの（ ）になって気分がすっきりする。",
+   "options": [
+    {
+     "key": "1",
+     "text": "発散"
+    },
+    {
+     "key": "2",
+     "text": "発射"
+    },
+    {
+     "key": "3",
+     "text": "流出"
+    },
+    {
+     "key": "4",
+     "text": "排出"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 2,
+   "number_in_section": 12,
+   "stem": "この二つの漢字はよく似ていて（ ）ので、読み間違えることがある。",
+   "options": [
+    {
+     "key": "1",
+     "text": "まぎらわしい"
+    },
+    {
+     "key": "2",
+     "text": "もってもらしい"
+    },
+    {
+     "key": "3",
+     "text": "ずうずうしい"
+    },
+    {
+     "key": "4",
+     "text": "なれなれしい"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 2,
+   "number_in_section": 13,
+   "stem": "この店は細かいところまで掃除が（ ）いて、清潔だ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "行き詰まって"
+    },
+    {
+     "key": "2",
+     "text": "行き交って"
+    },
+    {
+     "key": "3",
+     "text": "行き着いて"
+    },
+    {
+     "key": "4",
+     "text": "行き届いて"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "synonym",
+   "mondai_no": 3,
+   "number_in_section": 14,
+   "stem": "この条約が締結されると、農業に影響が出ることが懸念される。",
+   "options": [
+    {
+     "key": "1",
+     "text": "期待"
+    },
+    {
+     "key": "2",
+     "text": "心配"
+    },
+    {
+     "key": "3",
+     "text": "予想"
+    },
+    {
+     "key": "4",
+     "text": "重視"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": "懸念される",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "synonym",
+   "mondai_no": 3,
+   "number_in_section": 15,
+   "stem": "久しぶりに会った友人は、何だかやつれているようだった。",
+   "options": [
+    {
+     "key": "1",
+     "text": "遠慮して"
+    },
+    {
+     "key": "2",
+     "text": "張り切って"
+    },
+    {
+     "key": "3",
+     "text": "やせ衰えて"
+    },
+    {
+     "key": "4",
+     "text": "感動して"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": "やつれている",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "synonym",
+   "mondai_no": 3,
+   "number_in_section": 16,
+   "stem": "彼が奮闘している姿を見て、力を貸そうと思った。",
+   "options": [
+    {
+     "key": "1",
+     "text": "じっと我慢して"
+    },
+    {
+     "key": "2",
+     "text": "必死に頑張って"
+    },
+    {
+     "key": "3",
+     "text": "激しく怒って"
+    },
+    {
+     "key": "4",
+     "text": "焦って取り組んで"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": "奮闘している",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "synonym",
+   "mondai_no": 3,
+   "number_in_section": 17,
+   "stem": "あれは不慮の事故だったとしか言いようがない。",
+   "options": [
+    {
+     "key": "1",
+     "text": "しかたない"
+    },
+    {
+     "key": "2",
+     "text": "ありえない"
+    },
+    {
+     "key": "3",
+     "text": "思いがけない"
+    },
+    {
+     "key": "4",
+     "text": "情けない"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": "不慮",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "synonym",
+   "mondai_no": 3,
+   "number_in_section": 18,
+   "stem": "倉庫の品物を根こそぎもっていかれた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "すべて"
+    },
+    {
+     "key": "2",
+     "text": "だいぶ"
+    },
+    {
+     "key": "3",
+     "text": "一度に"
+    },
+    {
+     "key": "4",
+     "text": "次々と"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": "根こそぎ",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "synonym",
+   "mondai_no": 3,
+   "number_in_section": 19,
+   "stem": "若いこと私は、商品開発の仕事に没頭していた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "飽きて"
+    },
+    {
+     "key": "2",
+     "text": "憧れて"
+    },
+    {
+     "key": "3",
+     "text": "不満を持って"
+    },
+    {
+     "key": "4",
+     "text": "熱中して"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": "没頭していた",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_usage",
+   "mondai_no": 4,
+   "number_in_section": 20,
+   "stem": "兆し",
+   "options": [
+    {
+     "key": "1",
+     "text": "来月は100万台バイクを生産する兆しです。"
+    },
+    {
+     "key": "2",
+     "text": "消費税が上がり、売り上げの兆しが不透明だ。"
+    },
+    {
+     "key": "3",
+     "text": "多くの人の兆しと違って、Aチームが優勝した。"
+    },
+    {
+     "key": "4",
+     "text": "今年になっても景気がよくなる兆しが見られない。"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_usage",
+   "mondai_no": 4,
+   "number_in_section": 21,
+   "stem": "収容",
+   "options": [
+    {
+     "key": "1",
+     "text": "大きなかばんに旅行の荷物を全部収容した。"
+    },
+    {
+     "key": "2",
+     "text": "このコンサートホールは5,500人の観客を収容することができる。"
+    },
+    {
+     "key": "3",
+     "text": "この辞書には8万語が収容されている。"
+    },
+    {
+     "key": "4",
+     "text": "ビタミンを多く収容する食品をたくさん食べるようにしている。"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_usage",
+   "mondai_no": 4,
+   "number_in_section": 22,
+   "stem": "さえる",
+   "options": [
+    {
+     "key": "1",
+     "text": "友人は時間にさえていて、遅刻したことは一度もない。"
+    },
+    {
+     "key": "2",
+     "text": "父は感情がさえで顔に出るので、分かりやすい。"
+    },
+    {
+     "key": "3",
+     "text": "コーヒーを飲んだら、目がさえてしまって、眠れない。"
+    },
+    {
+     "key": "4",
+     "text": "彼の目標はさえていて、一度も変わることはなかった。"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_usage",
+   "mondai_no": 4,
+   "number_in_section": 23,
+   "stem": "痛烈",
+   "options": [
+    {
+     "key": "1",
+     "text": "その映画は評論家から痛烈な批判を受けた。"
+    },
+    {
+     "key": "2",
+     "text": "彼らは痛烈な戦いを勝ち抜いて優勝した。"
+    },
+    {
+     "key": "3",
+     "text": "痛烈な環境でも育つ作物を研究している。"
+    },
+    {
+     "key": "4",
+     "text": "台風のせいで、痛烈な勢いの風が吹いている。"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_usage",
+   "mondai_no": 4,
+   "number_in_section": 24,
+   "stem": "完結",
+   "options": [
+    {
+     "key": "1",
+     "text": "申し込み期間が完結する前に、急いで書類を出しに行った。"
+    },
+    {
+     "key": "2",
+     "text": "駅前に建設中だったマンションが完結し、入居が始まった。"
+    },
+    {
+     "key": "3",
+     "text": "年間続いた連載小説が、いよいよ次回で完結する。"
+    },
+    {
+     "key": "4",
+     "text": "充電が完結するまで、2時間程度かかります。"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_usage",
+   "mondai_no": 4,
+   "number_in_section": 25,
+   "stem": "もろい",
+   "options": [
+    {
+     "key": "1",
+     "text": "ここは古い住宅で、壁がもろくなっているため、立ち入り禁止だ。"
+    },
+    {
+     "key": "2",
+     "text": "以前は力がもろかったので、毎日トレーニングして、筋肉をつけた。"
+    },
+    {
+     "key": "3",
+     "text": "彼はまだ若く、仕事の経験ももろいが、やる気にあふれている。"
+    },
+    {
+     "key": "4",
+     "text": "この野菜はあまり火を通しすぎると、栄養がもろくなってしまう。"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 5,
+   "number_in_section": 26,
+   "stem": "努力して夢を叶えた弟のことを兄として誇り（ ）思う。",
+   "options": [
+    {
+     "key": "1",
+     "text": "を"
+    },
+    {
+     "key": "2",
+     "text": "で"
+    },
+    {
+     "key": "3",
+     "text": "が"
+    },
+    {
+     "key": "4",
+     "text": "に"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 5,
+   "number_in_section": 27,
+   "stem": "失敗は誰でも避けたいのだが、失敗（ ）学べないこともある。",
+   "options": [
+    {
+     "key": "1",
+     "text": "にまで"
+    },
+    {
+     "key": "2",
+     "text": "まででも"
+    },
+    {
+     "key": "3",
+     "text": "からしか"
+    },
+    {
+     "key": "4",
+     "text": "だけから"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 5,
+   "number_in_section": 28,
+   "stem": "合唱コンクールで歌っている子供たちの表情は、（ ）そのものだった。",
+   "options": [
+    {
+     "key": "1",
+     "text": "真剣"
+    },
+    {
+     "key": "2",
+     "text": "真剣で"
+    },
+    {
+     "key": "3",
+     "text": "真剣に"
+    },
+    {
+     "key": "4",
+     "text": "真剣な"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 5,
+   "number_in_section": 29,
+   "stem": "同僚の山下さんは、最初は大人しい人だと思っていたが、一緒に仕事を（ ）実はよくしゃべる人だということが分かってきた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "する間"
+    },
+    {
+     "key": "2",
+     "text": "する限り"
+    },
+    {
+     "key": "3",
+     "text": "するうちに"
+    },
+    {
+     "key": "4",
+     "text": "するとしたら"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 5,
+   "number_in_section": 30,
+   "stem": "忙しく引っ越しの荷造りが（ ）、荷造りを全部やってくれるサービスがあると友人が教えてくれた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "できずにいたなら"
+    },
+    {
+     "key": "2",
+     "text": "できずにいたところ"
+    },
+    {
+     "key": "3",
+     "text": "できないようにしたら"
+    },
+    {
+     "key": "4",
+     "text": "できないようにしたところ"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 5,
+   "number_in_section": 31,
+   "stem": "まだ11月の初めなのに、昨日は雪が（ ）寒かった。",
+   "options": [
+    {
+     "key": "1",
+     "text": "降ることがあるかのように"
+    },
+    {
+     "key": "2",
+     "text": "降るなんて思えないぐらい"
+    },
+    {
+     "key": "3",
+     "text": "降るとは思わないように"
+    },
+    {
+     "key": "4",
+     "text": "降るんじゃないかというぐらい"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 5,
+   "number_in_section": 32,
+   "stem": "いつも駅から大学までバスを使っているが、2キロほどなので、歩こうとして（ ）。",
+   "options": [
+    {
+     "key": "1",
+     "text": "歩くほかない"
+    },
+    {
+     "key": "2",
+     "text": "歩けなくもない"
+    },
+    {
+     "key": "3",
+     "text": "歩いてはいられない"
+    },
+    {
+     "key": "4",
+     "text": "歩けるわけがない"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 5,
+   "number_in_section": 33,
+   "stem": "先日の第三回さくら市教育講演会には、沢山の方が（ ）。",
+   "options": [
+    {
+     "key": "1",
+     "text": "おいでくださいました"
+    },
+    {
+     "key": "2",
+     "text": "お越しいただきました"
+    },
+    {
+     "key": "3",
+     "text": "ご参加いただきました"
+    },
+    {
+     "key": "4",
+     "text": "ご覧くださいました"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 5,
+   "number_in_section": 34,
+   "stem": "この辺りの町並みは外国のような雰囲気で、ここを訪れるだけ海外を旅行（ ）。",
+   "options": [
+    {
+     "key": "1",
+     "text": "するつもりでいる"
+    },
+    {
+     "key": "2",
+     "text": "してくるつもりだ"
+    },
+    {
+     "key": "3",
+     "text": "したつもりになれる"
+    },
+    {
+     "key": "4",
+     "text": "するつもりになっていた"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 5,
+   "number_in_section": 35,
+   "stem": "（図書館で）娘：「図書館っていいね。だって、自分で買わなくてもこんなにたくさんの本が（ ）。」母：「そうだね。」",
+   "options": [
+    {
+     "key": "1",
+     "text": "読めるんだもん"
+    },
+    {
+     "key": "2",
+     "text": "読めるもんか"
+    },
+    {
+     "key": "3",
+     "text": "読みたいんだもん"
+    },
+    {
+     "key": "4",
+     "text": "読みたいもんか"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 6,
+   "number_in_section": 36,
+   "stem": "スピーチやプレゼンテーションにおいて、ジェスチャーを使いながら話すのは＿＿＿ ★ ＿＿＿ ＿＿＿印象を悪くすることもある。",
+   "options": [
+    {
+     "key": "1",
+     "text": "あまりに"
+    },
+    {
+     "key": "2",
+     "text": "効果的である反面"
+    },
+    {
+     "key": "3",
+     "text": "かえって"
+    },
+    {
+     "key": "4",
+     "text": "大きすぎるジェスチャーは"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 6,
+   "number_in_section": 37,
+   "stem": "今や、書類や衣料品だけでなく生鮮食品も、インターネットへの＿＿＿ ★ ＿＿＿時代である。",
+   "options": [
+    {
+     "key": "1",
+     "text": "自宅にいながらにして"
+    },
+    {
+     "key": "2",
+     "text": "手軽に購入できる"
+    },
+    {
+     "key": "3",
+     "text": "環境があれば"
+    },
+    {
+     "key": "4",
+     "text": "アクセスが可能な"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 6,
+   "number_in_section": 38,
+   "stem": "よく似た昆虫の判別は大変難しいという。中には、かなり＿＿＿ ＿＿＿ ★ ＿＿＿場合もあるそうだ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "判別が難しい"
+    },
+    {
+     "key": "2",
+     "text": "昆虫学者でさえも"
+    },
+    {
+     "key": "3",
+     "text": "経験を積んだ"
+    },
+    {
+     "key": "4",
+     "text": "違うほど"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 6,
+   "number_in_section": 39,
+   "stem": "今回の＿＿＿ ＿＿＿ ★ ＿＿＿気持ちの方が大きかった。",
+   "options": [
+    {
+     "key": "1",
+     "text": "転職にあたり"
+    },
+    {
+     "key": "2",
+     "text": "うそになるが"
+    },
+    {
+     "key": "3",
+     "text": "少しも不安がなかったといえば"
+    },
+    {
+     "key": "4",
+     "text": "新たなことに挑戦できてうれしいという"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 6,
+   "number_in_section": 40,
+   "stem": "北山市は＿＿＿ ＿＿＿ ★ ＿＿＿のどかなところだった。",
+   "options": [
+    {
+     "key": "1",
+     "text": "人口10万人を超える都市となったが"
+    },
+    {
+     "key": "2",
+     "text": "北山駅周辺以外にはほとんど何もない"
+    },
+    {
+     "key": "3",
+     "text": "今でこそ"
+    },
+    {
+     "key": "4",
+     "text": "30年前までは"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": "g_q7",
+   "section_code": "lang_reading",
+   "qtype_code": "text_grammar",
+   "mondai_no": 7,
+   "number_in_section": 41,
+   "stem": "復読に耐えるほどたいそうな（41）。",
+   "options": [
+    {
+     "key": "1",
+     "text": "小説であってもだ"
+    },
+    {
+     "key": "2",
+     "text": "小説でもあるまい"
+    },
+    {
+     "key": "3",
+     "text": "小説なのだろうか"
+    },
+    {
+     "key": "4",
+     "text": "小説なのではないか"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": "g_q7",
+   "section_code": "lang_reading",
+   "qtype_code": "text_grammar",
+   "mondai_no": 7,
+   "number_in_section": 42,
+   "stem": "読みながら勝手に感心したり、あきれ果てたり、（42）。",
+   "options": [
+    {
+     "key": "1",
+     "text": "褒めたり叱ったりする"
+    },
+    {
+     "key": "2",
+     "text": "褒めたり叱ったりしたほうがいい"
+    },
+    {
+     "key": "3",
+     "text": "褒めたり叱ったりするようだ"
+    },
+    {
+     "key": "4",
+     "text": "褒めたり叱ったりしても仕方ない"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": "g_q7",
+   "section_code": "lang_reading",
+   "qtype_code": "text_grammar",
+   "mondai_no": 7,
+   "number_in_section": 43,
+   "stem": "横着なわけではなく、読めば読むほどその文章を書いていたころの自分を（43）のである。",
+   "options": [
+    {
+     "key": "1",
+     "text": "否定せずにいられなくなる"
+    },
+    {
+     "key": "2",
+     "text": "否定しがちになる"
+    },
+    {
+     "key": "3",
+     "text": "否定できなくなる"
+    },
+    {
+     "key": "4",
+     "text": "否定するようになる"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": "g_q7",
+   "section_code": "lang_reading",
+   "qtype_code": "text_grammar",
+   "mondai_no": 7,
+   "number_in_section": 44,
+   "stem": "一生の仕事（44）そうしたものであろうと思う。",
+   "options": [
+    {
+     "key": "1",
+     "text": "も含めて"
+    },
+    {
+     "key": "2",
+     "text": "でない限り"
+    },
+    {
+     "key": "3",
+     "text": "にしても"
+    },
+    {
+     "key": "4",
+     "text": "とは"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": "g_q8_1",
+   "section_code": "lang_reading",
+   "qtype_code": "short_reading",
+   "mondai_no": 8,
+   "number_in_section": 45,
+   "stem": "筆者の考えに合うのはどれか。",
+   "options": [
+    {
+     "key": "1",
+     "text": "情報を求める人ほど、知らない情報があることに不安を感じる。"
+    },
+    {
+     "key": "2",
+     "text": "情報を得ることに熱心な人は、世間で流行っていることしか知らない。"
+    },
+    {
+     "key": "3",
+     "text": "多くの情報から必要なものが選べなければ、世間から遅れてしまう。"
+    },
+    {
+     "key": "4",
+     "text": "流行っているものの情報に熱心なだけでは、情報化社会で生きられない。"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": "g_q8_2",
+   "section_code": "lang_reading",
+   "qtype_code": "short_reading",
+   "mondai_no": 8,
+   "number_in_section": 46,
+   "stem": "筆者によると、「書くこと」によってどうなるか。",
+   "options": [
+    {
+     "key": "1",
+     "text": "自身の新しい考え方に気づく。"
+    },
+    {
+     "key": "2",
+     "text": "自身の意見を具体的に伝えられる。"
+    },
+    {
+     "key": "3",
+     "text": "自身の意見を批判的に見ることができる。"
+    },
+    {
+     "key": "4",
+     "text": "自身のこころの変化を観察することができる。"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": "g_q8_3",
+   "section_code": "lang_reading",
+   "qtype_code": "short_reading",
+   "mondai_no": 8,
+   "number_in_section": 47,
+   "stem": "筆者の考えに合うのはどれか。",
+   "options": [
+    {
+     "key": "1",
+     "text": "消費者心理を捉えた広告作りは、昔より難しくなっている。"
+    },
+    {
+     "key": "2",
+     "text": "消費者心理を捉えていないのは、良い広告とは言えない。"
+    },
+    {
+     "key": "3",
+     "text": "消費者心理を捉えていれば、広告は表現にこだわる必要はない。"
+    },
+    {
+     "key": "4",
+     "text": "消費者心理を捉えているだけでは、効き目のある広告にはならない。"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": "g_q8_4",
+   "section_code": "lang_reading",
+   "qtype_code": "short_reading",
+   "mondai_no": 8,
+   "number_in_section": 48,
+   "stem": "対話について、筆者はどのように述べているか。",
+   "options": [
+    {
+     "key": "1",
+     "text": "他人とじぶんの違いが大きいほど、厚い対話ができる。"
+    },
+    {
+     "key": "2",
+     "text": "他人との思考の違いを把握することで、自身の思考が深められる。"
+    },
+    {
+     "key": "3",
+     "text": "わかりあえないという戸惑いや痛みが克服でき、他人と共感できる。"
+    },
+    {
+     "key": "4",
+     "text": "思いや考えを表現する能力が鍛えられ、他人に理解してもらいやすくなる。"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": "g_q9_1",
+   "section_code": "lang_reading",
+   "qtype_code": "mid_reading",
+   "mondai_no": 9,
+   "number_in_section": 49,
+   "stem": "筆者によると、学問とはどのような行為か。",
+   "options": [
+    {
+     "key": "1",
+     "text": "「正解」を求めて、自ら主体的に問い続けていく行為である。"
+    },
+    {
+     "key": "2",
+     "text": "独創的なアイデアをあむために、自らのものの見方を変える行為だ。"
+    },
+    {
+     "key": "3",
+     "text": "自ら問いながら、ものの見方を模索しながら自分自身が変わっていく行為だ。"
+    },
+    {
+     "key": "4",
+     "text": "新しい知識を積極的に取り入れることで、自分自身を変えていく行為だ。"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": "g_q9_1",
+   "section_code": "lang_reading",
+   "qtype_code": "mid_reading",
+   "mondai_no": 9,
+   "number_in_section": 50,
+   "stem": "学問で「疑う」ことについて、筆者の考えにあうのはどれか。",
+   "options": [
+    {
+     "key": "1",
+     "text": "何を信じればいいのかを理解するのに欠かせない行為だ。"
+    },
+    {
+     "key": "2",
+     "text": "豊かに生きるために、新しい常識を作りだす積極的な行為だ。"
+    },
+    {
+     "key": "3",
+     "text": "常識に安易に取り込まれないために必要だが、否定的な行為だ。"
+    },
+    {
+     "key": "4",
+     "text": "常識に縛られずに、これまでと異なる考え方を生み出す行為だ。"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": "g_q9_2",
+   "section_code": "lang_reading",
+   "qtype_code": "mid_reading",
+   "mondai_no": 9,
+   "number_in_section": 51,
+   "stem": "筆者によると、アリはなぜカタクリの種を巣に運ぶのか。",
+   "options": [
+    {
+     "key": "1",
+     "text": "種についている脂肪分がアリの好物だから"
+    },
+    {
+     "key": "2",
+     "text": "種はアリの成長に欠かせない栄養分だから"
+    },
+    {
+     "key": "3",
+     "text": "種がアリの餌になる幼虫に似ているから"
+    },
+    {
+     "key": "4",
+     "text": "種をアリの生きた幼虫だと思うから"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": "g_q9_2",
+   "section_code": "lang_reading",
+   "qtype_code": "mid_reading",
+   "mondai_no": 9,
+   "number_in_section": 52,
+   "stem": "筆者によると、アリはなぜあつめた種を捨てるのか。",
+   "options": [
+    {
+     "key": "1",
+     "text": "種のにおいで、アリの幼虫が死んでしまうから"
+    },
+    {
+     "key": "2",
+     "text": "種からアリの死んだ幼虫のにおいがするから"
+    },
+    {
+     "key": "3",
+     "text": "種がアリの死んだ幼虫と同じ色に変わるから"
+    },
+    {
+     "key": "4",
+     "text": "種がはじけて、アリの嫌うにおいを出すから"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": "g_q9_3",
+   "section_code": "lang_reading",
+   "qtype_code": "mid_reading",
+   "mondai_no": 9,
+   "number_in_section": 53,
+   "stem": "「そんな言い方をするもんじゃない」といったら負けだ。とあるが、なぜか。",
+   "options": [
+    {
+     "key": "1",
+     "text": "子供の成長を否定しているようなものだから"
+    },
+    {
+     "key": "2",
+     "text": "こどもの反論が正しいと認めるようなものだから"
+    },
+    {
+     "key": "3",
+     "text": "自分で自分を注意しているようなものだから"
+    },
+    {
+     "key": "4",
+     "text": "自分がこどもと同じレベルで答えるようなものだから"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": "g_q9_3",
+   "section_code": "lang_reading",
+   "qtype_code": "mid_reading",
+   "mondai_no": 9,
+   "number_in_section": 54,
+   "stem": "こどもの模倣について、筆者はどのように考えているか。",
+   "options": [
+    {
+     "key": "1",
+     "text": "完璧にはコピーできないことが、個性につながっている。"
+    },
+    {
+     "key": "2",
+     "text": "完璧にコピーしようとしているが、本質は捉えられていない。"
+    },
+    {
+     "key": "3",
+     "text": "オリジナルなものを自由に変えて、おとなを楽しませようとしている。"
+    },
+    {
+     "key": "4",
+     "text": "オリジナルからの逸脱を気にせず、自分の個性を表現しようとしている。"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": "g_q9_4",
+   "section_code": "lang_reading",
+   "qtype_code": "mid_reading",
+   "mondai_no": 9,
+   "number_in_section": 55,
+   "stem": "人間が使用するものを作る際の問題点について、筆者が述べていることはどれか。",
+   "options": [
+    {
+     "key": "1",
+     "text": "同じもので多様な使い手に対応すると、そのものの効果に限界が生じる。"
+    },
+    {
+     "key": "2",
+     "text": "同じものを多様な使い手に対応させるには、開発に時間がかかりすぎる。"
+    },
+    {
+     "key": "3",
+     "text": "個別の使い手に対応すると、そのものの効果が見えにくくなる。"
+    },
+    {
+     "key": "4",
+     "text": "個別の使い手に対応すると、平等にものが使えなくなる。"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": "g_q9_4",
+   "section_code": "lang_reading",
+   "qtype_code": "mid_reading",
+   "mondai_no": 9,
+   "number_in_section": 56,
+   "stem": "ユニバーサルデザインにおけるデザインやものづくりについて、筆者が最も言いたいことはなにか。",
+   "options": [
+    {
+     "key": "1",
+     "text": "多様な使い手が、平等だという感覚が持てるものを作り出すべきだ。"
+    },
+    {
+     "key": "2",
+     "text": "使い手が不平等だと感じたら、原因究明しなければならない。"
+    },
+    {
+     "key": "3",
+     "text": "すべての使い手にとって平等であるものにすることは難しい。"
+    },
+    {
+     "key": "4",
+     "text": "常に使い手にとっての平等について考えなければならない。"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": "g_q10",
+   "section_code": "lang_reading",
+   "qtype_code": "long_reading",
+   "mondai_no": 10,
+   "number_in_section": 57,
+   "stem": "ロボピーが、ほかのロボットと異なる点は何か。",
+   "options": [
+    {
+     "key": "1",
+     "text": "動作パターンがけられているので、ある程度動きが予測できる。"
+    },
+    {
+     "key": "2",
+     "text": "与えられた情報の一身を自分で判断して動くので、動きが予測できない。"
+    },
+    {
+     "key": "3",
+     "text": "どう動くかというプログラムを多数組み込んだので。動きが予測できない。"
+    },
+    {
+     "key": "4",
+     "text": "多様で複雑な動作をプログラムしたので、人間のように自然な動きができる。"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": "g_q10",
+   "section_code": "lang_reading",
+   "qtype_code": "long_reading",
+   "mondai_no": 10,
+   "number_in_section": 58,
+   "stem": "どこかへ向かって歩きだしたとあるが、その時筆者にはどのように思えたか。",
+   "options": [
+    {
+     "key": "1",
+     "text": "プログラムに間違いがあり、ロボピーに意思が生まれて動いた。"
+    },
+    {
+     "key": "2",
+     "text": "プログラムが作動したのではなく、ロボピー自身が考えて動いた。"
+    },
+    {
+     "key": "3",
+     "text": "プログラムが作動して、意思があるかのようにロボピーが動いた。"
+    },
+    {
+     "key": "4",
+     "text": "プログラムが誤作動して、制作者の意図に反してロボピーが動いた。"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": "g_q10",
+   "section_code": "lang_reading",
+   "qtype_code": "long_reading",
+   "mondai_no": 10,
+   "number_in_section": 59,
+   "stem": "「心」について、筆者はどのように考えているか。",
+   "options": [
+    {
+     "key": "1",
+     "text": "あると思って観察すれば、複雑な動きの意図が理解できる。"
+    },
+    {
+     "key": "2",
+     "text": "実体がないので、あるとかないとか想像しても意味がない。"
+    },
+    {
+     "key": "3",
+     "text": "仕組みが複雑すぎるため、人間同士であっても想像できない。"
+    },
+    {
+     "key": "4",
+     "text": "理解しきれない複雑な動きを見たときに、人間が想像するものだ。"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": "g_q11",
+   "section_code": "lang_reading",
+   "qtype_code": "comparison_reading",
+   "mondai_no": 11,
+   "number_in_section": 60,
+   "stem": "メモを取ることについて、AとBはどのように述べているか。",
+   "options": [
+    {
+     "key": "1",
+     "text": "AもBも、量よりも書きとる内容を意識してとることが重要だと述べている。"
+    },
+    {
+     "key": "2",
+     "text": "AもBも、できるだけ多くの情報を正確に書きとったほうがいいと述べている。"
+    },
+    {
+     "key": "3",
+     "text": "Aは内容を活用するために必要だと述べ、Bは取ることに集中し過ぎては意味がないと述べている。"
+    },
+    {
+     "key": "4",
+     "text": "Aは問題点や感想なども一緒に記入したほうがいいと述べ、Bは話の内容を理解していなければ正確には取れないと述べている。"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": "g_q11",
+   "section_code": "lang_reading",
+   "qtype_code": "comparison_reading",
+   "mondai_no": 11,
+   "number_in_section": 61,
+   "stem": "話の聞き方について、AとBの認識で共通していることは何か。",
+   "options": [
+    {
+     "key": "1",
+     "text": "何かを得ようという姿勢で聞くことが重要だ。"
+    },
+    {
+     "key": "2",
+     "text": "その場ですべてを理解しようとしなくてもいい。"
+    },
+    {
+     "key": "3",
+     "text": "手を動かしながら聞いたほうが、記憶に残りやすい。"
+    },
+    {
+     "key": "4",
+     "text": "興味や関心を示し、話し手に安心感を与えることが大切だ。"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": "g_q12",
+   "section_code": "lang_reading",
+   "qtype_code": "long_reading",
+   "mondai_no": 12,
+   "number_in_section": 62,
+   "stem": "決して大きいものではないと考える理由として、筆者が述べているのはどれか。",
+   "options": [
+    {
+     "key": "1",
+     "text": "企業や社会が望む人材と、教育学で目標とする人材は異なるから。"
+    },
+    {
+     "key": "2",
+     "text": "「生きる力」をつけるために必要なことは、明確ではないから。"
+    },
+    {
+     "key": "3",
+     "text": "子ども一人一人に併せて、教育の内容を変えられないから。"
+    },
+    {
+     "key": "4",
+     "text": "子どもは、教えたとおりに育つとはかぎらないから。"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": "g_q12",
+   "section_code": "lang_reading",
+   "qtype_code": "long_reading",
+   "mondai_no": 12,
+   "number_in_section": 63,
+   "stem": "教育について、筆者の考えに合うのはどれか。",
+   "options": [
+    {
+     "key": "1",
+     "text": "それぞれの目的に合わせて合理化・効率化しなければ、機能しない。"
+    },
+    {
+     "key": "2",
+     "text": "みんなで一つの目的を共有しなければ、効果は上がらない。"
+    },
+    {
+     "key": "3",
+     "text": "特定の目的を果たすために存在するものではない。"
+    },
+    {
+     "key": "4",
+     "text": "役に立つかどうかという観点で評価されるべきだ。"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": "g_q12",
+   "section_code": "lang_reading",
+   "qtype_code": "long_reading",
+   "mondai_no": 12,
+   "number_in_section": 64,
+   "stem": "筆者が最も言いたいことは何か。",
+   "options": [
+    {
+     "key": "1",
+     "text": "多様な社会の要求に応じられるように、教育のあり方を考え直すべきだ。"
+    },
+    {
+     "key": "2",
+     "text": "社会の不安を取り除くためには、教育を合理化・効率化すべきではない。"
+    },
+    {
+     "key": "3",
+     "text": "教育の改革によって、安定した社会を持続させていくことが必要だろう。"
+    },
+    {
+     "key": "4",
+     "text": "現代社会の問題のすべてが、教育で解決できると思ってはいけない。"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": "g_q13",
+   "section_code": "lang_reading",
+   "qtype_code": "info_retrieval",
+   "mondai_no": 13,
+   "number_in_section": 65,
+   "stem": "次の4人は今年の4月に、運動教室を受講したいと考えている。この中で、この教室を受講できる人は誰か。\nダニエルさん（54歳・木原市内在住・勤務地木原市外・健康度測定は去年の1月）／木村さん（34歳・木原市外・勤務地木原市内・健康度測定は去年の10月）／大川さん（16歳・木原市内・勤務地なし・健康度測定は今年の2月）／チェさん（27歳・木原市内・勤務地木原市内・健康度測定は今年の5月に受ける予定）",
+   "options": [
+    {
+     "key": "1",
+     "text": "ダニエルさん"
+    },
+    {
+     "key": "2",
+     "text": "木村さん"
+    },
+    {
+     "key": "3",
+     "text": "大川さん"
+    },
+    {
+     "key": "4",
+     "text": "チェさん"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": "g_q13",
+   "section_code": "lang_reading",
+   "qtype_code": "info_retrieval",
+   "mondai_no": 13,
+   "number_in_section": 66,
+   "stem": "シャヒンさんは、来週の「ダンスA」を予約したが、空きがあれば来週の「体操」も追加予約したいと考えている。どうすればいいか。",
+   "options": [
+    {
+     "key": "1",
+     "text": "来週の月曜日以降に窓口か電話で空きを確認し、空きがあれば、窓口で予約する。"
+    },
+    {
+     "key": "2",
+     "text": "来週の月曜日以降に窓口か電話で空きを確認し、空きがあれば、予約機か電話で予約する。"
+    },
+    {
+     "key": "3",
+     "text": "来週の水曜日以降に窓口か電話で空きを確認し、空きがあれば、窓口で予約する。"
+    },
+    {
+     "key": "4",
+     "text": "来週の水曜日以降に窓口か電話で空きを確認し、空きがあれば、予約機か電話で予約する。"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "listening",
+   "qtype_code": "listening_task",
+   "mondai_no": 1,
+   "number_in_section": 1,
+   "stem": "聴解問題1（課題理解）・1番：話し合いの進行・調理器具・サークル情報・記録の分担",
+   "options": [
+    {
+     "key": "1",
+     "text": "話し合いの進行をする"
+    },
+    {
+     "key": "2",
+     "text": "調理器具を借りてくる"
+    },
+    {
+     "key": "3",
+     "text": "ほかのサークルの情報を集める"
+    },
+    {
+     "key": "4",
+     "text": "ミーティングの記録を取る"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "listening",
+   "qtype_code": "listening_task",
+   "mondai_no": 1,
+   "number_in_section": 2,
+   "stem": "聴解問題1（課題理解）・2番：食事会計画・若手希望調査・アンケート案・ベテラン意見",
+   "options": [
+    {
+     "key": "1",
+     "text": "食事会を計画する"
+    },
+    {
+     "key": "2",
+     "text": "若い社員の希望を調査する"
+    },
+    {
+     "key": "3",
+     "text": "アンケートの案を作る"
+    },
+    {
+     "key": "4",
+     "text": "ベテラン社員の意見を聞く"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "listening",
+   "qtype_code": "listening_task",
+   "mondai_no": 1,
+   "number_in_section": 3,
+   "stem": "聴解問題1（課題理解）・3番：姿勢の注意点（目線・ひじ・背中・重心）",
+   "options": [
+    {
+     "key": "1",
+     "text": "目線を下げないようにする"
+    },
+    {
+     "key": "2",
+     "text": "ひじを後ろに引き上げる"
+    },
+    {
+     "key": "3",
+     "text": "背中が丸まらないようにする"
+    },
+    {
+     "key": "4",
+     "text": "体の重心の左右のバランスを取る"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "listening",
+   "qtype_code": "listening_task",
+   "mondai_no": 1,
+   "number_in_section": 4,
+   "stem": "聴解問題1（課題理解）・4番：店舗データ・年代調査・売上予測・店内デザイン",
+   "options": [
+    {
+     "key": "1",
+     "text": "山川駅の利用者データを足す"
+    },
+    {
+     "key": "2",
+     "text": "地域住民の年代を調べる"
+    },
+    {
+     "key": "3",
+     "text": "売り上げ予測を修正する"
+    },
+    {
+     "key": "4",
+     "text": "店内のデザインを変更する"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "listening",
+   "qtype_code": "listening_task",
+   "mondai_no": 1,
+   "number_in_section": 5,
+   "stem": "聴解問題1（課題理解）・5番：炭・かなづち・石・保護めがね",
+   "options": [
+    {
+     "key": "1",
+     "text": "炭に火をつける"
+    },
+    {
+     "key": "2",
+     "text": "かなづちでくぎをたたく"
+    },
+    {
+     "key": "3",
+     "text": "平らな石を探す"
+    },
+    {
+     "key": "4",
+     "text": "保護めがねをつける"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "listening",
+   "qtype_code": "listening_point",
+   "mondai_no": 2,
+   "number_in_section": 6,
+   "stem": "聴解問題2（要点理解）・1番：場所・機材・望遠鏡・星座解説の可否",
+   "options": [
+    {
+     "key": "1",
+     "text": "広い場所が確保できるか"
+    },
+    {
+     "key": "2",
+     "text": "機材の数を十分にそろえられるか"
+    },
+    {
+     "key": "3",
+     "text": "新しいぼうえんきょうを使いこなせるか"
+    },
+    {
+     "key": "4",
+     "text": "星座をわかりやすく解説できるか"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "listening",
+   "qtype_code": "listening_point",
+   "mondai_no": 2,
+   "number_in_section": 7,
+   "stem": "聴解問題2（要点理解）・2番：開発任せ・基本の大切さ・先輩とチーム・給料",
+   "options": [
+    {
+     "key": "1",
+     "text": "商品の開発を任せたこと"
+    },
+    {
+     "key": "2",
+     "text": "基本的な仕事の大切さを理解してもらったこと"
+    },
+    {
+     "key": "3",
+     "text": "せんぱいとチームを組ませたこと"
+    },
+    {
+     "key": "4",
+     "text": "給料を上げたこと"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "listening",
+   "qtype_code": "listening_point",
+   "mondai_no": 2,
+   "number_in_section": 8,
+   "stem": "聴解問題2（要点理解）・3番：開始時期・憧れの選手・けが・発達に合った練習",
+   "options": [
+    {
+     "key": "1",
+     "text": "なるべく小さいときから始めさせること"
+    },
+    {
+     "key": "2",
+     "text": "憧れの選手を目標とさせること"
+    },
+    {
+     "key": "3",
+     "text": "けがを乗り越えさせること"
+    },
+    {
+     "key": "4",
+     "text": "体の発達に合った練習をさせること"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "listening",
+   "qtype_code": "listening_point",
+   "mondai_no": 2,
+   "number_in_section": 9,
+   "stem": "聴解問題2（要点理解）・4番：歴史的建物・貸出システム・窓・段差なし設計",
+   "options": [
+    {
+     "key": "1",
+     "text": "歴史のある建物の活用"
+    },
+    {
+     "key": "2",
+     "text": "最新の自動貸し出しシステム"
+    },
+    {
+     "key": "3",
+     "text": "外の光を広く取り入れられる窓"
+    },
+    {
+     "key": "4",
+     "text": "段差がない設計"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "listening",
+   "qtype_code": "listening_point",
+   "mondai_no": 2,
+   "number_in_section": 10,
+   "stem": "聴解問題2（要点理解）・5番：甘さ・価格・商品名・宣伝方法",
+   "options": [
+    {
+     "key": "1",
+     "text": "甘さをおさえた味に変えること"
+    },
+    {
+     "key": "2",
+     "text": "価格を下げること"
+    },
+    {
+     "key": "3",
+     "text": "商品名を考え直すこと"
+    },
+    {
+     "key": "4",
+     "text": "せんでんのしかたを変えること"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "listening",
+   "qtype_code": "listening_point",
+   "mondai_no": 2,
+   "number_in_section": 11,
+   "stem": "聴解問題2（要点理解）・6番：貨幣の役割・世界経済・政治と経済・心理と消費",
+   "options": [
+    {
+     "key": "1",
+     "text": "かへいの役割の変化"
+    },
+    {
+     "key": "2",
+     "text": "世界全体の経済の動き"
+    },
+    {
+     "key": "3",
+     "text": "国の政治的判断と経済の関係"
+    },
+    {
+     "key": "4",
+     "text": "人の心理が消費活動に与えるえいきょう"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "listening",
+   "qtype_code": "listening_summary",
+   "mondai_no": 3,
+   "number_in_section": 12,
+   "stem": "聴解問題3（概要理解）・1番：概要理解（無印刷内容、メモ可）",
+   "options": [],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "listening",
+   "qtype_code": "listening_summary",
+   "mondai_no": 3,
+   "number_in_section": 13,
+   "stem": "聴解問題3（概要理解）・2番：概要理解（無印刷内容、メモ可）",
+   "options": [],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "listening",
+   "qtype_code": "listening_summary",
+   "mondai_no": 3,
+   "number_in_section": 14,
+   "stem": "聴解問題3（概要理解）・3番：概要理解（無印刷内容、メモ可）",
+   "options": [],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "listening",
+   "qtype_code": "listening_summary",
+   "mondai_no": 3,
+   "number_in_section": 15,
+   "stem": "聴解問題3（概要理解）・4番：概要理解（無印刷内容、メモ可）",
+   "options": [],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "listening",
+   "qtype_code": "listening_summary",
+   "mondai_no": 3,
+   "number_in_section": 16,
+   "stem": "聴解問題3（概要理解）・5番：概要理解（無印刷内容、メモ可）",
+   "options": [],
+   "correct_option": "2",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "listening",
+   "qtype_code": "listening_response",
+   "mondai_no": 4,
+   "number_in_section": 17,
+   "stem": "聴解問題4（即時応答）・1番：即時応答（無印刷内容）",
+   "options": [],
+   "correct_option": "2",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "listening",
+   "qtype_code": "listening_response",
+   "mondai_no": 4,
+   "number_in_section": 18,
+   "stem": "聴解問題4（即時応答）・2番：即時応答（無印刷内容）",
+   "options": [],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "listening",
+   "qtype_code": "listening_response",
+   "mondai_no": 4,
+   "number_in_section": 19,
+   "stem": "聴解問題4（即時応答）・3番：即時応答（無印刷内容）",
+   "options": [],
+   "correct_option": "2",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "listening",
+   "qtype_code": "listening_response",
+   "mondai_no": 4,
+   "number_in_section": 20,
+   "stem": "聴解問題4（即時応答）・4番：即時応答（無印刷内容）",
+   "options": [],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "listening",
+   "qtype_code": "listening_response",
+   "mondai_no": 4,
+   "number_in_section": 21,
+   "stem": "聴解問題4（即時応答）・5番：即時応答（無印刷内容）",
+   "options": [],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "listening",
+   "qtype_code": "listening_response",
+   "mondai_no": 4,
+   "number_in_section": 22,
+   "stem": "聴解問題4（即時応答）・6番：即時応答（無印刷内容）",
+   "options": [],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "listening",
+   "qtype_code": "listening_response",
+   "mondai_no": 4,
+   "number_in_section": 23,
+   "stem": "聴解問題4（即時応答）・7番：即時応答（無印刷内容）",
+   "options": [],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "listening",
+   "qtype_code": "listening_response",
+   "mondai_no": 4,
+   "number_in_section": 24,
+   "stem": "聴解問題4（即時応答）・8番：即時応答（無印刷内容）",
+   "options": [],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "listening",
+   "qtype_code": "listening_response",
+   "mondai_no": 4,
+   "number_in_section": 25,
+   "stem": "聴解問題4（即時応答）・9番：即時応答（無印刷内容）",
+   "options": [],
+   "correct_option": "2",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "listening",
+   "qtype_code": "listening_response",
+   "mondai_no": 4,
+   "number_in_section": 26,
+   "stem": "聴解問題4（即時応答）・10番：即時応答（無印刷内容）",
+   "options": [],
+   "correct_option": "2",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "listening",
+   "qtype_code": "listening_response",
+   "mondai_no": 4,
+   "number_in_section": 27,
+   "stem": "聴解問題4（即時応答）・11番：即時応答（無印刷内容）",
+   "options": [],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "listening",
+   "qtype_code": "listening_comprehensive",
+   "mondai_no": 5,
+   "number_in_section": 28,
+   "stem": "聴解問題5（総合理解）・1番：長めの話（無印刷内容、メモ可）",
+   "options": [],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "listening",
+   "qtype_code": "listening_comprehensive",
+   "mondai_no": 5,
+   "number_in_section": 29,
+   "stem": "聴解問題5（総合理解）・2番 質問1：島田書店・森山書店・南ブックス・北川ブックス",
+   "options": [
+    {
+     "key": "1",
+     "text": "島田書店"
+    },
+    {
+     "key": "2",
+     "text": "森山書店"
+    },
+    {
+     "key": "3",
+     "text": "南ブックス"
+    },
+    {
+     "key": "4",
+     "text": "北川ブックス"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "listening",
+   "qtype_code": "listening_comprehensive",
+   "mondai_no": 5,
+   "number_in_section": 30,
+   "stem": "聴解問題5（総合理解）・2番 質問2：島田書店・森山書店・南ブックス・北川ブックス",
+   "options": [
+    {
+     "key": "1",
+     "text": "島田書店"
+    },
+    {
+     "key": "2",
+     "text": "森山書店"
+    },
+    {
+     "key": "3",
+     "text": "南ブックス"
+    },
+    {
+     "key": "4",
+     "text": "北川ブックス"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  }
+ ],
+ "explanations": [
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 1,
+   "key_point": "漢字讀音・騒然",
+   "analysis_zh": "「騒然」は「そうぜん」と読む。思わぬ出来事に周囲がざわついている様子。「騒」は「さわがしい」の「騒」で、音読みは「ソウ」。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「ぼぜん」は存在しない読み。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「そぜん」は存在しない読み。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「ぼうぜん」は「呆然」の読みで、漢字が違う。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 2,
+   "key_point": "漢字讀音・諭す",
+   "analysis_zh": "「諭す」は「さとす」と読む。道理を言い聞かせて分からせる意。「論す（ろんす）」と混同しない。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「あやす」は「宥す・慰める」の読みで、なだめる意。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「ただす」は「正す」の読み。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「いやす」は「癒す」の読み。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 3,
+   "key_point": "漢字讀音・秩序",
+   "analysis_zh": "「秩序」は「ちつじょ」と読む。「秩」の音読みは「チツ」。「しつじょ」は誤読（「質」との混同）。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「ちつじょう」は長音が余分。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「しつじょ」は「質序」との混同による誤読。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「しつじょう」は誤読＋長音。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 4,
+   "key_point": "漢字讀音・潜伏",
+   "analysis_zh": "「潜伏」は「せんぷく」と読む。「潜」の音読みは「セン」。「ぜんぷく」は濁点の付け間違い。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「せんふく」が正解（この選択肢が正解）。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「ぜんぷく」は濁点誤り。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「ぜんふく」は濁点誤り。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 5,
+   "key_point": "漢字讀音・朗らか",
+   "analysis_zh": "「朗らか」は「ほがらか」と読む。明るく朗らかな様子。「朗」の音読みは「ロウ」だが、訓読みで「ほがらか」と読む。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「きよらか」は「清らか」の読み。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「やわらか」は「柔らか」の読み。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「なめらか」は「滑らか」の読み。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 6,
+   "key_point": "漢字讀音・振興",
+   "analysis_zh": "「振興」は「しんこう」と読む。「興」の音読みは「コウ／キョウ」。「じんこう」は「人口」との混同。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「しんきょう」は存在しない読み。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「じんこう」は「人口」の読み。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「じんきょう」は存在しない読み。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 7,
+   "key_point": "語彙・自立",
+   "analysis_zh": "家を出て一人で生活する＝「自立（する）」。「自制（心）」は感情を抑えること、「自重」は慎むこと、「自任」は自分で引き受けることで、いずれも文脈に合わない。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「自制」は欲望を抑える意で、家を出ることと無関係。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「自重」は行動を慎む意。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「自任」は自分で任に当たる意。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "じせい",
+    "2": "じりつ",
+    "3": "じちょう",
+    "4": "じにん"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 8,
+   "key_point": "語彙・還元",
+   "analysis_zh": "利益を町に返す＝「還元する」。「返上」は地位・身分を返すこと、「配給」は物資を配ること、「譲渡」は権利を譲ることで、利益には「還元」が定番の搭配。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「返上」は辞職・返却の意。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「配給」は食料などの配布。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「譲渡」は権利・財産の譲り渡し。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "へんじょう",
+    "2": "かんげん",
+    "3": "はいきゅう",
+    "4": "じょうと"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 9,
+   "key_point": "語彙・擬態語",
+   "analysis_zh": "空が曇っている様子＝「どんより」。「びっしょり」は濡れる様子、「どっさり」は量が多い様子、「ぐったり」は疲れた様子で、空の曇りには使わない。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「びっしょり」は水に濡れる様子。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「どっさり」は物の量。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「ぐったり」は疲労・脱力。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 10,
+   "key_point": "語彙・外來語・ネック",
+   "analysis_zh": "普及の妨げになるもの＝「ネック（になる）」。英語 neck 由来。「ノイズ（雑音）」「ロック（錠）」「タブー（禁忌）」は文脈に合わない。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「ノイズ」は雑音・妨害電波。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「ロック」は鍵・固定。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「タブー」は禁忌。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 11,
+   "key_point": "語彙・搭配・発散",
+   "analysis_zh": "ストレスを解消する＝「発散する」。「発射」は弾を撃つこと、「流出」は情報などが外に漏れること、「排出」は体外に出すことで、ストレスには「発散」が定番。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「発射」はロケット・弾丸。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「流出」は情報・人口の流出。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「排出」は排気・老廃物。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "はっさん",
+    "2": "はっしゃ",
+    "3": "りゅうしゅつ",
+    "4": "はいしゅつ"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 12,
+   "key_point": "語彙・まぎらわしい",
+   "analysis_zh": "よく似ていて間違えやすい＝「まぎらわしい」。「もったいない」の崩れ「もってもらしい」は存在しない語、「ずうずうしい」は厚かましい、「なれなれしい」は馴れ馴れしいで、いずれも「似ている」と無関係。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "存在しない語（「もったいない」との混同を誘う）。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「ずうずうしい」は厚かましい意。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「なれなれしい」は馴れ馴れしい意。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 13,
+   "key_point": "語彙・行き届く",
+   "analysis_zh": "掃除が細部まで行き渡る＝「行き届く」。「行き詰まる」は行きづまり、「行き交う」は往来、「行き着く」は到達で、掃除の行き渡りには使わない。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「行き詰まる」は袋小路に入る意。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「行き交う」は人や車の往来。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「行き着く」は到達する意。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "いきづまって",
+    "2": "いきかって",
+    "3": "いきついて",
+    "4": "いきとどいて"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 14,
+   "key_point": "近義詞・懸念",
+   "analysis_zh": "「懸念される」＝「心配される」。条約締結で農業への影響が心配される、の意。「期待」「予想」「重視」はいずれも意味が異なる。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「期待」は良いことを待ち望む意で逆。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「予想」は事前に見込む意。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「重視」は重く見る意。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "きたい",
+    "2": "しんぱい",
+    "3": "よそう",
+    "4": "じゅうし"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 15,
+   "key_point": "近義詞・やつれる",
+   "analysis_zh": "「やつれる」＝「やせ衰える」。病気や心労でやせ細る意。「遠慮する」「張り切る」「感動する」とは無関係。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「遠慮する」は控えめにする意。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「張り切る」は意気込む意で逆。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「感動する」は心を動かされる意。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "えんりょして",
+    "2": "はりきって",
+    "3": "やせおとろえて",
+    "4": "かんどうして"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 16,
+   "key_point": "近義詞・奮闘",
+   "analysis_zh": "「奮闘する」＝「必死に頑張る」。力を振り絞って努力する意。「我慢する」「怒る」「焦る」とは異なる。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「じっと我慢する」は耐える意で、積極性がない。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「激しく怒る」は感情の発露。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「焦って取り組む」は慌てる意。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "じっとがまんして",
+    "2": "ひっしにがんばって",
+    "3": "はげしくおこって",
+    "4": "あせってとりくんで"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 17,
+   "key_point": "近義詞・不慮",
+   "analysis_zh": "「不慮」＝「思いがけない」。予期せぬ事故の意。「しかたない」「ありえない」「情けない」とは異なる。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「しかたない」は諦めの意。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「ありえない」は不可能の意。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「情けない」は嘆かわしい意。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "3": "おもいがけない",
+    "4": "なさけない"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 18,
+   "key_point": "近義詞・根こそぎ",
+   "analysis_zh": "「根こそぎ」＝「すべて」。根までこそげ取るように全部、の意。「だいぶ（一部）」「一度に（回数）」「次々と（順次）」とは異なる。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「だいぶ」は程度が大きい意で、全部ではない。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「一度に」は一回の動作。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「次々と」は順々に、の意。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "3": "いちどに",
+    "4": "つぎつぎと"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 19,
+   "key_point": "近義詞・没頭",
+   "analysis_zh": "「没頭する」＝「熱中する」。仕事に打ち込む意。「飽きる」「憧れる」「不満を持つ」とは逆または無関係。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「飽きる」は逆の意味。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「憧れる」は憧れを抱く意。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「不満を持つ」は逆の意味。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "あきて",
+    "2": "あこがれて",
+    "3": "ふまんをもって",
+    "4": "ねっちゅうして"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 20,
+   "key_point": "一詞多義・兆し",
+   "analysis_zh": "「兆し」は前兆・きざしの意。「景気がよくなる兆しが見られない」（好転のきざしが見えない）が正しい用法。1は「兆しです」で予定の意には使わない。2は「売り上げの兆しが不透明」で搭配がおかしい（兆候の不透明さは言わない）。3は「多くの人の兆し」で意味不明（予想の意では使わない）。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「兆し」は予定・見込みの意では使わない。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「兆しが不透明」という搭配は不自然。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「人の兆し」という言い方はしない。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "らいげつは100まんだいばいくをせいさんするきざしです。",
+    "2": "しょうひぜいがあがり、うりあげのきざしがふとうめいだ。",
+    "3": "おおくのひとのきざしとちがって、Aちーむがゆうしょうした。",
+    "4": "ことしになってもけいきがよくなるきざしがみられない。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 21,
+   "key_point": "一詞多義・収容",
+   "analysis_zh": "「収容する」は人や動物を施設に入れる意。「5,500人の観客を収容することができる」が正しい。1の荷物には「収納する」、3の語彙には「収録／収載する」、4のビタミンには「含む」を使う。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "荷物には「収納する」。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "語彙の収録には「収録／収載する」。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "成分の含有には「含む」。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "おおきなかばんにりょこうのにもつをぜんぶしゅうようした。",
+    "2": "このこんさーとほーるは5,500にんのかんきゃくをしゅうようすることができる。",
+    "3": "このじしょには8まんごがしゅうようされている。",
+    "4": "びたみんをおおくしゅうようするしょくひんをたくさんたべるようにしている。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 22,
+   "key_point": "一詞多義・さえる",
+   "analysis_zh": "「さえる」は目・頭などが冴え渡る意。「目がさえて眠れない」が正しい。1の時間、2の感情、4の目標には使わない。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「時間にさえる」とは言わない。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「感情がさえる」とは言わない。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「目標がさえる」とは言わない（「明確だ」を使う）。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "ゆうじんはじかんにさえていて、ちこくしたことはいちどもない。",
+    "2": "ちちはかんじょうがさえでかおにでるので、わかりやすい。",
+    "3": "こーひーをのんだら、めがさえてしまって、ねむれない。",
+    "4": "かれのもくひょうはさえていて、いちどもかわることはなかった。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 23,
+   "key_point": "一詞多義・痛烈",
+   "analysis_zh": "「痛烈」は批判などが厳しく激しい意。「痛烈な批判を受けた」が正しい。2の戦いには「激しい」、3の環境には「過酷な」、4の風には「猛烈な」を使う。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "戦いには「激しい戦い」。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "環境には「過酷な環境」。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "風の勢いには「猛烈な」。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "そのえいがはひょうろんかからつうれつなひはんをうけた。",
+    "2": "かれらはつうれつなたたかいをかちぬいてゆうしょうした。",
+    "3": "つうれつなかんきょうでもそだつさくもつをけんきゅうしている。",
+    "4": "たいふうのせいで、つうれつないきおいのかぜがふいている。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 24,
+   "key_point": "一詞多義・完結",
+   "analysis_zh": "「完結する」は物語などが終わりを迎える意。「連載小説が完結する」が正しい。1の期間には「終了する」、2のマンションには「完成／竣工する」、4の充電には「完了する」を使う。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "期間には「終了する」。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "建物には「完成／竣工する」。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "充電には「完了する」。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "もうしこみきかんがかんけつするまえに、いそいでしょるいをだしにいった。",
+    "2": "えきまえにけんせつちゅうだったまんしょんがかんけつし、にゅうきょがはじまった。",
+    "3": "ねんかんつづいたれんさいしょうせつが、いよいよじかいでかんけつする。",
+    "4": "じゅうでんがかんけつするまで、2じかんていどかかります。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 25,
+   "key_point": "一詞多義・もろい",
+   "analysis_zh": "「もろい」は壊れやすい意。「壁がもろくなる」が正しい。2の力には「弱い」、3の経験には「浅い」、4の栄養には「失われる」を使う。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "力には「弱い」。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "経験には「浅い」。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "栄養には「失われる」。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "ここはふるいじゅうたくで、かべがもろくなっているため、たちいりきんしだ。",
+    "2": "いぜんはちからがもろかったので、まいにちとれーにんぐして、きんにくをつけた。",
+    "3": "かれはまだわかく、しごとのけいけんももろいが、やるきにあふれている。",
+    "4": "このやさいはあまりひをとおしすぎると、えいようがもろくなってしまう。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 26,
+   "key_point": "文法・誇りに思う（N2）",
+   "analysis_zh": "「〜を誇りに思う」が定型表現。弟のことを誇りに思う、の意。「を／で／が」では定型にならない。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「誇りを思う」とは言わない。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「誇りで思う」とは言わない。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「誇りが思う」とは言わない。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 27,
+   "key_point": "文法・〜からしか〜ない（N1）",
+   "analysis_zh": "「失敗からしか学べない」＝失敗からでなければ学べない。「〜からしか〜ない」で限定を表す。「にまで」「まででも」「だけから」では限定の意味にならない。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「にまで」は到達点の強調。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「まででも」は譲歩のニュアンス。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「だけから」は不自然な組み合わせ。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 28,
+   "key_point": "文法・〜そのもの（N2）",
+   "analysis_zh": "「真剣そのもの」＝真剣そのものずばり。「そのもの」の前は名詞。「真剣で／に／な」では接続しない。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「真剣でそのもの」は接続不可。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「真剣にそのもの」は接続不可。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「真剣なそのもの」は不自然。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "しんけん",
+    "2": "しんけんで",
+    "3": "しんけんに",
+    "4": "しんけんな"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 29,
+   "key_point": "文法・〜うちに（N2）",
+   "analysis_zh": "「一緒に仕事をするうちに分かってきた」＝している間に次第に。「する間」は単なる期間、「する限り」は条件、「するとしたら」は仮定で、次第に分かるニュアンスにならない。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「する間」は「〜している間」と同義で変化のニュアンスが弱い。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「する限り」は条件を表す。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「するとしたら」は仮定。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "するま",
+    "2": "するかぎり"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 30,
+   "key_point": "文法・〜たところ（N1）",
+   "analysis_zh": "「できずにいたところ、〜と教えてくれた」＝ちょうどその時に。「〜たところ」は「ちょうど〜した時」の意。「なら」は仮定、「ようにしたら／したところ」は目的・結果で文脈に合わない。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「なら」は仮定条件。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「ようにしたら」は目的。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「ようにしたところ」は不自然。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 31,
+   "key_point": "文法・〜ぐらい（N2）",
+   "analysis_zh": "「雪が降るんじゃないかというぐらい寒かった」＝それほど寒かった。「〜ぐらい」で程度を表す。1・3は様態、2は「〜ぐらい」の形になっていない。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「かのように」は比況。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「〜ぐらい」の形になっていない。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「ように」は比況・目的。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "ふることがあるかのように",
+    "2": "ふるなんておもえないぐらい",
+    "3": "ふるとはおもわないように",
+    "4": "ふるんじゃないかというぐらい"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 32,
+   "key_point": "文法・〜なくもない（二重否定，N1）",
+   "analysis_zh": "「歩けなくもない」＝歩ける（二重否定で肯定）。歩こうとして、歩けないこともない、の意。「歩くほかない」は「〜するしかない」、「歩いてはいられない」は「〜している場合ではない」、「歩けるわけがない」は強い否定で、いずれも文脈に合わない。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「ほかない」は「〜しかない」の意。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「〜てはいられない」は切迫感。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「わけがない」は強い否定。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "あるくほかない",
+    "2": "あるけなくもない",
+    "3": "あるいてはいられない",
+    "4": "あるけるわけがない"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 33,
+   "key_point": "文法・敬語・おいでになる（N1）",
+   "analysis_zh": "講演会に来てくださった方への尊敬語は「おいでくださいました」（「いらっしゃる／おいでになる」の丁寧形）。「お越しいただきました」は二重敬語で誤り。「ご参加いただきました」は謙譲語で、来訪の尊敬には使わない。「ご覧くださいました」は「見る」の尊敬語で文脈違い。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「お越しいただきました」は二重敬語。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「ご参加いただきました」は謙譲語で、来訪者への尊敬語にならない。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「ご覧」は「見る」の尊敬語。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "2": "おこしいただきました",
+    "3": "ごさんかいただきました",
+    "4": "ごらんくださいました"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 34,
+   "key_point": "文法・〜たつもりになる（N1）",
+   "analysis_zh": "「海外を旅行したつもりになれる」＝旅行した気分になれる。「つもりでいる」は予定、「してくるつもりだ」は意志、「するつもりになっていた」は予定の継続で、気分になる意にならない。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「つもりでいる」は予定の継続。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「してくるつもりだ」は意志。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「するつもりになっていた」は予定。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 35,
+   "key_point": "文法・んだもん（終助詞）",
+   "analysis_zh": "「読めるんだもん」＝読めるのだから（女性語の文末表現）。「読めるもんか」は反語（読めるものか＝読めない）、「読みたい」は文脈（本が読める）とずれる。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「もんか」は反語で「〜ない」の意。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "文脈は「読める」ことについて。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "反語＋文脈ずれ。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "よめるんだもん",
+    "2": "よめるもんか",
+    "3": "よみたいんだもん",
+    "4": "よみたいもんか"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 36,
+   "key_point": "文型・★（N1）",
+   "analysis_zh": "正順：効果的である反面(2)、大きすぎるジェスチャーは(4)、あまりに(1)★、かえって(3)印象を悪くすることもある。「ジェスチャーを使いながら話すのは効果的である反面、大きすぎるジェスチャーはあまりにかえって印象を悪くすることもある」。「反面」の前には肯定の内容が来る。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "★は「あまりに」。「効果的である反面」は文頭に来る。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「かえって」は★の後に来る。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「大きすぎるジェスチャーは」は★の前に来る。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "2": "こうかてきであるはんめん",
+    "4": "おおきすぎるじぇすちゃーは"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 37,
+   "key_point": "文型・★（N1）",
+   "analysis_zh": "正順：アクセスが可能な(4)、環境があれば(3)★、自宅にいながらにして(1)、手軽に購入できる(2)時代である。「インターネットへのアクセスが可能な環境があれば、自宅にいながらにして手軽に購入できる時代」。「への」の後は名詞（アクセス）しか来ない。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「自宅にいながらにして」は★の後に来る。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「手軽に購入できる」は最後に来る。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「アクセスが可能な」は文頭に来る。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "じたくにいながらにして",
+    "2": "てがるにこうにゅうできる",
+    "3": "かんきょうがあれば",
+    "4": "あくせすがかのうな"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 38,
+   "key_point": "文型・★（N1）",
+   "analysis_zh": "正順：経験を積んだ(3)、昆虫学者でさえも(2)、違うほど(4)★、判別が難しい(1)場合もある。「かなり経験を積んだ昆虫学者でさえも（意見が）違うほど判別が難しい場合」＝判別が難しくて専門家でも意見が分かれるほど、の意。「違う」は意見が分かれる意。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「判別が難しい」は最後に来る。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「昆虫学者でさえも」は2番目に来る。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「経験を積んだ」は最初に来る。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "はんべつがむずかしい",
+    "2": "こんちゅうがくしゃでさえも",
+    "3": "けいけんをつんだ",
+    "4": "ちがうほど"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 39,
+   "key_point": "文型・★（N1）",
+   "analysis_zh": "正順：転職にあたり(1)、少しも不安がなかったといえば(3)、うそになるが(2)★、新たなことに挑戦できてうれしいという(4)気持ちの方が大きかった。「〜といえばうそになるが」で譲歩を表す。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「転職にあたり」は文頭に来る。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「少しも不安がなかったといえば」は★の前に来る。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「新たなことに挑戦できてうれしいという」は最後に来る。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "てんしょくにあたり",
+    "3": "すこしもふあんがなかったといえば",
+    "4": "あらたなことにちょうせんできてうれしいという"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 40,
+   "key_point": "文型・★（N1）",
+   "analysis_zh": "正順：今でこそ(3)、人口10万人を超える都市となったが(1)、30年前までは(4)★、北山駅周辺以外にはほとんど何もない(2)のどかなところだった。「今でこそ〜が、30年前までは〜だった」の対比構造。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「人口10万人を超える都市となったが」は2番目に来る。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「北山駅周辺以外にはほとんど何もない」は最後に来る。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「今でこそ」は文頭に来る。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "じんこう10まんにんをこえるとしとなったが",
+    "2": "きたやまえきしゅうへんいがいにはほとんどなにもない",
+    "3": "いまでこそ",
+    "4": "30ねんまえまでは"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 41,
+   "key_point": "文法・〜でもあるまい（N1）",
+   "analysis_zh": "「まさかナルシストではない。復読に耐えるほどたいそうな小説でもあるまい」＝自分の小説が再読に耐えるほど大したものではあるまい、の意。「〜でもあるまい」で強い否定の推量。後の「わが子はよその子よりもかわゆいと思う親の情」が根拠。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「小説であってもだ」は肯定の譲歩で、文脈の否定に合わない。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「小説なのだろうか」は疑問で不自然。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「小説なのではないか」は推量の肯定で逆。"
+    }
+   ],
+   "evidence": "第2段「まさかナルシストではない」",
+   "option_readings": {
+    "1": "しょうせつであってもだ",
+    "2": "しょうせつでもあるまい",
+    "3": "しょうせつなのだろうか",
+    "4": "しょうせつなのではないか"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 42,
+   "key_point": "文法・〜たり〜たりする（N2）",
+   "analysis_zh": "「感心したり、あきれ果てたり、褒めたり叱ったりする」＝〜たり〜たりするで動作の列挙。「したほうがいい」は助言、「するようだ」は推量、「しても仕方ない」は諦めで、列挙の文脈に合わない。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「したほうがいい」は助言の表現。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「するようだ」は推量。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「しても仕方ない」は諦め。"
+    }
+   ],
+   "evidence": "第3段「読みながら勝手に感心したり」",
+   "option_readings": {
+    "1": "ほめたりしかったりする",
+    "2": "ほめたりしかったりしたほうがいい",
+    "3": "ほめたりしかったりするようだ",
+    "4": "ほめたりしかったりしてもしかたない"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 43,
+   "key_point": "文法・否定の二重構造（N1）",
+   "analysis_zh": "「読めば読むほどその文章を書いていたころの自分を否定できなくなる」＝否定できなくなる＝肯定するようになる。後の「おのれの文章を滅ぼすことは忍びない」「敬意を払い続けねばならない」が根拠。「否定せずにいられなくなる」は「否定せずにはいられない」＝否定してしまう意になり逆。「否定しがちになる」は傾向、「否定するようになる」は変化の開始で、次文の敬意と合わない。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「否定せずにいられない」は「否定してしまう」意で逆。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「しがち」は傾向を表す。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「ようになる」は変化の開始で、敬意の継続と合わない。"
+    }
+   ],
+   "evidence": "第4段「横着なわけではなく」",
+   "option_readings": {
+    "1": "ひていせずにいられなくなる",
+    "2": "ひていしがちになる",
+    "3": "ひていできなくなる",
+    "4": "ひていするようになる"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 44,
+   "key_point": "文法・〜とは（N1）",
+   "analysis_zh": "「一生の仕事とはそうしたものであろう」＝一生の仕事というものは、の意。「とは」で定義・断定を表す。「も含めて」「でない限り」「にしても」では定義にならない。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「も含めて」は包含。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「でない限り」は条件。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「にしても」は譲歩。"
+    }
+   ],
+   "evidence": "第5段「一生の仕事（44）そうしたもの」",
+   "option_readings": {
+    "1": "もふくめて",
+    "2": "でないかぎり"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 45,
+   "key_point": "短文讀解・情報社会",
+   "analysis_zh": "筆者の要点：流行の情報に熱心であるほど、世間の流行を知らないと遅れるのではないかという焦りが人間を突き動かすのが情報化社会の特徴。選択肢1「情報を求める人ほど、知らない情報があることに不安を感じる」がこれに合う。2は「流行っていることしか知らない」と断定しすぎ。3は「選べなければ遅れてしまう」と因果をすり替え。4は本文にない。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「〜しか知らない」と断定するのは行き過ぎ。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "焦りのメカニズムではなく因果のすり替え。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "本文にない主張。"
+    }
+   ],
+   "evidence": "「世間で流行っていることを知らないと自分が遅れるんじゃないか、という焦り」",
+   "option_readings": {
+    "1": "じょうほうをもとめるひとほど、しらないじょうほうがあることにふあんをかんじる。",
+    "2": "じょうほうをえることにねっしんなひとは、せけんではやっていることしかしらない。",
+    "3": "おおくのじょうほうからひつようなものがえらべなければ、せけんからおくれてしまう。",
+    "4": "はやっているもののじょうほうにねっしんなだけでは、じょうほうかしゃかいでいきられない。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 46,
+   "key_point": "短文讀解・書くこと",
+   "analysis_zh": "筆者の要点：「書くこと」は「読むこと」であり、自分の文章を客観的に観察することで「批判」の心が呼び起こされる。選択肢3「自身の意見を批判的に見ることができる」が合う。1の新しい考え方、2の伝えること、4の心の変化の観察は本文の主旨ではない。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "新しい考え方への気づきは本文の主旨ではない。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "他者への伝達は述べられていない。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "心の変化の観察ではなく、批判的心の喚起が要点。"
+    }
+   ],
+   "evidence": "「観察はほとんど必然的に『批判』のこころを呼び起こす」",
+   "option_readings": {
+    "1": "じしんのあたらしいかんがえかたにきづく。",
+    "2": "じしんのいけんをぐたいてきにつたえられる。",
+    "3": "じしんのいけんをひはんてきにみることができる。",
+    "4": "じしんのこころのへんかをかんさつすることができる。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 47,
+   "key_point": "短文讀解・広告と本質",
+   "analysis_zh": "筆者の要点：最も大切な本質（消費者心理のツボ）を捉えていないのに、表面上の伝え方ばかり重視するのはおかしい。本質なきところに良い伝え方は存在しない。選択肢2「消費者心理を捉えていないのは、良い広告とは言えない」が合う。1の難易度、3の「こだわる必要はない」、4の「捉えているだけでは」は本文と逆または無関係。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "難易度の話はしていない。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「こだわる必要はない」は筆者の主張と逆。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「捉えているだけでは」は本文にない。"
+    }
+   ],
+   "evidence": "「本質なきところに良い伝え方など存在するはずがない」",
+   "option_readings": {
+    "1": "しょうひしゃしんりをとらえたこうこくづくりは、むかしよりむずかしくなっている。",
+    "2": "しょうひしゃしんりをとらえていないのは、よいこうこくとはいえない。",
+    "3": "しょうひしゃしんりをとらえていれば、こうこくはひょうげんにこだわるひつようはない。",
+    "4": "しょうひしゃしんりをとらえているだけでは、ききめのあるこうこくにはならない。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 48,
+   "key_point": "短文讀解・対話",
+   "analysis_zh": "囲み記事の要点：語り合えば語り合うほど他人と自分の違いが繊細にわかるようになるのが対話であり、他人の異なる思いや考えに耳を澄まし、自分の考えを話のなかで鍛えていく。選択肢2「他人との思考の違いを把握することで、自身の思考が深められる」が合う。1は因果が逆。3の克服・共感、4の表現能力は本文にない。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "違いが大きいほど対話ができる、という因果は逆。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "戸惑いや痛みの克服・共感は述べられていない。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "表現能力の向上は本文にない。"
+    }
+   ],
+   "evidence": "「語り合えば語り合うほど他人と自分の違いがより繊細にわかる」",
+   "option_readings": {
+    "1": "たにんとじぶんのちがいがおおきいほど、あついたいわができる。",
+    "2": "たにんとのしこうのちがいをはあくすることで、じしんのしこうがふかめられる。",
+    "3": "わかりあえないというとまどいやいたみがこくふくでき、たにんときょうかんできる。",
+    "4": "おもいやかんがえをひょうげんするのうりょくがきたえられ、たにんにりかいしてもらいやすくなる。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 49,
+   "key_point": "中長文讀解・学問の定義",
+   "analysis_zh": "筆者の要点：学問は「問うで学ぶ」能動的行為であり、常識とされてきたものの見方を疑ってずらし、別の見方を見出し、自分の物差しが変わり自分自身が変わっていくこと。選択肢3「自ら問いながら、ものの見方を模索しながら自分自身が変わっていく行為だ」が合う。1の「正解を求めて」は本文（正解はひとつとは限らない）と矛盾。2のアイデア目的、4の知識取り入れは主旨ではない。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「正解はひとつとは限りません」と矛盾。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "アイデア創出は副次的なもの。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "知識の取り入れではなく見方の再編成が要点。"
+    }
+   ],
+   "evidence": "「自分の物差しが変わり、自分自身が変わっていくことなのです」",
+   "option_readings": {
+    "1": "「せいかい」をもとめて、みずからしゅたいてきにといつづけていくこういである。",
+    "2": "どくそうてきなあいであをあむために、みずからのもののみかたをかえるこういだ。",
+    "3": "みずからといながら、もののみかたをもさくしながらじぶんじしんがかわっていくこういだ。",
+    "4": "あたらしいちしきをせっきょくてきにとりいれることで、じぶんじしんをかえていくこういだ。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 50,
+   "key_point": "中長文讀解・疑うこと",
+   "analysis_zh": "筆者の要点：「疑う」ことは、常識に安易に取り込まれず、少しずらしたところに面白いことを見出すための、創造的で豊かな世界を紡ぐ積極的な営み。選択肢4「常識に縛られずに、これまでと異なる考え方を生み出す行為だ」が合う。1の何を信じるか、2の新しい常識作り、3の否定的行為はいずれもずれている。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「何を信じるか」の理解が要点ではない。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「新しい常識を作りだす」は言い過ぎ。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「否定的な行為」は筆者と逆（積極的な営み）。"
+    }
+   ],
+   "evidence": "「むしろ創造的で豊かな世界を紡ぎだしていくための、積極的な営み」",
+   "option_readings": {
+    "1": "なにをしんじればいいのかをりかいするのにかかせないこういだ。",
+    "2": "ゆたかにいきるために、あたらしいじょうしきをつくりだすせっきょくてきなこういだ。",
+    "3": "じょうしきにあんいにとりこまれないためにひつようだが、ひていてきなこういだ。",
+    "4": "じょうしきにしばられずに、これまでとことなるかんがえかたをうみだすこういだ。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 51,
+   "key_point": "中長文讀解・カタクリ",
+   "analysis_zh": "筆者の要点：エライオソームはアリの幼虫が共通して持つにおいに近い物質を持っており、アリは種を食べ物としてではなく自分の幼虫と思って巣に持ち帰る。選択肢4「種をアリの生きた幼虫だと思うから」が合う。1の好物、2の栄養分、3の餌になる幼虫に似ているはいずれも本文と違う。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "食べ物として集めるわけではない、と明記。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "栄養分の話はない。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「餌になる幼虫」ではなく「自分の幼虫」。"
+    }
+   ],
+   "evidence": "「自分の幼虫と思って巣に持ち帰るらしい」",
+   "option_readings": {
+    "1": "たねについているしぼうぶんがありのこうぶつだから",
+    "2": "たねはありのせいちょうにかかせないえいようぶんだから",
+    "3": "たねがありのえさになるようちゅうににているから",
+    "4": "たねをありのいきたようちゅうだとおもうから"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 52,
+   "key_point": "中長文讀解・カタクリ",
+   "analysis_zh": "筆者の要点：種がはじけてから24時間もすると、アリの死んだ幼虫のにおいに変わるため、アリは種を巣の外に捨てに行く。選択肢2「種からアリの死んだ幼虫のにおいがするから」が合う。1の幼虫が死ぬ、3の色の変化、4の嫌うにおいは本文にない。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "幼虫が死ぬとは書かれていない。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "色の変化ではなくにおいの変化。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「嫌うにおい」ではなく死んだ幼虫のにおい。"
+    }
+   ],
+   "evidence": "「アリの死んだ幼虫のにおいに変わるのだそうだ」",
+   "option_readings": {
+    "1": "たねのにおいで、ありのようちゅうがしんでしまうから",
+    "2": "たねからありのしんだようちゅうのにおいがするから",
+    "3": "たねがありのしんだようちゅうとおなじいろにかわるから",
+    "4": "たねがはじけて、ありのきらうにおいをだすから"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 53,
+   "key_point": "中長文讀解・子は親の鏡",
+   "analysis_zh": "筆者の要点：こどもの言い方は親の言い方のそっくりなコピーなので、「そんな言い方をするもんじゃない」と注意すると、自分で自分を注意しているようなものになる。選択肢3が合う。1の成長否定、2の反論が正しい、4の同じレベルはいずれもずれている。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "成長の否定ではなく、自分への注意が要点。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "反論の正否の話ではない。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "レベルの話ではない。"
+    }
+   ],
+   "evidence": "「あら、あなたの言い方とそっくりよ」と横からチクリと揶揄されるのがオチ",
+   "option_readings": {
+    "1": "こどものせいちょうをひていしているようなものだから",
+    "2": "こどものはんろんがただしいとみとめるようなものだから",
+    "3": "じぶんでじぶんをちゅういしているようなものだから",
+    "4": "じぶんがこどもとおなじれべるでこたえるようなものだから"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 54,
+   "key_point": "中長文讀解・模倣と個性",
+   "analysis_zh": "筆者の要点：こどもの身体的・言語的能力が未熟なため完璧なコピーができず、自由に改変する（絶妙な逸脱）。模倣しながら個性的であるのは、この自由な逸脱があるからだ。選択肢1「完璧にはコピーできないことが、個性につながっている」が合う。2の本質が捉えられない、3の大人を楽しませる、4の個性表現の意図はいずれも本文と違う。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "本質が捉えられない、とは述べられていない。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "大人を楽しませる目的はない。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "個性を表現しようという意図の話ではない。"
+    }
+   ],
+   "evidence": "「このような模倣モデルからの自由な逸脱があるからだ」",
+   "option_readings": {
+    "1": "かんぺきにはこぴーできないことが、こせいにつながっている。",
+    "2": "かんぺきにこぴーしようとしているが、ほんしつはとらえられていない。",
+    "3": "おりじなるなものをじゆうにかえて、おとなをたのしませようとしている。",
+    "4": "おりじなるからのいつだつをきにせず、じぶんのこせいをひょうげんしようとしている。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 55,
+   "key_point": "中長文讀解・UDの問題点",
+   "analysis_zh": "筆者の要点：ものづくりの二つの方向性のうち、前者（同じものや環境を平等に使えるようにする方法）は経済的に有利だが効果に限界があるケースが多い。選択肢1「同じもので多様な使い手に対応すると、そのものの効果に限界が生じる」が合う。2の時間がかかるのは後者。3・4は本文にない。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "開発に時間がかかるのは後者の方法。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "効果が見えにくくなる、とは述べられていない。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "平等に使えなくなる、とは述べられていない。"
+    }
+   ],
+   "evidence": "「前者は経済的に有利な試みだが、その効果に限界があるケースが多い」",
+   "option_readings": {
+    "1": "おなじものでたようなつかいてにたいおうすると、そのもののこうかにげんかいがしょうじる。",
+    "2": "おなじものをたようなつかいてにたいおうさせるには、かいはつにじかんがかかりすぎる。",
+    "3": "こべつのつかいてにたいおうすると、そのもののこうかがみえにくくなる。",
+    "4": "こべつのつかいてにたいおうすると、びょうどうにものがつかえなくなる。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 56,
+   "key_point": "中長文讀解・UDの主張",
+   "analysis_zh": "筆者の要点：問題が発生してから平等について考えるのではなく、ものやサービスに常に必要な普通の意識として平等をとらえたい。選択肢4「常に使い手にとっての平等について考えなければならない」が合う。1の作り出すべきだ、2の原因究明、3の難しいは主旨ではない。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「作り出すべきだ」という主張ではない。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "原因究明の話ではない。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "難しさの指摘が主旨ではない。"
+    }
+   ],
+   "evidence": "「ものやサービスに常に必要な普通の意識であるととらえたい」",
+   "option_readings": {
+    "1": "たようなつかいてが、びょうどうだというかんかくがもてるものをつくりだすべきだ。",
+    "2": "つかいてがふびょうどうだとかんじたら、げんいんきゅうめいしなければならない。",
+    "3": "すべてのつかいてにとってびょうどうであるものにすることはむずかしい。",
+    "4": "つねにつかいてにとってのびょうどうについてかんがえなければならない。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 57,
+   "key_point": "長文讀解・ロボピー",
+   "analysis_zh": "筆者の要点：ロボピーは300以上の動作プログラムと700以上のルールを組み込み、複雑で多様に動くため、自分たちでもプログラムがどう作用するかわからなくなり予測不能になった。通常のロボット（センサ情報に応じた反応）とはここが違う。選択肢3が合う。1の予測できる、2の自分で判断、4の自然な動きはいずれも本文と違う。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「予測不能になった」と明記。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「自分で判断」ではなくプログラムの組み合わせ。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "自然な動きの話はない。"
+    }
+   ],
+   "evidence": "「何に反応して、どんな行動をするか予測不能になった」",
+   "option_readings": {
+    "1": "どうさぱたーんがけられているので、あるていどうごきがよそくできる。",
+    "2": "あたえられたじょうほうのいっしんをじぶんではんだんしてうごくので、うごきがよそくできない。",
+    "3": "どううごくかというぷろぐらむをたすうくみこんだので。うごきがよそくできない。",
+    "4": "たようでふくざつなどうさをぷろぐらむしたので、にんげんのようにしぜんなうごきができる。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 58,
+   "key_point": "長文讀解・ロボピー",
+   "analysis_zh": "筆者の要点：ロボピーが歩きだしたのは、中のあるプログラムが何かをきっかけに作動しただけのことだが、首尾一貫したひとつの意思決定機構から生み出された行動であるかのように見えた。選択肢3「プログラムが作動して、意思があるかのようにロボピーが動いた」が合う。1の意思が生まれた、2のプログラムでなく自身が考えた、4の誤作動はいずれも違う。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "意思が生まれた、とは述べられていない。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「プログラムが作動しただけ」と明記。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "誤作動ではなく正常な作動。"
+    }
+   ],
+   "evidence": "「なにか首尾一貫したひとつの意思決定機構から生み出された行動であるかのように見えた」",
+   "option_readings": {
+    "1": "ぷろぐらむにまちがいがあり、ロボピーにいしがうまれてうごいた。",
+    "2": "ぷろぐらむがさどうしたのではなく、ロボピーじしんがかんがえてうごいた。",
+    "3": "ぷろぐらむがさどうして、いしがあるかのようにロボピーがうごいた。",
+    "4": "ぷろぐらむがあやまさどうして、せいさくしゃのいとにはんしてロボピーがうごいた。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 59,
+   "key_point": "長文讀解・心",
+   "analysis_zh": "筆者の要点：「心とは、観察する側の問題である」。理解しきれないほど複雑な動きを目の前にすると、「私の知らないところで勝手に独立して考え、動いているのだろう」という想像が働き、それを「心」と呼ぶ。選択肢4「理解しきれない複雑な動きを見たときに、人間が想像するものだ」が合う。1の意図の理解、2の想像しても意味がない、3の想像できないはいずれも逆。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "意図の理解ではなく想像の命名が要点。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「想像しても意味がない」は筆者と逆。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "想像できない、ではなく想像するのが要点。"
+    }
+   ],
+   "evidence": "「心とは、観察する側の問題である」",
+   "option_readings": {
+    "1": "あるとおもってかんさつすれば、ふくざつなうごきのいとがりかいできる。",
+    "2": "じったいがないので、あるとかないとかそうぞうしてもいみがない。",
+    "3": "しくみがふくざつすぎるため、にんげんどうしであってもそうぞうできない。",
+    "4": "りかいしきれないふくざつなうごきをみたときに、にんげんがそうぞうするものだ。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 60,
+   "key_point": "対比讀解・メモ",
+   "analysis_zh": "Aの要点：メモは別の機会に役立つかもしれない内容を活用するために必要。Bの要点：メモを取ること自体が目的になって集中し過ぎると、肝心な内容が頭に入らず意味がない。選択肢3が合う。1の量より内容、2のできるだけ多く、4の問題点や感想の記入はいずれも両者の記述と違う。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「量より内容」はBの主旨とずれる。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "Bは「できるだけ多く」に反対。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "Aは感想の記入を述べていない。"
+    }
+   ],
+   "evidence": "A「別の機会に自分の役に立つかもしれない」／B「メモを取ることが目的になってしまっているのではないか」",
+   "option_readings": {
+    "1": "AもBも、りょうよりもかきとるないようをいしきしてとることがじゅうようだとのべている。",
+    "2": "AもBも、できるだけおおくのじょうほうをせいかくにかきとったほうがいいとのべている。",
+    "3": "Aはないようをかつようするためにひつようだとのべ、Bはとることにしゅうちゅうしすぎてはいみがないとのべている。",
+    "4": "Aはもんだいてんやかんそうなどもいっしょにきにゅうしたほうがいいとのべ、Bははなしのないようをりかいしていなければせいかくにはとれないとのべている。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 61,
+   "key_point": "対比讀解・聞き方",
+   "analysis_zh": "共通点：Aは「新しい発想や考え方のヒントを得たいといつも問題意識を持っていれば」、Bは「主体的に考えながら聞くことが必要」と述べ、いずれも何かを得ようという姿勢で聞くことを重視。選択肢1が合う。2の理解しなくていい、3の手を動かす（Aのみ）、4の安心感（Bのみ）は共通点ではない。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "その場で理解しなくていい、とは述べられていない。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "手を動かすのはAのみ。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "話し手の安心感はBのみ。"
+    }
+   ],
+   "evidence": "A「いつも問題意識を持っていれば」／B「主体的に考えながら聞くことが必要」",
+   "option_readings": {
+    "1": "なにかをえようというしせいできくことがじゅうようだ。",
+    "2": "そのばですべてをりかいしようとしなくてもいい。",
+    "3": "てをうごかしながらきいたほうが、きおくにのこりやすい。",
+    "4": "きょうみやかんしんをしめし、はなしてにあんしんかんをあたえることがたいせつだ。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 62,
+   "key_point": "長文讀解・教育",
+   "analysis_zh": "筆者の要点：教育の役立ちの度合いは決して大きいものではない。その理由は「教えたからといって、その分だけ子どもが育つというわけではない」＝子どもは教えたとおりに育つとは限らないから。選択肢4が合う。1の人材の違い、2の生きる力の不明確さ、3の内容を変えられないは理由として述べられていない。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "人材の違いは理由として述べられていない。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「生きる力」の不明確さは理由ではない。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "内容変更の可否は理由ではない。"
+    }
+   ],
+   "evidence": "「教えたからといって、その分だけ子どもが育つというわけではない」",
+   "option_readings": {
+    "1": "きぎょうやしゃかいがのぞむじんざいと、きょういくがくでもくひょうとするじんざいはことなるから。",
+    "2": "「いきるちから」をつけるためにひつようなことは、めいかくではないから。",
+    "3": "こどもいちにんいちにんにあわせて、きょういくのないようをかえられないから。",
+    "4": "こどもは、おしえたとおりにそだつとはかぎらないから。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 63,
+   "key_point": "長文讀解・教育",
+   "analysis_zh": "筆者の要点：教育は経済のためだけのものでも共同体の維持のためだけのものでも家族のためだけのものでもない。どれか一つの目的のためにだけ合理化・効率化しようとすれば歪なものになる。選択肢3「特定の目的を果たすために存在するものではない」が合う。1の合理化しなければ、2の一つ目的の共有、4の役に立つかで評価はいずれも筆者と逆。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "合理化・効率化は歪みを生む、と述べられている。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "一つの目的の共有は述べられていない。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「役に立つか」で評価すべき、とは述べられていない。"
+    }
+   ],
+   "evidence": "「どれかの目的のためにだけに合理化・効率化しようとすれば、教育はずいぶんと歪なものになる」",
+   "option_readings": {
+    "1": "それぞれのもくてきにあわせてごうりか・こうりつかしなければ、きのうしない。",
+    "2": "みんなでひとつのもくてきをきょうゆうしなければ、こうかはあがらない。",
+    "3": "とくていのもくてきをはたすためにそんざいするものではない。",
+    "4": "やくにたつかどうかというかんてんでひょうかされるべきだ。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 64,
+   "key_point": "長文讀解・教育の主張",
+   "analysis_zh": "筆者が最も言いたいこと：現代日本社会の問題をなんでもかんでも教育で解決しようというのはいただけない。教育に過剰な期待を託すことに警報を鳴らすことが今一番必要。選択肢4「現代社会の問題のすべてが、教育で解決できると思ってはいけない」が合う。1のあり方を見直す、2の合理化すべきではない、3の改革で社会を持続は主旨とずれる。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「あり方を見直す」ではなく過剰な期待への警報が要点。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "合理化の是非ではなく、過剰な期待が問題。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "改革による社会の持続は述べられていない。"
+    }
+   ],
+   "evidence": "「現代日本社会の問題を、なんでもかんでも教育で解決しようというのはいただけない」",
+   "option_readings": {
+    "1": "たようなしゃかいのようきゅうにおうじられるように、きょういくのありかたをかんがえなおすべきだ。",
+    "2": "しゃかいのふあんをとりのぞくためには、きょういくをごうりか・こうりつかすべきではない。",
+    "3": "きょういくのかいかくによって、あんていしたしゃかいをじぞくさせていくことがひつようだろう。",
+    "4": "げんだいしゃかいのもんだいのすべてが、きょういくでかいけつできるとおもってはいけない。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 65,
+   "key_point": "資訊檢索・運動教室",
+   "analysis_zh": "対象条件：①市内在住もしくは市内で勤務、18歳以上 ②受講日から過去1年以内に健康度測定を受けた。ダニエルさんは測定が去年の1月で1年超えのため不可。大川さんは16歳で不可。チェさんは5月に受ける予定で4月時点で未受診のため不可。木村さんは34歳・市内勤務・去年の10月に測定で両方満たす。→2。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "ダニエルさんは健康度測定が1年超え。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "大川さんは16歳で年齢条件を満たさない。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "チェさんは受講日時点で未受診。"
+    }
+   ],
+   "evidence": "①②の両方に当てはまる方",
+   "option_readings": {
+    "2": "きむらさん",
+    "3": "おおかわさん"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 66,
+   "key_point": "資訊檢索・追加予約",
+   "analysis_zh": "追加予約のルール：実施日の2日前に定員に達していないクラスに限り、週1回まで。空きは2日前から窓口か電話で確認。予約方法は2回目以降は予約機か電話。体操は金曜日なので2日前＝水曜日以降に窓口か電話で空きを確認し、空きがあれば予約機か電話で予約する。→4。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "2日前から確認（月曜は早い）、予約は予約機か電話。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "月曜日は2日前より早い。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "2回目以降の予約は窓口ではない。"
+    }
+   ],
+   "evidence": "「空きは2日前から、健康づくりセンター窓口か電話で確認」「予約が2回目以降の方は、予約機か電話で」",
+   "option_readings": {
+    "1": "らいしゅうのげつようびいこうにまどぐちかでんわであきをかくにんし、あきがあれば、まどぐちでよやくする。",
+    "2": "らいしゅうのげつようびいこうにまどぐちかでんわであきをかくにんし、あきがあれば、よやくきかでんわでよやくする。",
+    "3": "らいしゅうのすいようびいこうにまどぐちかでんわであきをかくにんし、あきがあれば、まどぐちでよやくする。",
+    "4": "らいしゅうのすいようびいこうにまどぐちかでんわであきをかくにんし、あきがあれば、よやくきかでんわでよやくする。"
+   }
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 1,
+   "key_point": "聽解・課題理解",
+   "analysis_zh": "問題1は話を聞いて「何をしなければならないか」を選ぶ。印刷選択肢の内容から場面を推測し、話の結論部分に注意して聞く。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {
+    "1": "はなしあいのしんこうをする",
+    "2": "ちょうりきぐをかりてくる",
+    "3": "ほかのさーくるのじょうほうをあつめる",
+    "4": "みーてぃんぐのきろくをとる"
+   }
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 2,
+   "key_point": "聽解・課題理解",
+   "analysis_zh": "問題1は話を聞いて「何をしなければならないか」を選ぶ。印刷選択肢の内容から場面を推測し、話の結論部分に注意して聞く。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {
+    "1": "しょくじかいをけいかくする",
+    "2": "わかいしゃいんのきぼうをちょうさする",
+    "3": "あんけーとのあんをつくる",
+    "4": "べてらんしゃいんのいけんをきく"
+   }
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 3,
+   "key_point": "聽解・課題理解",
+   "analysis_zh": "問題1は話を聞いて「何をしなければならないか」を選ぶ。印刷選択肢の内容から場面を推測し、話の結論部分に注意して聞く。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {
+    "1": "めせんをさげないようにする",
+    "2": "ひじをうしろにひきあげる",
+    "3": "せなかがまるまらないようにする",
+    "4": "からだのじゅうしんのさゆうのばらんすをとる"
+   }
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 4,
+   "key_point": "聽解・課題理解",
+   "analysis_zh": "問題1は話を聞いて「何をしなければならないか」を選ぶ。印刷選択肢の内容から場面を推測し、話の結論部分に注意して聞く。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {
+    "1": "やまかわえきのりようしゃでーたをたす",
+    "2": "ちいきじゅうみんのねんだいをしらべる",
+    "3": "うりあげよそくをしゅうせいする",
+    "4": "てんないのでざいんをへんこうする"
+   }
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 5,
+   "key_point": "聽解・課題理解",
+   "analysis_zh": "問題1は話を聞いて「何をしなければならないか」を選ぶ。印刷選択肢の内容から場面を推測し、話の結論部分に注意して聞く。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {
+    "1": "すみにひをつける",
+    "3": "たいらないしをさがす",
+    "4": "ほごめがねをつける"
+   }
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 6,
+   "key_point": "聽解・要点理解",
+   "analysis_zh": "問題2は質問を先に聞き、選択肢を読んでから話を聞く。「何がポイントか」を押さえ、話の要点に合う選択肢を選ぶ。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {
+    "1": "ひろいばしょがかくほできるか",
+    "2": "きざいのかずをじゅうぶんにそろえられるか",
+    "3": "あたらしいぼうえんきょうをつかいこなせるか",
+    "4": "せいざをわかりやすくかいせつできるか"
+   }
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 7,
+   "key_point": "聽解・要点理解",
+   "analysis_zh": "問題2は質問を先に聞き、選択肢を読んでから話を聞く。「何がポイントか」を押さえ、話の要点に合う選択肢を選ぶ。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {
+    "1": "しょうひんのかいはつをまかせたこと",
+    "2": "きほんてきなしごとのたいせつさをりかいしてもらったこと",
+    "3": "せんぱいとちーむをくませたこと",
+    "4": "きゅうりょうをあげたこと"
+   }
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 8,
+   "key_point": "聽解・要点理解",
+   "analysis_zh": "問題2は質問を先に聞き、選択肢を読んでから話を聞く。「何がポイントか」を押さえ、話の要点に合う選択肢を選ぶ。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {
+    "1": "なるべくちいさいときからはじめさせること",
+    "2": "あこがれのせんしゅをもくひょうとさせること",
+    "3": "けがをのりこえさせること",
+    "4": "からだのはったつにあったれんしゅうをさせること"
+   }
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 9,
+   "key_point": "聽解・要点理解",
+   "analysis_zh": "問題2は質問を先に聞き、選択肢を読んでから話を聞く。「何がポイントか」を押さえ、話の要点に合う選択肢を選ぶ。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {
+    "1": "れきしのあるたてもののかつよう",
+    "2": "さいしんのじどうかしだししすてむ",
+    "3": "そとのひかりをひろくとりいれられるまど",
+    "4": "だんさがないせっけい"
+   }
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 10,
+   "key_point": "聽解・要点理解",
+   "analysis_zh": "問題2は質問を先に聞き、選択肢を読んでから話を聞く。「何がポイントか」を押さえ、話の要点に合う選択肢を選ぶ。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {
+    "1": "あまさをおさえたあじにかえること",
+    "2": "かかくをさげること",
+    "3": "しょうひんめいをかんがえなおすこと",
+    "4": "せんでんのしかたをかえること"
+   }
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 11,
+   "key_point": "聽解・要点理解",
+   "analysis_zh": "問題2は質問を先に聞き、選択肢を読んでから話を聞く。「何がポイントか」を押さえ、話の要点に合う選択肢を選ぶ。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {
+    "1": "かへいのやくわりのへんか",
+    "2": "せかいぜんたいのけいざいのうごき",
+    "3": "くにのせいじてきはんだんとけいざいのかんけい",
+    "4": "ひとのしんりがしょうひかつどうにあたえるえいきょう"
+   }
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 12,
+   "key_point": "聽解・概要理解",
+   "analysis_zh": "問題3は印刷なし。話全体を聞いて「全体としてどんな内容か」を掴む。メモを取りながら、話題の転換点に注意。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 13,
+   "key_point": "聽解・概要理解",
+   "analysis_zh": "問題3は印刷なし。話全体を聞いて「全体としてどんな内容か」を掴む。メモを取りながら、話題の転換点に注意。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 14,
+   "key_point": "聽解・概要理解",
+   "analysis_zh": "問題3は印刷なし。話全体を聞いて「全体としてどんな内容か」を掴む。メモを取りながら、話題の転換点に注意。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 15,
+   "key_point": "聽解・概要理解",
+   "analysis_zh": "問題3は印刷なし。話全体を聞いて「全体としてどんな内容か」を掴む。メモを取りながら、話題の転換点に注意。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 16,
+   "key_point": "聽解・概要理解",
+   "analysis_zh": "問題3は印刷なし。話全体を聞いて「全体としてどんな内容か」を掴む。メモを取りながら、話題の転換点に注意。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 17,
+   "key_point": "聽解・即時応答",
+   "analysis_zh": "問題4は短い文を聞いて、最もよい返事を1～3から選ぶ。文末のイントネーションと文の種類（疑問・依頼・提案など）を聞き分ける。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 18,
+   "key_point": "聽解・即時応答",
+   "analysis_zh": "問題4は短い文を聞いて、最もよい返事を1～3から選ぶ。文末のイントネーションと文の種類（疑問・依頼・提案など）を聞き分ける。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 19,
+   "key_point": "聽解・即時応答",
+   "analysis_zh": "問題4は短い文を聞いて、最もよい返事を1～3から選ぶ。文末のイントネーションと文の種類（疑問・依頼・提案など）を聞き分ける。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 20,
+   "key_point": "聽解・即時応答",
+   "analysis_zh": "問題4は短い文を聞いて、最もよい返事を1～3から選ぶ。文末のイントネーションと文の種類（疑問・依頼・提案など）を聞き分ける。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 21,
+   "key_point": "聽解・即時応答",
+   "analysis_zh": "問題4は短い文を聞いて、最もよい返事を1～3から選ぶ。文末のイントネーションと文の種類（疑問・依頼・提案など）を聞き分ける。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 22,
+   "key_point": "聽解・即時応答",
+   "analysis_zh": "問題4は短い文を聞いて、最もよい返事を1～3から選ぶ。文末のイントネーションと文の種類（疑問・依頼・提案など）を聞き分ける。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 23,
+   "key_point": "聽解・即時応答",
+   "analysis_zh": "問題4は短い文を聞いて、最もよい返事を1～3から選ぶ。文末のイントネーションと文の種類（疑問・依頼・提案など）を聞き分ける。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 24,
+   "key_point": "聽解・即時応答",
+   "analysis_zh": "問題4は短い文を聞いて、最もよい返事を1～3から選ぶ。文末のイントネーションと文の種類（疑問・依頼・提案など）を聞き分ける。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 25,
+   "key_point": "聽解・即時応答",
+   "analysis_zh": "問題4は短い文を聞いて、最もよい返事を1～3から選ぶ。文末のイントネーションと文の種類（疑問・依頼・提案など）を聞き分ける。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 26,
+   "key_point": "聽解・即時応答",
+   "analysis_zh": "問題4は短い文を聞いて、最もよい返事を1～3から選ぶ。文末のイントネーションと文の種類（疑問・依頼・提案など）を聞き分ける。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 27,
+   "key_point": "聽解・即時応答",
+   "analysis_zh": "問題4は短い文を聞いて、最もよい返事を1～3から選ぶ。文末のイントネーションと文の種類（疑問・依頼・提案など）を聞き分ける。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 28,
+   "key_point": "聽解・総合理解",
+   "analysis_zh": "問題5・1番は長めの話を聞いて質問に答える。話の流れをメモしながら聞き、質問のポイントを押さえる。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {}
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 29,
+   "key_point": "聽解・総合理解",
+   "analysis_zh": "問題5・2番は長めの話を聞いた後、二つの質問に答える。島田書店・森山書店・南ブックス・北川ブックスの違いを聞き分ける。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {
+    "1": "しまだしょてん",
+    "2": "もりやましょてん",
+    "3": "みなみぶっくす",
+    "4": "きたがわぶっくす"
+   }
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 30,
+   "key_point": "聽解・総合理解",
+   "analysis_zh": "問題5・2番は長めの話を聞いた後、二つの質問に答える。島田書店・森山書店・南ブックス・北川ブックスの違いを聞き分ける。",
+   "distractors": [],
+   "evidence": null,
+   "option_readings": {
+    "1": "しまだしょてん",
+    "2": "もりやましょてん",
+    "3": "みなみぶっくす",
+    "4": "きたがわぶっくす"
+   }
+  }
+ ],
+ "vocabulary": [
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 1,
+   "word": "騒然",
+   "reading": "そうぜん",
+   "pos": "形容動詞",
+   "meaning_zh": "騒然、騒動",
+   "example_sentence": "辺りは騒然としていた。",
+   "note": "「呆然（ぼうぜん）」と混同注意。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 2,
+   "word": "諭す",
+   "reading": "さとす",
+   "pos": "動詞",
+   "meaning_zh": "勸告、開導",
+   "example_sentence": "子どもを優しく諭した。",
+   "note": "「論す」と区別。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 3,
+   "word": "秩序",
+   "reading": "ちつじょ",
+   "pos": "名詞",
+   "meaning_zh": "秩序",
+   "example_sentence": "秩序を守ることは重要だ。",
+   "note": "「しつじょ」は誤読。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 4,
+   "word": "潜伏",
+   "reading": "せんぷく",
+   "pos": "名詞・動詞",
+   "meaning_zh": "潛伏",
+   "example_sentence": "犯人が潜伏している。",
+   "note": "濁点なし。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 5,
+   "word": "朗らか",
+   "reading": "ほがらか",
+   "pos": "形容動詞",
+   "meaning_zh": "開朗、爽朗",
+   "example_sentence": "朗らかな声が響いた。",
+   "note": "「清らか（きよらか）」と区別。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 6,
+   "word": "振興",
+   "reading": "しんこう",
+   "pos": "名詞・動詞",
+   "meaning_zh": "振興",
+   "example_sentence": "地域文化の振興に力を入れている。",
+   "note": "「人口（じんこう）」と区別。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 7,
+   "word": "自立",
+   "reading": "じりつ",
+   "pos": "名詞・動詞",
+   "meaning_zh": "自立、獨立",
+   "example_sentence": "家を出て自立したい。",
+   "note": "「自制」「自重」と区別。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 8,
+   "word": "還元",
+   "reading": "かんげん",
+   "pos": "名詞・動詞",
+   "meaning_zh": "回饋、還原",
+   "example_sentence": "利益を町に還元している。",
+   "note": "利益の還元が定番搭配。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 9,
+   "word": "どんより",
+   "reading": "どんより",
+   "pos": "副詞",
+   "meaning_zh": "陰沉沉（天空）",
+   "example_sentence": "空がどんよりと曇っている。",
+   "note": "空・雲の様子に使う。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 10,
+   "word": "ネック",
+   "reading": "ネック",
+   "pos": "名詞",
+   "meaning_zh": "瓶頸、障礙",
+   "example_sentence": "維持費の高さがネックになっている。",
+   "note": null,
+   "etymology_en": "neck"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 11,
+   "word": "発散",
+   "reading": "はっさん",
+   "pos": "名詞・動詞",
+   "meaning_zh": "發散、抒發",
+   "example_sentence": "ストレスの発散になる。",
+   "note": "ストレス発散が定番。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 12,
+   "word": "まぎらわしい",
+   "reading": "まぎらわしい",
+   "pos": "形容詞",
+   "meaning_zh": "容易混淆的",
+   "example_sentence": "よく似ていてまぎらわしい。",
+   "note": "「紛らわしい」とも書く。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 13,
+   "word": "行き届く",
+   "reading": "いきとどく",
+   "pos": "動詞",
+   "meaning_zh": "周到、遍及",
+   "example_sentence": "掃除が行き届いている。",
+   "note": "「行き届いた配慮」の形でも使う。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 14,
+   "word": "懸念",
+   "reading": "けねん",
+   "pos": "名詞・動詞",
+   "meaning_zh": "擔憂、憂慮",
+   "example_sentence": "影響が出ることが懸念される。",
+   "note": "「心配」と同義。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 15,
+   "word": "やつれる",
+   "reading": "やつれる",
+   "pos": "動詞",
+   "meaning_zh": "消瘦、憔悴",
+   "example_sentence": "やつれているようだった。",
+   "note": "「やせ衰える」と同義。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 16,
+   "word": "奮闘",
+   "reading": "ふんとう",
+   "pos": "名詞・動詞",
+   "meaning_zh": "奮鬥、努力",
+   "example_sentence": "奮闘している姿を見た。",
+   "note": "「必死に頑張る」と同義。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 17,
+   "word": "不慮",
+   "reading": "ふりょ",
+   "pos": "名詞",
+   "meaning_zh": "意外、意料之外",
+   "example_sentence": "不慮の事故だった。",
+   "note": "「思いがけない」と同義。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 18,
+   "word": "根こそぎ",
+   "reading": "ねこそぎ",
+   "pos": "副詞",
+   "meaning_zh": "連根拔起、全部",
+   "example_sentence": "品物を根こそぎもっていかれた。",
+   "note": "「すべて」と同義。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 19,
+   "word": "没頭",
+   "reading": "ぼっとう",
+   "pos": "名詞・動詞",
+   "meaning_zh": "埋頭、專注",
+   "example_sentence": "仕事に没頭していた。",
+   "note": "「熱中」と同義。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 20,
+   "word": "兆し",
+   "reading": "きざし",
+   "pos": "名詞",
+   "meaning_zh": "前兆、徵兆",
+   "example_sentence": "景気がよくなる兆しが見られない。",
+   "note": "「きざし」と読む。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 21,
+   "word": "収容",
+   "reading": "しゅうよう",
+   "pos": "名詞・動詞",
+   "meaning_zh": "收容、容納",
+   "example_sentence": "5,500人の観客を収容できる。",
+   "note": "人・動物を施設に入れる意。荷物は「収納」。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 22,
+   "word": "さえる",
+   "reading": "さえる",
+   "pos": "動詞",
+   "meaning_zh": "清醒、明晰",
+   "example_sentence": "目がさえて眠れない。",
+   "note": "目・頭がさえる。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 23,
+   "word": "痛烈",
+   "reading": "つうれつ",
+   "pos": "形容動詞",
+   "meaning_zh": "強烈、尖銳",
+   "example_sentence": "痛烈な批判を受けた。",
+   "note": "批判に使う。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 24,
+   "word": "完結",
+   "reading": "かんけつ",
+   "pos": "名詞・動詞",
+   "meaning_zh": "完結、終了",
+   "example_sentence": "連載小説が完結する。",
+   "note": "物語の終わりに使う。「完了」と区別。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 25,
+   "word": "もろい",
+   "reading": "もろい",
+   "pos": "形容詞",
+   "meaning_zh": "脆弱的、易碎的",
+   "example_sentence": "壁がもろくなっている。",
+   "note": "壊れやすい意。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 26,
+   "word": "誇りに思う",
+   "reading": "ほこりにおもう",
+   "pos": "慣用句",
+   "meaning_zh": "感到自豪",
+   "example_sentence": "弟のことを誇りに思う。",
+   "note": "「〜を誇りに思う」が定型。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 27,
+   "word": "〜からしか〜ない",
+   "reading": "からしかない",
+   "pos": "文法",
+   "meaning_zh": "只有…才…",
+   "example_sentence": "失敗からしか学べないこともある。",
+   "note": "N1 限定表現。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 28,
+   "word": "〜そのもの",
+   "reading": "そのもの",
+   "pos": "文法",
+   "meaning_zh": "正是…本身",
+   "example_sentence": "真剣そのものだった。",
+   "note": "名詞＋そのもの。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 29,
+   "word": "〜うちに",
+   "reading": "うちに",
+   "pos": "文法",
+   "meaning_zh": "在…期間漸漸…",
+   "example_sentence": "仕事をするうちに分かってきた。",
+   "note": "変化のニュアンス。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 30,
+   "word": "〜たところ",
+   "reading": "たところ",
+   "pos": "文法",
+   "meaning_zh": "正當…時",
+   "example_sentence": "できずにいたところ、教えてくれた。",
+   "note": "N1「ちょうど〜した時」。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 31,
+   "word": "〜ぐらい",
+   "reading": "ぐらい",
+   "pos": "文法",
+   "meaning_zh": "…到…程度",
+   "example_sentence": "雪が降るんじゃないかというぐらい寒かった。",
+   "note": "程度を表す。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 32,
+   "word": "〜なくもない",
+   "reading": "なくもない",
+   "pos": "文法",
+   "meaning_zh": "並非不…（二重否定）",
+   "example_sentence": "歩けなくもない。",
+   "note": "二重否定で肯定の意。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 33,
+   "word": "おいでになる",
+   "reading": "おいでになる",
+   "pos": "敬語",
+   "meaning_zh": "來、去（尊敬語）",
+   "example_sentence": "沢山の方がおいでくださいました。",
+   "note": "「いらっしゃる」と同義の尊敬語。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 34,
+   "word": "〜たつもりになる",
+   "reading": "たつもりになる",
+   "pos": "文法",
+   "meaning_zh": "感覺像…一樣",
+   "example_sentence": "旅行したつもりになれる。",
+   "note": "気分を表す。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 35,
+   "word": "んだもん",
+   "reading": "んだもん",
+   "pos": "終助詞",
+   "meaning_zh": "嘛（女性用語氣詞）",
+   "example_sentence": "読めるんだもん。",
+   "note": "「のだもの」の口語。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 36,
+   "word": "〜反面",
+   "reading": "はんめん",
+   "pos": "文法",
+   "meaning_zh": "一方面…另一方面…",
+   "example_sentence": "効果的である反面、〜こともある。",
+   "note": "★文型。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 37,
+   "word": "〜へのアクセス",
+   "reading": "へのアクセス",
+   "pos": "表現",
+   "meaning_zh": "對…的接入",
+   "example_sentence": "インターネットへのアクセスが可能な環境。",
+   "note": "「への」の後は名詞。",
+   "etymology_en": "access"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 38,
+   "word": "〜ほど",
+   "reading": "ほど",
+   "pos": "文法",
+   "meaning_zh": "…到…程度",
+   "example_sentence": "判別が難しいほど違う。",
+   "note": "程度・結果を表す。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 39,
+   "word": "〜といえば〜が",
+   "reading": "といえば",
+   "pos": "文法",
+   "meaning_zh": "要說…雖…但…",
+   "example_sentence": "不安がなかったといえばうそになるが。",
+   "note": "譲歩の表現。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 40,
+   "word": "今でこそ",
+   "reading": "いまでこそ",
+   "pos": "副詞",
+   "meaning_zh": "到如今才…",
+   "example_sentence": "今でこそ都市となったが。",
+   "note": "「今でこそ〜が、〜だった」の対比。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 41,
+   "word": "〜でもあるまい",
+   "reading": "でもあるまい",
+   "pos": "文法",
+   "meaning_zh": "大概不…吧（否定推量）",
+   "example_sentence": "たいそうな小説でもあるまい。",
+   "note": "強い否定の推量。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 42,
+   "word": "〜たり〜たりする",
+   "reading": "たりたりする",
+   "pos": "文法",
+   "meaning_zh": "又…又…（列舉）",
+   "example_sentence": "感心したり、あきれ果てたりする。",
+   "note": "動作の列挙。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 43,
+   "word": "否定できなくなる",
+   "reading": "ひていできなくなる",
+   "pos": "表現",
+   "meaning_zh": "變得無法否定",
+   "example_sentence": "自分を否定できなくなる。",
+   "note": "二重否定で肯定の意。「せずにいられない」と区別。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 44,
+   "word": "〜とは",
+   "reading": "とは",
+   "pos": "文法",
+   "meaning_zh": "所謂…就是…",
+   "example_sentence": "一生の仕事とはそうしたものだ。",
+   "note": "定義・断定。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 45,
+   "word": "情報化社会",
+   "reading": "じょうほうかしゃかい",
+   "pos": "名詞",
+   "meaning_zh": "資訊化社會",
+   "example_sentence": "情報化社会の特徴。",
+   "note": "焦りのメカニズムが要点。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 46,
+   "word": "観察",
+   "reading": "かんさつ",
+   "pos": "名詞・動詞",
+   "meaning_zh": "觀察",
+   "example_sentence": "客観的に観察することになる。",
+   "note": "「書くこと」は「読むこと」。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 47,
+   "word": "本質",
+   "reading": "ほんしつ",
+   "pos": "名詞",
+   "meaning_zh": "本質",
+   "example_sentence": "本質なきところに良い伝え方はない。",
+   "note": "「伝え方」との対比。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 48,
+   "word": "対話",
+   "reading": "たいわ",
+   "pos": "名詞・動詞",
+   "meaning_zh": "對話",
+   "example_sentence": "それが対話だ。",
+   "note": "違いを把握し考えを鍛える。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 49,
+   "word": "物差し",
+   "reading": "ものさし",
+   "pos": "名詞",
+   "meaning_zh": "尺度、標準",
+   "example_sentence": "自分の物差しが変わる。",
+   "note": "比喩的に基準の意。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 50,
+   "word": "疑う",
+   "reading": "うたがう",
+   "pos": "動詞",
+   "meaning_zh": "懷疑",
+   "example_sentence": "常識を疑ってみる。",
+   "note": "積極的な営みとしての「疑う」。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 51,
+   "word": "エライオソーム",
+   "reading": "エライオソーム",
+   "pos": "名詞",
+   "meaning_zh": "油質體（蟻播種子附屬物）",
+   "example_sentence": "エライオソームと呼ばれるもの。",
+   "note": null,
+   "etymology_en": "elaiosome"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 52,
+   "word": "におい",
+   "reading": "におい",
+   "pos": "名詞",
+   "meaning_zh": "氣味",
+   "example_sentence": "死んだ幼虫のにおいに変わる。",
+   "note": "種のにおいの変化が要点。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 53,
+   "word": "揶揄",
+   "reading": "やゆ",
+   "pos": "名詞・動詞",
+   "meaning_zh": "揶揄、嘲諷",
+   "example_sentence": "チクリと揶揄される。",
+   "note": "難読語。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 54,
+   "word": "逸脱",
+   "reading": "いつだつ",
+   "pos": "名詞・動詞",
+   "meaning_zh": "偏離、脫離",
+   "example_sentence": "絶妙な逸脱。",
+   "note": "模倣からの自由な逸脱が個性に。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 55,
+   "word": "ユニバーサルデザイン",
+   "reading": "ユニバーサルデザイン",
+   "pos": "名詞",
+   "meaning_zh": "通用設計",
+   "example_sentence": "ユニバーサルデザイン（UD）。",
+   "note": null,
+   "etymology_en": "universal design"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 56,
+   "word": "平等",
+   "reading": "びょうどう",
+   "pos": "名詞・形容動詞",
+   "meaning_zh": "平等",
+   "example_sentence": "平等という意識。",
+   "note": "常に必要な普通の意識。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 57,
+   "word": "予測不能",
+   "reading": "よそくふのう",
+   "pos": "名詞・形容動詞",
+   "meaning_zh": "無法預測",
+   "example_sentence": "予測不能になった。",
+   "note": "複雑さが要点。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 58,
+   "word": "首尾一貫",
+   "reading": "しゅびいっかん",
+   "pos": "名詞・形容動詞",
+   "meaning_zh": "首尾一貫、有條理",
+   "example_sentence": "首尾一貫した意思決定機構。",
+   "note": "四字熟語。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 59,
+   "word": "心",
+   "reading": "こころ",
+   "pos": "名詞",
+   "meaning_zh": "心",
+   "example_sentence": "「心とは、観察する側の問題である」。",
+   "note": "筆者の定義が要点。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 60,
+   "word": "主体的に",
+   "reading": "しゅたいてきに",
+   "pos": "副詞",
+   "meaning_zh": "主動地",
+   "example_sentence": "主体的に考えながら聞く。",
+   "note": "A・B共通のキーワード。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 61,
+   "word": "問題意識",
+   "reading": "もんだいいしき",
+   "pos": "名詞",
+   "meaning_zh": "問題意識",
+   "example_sentence": "いつも問題意識を持っていれば。",
+   "note": "A・B共通点。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 62,
+   "word": "不確定性",
+   "reading": "ふかくていせい",
+   "pos": "名詞",
+   "meaning_zh": "不確定性",
+   "example_sentence": "教育には不確定性がつきもの。",
+   "note": "「教育学の基本のキ」。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 63,
+   "word": "合理化",
+   "reading": "ごうりか",
+   "pos": "名詞・動詞",
+   "meaning_zh": "合理化",
+   "example_sentence": "合理化・効率化しようとすれば歪になる。",
+   "note": "筆者は批判的。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 64,
+   "word": "警報",
+   "reading": "けいほう",
+   "pos": "名詞",
+   "meaning_zh": "警報、警告",
+   "example_sentence": "警報を鳴らすことが今一番必要。",
+   "note": "比喩的用法。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 65,
+   "word": "追加予約",
+   "reading": "ついかよやく",
+   "pos": "名詞",
+   "meaning_zh": "追加預約",
+   "example_sentence": "追加予約ができる。",
+   "note": "2日前から、週1回まで。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 66,
+   "word": "定員",
+   "reading": "ていいん",
+   "pos": "名詞",
+   "meaning_zh": "定額、名額",
+   "example_sentence": "定員に達していないクラス。",
+   "note": "各クラス定員20名。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 1,
+   "word": "課題理解",
+   "reading": "かだいりかい",
+   "pos": "名詞",
+   "meaning_zh": "課題理解（聽解問題1）",
+   "example_sentence": "話を聞いて何をすべきか選ぶ。",
+   "note": "結論部分に注意。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 2,
+   "word": "調理器具",
+   "reading": "ちょうりきぐ",
+   "pos": "名詞",
+   "meaning_zh": "烹飪器具",
+   "example_sentence": "調理器具を借りてくる。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 3,
+   "word": "姿勢",
+   "reading": "しせい",
+   "pos": "名詞",
+   "meaning_zh": "姿勢",
+   "example_sentence": "体の重心の左右のバランスを取る。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 4,
+   "word": "売り上げ予測",
+   "reading": "うりあげよそく",
+   "pos": "名詞",
+   "meaning_zh": "銷售預測",
+   "example_sentence": "売り上げ予測を修正する。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 5,
+   "word": "保護めがね",
+   "reading": "ほごめがね",
+   "pos": "名詞",
+   "meaning_zh": "護目鏡",
+   "example_sentence": "保護めがねをつける。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 6,
+   "word": "要点理解",
+   "reading": "ようてんりかい",
+   "pos": "名詞",
+   "meaning_zh": "要點理解（聽解問題2）",
+   "example_sentence": "質問を先に聞く。",
+   "note": "選択肢を読んでから聞く。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 7,
+   "word": "先輩",
+   "reading": "せんぱい",
+   "pos": "名詞",
+   "meaning_zh": "前輩",
+   "example_sentence": "せんぱいとチームを組ませたこと。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 8,
+   "word": "憧れ",
+   "reading": "あこがれ",
+   "pos": "名詞",
+   "meaning_zh": "憧憬",
+   "example_sentence": "憧れの選手を目標とさせること。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 9,
+   "word": "貸し出し",
+   "reading": "かしだし",
+   "pos": "名詞",
+   "meaning_zh": "出借",
+   "example_sentence": "最新の自動貸し出しシステム。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 10,
+   "word": "宣伝",
+   "reading": "せんでん",
+   "pos": "名詞・動詞",
+   "meaning_zh": "宣傳",
+   "example_sentence": "せんでんのしかたを変えること。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 11,
+   "word": "貨幣",
+   "reading": "かへい",
+   "pos": "名詞",
+   "meaning_zh": "貨幣",
+   "example_sentence": "かへいの役割の変化。",
+   "note": null,
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 12,
+   "word": "概要理解",
+   "reading": "がいようりかい",
+   "pos": "名詞",
+   "meaning_zh": "概要理解（聽解問題3）",
+   "example_sentence": "無印刷、メモ可。",
+   "note": "全体の内容を掴む。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 17,
+   "word": "即時応答",
+   "reading": "そくじおうとう",
+   "pos": "名詞",
+   "meaning_zh": "即時應答（聽解問題4）",
+   "example_sentence": "無印刷。",
+   "note": "1～3から返事を選ぶ。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 28,
+   "word": "総合理解",
+   "reading": "そうごうりかい",
+   "pos": "名詞",
+   "meaning_zh": "綜合理解（聽解問題5）",
+   "example_sentence": "長めの話。",
+   "note": "メモ可。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 29,
+   "word": "書店",
+   "reading": "しょてん",
+   "pos": "名詞",
+   "meaning_zh": "書店",
+   "example_sentence": "島田書店・森山書店。",
+   "note": "南ブックス・北川ブックスと聞き分け。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "listening",
+   "number_in_section": 30,
+   "word": "ブックス",
+   "reading": "ブックス",
+   "pos": "名詞",
+   "meaning_zh": "書店（外來語）",
+   "example_sentence": "南ブックス・北川ブックス。",
+   "note": null,
+   "etymology_en": "books"
+  }
+ ]
+}

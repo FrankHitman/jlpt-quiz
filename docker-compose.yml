@@ -23,6 +23,8 @@ services:
       dockerfile: docker/backend.Dockerfile
     environment:
       DATABASE_URL: postgresql://jlpt_app:${DB_PASSWORD:-jlpt_quiz_local}@db:5432/jlpt_quiz
+      # 開發預設值；生產環境務必設置強隨機的 JWT_SECRET 環境變數
+      JWT_SECRET: ${JWT_SECRET:-dev-jwt-secret-change-me}
     ports:
       - "8000:8000"
     depends_on:

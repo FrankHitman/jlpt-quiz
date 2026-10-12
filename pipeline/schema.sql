@@ -49,6 +49,7 @@ CREATE TABLE explanations (
   analysis_zh TEXT NOT NULL,                  -- 繁中解析
   distractors JSONB,                          -- [{"option":"2","why_wrong":"..."}] 迷惑選項為何錯
   evidence TEXT,                              -- 原文依據（讀解：引用關鍵句＋位置；無則NULL）
+  option_readings JSONB,                      -- {"1":"がんじょう",...} 四個選項的假名注音（純假名選項可省略）
   created_at TIMESTAMPTZ DEFAULT now()
 );
 CREATE TABLE vocabulary (
@@ -91,4 +92,19 @@ CREATE TABLE attempt_answers (
   is_correct BOOLEAN,
   answered_at TIMESTAMPTZ DEFAULT now(),
   UNIQUE(attempt_id, question_id)
+);
+
+-- 錯題本（需登錄）
+CREATE TABLE wrong_answers (
+  id SERIAL PRIMARY KEY,
+  user_id INT NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+  question_id INT NOT NULL REFERENCES questions(id) ON DELETE CASCADE,
+  attempt_id INT REFERENCES attempts(id) ON DELETE SET NULL,
+  created_at TIMESTAMPTZ DEFAULT now(),
+  wrong_count INT NOT NULL DEFAULT 1,
+  mastered BOOLEAN NOT NULL DEFAULT FALSE,
+  mastered_at TIMESTAMPTZ,
+  review_count INT NOT NULL DEFAULT 0,
+  last_reviewed_at TIMESTAMPTZ,
+  UNIQUE(user_id, question_id)
 );

@@ -6,6 +6,7 @@ export interface SectionSummary {
   name_zh: string;
   time_limit_min: number;
   question_count: number;
+  has_audio: boolean;
 }
 
 export interface ExamSummary {
@@ -50,6 +51,8 @@ export interface AnsweringQuestion {
   stem: string;
   /** 題干中需強調的候選詞原文（漢字讀音／近義詞題）；無則為 null */
   target_text: string | null;
+  /** 聽力音頻 URL（相對於 API origin，如 /static/audio/xxx.mp3）；無則為 null */
+  audio_url: string | null;
   options: OptionItem[];
   group: QuestionGroupView | null;
 }
@@ -71,6 +74,8 @@ export interface Explanation {
   analysis_zh: string;
   distractors: Distractor[] | null;
   evidence: string | null;
+  /** 四個選項的假名注音，如 {"1":"がんじょう"}；無則為 null（mock/舊數據可省略） */
+  option_readings?: Record<string, string> | null;
   vocabulary: VocabularyItem[];
 }
 
@@ -131,4 +136,42 @@ export interface QuizApi {
   startAttempt(input: StartAttemptInput): Promise<{ attempt_id: number; time_limit_min: number | null }>;
   submitAttempt(attemptId: number, answers: SubmitAnswer[]): Promise<SubmitResult>;
   getAttempt(attemptId: number): Promise<AttemptResult>;
+  // ---- 認證（真實後端；演示模式不支援） ----
+  register(username: string, password: string): Promise<AuthSession>;
+  login(username: string, password: string): Promise<AuthSession>;
+  me(): Promise<AuthUser>;
+  // ---- 錯題本（真實後端；需登入） ----
+  listWrongAnswers(params?: {
+    mastered?: boolean;
+    qtype_code?: string;
+  }): Promise<WrongAnswerItem[]>;
+  setWrongAnswerMastered(id: number, mastered: boolean): Promise<WrongAnswerItem>;
+  deleteWrongAnswer(id: number): Promise<void>;
+  startWrongPractice(questionIds: number[]): Promise<{
+    attempt_id: number;
+    questions: AnsweringQuestion[];
+  }>;
+}
+
+export interface AuthUser {
+  id: number;
+  username: string;
+}
+
+export interface AuthSession {
+  token: string;
+  user: AuthUser;
+}
+
+export interface WrongAnswerItem {
+  id: number;
+  question: AnsweringQuestion;
+  correct_option: string;
+  explanation: Explanation;
+  wrong_count: number;
+  mastered: boolean;
+  mastered_at: string | null;
+  review_count: number;
+  last_reviewed_at: string | null;
+  created_at: string | null;
 }

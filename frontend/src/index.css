@@ -406,6 +406,21 @@ h2 {
   white-space: pre-wrap;
 }
 
+.qcard-audio {
+  margin-bottom: 0.8rem;
+}
+
+.qcard-audio audio {
+  width: 100%;
+  max-width: 480px;
+}
+
+.audio-hint {
+  font-size: 0.85rem;
+  color: #666;
+  margin-top: 0.25rem;
+}
+
 .options {
   display: flex;
   flex-direction: column;
@@ -707,3 +722,134 @@ h2 {
     grid-template-columns: 1fr;
   }
 }
+
+/* ---- 認證彈窗 ---- */
+.modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.45);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+}
+.modal {
+  background: var(--card);
+  border-radius: 12px;
+  padding: 1.5rem;
+  width: min(92vw, 380px);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.25);
+}
+.modal label {
+  display: block;
+  margin: 0.8rem 0;
+}
+.modal input {
+  display: block;
+  width: 100%;
+  margin-top: 0.3rem;
+  padding: 0.55rem 0.7rem;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  font-size: 1rem;
+  background: var(--bg);
+  color: var(--ink);
+  box-sizing: border-box;
+}
+.modal-actions {
+  display: flex;
+  gap: 0.6rem;
+  margin-top: 1rem;
+}
+
+/* ---- 通用按鈕別名（沿用 .btn 設計語言） ---- */
+.primary-btn {
+  display: inline-block;
+  padding: 0.5rem 1.1rem;
+  border: 1px solid var(--brand);
+  background: var(--brand);
+  color: #fff;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+.primary-btn:hover:not(:disabled) { background: var(--brand-dark); }
+.primary-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+.primary-btn.small { padding: 0.35rem 0.8rem; font-size: 0.9rem; }
+.ghost-btn {
+  display: inline-block;
+  padding: 0.5rem 1.1rem;
+  border: 1px solid var(--line);
+  background: var(--card);
+  color: var(--ink);
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+.ghost-btn:hover { border-color: var(--brand); color: var(--brand); }
+
+/* ---- 頁籤 ---- */
+.tabs { display: flex; gap: 0.4rem; }
+.tab {
+  padding: 0.4rem 0.9rem;
+  border: 1px solid var(--line);
+  background: var(--card);
+  color: var(--ink);
+  border-radius: 999px;
+  cursor: pointer;
+  font-size: 0.95rem;
+}
+.tab.active {
+  background: var(--brand);
+  border-color: var(--brand);
+  color: #fff;
+}
+
+/* ---- 頂欄導航按鈕 ---- */
+.nav-link-btn {
+  background: none;
+  border: none;
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+  padding: 0;
+  text-decoration: none;
+}
+.nav-link-btn:hover { color: var(--brand); }
+
+/* ---- 錯題本 ---- */
+.wrong-item {
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 0.9rem 1rem;
+  margin: 0.7rem 0;
+  background: var(--card);
+}
+.wrong-item.is-mastered { opacity: 0.75; }
+.wrong-head {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+  font-size: 0.9rem;
+}
+.wrong-meta { color: var(--muted); }
+.wrong-actions { margin-left: auto; display: flex; gap: 0.6rem; }
+.link-btn.danger { color: var(--danger, #c0392b); }
+.wrong-stem {
+  margin-top: 0.5rem;
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+.wrong-expl { margin-top: 0.6rem; }
+.answer-block { margin: 1rem 0; }
+.answer-index { font-weight: 600; margin-bottom: 0.4rem; }
+.action-bar { display: flex; gap: 0.6rem; margin: 1.2rem 0; }
+.score-card {
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 1rem 1.2rem;
+  margin: 1rem 0;
+  background: var(--card);
+}
+.score-main { font-size: 1.6rem; font-weight: 700; }

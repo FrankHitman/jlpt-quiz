@@ -1,0 +1,33 @@
+{
+ "level": "N1",
+ "year": 2023,
+ "month": 12,
+ "total_questions": 96,
+ "by_section": {
+  "lang_reading": 66,
+  "listening": 30
+ },
+ "missing": [],
+ "listening_without_printed_options": [
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28
+ ],
+ "answer_verified": true,
+ "answer_source": "PDF p.46 答案表「2023年12月日语能力考试 N1真题答案」",
+ "notes": "言語知識・読解 66題＋聴解 30題、全96題の correct_option は答案表と逐題照合済み。答案表と本文の間で不整合・判読困難な箇所はなし。聴解問題3/4、問題5-1番は無印刷（options=[]、解析は應對策略）；問題5-2番（29・30）は選択肢のみ印刷。target_text は漢字読みQ1-6・類義語Q14-19 の12題。2023-12 に聴解音声ファイルは付属しないため audio_url は未設定。"
+}

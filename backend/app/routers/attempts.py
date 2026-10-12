@@ -27,6 +27,73 @@ def _is_overtime(att: models.Attempt) -> bool:
     return (submitted - started).total_seconds() > att.time_limit_min * 60
 
 
+def _upsert_wrong_answer(
+    db: Session, user_id: int, question_id: int, attempt_id: int
+) -> None:
+    """答錯收錄進錯題本：已存在則 wrong_count+1；曾標記掌握則重置為未掌握。"""
+    wa = (
+        db.query(models.WrongAnswer)
+        .filter_by(user_id=user_id, question_id=question_id)
+        .first()
+    )
+    if wa is None:
+        db.add(
+            models.WrongAnswer(
+                user_id=user_id,
+                question_id=question_id,
+                attempt_id=attempt_id,
+                wrong_count=1,
+            )
+        )
+    else:
+        wa.wrong_count = (wa.wrong_count or 0) + 1
+        wa.attempt_id = attempt_id
+        if wa.mastered:
+            wa.mastered = False
+            wa.mastered_at = None
+
+
+def _mark_reviewed_correct(db: Session, user_id: int, question_id: int) -> None:
+    """錯題重練答對：自動標記已掌握，review_count+1。"""
+    wa = (
+        db.query(models.WrongAnswer)
+        .filter_by(user_id=user_id, question_id=question_id)
+        .first()
+    )
+    if wa is None:
+        return
+    now = datetime.now(timezone.utc)
+    wa.mastered = True
+    wa.mastered_at = now
+    wa.review_count = (wa.review_count or 0) + 1
+    wa.last_reviewed_at = now
+
+
+def _record_wrong_book(
+    db: Session, att: models.Attempt, per: list[schemas.PerQuestionResult]
+) -> None:
+    """提交後更新錯題本（僅登錄用戶）。"""
+    if att.user_id is None:
+        return
+    is_review = att.section_code == "wrong_review"
+    for p in per:
+        if p.is_correct:
+            if is_review:
+                _mark_reviewed_correct(db, att.user_id, p.question_id)
+        else:
+            _upsert_wrong_answer(db, att.user_id, p.question_id, att.id)
+    """True when submitted after the time limit (grading still applies)."""
+    if not att.time_limit_min or att.started_at is None or att.submitted_at is None:
+        return False
+    started = att.started_at
+    if started.tzinfo is None:
+        started = started.replace(tzinfo=timezone.utc)
+    submitted = att.submitted_at
+    if submitted.tzinfo is None:
+        submitted = submitted.replace(tzinfo=timezone.utc)
+    return (submitted - started).total_seconds() > att.time_limit_min * 60
+
+
 @router.post("/attempts", response_model=schemas.AttemptCreated)
 def create_attempt(
     payload: schemas.AttemptCreate,
@@ -139,6 +206,7 @@ def submit_attempt(
     att.submitted_at = now
     att.total = total
     att.correct = correct
+    _record_wrong_book(db, att, per)
     db.commit()
 
     wrong_ids = [p.question_id for p in per if not p.is_correct]
