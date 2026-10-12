@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 from pathlib import Path
+import os
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
@@ -9,7 +10,16 @@ from fastapi.staticfiles import StaticFiles
 
 from .routers import attempts, auth, exams, practice, wrong_answers
 
-app = FastAPI(title="JLPT N1 Quiz API", version="0.1.0")
+
+IS_PRODUCTION = os.getenv("APP_ENV", "development") == "production"
+
+app = FastAPI(
+    title="JLPT N1 Quiz API",
+    docs_url=None if IS_PRODUCTION else "/docs",
+    redoc_url=None if IS_PRODUCTION else "/redoc",
+    openapi_url=None if IS_PRODUCTION else "/openapi.json",
+    version="1.0.0",
+)
 
 # 音頻等靜態資源：backend/static/audio/*.mp3 → /static/audio/*.mp3
 app.mount(
