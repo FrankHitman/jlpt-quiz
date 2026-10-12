@@ -10,6 +10,7 @@ export default function Practice() {
   const [searchParams] = useSearchParams();
   const [exams, setExams] = useState<ExamSummary[]>([]);
   const [examId, setExamId] = useState(searchParams.get('examId') ?? '');
+  const [level, setLevel] = useState('');
   const [qtype, setQtype] = useState('');
   const [limit, setLimit] = useState('20');
   const [questions, setQuestions] = useState<AnsweringQuestion[] | null>(null);
@@ -24,10 +25,16 @@ export default function Practice() {
       .then((a) => a.listExams())
       .then((list) => {
         setExams(list);
-        setExamId((prev) => prev || (list.length > 0 ? String(list[0].id) : ''));
+        setExamId((prev) => {
+          if (prev && list.some((e) => String(e.id) === prev)) return prev;
+          return list.length > 0 ? String(list[0].id) : '';
+        });
       })
       .catch((e: unknown) => setError(e instanceof Error ? e.message : String(e)));
   }, []);
+
+  const levels = [...new Set(exams.map((e) => e.level))];
+  const visibleExams = level ? exams.filter((e) => e.level === level) : exams;
 
   const isListeningQtype = qtype.startsWith('listening');
 
@@ -103,9 +110,28 @@ export default function Practice() {
 
       <div className="filter-card">
         <label>
+          級別
+          <select
+            value={level}
+            onChange={(e) => {
+              const lv = e.target.value;
+              setLevel(lv);
+              const first = exams.find((x) => !lv || x.level === lv);
+              setExamId(first ? String(first.id) : '');
+            }}
+          >
+            <option value="">全部級別</option>
+            {levels.map((lv) => (
+              <option key={lv} value={lv}>
+                {lv}
+              </option>
+            ))}
+          </select>
+        </label>
+        <label>
           試卷
           <select value={examId} onChange={(e) => setExamId(e.target.value)}>
-            {exams.map((e) => (
+            {visibleExams.map((e) => (
               <option key={e.id} value={String(e.id)}>
                 {e.title}
               </option>

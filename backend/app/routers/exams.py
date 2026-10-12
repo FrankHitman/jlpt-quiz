@@ -16,7 +16,7 @@ router = APIRouter()
 def list_exams(db: Session = Depends(get_db)):
     exams = (
         db.query(models.Exam)
-        .order_by(models.Exam.year.desc(), models.Exam.month.desc())
+        .order_by(models.Exam.level.desc(), models.Exam.year.desc(), models.Exam.month.desc())
         .all()
     )
     out: list[schemas.ExamListItem] = []

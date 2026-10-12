@@ -1,0 +1,2303 @@
+{
+ "groups": [],
+ "questions": [
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_reading",
+   "mondai_no": 1,
+   "number_in_section": 1,
+   "stem": "山本さんは優秀な社員だ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "ゆしゅ"
+    },
+    {
+     "key": "2",
+     "text": "ゆうしゅ"
+    },
+    {
+     "key": "3",
+     "text": "ゆしゅう"
+    },
+    {
+     "key": "4",
+     "text": "ゆうしゅう"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": "優秀",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_reading",
+   "mondai_no": 1,
+   "number_in_section": 2,
+   "stem": "そんなことを言われたら、私も迷ったに違いない。",
+   "options": [
+    {
+     "key": "1",
+     "text": "あやまった"
+    },
+    {
+     "key": "2",
+     "text": "あせった"
+    },
+    {
+     "key": "3",
+     "text": "まよった"
+    },
+    {
+     "key": "4",
+     "text": "うたがった"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": "迷った",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_reading",
+   "mondai_no": 1,
+   "number_in_section": 3,
+   "stem": "今から行うのは背骨を伸ばす体操です。",
+   "options": [
+    {
+     "key": "1",
+     "text": "せいこつ"
+    },
+    {
+     "key": "2",
+     "text": "せこつ"
+    },
+    {
+     "key": "3",
+     "text": "せいぼね"
+    },
+    {
+     "key": "4",
+     "text": "せぼね"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": "背骨",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_reading",
+   "mondai_no": 1,
+   "number_in_section": 4,
+   "stem": "すぐに実践できるとは思っていなかった。",
+   "options": [
+    {
+     "key": "1",
+     "text": "じっせん"
+    },
+    {
+     "key": "2",
+     "text": "じっけん"
+    },
+    {
+     "key": "3",
+     "text": "じっぜん"
+    },
+    {
+     "key": "4",
+     "text": "じっげん"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": "実践",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_reading",
+   "mondai_no": 1,
+   "number_in_section": 5,
+   "stem": "彼はコンサートで派手な衣装を着ていた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "いそう"
+    },
+    {
+     "key": "2",
+     "text": "いしょう"
+    },
+    {
+     "key": "3",
+     "text": "いじょう"
+    },
+    {
+     "key": "4",
+     "text": "いぞう"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": "衣装",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_writing",
+   "mondai_no": 2,
+   "number_in_section": 6,
+   "stem": "けいびをもっと厳しくしたほうがいい。",
+   "options": [
+    {
+     "key": "1",
+     "text": "警護"
+    },
+    {
+     "key": "2",
+     "text": "係備"
+    },
+    {
+     "key": "3",
+     "text": "警備"
+    },
+    {
+     "key": "4",
+     "text": "係護"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": "けいび",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_writing",
+   "mondai_no": 2,
+   "number_in_section": 7,
+   "stem": "安全な場所にひなんをしてください。",
+   "options": [
+    {
+     "key": "1",
+     "text": "被離"
+    },
+    {
+     "key": "2",
+     "text": "避離"
+    },
+    {
+     "key": "3",
+     "text": "被難"
+    },
+    {
+     "key": "4",
+     "text": "避難"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": "ひなん",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_writing",
+   "mondai_no": 2,
+   "number_in_section": 8,
+   "stem": "先祖をうやまう心を大切にしたい。",
+   "options": [
+    {
+     "key": "1",
+     "text": "拝う"
+    },
+    {
+     "key": "2",
+     "text": "敬う"
+    },
+    {
+     "key": "3",
+     "text": "礼う"
+    },
+    {
+     "key": "4",
+     "text": "尊う"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": "うやまう",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_writing",
+   "mondai_no": 2,
+   "number_in_section": 9,
+   "stem": "パソコン教室のじゅこうの申し込みをした。",
+   "options": [
+    {
+     "key": "1",
+     "text": "受講"
+    },
+    {
+     "key": "2",
+     "text": "授講"
+    },
+    {
+     "key": "3",
+     "text": "受校"
+    },
+    {
+     "key": "4",
+     "text": "授校"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": "じゅこう",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "kanji_writing",
+   "mondai_no": 2,
+   "number_in_section": 10,
+   "stem": "あの人は本当にあつかましい人だ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "圧かましい"
+    },
+    {
+     "key": "2",
+     "text": "厚かましい"
+    },
+    {
+     "key": "3",
+     "text": "熱かましい"
+    },
+    {
+     "key": "4",
+     "text": "暑かましい"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": "あつかましい",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_formation",
+   "mondai_no": 3,
+   "number_in_section": 11,
+   "stem": "中村選手は日本を代表する(　　)選手だ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "高"
+    },
+    {
+     "key": "2",
+     "text": "優"
+    },
+    {
+     "key": "3",
+     "text": "名"
+    },
+    {
+     "key": "4",
+     "text": "真"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_formation",
+   "mondai_no": 3,
+   "number_in_section": 12,
+   "stem": "今日は月が地球に(　　)接近する日なので、通常の満月より大きく見えます。",
+   "options": [
+    {
+     "key": "1",
+     "text": "特"
+    },
+    {
+     "key": "2",
+     "text": "最"
+    },
+    {
+     "key": "3",
+     "text": "極"
+    },
+    {
+     "key": "4",
+     "text": "激"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_formation",
+   "mondai_no": 3,
+   "number_in_section": 13,
+   "stem": "家のポストに私(　　)の手紙が入っていた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "宛て"
+    },
+    {
+     "key": "2",
+     "text": "着き"
+    },
+    {
+     "key": "3",
+     "text": "届け"
+    },
+    {
+     "key": "4",
+     "text": "便り"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 14,
+   "stem": "会員の登録が(　　)したので、今からサービスを利用できます。",
+   "options": [
+    {
+     "key": "1",
+     "text": "決着"
+    },
+    {
+     "key": "2",
+     "text": "完了"
+    },
+    {
+     "key": "3",
+     "text": "終業"
+    },
+    {
+     "key": "4",
+     "text": "到達"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 15,
+   "stem": "年を取って運動をしなくなると、筋肉がだんだん(　　)いきます。",
+   "options": [
+    {
+     "key": "1",
+     "text": "潰れて"
+    },
+    {
+     "key": "2",
+     "text": "欠けて"
+    },
+    {
+     "key": "3",
+     "text": "尽きて"
+    },
+    {
+     "key": "4",
+     "text": "衰えて"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 16,
+   "stem": "会議時間が残り少なくなったので、資料の詳細な説明は(　　)して、要点のみを説明した。",
+   "options": [
+    {
+     "key": "1",
+     "text": "減量"
+    },
+    {
+     "key": "2",
+     "text": "休止"
+    },
+    {
+     "key": "3",
+     "text": "節約"
+    },
+    {
+     "key": "4",
+     "text": "省略"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 17,
+   "stem": "この小説はフィクションだと(　　)いたが、実際にあった話らしい。",
+   "options": [
+    {
+     "key": "1",
+     "text": "思い込んで"
+    },
+    {
+     "key": "2",
+     "text": "思い起こして"
+    },
+    {
+     "key": "3",
+     "text": "考え抜いて"
+    },
+    {
+     "key": "4",
+     "text": "考えついて"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 18,
+   "stem": "山口さんは、子どもが怖がらないように優しい(　　)で話しかけた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "音声"
+    },
+    {
+     "key": "2",
+     "text": "口調"
+    },
+    {
+     "key": "3",
+     "text": "顔色"
+    },
+    {
+     "key": "4",
+     "text": "内心"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 19,
+   "stem": "部下に仕事を教えるのは、上司の(　　)の一つだ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "労働"
+    },
+    {
+     "key": "2",
+     "text": "勤務"
+    },
+    {
+     "key": "3",
+     "text": "役目"
+    },
+    {
+     "key": "4",
+     "text": "当番"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "vocab_fill",
+   "mondai_no": 4,
+   "number_in_section": 20,
+   "stem": "森さんは外食のとき、いつも誰かに払ってもらおうとするので、(　　)人だと思う。",
+   "options": [
+    {
+     "key": "1",
+     "text": "みずみずしい"
+    },
+    {
+     "key": "2",
+     "text": "たどたどしい"
+    },
+    {
+     "key": "3",
+     "text": "ずうずうしい"
+    },
+    {
+     "key": "4",
+     "text": "よわよわしい"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "synonym",
+   "mondai_no": 5,
+   "number_in_section": 21,
+   "stem": "佐藤さんがガイドしてくれました。",
+   "options": [
+    {
+     "key": "1",
+     "text": "案内"
+    },
+    {
+     "key": "2",
+     "text": "解決"
+    },
+    {
+     "key": "3",
+     "text": "応援"
+    },
+    {
+     "key": "4",
+     "text": "準備"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": "ガイド",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "synonym",
+   "mondai_no": 5,
+   "number_in_section": 22,
+   "stem": "この表現は修正したほうがいいですよ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "調べた"
+    },
+    {
+     "key": "2",
+     "text": "覚えた"
+    },
+    {
+     "key": "3",
+     "text": "直した"
+    },
+    {
+     "key": "4",
+     "text": "使った"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": "修正した",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "synonym",
+   "mondai_no": 5,
+   "number_in_section": 23,
+   "stem": "徐々に会社に慣れてきた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "ずいぶん"
+    },
+    {
+     "key": "2",
+     "text": "いつのまにか"
+    },
+    {
+     "key": "3",
+     "text": "やっと"
+    },
+    {
+     "key": "4",
+     "text": "次第に"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": "徐々に",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "synonym",
+   "mondai_no": 5,
+   "number_in_section": 24,
+   "stem": "青いペンキがはげている。",
+   "options": [
+    {
+     "key": "1",
+     "text": "取れて"
+    },
+    {
+     "key": "2",
+     "text": "ついて"
+    },
+    {
+     "key": "3",
+     "text": "乾いて"
+    },
+    {
+     "key": "4",
+     "text": "こぼれて"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": "はげている",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "synonym",
+   "mondai_no": 5,
+   "number_in_section": 25,
+   "stem": "彼女のあのしぐさは印象的だった。",
+   "options": [
+    {
+     "key": "1",
+     "text": "考え"
+    },
+    {
+     "key": "2",
+     "text": "動作"
+    },
+    {
+     "key": "3",
+     "text": "着装"
+    },
+    {
+     "key": "4",
+     "text": "言葉"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": "しぐさ",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_usage",
+   "mondai_no": 6,
+   "number_in_section": 26,
+   "stem": "薄める",
+   "options": [
+    {
+     "key": "1",
+     "text": "私には難しすぎたので、コースのレベルを薄めた"
+    },
+    {
+     "key": "2",
+     "text": "部屋が暑かったので、エアコンをつけて温度を薄めた"
+    },
+    {
+     "key": "3",
+     "text": "スープがしょっぱかったので、水を加えて味を薄めた"
+    },
+    {
+     "key": "4",
+     "text": "うるさいと言われたので、テレビの音量を薄めた"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": "薄める",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_usage",
+   "mondai_no": 6,
+   "number_in_section": 27,
+   "stem": "充実",
+   "options": [
+    {
+     "key": "1",
+     "text": "今日の午後は雨の予報で、空には雲が充実している"
+    },
+    {
+     "key": "2",
+     "text": "今はやりがいのある仕事ができて、毎日が充実している"
+    },
+    {
+     "key": "3",
+     "text": "喫茶店の中は、コーヒーのにおいが充実している"
+    },
+    {
+     "key": "4",
+     "text": "計画を実行するためには、まだ問題が充実している"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": "充実",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_usage",
+   "mondai_no": 6,
+   "number_in_section": 28,
+   "stem": "鮮明",
+   "options": [
+    {
+     "key": "1",
+     "text": "次回のセミナーの開催日はまだ鮮明に決まっていない"
+    },
+    {
+     "key": "2",
+     "text": "できそうにない仕事は鮮明に断ったほうがいい"
+    },
+    {
+     "key": "3",
+     "text": "B社の製品のほうが性能が鮮明に優れている"
+    },
+    {
+     "key": "4",
+     "text": "あのときの出来事は今でも鮮明に覚えている"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": "鮮明",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_usage",
+   "mondai_no": 6,
+   "number_in_section": 29,
+   "stem": "ふもと",
+   "options": [
+    {
+     "key": "1",
+     "text": "明日、駅のふもとで池田さんと会う約束をした"
+    },
+    {
+     "key": "2",
+     "text": "あのビルのふもとに、新しいお店ができるらしい"
+    },
+    {
+     "key": "3",
+     "text": "山のふもとに車を止めて、そこから登りましょう"
+    },
+    {
+     "key": "4",
+     "text": "ドアのふもとに猫がいて、開けることができない"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": "ふもと",
+   "audio_url": null
+  },
+  {
+   "group_local_id": null,
+   "section_code": "lang_reading",
+   "qtype_code": "word_usage",
+   "mondai_no": 6,
+   "number_in_section": 30,
+   "stem": "定年",
+   "options": [
+    {
+     "key": "1",
+     "text": "私の会社は60歳が定年なので、あと半年で退職だ"
+    },
+    {
+     "key": "2",
+     "text": "この乗り物は子ども向けのため、10歳が定年になっている"
+    },
+    {
+     "key": "3",
+     "text": "この国では、定年の20歳になると選挙で投票することができる"
+    },
+    {
+     "key": "4",
+     "text": "犬の定年は一般的に10歳から15歳の間だといわれている"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": "定年",
+   "audio_url": null
+  }
+ ],
+ "explanations": [
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 1,
+   "key_point": "漢字読み・優秀",
+   "analysis_zh": "正解は 4「ゆうしゅう」。「優秀」は「ゆうしゅう」と読む。「優」を「ゆう」、「秀」を「しゅう」と読む長音の組み合わせ。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「優」の長音「ゆう」を落とした誤読。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「秀」の長音「しゅう」を落とした誤読。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "長音の位置がずれた誤読。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 2,
+   "key_point": "漢字読み・迷う",
+   "analysis_zh": "正解は 3「まよった」。「迷った」は「まよう（迷う）」のた形。「そんなことを言われたら、私も迷ったに違いない」＝被那樣說的話，我也會猶豫。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「あやまった」は「謝った」の読み。字形が似ているが別字。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「あせった」は「焦った」の読み。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「うたがった」は「疑った」の読み。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 3,
+   "key_point": "漢字読み・背骨",
+   "analysis_zh": "正解は 4「せぼね」。「背骨」は訓読みで「せぼね」と読む（背＝せ、骨＝ほね→ぼね）。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「せいこつ」は音読みに引きずられた誤読。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「背」を「せ」と読む誤り。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「背」を音読み「せい」で読む誤り。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 4,
+   "key_point": "漢字読み・実践",
+   "analysis_zh": "正解は 1「じっせん」。「実践」は「じっせん」と読む（実際にやってみること）。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「じっけん」は「実験」の読み。字形が似ているが別語。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「践」に濁点をつけた誤読。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「実」に濁点をつけた誤読。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 5,
+   "key_point": "漢字読み・衣装",
+   "analysis_zh": "正解は 2「いしょう」。「衣装」は「いしょう」と読む（服装のこと）。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "長音を落とした誤読。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「装」に濁点をつけた誤読（「以上」と混同）。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "濁点＋長音脱落の誤読。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 6,
+   "key_point": "表記・警備",
+   "analysis_zh": "正解は 3「警備」。「けいび（警備）」は警戒して守ること。「警」は「警戒」の警、「備」は「備える」の備。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「警護」は「けいご」と読み、要人などを守ること。読みも意味も違う。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「係備」は存在しない組み合わせ。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「係護」は存在しない組み合わせ。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "けいご",
+    "2": "かかりび",
+    "3": "けいび",
+    "4": "かかりご"
+   },
+   "option_meanings": {
+    "1": "貼身護衛、保鏢",
+    "3": "警戒、守衛",
+    "2": "（非詞，不存在此組合）",
+    "4": "（非詞，不存在此組合）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 7,
+   "key_point": "表記・避難",
+   "analysis_zh": "正解は 4「避難」。「ひなん（避難）」は災害などを避けて逃げること。「避」は「避ける」、「難」は「困難」の難。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「被離」は存在しない組み合わせ。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「避離」は存在しない組み合わせ。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「被難」も「ひなん」と読むが「災難に遭う」の意。意味が違う。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "ひり",
+    "2": "ひり",
+    "3": "ひなん",
+    "4": "ひなん"
+   },
+   "option_meanings": {
+    "3": "遇難、受災",
+    "4": "避難",
+    "1": "（非詞，不存在此組合）",
+    "2": "（非詞，不存在此組合）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 8,
+   "key_point": "表記・敬う",
+   "analysis_zh": "正解は 2「敬う」。「うやまう（敬う）」は尊敬すること。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「拝う」は「おがむ」と読み、意味が違う。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「礼う」は存在しない表記。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「尊う」は存在しない表記（「尊ぶ」たっとぶが正しい）。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "おがむ",
+    "2": "うやまう",
+    "3": "れいう",
+    "4": "たっとう"
+   },
+   "option_meanings": {
+    "1": "參拜、奉承",
+    "2": "尊敬",
+    "3": "（非詞，不存在此表記）",
+    "4": "（非詞，不存在此表記）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 9,
+   "key_point": "表記・受講",
+   "analysis_zh": "正解は 1「受講」。「じゅこう（受講）」は講義を受けること。「受」は「受ける」、「授」は「授ける（与える）」で意味が逆になる。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「授講」は「授ける（与える）」側の意味になり、受講の逆。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「受校」は存在しない組み合わせ。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「授校」は存在しない組み合わせ。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "じゅこう",
+    "2": "じゅこう",
+    "3": "じゅこう",
+    "4": "じゅこう"
+   },
+   "option_meanings": {
+    "1": "聽課、上課",
+    "2": "授課（給予方）",
+    "3": "（非詞，不存在此組合）",
+    "4": "（非詞，不存在此組合）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 10,
+   "key_point": "表記・厚かましい",
+   "analysis_zh": "正解は 2「厚かましい」。「あつかましい（厚かましい）」は図々しい、恥知らずの意。「厚」は「厚い」の厚。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「圧かましい」は存在しない表記。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「熱かましい」は存在しない表記。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「暑かましい」は存在しない表記。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "あつかましい",
+    "2": "あつかましい",
+    "3": "あつかましい",
+    "4": "あつかましい"
+   },
+   "option_meanings": {
+    "2": "厚臉皮、不知羞恥",
+    "1": "（非詞，不存在此表記）",
+    "3": "（非詞，不存在此表記）",
+    "4": "（非詞，不存在此表記）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 11,
+   "key_point": "語形成・名選手",
+   "analysis_zh": "正解は 3「名」。「（名）選手」の「名」は「有名な」の意の接頭語的用法。「名選手」＝有名な選手。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「高選手」は存在しない語。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「優選手」は存在しない語。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「真選手」は存在しない語。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "こう",
+    "2": "ゆう",
+    "3": "めい",
+    "4": "しん"
+   },
+   "option_meanings": {
+    "1": "高",
+    "2": "優",
+    "3": "名",
+    "4": "真"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 12,
+   "key_point": "語形成・最接近",
+   "analysis_zh": "正解は 2「最」。「（最）接近」の「最」は「最も」の意。「最接近」＝最も接近している。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「特接近」は存在しない語。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「極接近」は存在しない語。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「激接近」は存在しない語。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "とく",
+    "2": "さい",
+    "3": "きょく",
+    "4": "げき"
+   },
+   "option_meanings": {
+    "1": "特別",
+    "2": "最",
+    "3": "極",
+    "4": "激烈"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 13,
+   "key_point": "語形成・私宛て",
+   "analysis_zh": "正解は 1「宛て」。「私（宛て）の手紙」の「宛て」は「…宛」の形で「〜に宛てられた」の意。「私宛ての手紙」＝私に宛てられた手紙。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「私着き」は存在しない語。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「私届け」は存在しない語。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「便り」は「音信」の意の名詞で、ここでは使えない。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "あて",
+    "2": "つき",
+    "3": "とどけ",
+    "4": "たより"
+   },
+   "option_meanings": {
+    "1": "收件人（宛）",
+    "2": "到達",
+    "3": "送達",
+    "4": "音信"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 14,
+   "key_point": "文脈規定・完了",
+   "analysis_zh": "正解は 2「完了」。「登録が（完了）した」＝登録手続きが終わったので、今からサービスが利用できる。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「決着」は物事の結末がつくこと。登録には使わない。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「終業」は仕事を終えること。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「到達」は目的地などに着くこと。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "けっちゃく",
+    "2": "かんりょう",
+    "3": "しゅうぎょう",
+    "4": "とうたつ"
+   },
+   "option_meanings": {
+    "1": "了結",
+    "2": "完成",
+    "3": "下班、結束",
+    "4": "到達"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 15,
+   "key_point": "文脈規定・衰える",
+   "analysis_zh": "正解は 4「衰えて」。「筋肉がだんだん（衰えて）いく」＝筋力が弱くなっていく。年を取って運動しなくなると筋肉は衰える。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「潰れて」は押しつぶされること。筋肉には使わない。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「欠けて」は部分的に欠けること。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「尽きて」は使い果たすこと。筋肉には使わない。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "つぶれて",
+    "2": "かけて",
+    "3": "つきて",
+    "4": "おとろえて"
+   },
+   "option_meanings": {
+    "1": "被壓壞",
+    "2": "缺損",
+    "3": "用盡",
+    "4": "衰退"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 16,
+   "key_point": "文脈規定・省略",
+   "analysis_zh": "正解は 4「省略」。「詳細な説明は（省略）して」＝詳しい説明を省いて、要点だけ説明した。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「減量」は量を減らすこと（ダイエットなど）。説明には使わない。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「休止」はいったん止めること。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「節約」はむだを省いて節約すること。説明には使わない。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "げんりょう",
+    "2": "きゅうし",
+    "3": "せつやく",
+    "4": "しょうりゃく"
+   },
+   "option_meanings": {
+    "1": "減量",
+    "2": "暫停",
+    "3": "節約",
+    "4": "省略"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 17,
+   "key_point": "文脈規定・思い込む",
+   "analysis_zh": "正解は 1「思い込んで」。「フィクションだと（思い込んで）いた」＝フィクションだと信じ込んでいたが、実際は本当の話だった。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「思い起こして」は思い出すこと。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「考え抜いて」はとことん考えること。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「考えついて」はアイデアが浮かぶこと。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "おもいこんで",
+    "2": "おもいおこして",
+    "3": "かんがえぬいて",
+    "4": "かんがえついて"
+   },
+   "option_meanings": {
+    "1": "誤以為",
+    "2": "回想起",
+    "3": "深思熟慮",
+    "4": "想出"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 18,
+   "key_point": "文脈規定・口調",
+   "analysis_zh": "正解は 2「口調」。「優しい（口調）で話しかけた」＝話し方の調子を優しくして話しかけた。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「音声」は声そのもの。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「顔色」は顔の色つや・表情。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「内心」は心の中。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "おんせい",
+    "2": "くちょう",
+    "3": "かおいろ",
+    "4": "ないしん"
+   },
+   "option_meanings": {
+    "1": "聲音",
+    "2": "語氣",
+    "3": "臉色",
+    "4": "內心"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 19,
+   "key_point": "文脈規定・役目",
+   "analysis_zh": "正解は 3「役目」。「上司の（役目）の一つ」＝上司の役割・任務の一つ。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「労働」は働くこと。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「勤務」は職務につくこと。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「当番」は順番で担当すること。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "ろうどう",
+    "2": "きんむ",
+    "3": "やくめ",
+    "4": "とうばん"
+   },
+   "option_meanings": {
+    "1": "勞動",
+    "2": "勤務",
+    "3": "職責",
+    "4": "值日"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 20,
+   "key_point": "文脈規定・ずうずうしい",
+   "analysis_zh": "正解は 3「ずうずうしい」。「いつも誰かに払ってもらおうとする」人は「（ずうずうしい）」＝厚かましい、図々しい。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「みずみずしい」は新鮮で生き生きしている様子。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「たどたどしい」はぎこちない様子。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「よわよわしい」は弱々しい様子。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 21,
+   "key_point": "言い換え・ガイド＝案内",
+   "analysis_zh": "正解は 1「案内」。「ガイドしてくれた」＝「案内してくれた」（道案内・説明してくれた）。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「解決」は問題を解くこと。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「応援」は励ますこと。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「準備」は用意すること。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "あんない",
+    "2": "かいけつ",
+    "3": "おうえん",
+    "4": "じゅんび"
+   },
+   "option_meanings": {
+    "1": "嚮導",
+    "2": "解決",
+    "3": "聲援",
+    "4": "準備"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 22,
+   "key_point": "言い換え・修正した＝直した",
+   "analysis_zh": "正解は 3「直した」。「修正したほうがいい」＝「直したほうがいい」（表現を正しく直す）。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「調べた」は調べること。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「覚えた」は記憶すること。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「使った」は利用すること。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "しらべた",
+    "2": "おぼえた",
+    "3": "なおした",
+    "4": "つかった"
+   },
+   "option_meanings": {
+    "1": "調查",
+    "2": "記住",
+    "3": "改正",
+    "4": "使用"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 23,
+   "key_point": "言い換え・徐々に＝次第に",
+   "analysis_zh": "正解は 4「次第に」。「徐々に慣れてきた」＝「次第に慣れてきた」（だんだん慣れてきた）。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「ずいぶん」は「かなり」の意。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「いつのまにか」は知らないうちに。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「やっと」は「ようやく」の意。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {},
+   "option_meanings": {}
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 24,
+   "key_point": "言い換え・はげている＝取れている",
+   "analysis_zh": "正解は 1「取れて」。「ペンキがはげている」＝塗装が「取れている」（剥がれ落ちている）。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「ついて」は付着している意で、逆の意味。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「乾いて」は乾燥している意。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「こぼれて」は液体がこぼれる意。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "とれて"
+   },
+   "option_meanings": {
+    "1": "脫落、剝落"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 25,
+   "key_point": "言い換え・しぐさ＝動作",
+   "analysis_zh": "正解は 2「動作」。「しぐさ」＝「動作」（身振り・振る舞い）。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「考え」は思考。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「着装」は服装。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「言葉」は言語。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "かんがえ",
+    "2": "どうさ",
+    "3": "ちゃくそう",
+    "4": "ことば"
+   },
+   "option_meanings": {
+    "1": "想法",
+    "2": "動作",
+    "3": "服裝",
+    "4": "言語"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 26,
+   "key_point": "用法・薄める",
+   "analysis_zh": "正解は 3。「薄める」は濃度・味を薄くする意。「スープの味を薄めた」が正しい用法。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「レベルを薄めた」は誤り。「レベルを下げる」が正しい。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「温度を薄めた」は誤り。「温度を下げる」が正しい。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「音量を薄めた」は誤り。「音量を下げる・小さくする」が正しい。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "わたしにはむずかしすぎたので、コースのレベルをうすめた",
+    "2": "へやがあつかったので、エアコンをつけておんどをうすめた",
+    "3": "スープがしょっぱかったので、みずをくわえてあじをうすめた",
+    "4": "うるさいといわれたので、テレビのおんりょうをうすめた"
+   },
+   "option_meanings": {
+    "1": "對我來說太難了，所以降低了課程的難度。",
+    "2": "房間很熱，所以開了空調降低溫度。",
+    "3": "湯太鹹了，所以加水沖淡味道。",
+    "4": "被說太吵，所以調低電視音量。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 27,
+   "key_point": "用法・充実",
+   "analysis_zh": "正解は 2。「充実している」は内容が豊かで満ち足りている意。「毎日が充実している」が正しい用法。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「雲が充実」は誤り。「雲が立ち込めている」が正しい。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「においが充実」は誤り。「においが充満している」が正しい。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「問題が充実」は誤り。「問題が山積している」などが正しい。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "きょうのごごはあめのよほうで、そらにはくもがじゅうじつしている",
+    "2": "いまはやりがいのあるしごとができて、まいにちがじゅうじつしている",
+    "3": "きっさてんのなかは、コーヒーのにおいがじゅうじつしている",
+    "4": "けいかくをじっこうするためには、まだもんだいがじゅうじつしている"
+   },
+   "option_meanings": {
+    "1": "今天下午預報有雨，天空中雲層密布。",
+    "2": "現在能做有價值的工作，每天都很充實。",
+    "3": "咖啡店裡充滿了咖啡的香氣。",
+    "4": "為了執行計畫，還有很多問題需要解決。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 28,
+   "key_point": "用法・鮮明",
+   "analysis_zh": "正解は 4。「鮮明に覚えている」＝はっきりと覚えている。「鮮明」は「はっきりしている」の意。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「鮮明に決まっていない」は誤り。「はっきり決まっていない」が正しい。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「鮮明に断る」は誤り。「きっぱり断る」が正しい。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「鮮明に優れている」は誤り。「はるかに・明らかに優れている」が正しい。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "じかいのセミナーのかいさいびはまだせんめいにきまっていない",
+    "2": "できそうにないしごとはせんめいにことわったほうがいい",
+    "3": "Bしゃのせいひんのほうがせいのうがせんめいにすぐれている",
+    "4": "あのときのできごとはいまでもせんめいにおぼえている"
+   },
+   "option_meanings": {
+    "1": "下次研討會的舉辦日期還沒有明確決定。",
+    "2": "做不了的工作最好乾脆地拒絕。",
+    "3": "B公司的產品性能明顯更優秀。",
+    "4": "那時的事情到現在還記得清清楚楚。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 29,
+   "key_point": "用法・ふもと",
+   "analysis_zh": "正解は 3。「ふもと（麓）」は山のふもとの意。「山のふもと」が正しい用法。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「駅のふもと」は誤り。「駅の前・近く」が正しい。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「ビルのふもと」は誤り。「ビルのそば・下」が正しい。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「ドアのふもと」は誤り。「ドアの前」が正しい。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "あした、えきのふもとでいけださんとあうやくそくをした",
+    "2": "あのビルのふもとに、あたらしいおみせができるらしい",
+    "3": "やまのふもとにくるまをとめて、そこからのぼりましょう",
+    "4": "ドアのふもとにねこがいて、あけることができない"
+   },
+   "option_meanings": {
+    "1": "明天約好在車站附近跟池田見面。",
+    "2": "那棟大樓旁邊好像要開新店。",
+    "3": "把車停在山腳下，從那裡開始爬山。",
+    "4": "門前有隻貓，打不開門。"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 30,
+   "key_point": "用法・定年",
+   "analysis_zh": "正解は 1。「定年」は定年退職の年齢のこと。「60歳が定年」が正しい用法。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "子ども向けの乗り物に「定年」は使わない。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "20歳は「成人・有権者」。「定年の20歳」は誤り。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "動物に「定年」は使わない。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "わたしのかいしゃは60さいがていねんなので、あとはんとしたいしょくだ",
+    "2": "こののりものはこどもむけのため、10さいがていねんになっている",
+    "3": "このくにでは、ていねんの20さいになるとせんきょでとうひょうすることができる",
+    "4": "いぬのていねんは一般的に10さいから15さいのあいだだといわれている"
+   },
+   "option_meanings": {
+    "1": "我們公司60歲退休，所以還有半年就退休了。",
+    "2": "這個遊樂設施是給兒童的，10歲就「退休」了。",
+    "3": "在這個國家，到了「退休」的20歲就可以投票選舉。",
+    "4": "據說狗的「退休」年齡一般在10到15歲之間。"
+   }
+  }
+ ],
+ "vocabulary": [
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 1,
+   "word": "優秀",
+   "reading": "ゆうしゅう",
+   "pos": "形容動詞",
+   "meaning_zh": "優秀",
+   "example_sentence": "山本さんは優秀な社員だ。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 1,
+   "word": "社員",
+   "reading": "しゃいん",
+   "pos": "名詞",
+   "meaning_zh": "員工",
+   "example_sentence": "山本さんは優秀な社員だ。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 2,
+   "word": "迷う",
+   "reading": "まよう",
+   "pos": "動詞",
+   "meaning_zh": "猶豫、迷路",
+   "example_sentence": "そんなことを言われたら、私も迷ったに違いない。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 3,
+   "word": "背骨",
+   "reading": "せぼね",
+   "pos": "名詞",
+   "meaning_zh": "脊椎、脊骨",
+   "example_sentence": "今から行うのは背骨を伸ばす体操です。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 3,
+   "word": "体操",
+   "reading": "たいそう",
+   "pos": "名詞",
+   "meaning_zh": "體操",
+   "example_sentence": "今から行うのは背骨を伸ばす体操です。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 4,
+   "word": "実践",
+   "reading": "じっせん",
+   "pos": "名詞",
+   "meaning_zh": "實踐、實行",
+   "example_sentence": "すぐに実践できるとは思っていなかった。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 5,
+   "word": "衣装",
+   "reading": "いしょう",
+   "pos": "名詞",
+   "meaning_zh": "服裝",
+   "example_sentence": "彼はコンサートで派手な衣装を着ていた。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 5,
+   "word": "派手",
+   "reading": "はで",
+   "pos": "形容動詞",
+   "meaning_zh": "花俏、華麗",
+   "example_sentence": "彼はコンサートで派手な衣装を着ていた。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 5,
+   "word": "コンサート",
+   "reading": null,
+   "pos": "名詞",
+   "meaning_zh": "音樂會",
+   "example_sentence": "彼はコンサートで派手な衣装を着ていた。",
+   "etymology_en": "concert"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 6,
+   "word": "警備",
+   "reading": "けいび",
+   "pos": "名詞",
+   "meaning_zh": "警戒、守衛",
+   "example_sentence": "警備をもっと厳しくしたほうがいい。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 6,
+   "word": "厳しい",
+   "reading": "きびしい",
+   "pos": "形容詞",
+   "meaning_zh": "嚴格、嚴厲",
+   "example_sentence": "警備をもっと厳しくしたほうがいい。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 7,
+   "word": "避難",
+   "reading": "ひなん",
+   "pos": "名詞",
+   "meaning_zh": "避難",
+   "example_sentence": "安全な場所に避難をしてください。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 8,
+   "word": "敬う",
+   "reading": "うやまう",
+   "pos": "動詞",
+   "meaning_zh": "尊敬",
+   "example_sentence": "先祖を敬う心を大切にしたい。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 8,
+   "word": "先祖",
+   "reading": "せんぞ",
+   "pos": "名詞",
+   "meaning_zh": "祖先",
+   "example_sentence": "先祖を敬う心を大切にしたい。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 9,
+   "word": "受講",
+   "reading": "じゅこう",
+   "pos": "名詞",
+   "meaning_zh": "聽課、上課",
+   "example_sentence": "パソコン教室の受講の申し込みをした。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 9,
+   "word": "申し込む",
+   "reading": "もうしこむ",
+   "pos": "動詞",
+   "meaning_zh": "報名、申請",
+   "example_sentence": "パソコン教室の受講の申し込みをした。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 10,
+   "word": "厚かましい",
+   "reading": "あつかましい",
+   "pos": "形容詞",
+   "meaning_zh": "厚臉皮、不知羞恥",
+   "example_sentence": "あの人は本当に厚かましい人だ。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 11,
+   "word": "代表",
+   "reading": "だいひょう",
+   "pos": "名詞",
+   "meaning_zh": "代表",
+   "example_sentence": "中村選手は日本を代表する名選手だ。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 11,
+   "word": "名選手",
+   "reading": "めいせんしゅ",
+   "pos": "名詞",
+   "meaning_zh": "知名選手",
+   "example_sentence": "中村選手は日本を代表する名選手だ。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 12,
+   "word": "接近",
+   "reading": "せっきん",
+   "pos": "名詞",
+   "meaning_zh": "接近",
+   "example_sentence": "今日は月が地球に最接近する日なので。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 12,
+   "word": "満月",
+   "reading": "まんげつ",
+   "pos": "名詞",
+   "meaning_zh": "滿月",
+   "example_sentence": "通常の満月より大きく見えます。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 13,
+   "word": "宛て",
+   "reading": "あて",
+   "pos": "名詞",
+   "meaning_zh": "收件人",
+   "example_sentence": "家のポストに私宛ての手紙が入っていた。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 13,
+   "word": "ポスト",
+   "reading": null,
+   "pos": "名詞",
+   "meaning_zh": "郵筒",
+   "example_sentence": "家のポストに私宛ての手紙が入っていた。",
+   "etymology_en": "post"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 14,
+   "word": "登録",
+   "reading": "とうろく",
+   "pos": "名詞",
+   "meaning_zh": "登記、註冊",
+   "example_sentence": "会員の登録が完了したので。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 14,
+   "word": "完了",
+   "reading": "かんりょう",
+   "pos": "名詞",
+   "meaning_zh": "完成",
+   "example_sentence": "会員の登録が完了したので。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 15,
+   "word": "筋肉",
+   "reading": "きんにく",
+   "pos": "名詞",
+   "meaning_zh": "肌肉",
+   "example_sentence": "筋肉がだんだん衰えていきます。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 15,
+   "word": "衰える",
+   "reading": "おとろえる",
+   "pos": "動詞",
+   "meaning_zh": "衰退、衰弱",
+   "example_sentence": "筋肉がだんだん衰えていきます。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 16,
+   "word": "省略",
+   "reading": "しょうりゃく",
+   "pos": "名詞",
+   "meaning_zh": "省略",
+   "example_sentence": "資料の詳細な説明は省略して。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 16,
+   "word": "要点",
+   "reading": "ようてん",
+   "pos": "名詞",
+   "meaning_zh": "要點",
+   "example_sentence": "要点のみを説明した。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 17,
+   "word": "思い込む",
+   "reading": "おもいこむ",
+   "pos": "動詞",
+   "meaning_zh": "誤以為、深信",
+   "example_sentence": "この小説はフィクションだと思い込んでいた。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 17,
+   "word": "フィクション",
+   "reading": null,
+   "pos": "名詞",
+   "meaning_zh": "虛構小說",
+   "example_sentence": "この小説はフィクションだと思い込んでいた。",
+   "etymology_en": "fiction"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 18,
+   "word": "口調",
+   "reading": "くちょう",
+   "pos": "名詞",
+   "meaning_zh": "語氣、口吻",
+   "example_sentence": "優しい口調で話しかけた。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 19,
+   "word": "役目",
+   "reading": "やくめ",
+   "pos": "名詞",
+   "meaning_zh": "職責、任務",
+   "example_sentence": "部下に仕事を教えるのは、上司の役目の一つだ。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 20,
+   "word": "ずうずうしい",
+   "reading": "ずうずうしい",
+   "pos": "形容詞",
+   "meaning_zh": "厚臉皮、不知羞恥",
+   "example_sentence": "いつも誰かに払ってもらおうとするので、ずうずうしい人だと思う。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 20,
+   "word": "外食",
+   "reading": "がいしょく",
+   "pos": "名詞",
+   "meaning_zh": "在外用餐",
+   "example_sentence": "森さんは外食のとき。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 21,
+   "word": "ガイド",
+   "reading": null,
+   "pos": "名詞",
+   "meaning_zh": "嚮導",
+   "example_sentence": "佐藤さんがガイドしてくれました。",
+   "etymology_en": "guide"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 21,
+   "word": "案内",
+   "reading": "あんない",
+   "pos": "名詞",
+   "meaning_zh": "嚮導、介紹",
+   "example_sentence": "佐藤さんが案内してくれました。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 22,
+   "word": "修正",
+   "reading": "しゅうせい",
+   "pos": "名詞",
+   "meaning_zh": "修正",
+   "example_sentence": "この表現は修正したほうがいいですよ。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 23,
+   "word": "徐々に",
+   "reading": "じょじょに",
+   "pos": "副詞",
+   "meaning_zh": "逐漸",
+   "example_sentence": "徐々に会社に慣れてきた。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 23,
+   "word": "次第に",
+   "reading": "しだいに",
+   "pos": "副詞",
+   "meaning_zh": "逐漸",
+   "example_sentence": "次第に会社に慣れてきた。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 24,
+   "word": "剥げる",
+   "reading": "はげる",
+   "pos": "動詞",
+   "meaning_zh": "剝落、脫落",
+   "example_sentence": "青いペンキがはげている。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 25,
+   "word": "仕草",
+   "reading": "しぐさ",
+   "pos": "名詞",
+   "meaning_zh": "動作、舉止",
+   "example_sentence": "彼女のあのしぐさは印象的だった。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 25,
+   "word": "印象的",
+   "reading": "いんしょうてき",
+   "pos": "形容動詞",
+   "meaning_zh": "令人印象深刻的",
+   "example_sentence": "彼女のあのしぐさは印象的だった。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 26,
+   "word": "薄める",
+   "reading": "うすめる",
+   "pos": "動詞",
+   "meaning_zh": "沖淡、稀釋",
+   "example_sentence": "スープがしょっぱかったので、水を加えて味を薄めた。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 26,
+   "word": "しょっぱい",
+   "reading": "しょっぱい",
+   "pos": "形容詞",
+   "meaning_zh": "鹹",
+   "example_sentence": "スープがしょっぱかったので。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 27,
+   "word": "充実",
+   "reading": "じゅうじつ",
+   "pos": "名詞",
+   "meaning_zh": "充實",
+   "example_sentence": "今はやりがいのある仕事ができて、毎日が充実している。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 27,
+   "word": "やりがい",
+   "reading": "やりがい",
+   "pos": "名詞",
+   "meaning_zh": "價值感、成就感",
+   "example_sentence": "今はやりがいのある仕事ができて。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 28,
+   "word": "鮮明",
+   "reading": "せんめい",
+   "pos": "形容動詞",
+   "meaning_zh": "清晰、鮮明",
+   "example_sentence": "あのときの出来事は今でも鮮明に覚えている。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 29,
+   "word": "麓",
+   "reading": "ふもと",
+   "pos": "名詞",
+   "meaning_zh": "山腳",
+   "example_sentence": "山のふもとに車を止めて、そこから登りましょう。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 30,
+   "word": "定年",
+   "reading": "ていねん",
+   "pos": "名詞",
+   "meaning_zh": "退休年齡",
+   "example_sentence": "私の会社は60歳が定年なので、あと半年で退職だ。",
+   "etymology_en": null
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 30,
+   "word": "退職",
+   "reading": "たいしょく",
+   "pos": "名詞",
+   "meaning_zh": "退休、離職",
+   "example_sentence": "私の会社は60歳が定年なので、あと半年で退職だ。",
+   "etymology_en": null
+  }
+ ]
+}

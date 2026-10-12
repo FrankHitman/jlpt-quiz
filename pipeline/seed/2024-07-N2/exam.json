@@ -2403,7 +2403,8 @@
     }
    ],
    "correct_option": "2",
-   "target_text": null
+   "target_text": null,
+   "audio_url": "/static/audio/2024-07-N2-listening.mp3"
   },
   {
    "group_local_id": "g_lis1_2",
@@ -2431,7 +2432,8 @@
     }
    ],
    "correct_option": "1",
-   "target_text": null
+   "target_text": null,
+   "audio_url": "/static/audio/2024-07-N2-listening.mp3"
   },
   {
    "group_local_id": "g_lis1_3",
@@ -2459,7 +2461,8 @@
     }
    ],
    "correct_option": "2",
-   "target_text": null
+   "target_text": null,
+   "audio_url": "/static/audio/2024-07-N2-listening.mp3"
   },
   {
    "group_local_id": "g_lis1_4",
@@ -2487,7 +2490,8 @@
     }
    ],
    "correct_option": "3",
-   "target_text": null
+   "target_text": null,
+   "audio_url": "/static/audio/2024-07-N2-listening.mp3"
   },
   {
    "group_local_id": "g_lis1_5",
@@ -2515,7 +2519,8 @@
     }
    ],
    "correct_option": "3",
-   "target_text": null
+   "target_text": null,
+   "audio_url": "/static/audio/2024-07-N2-listening.mp3"
   },
   {
    "group_local_id": "g_lis2_1",
@@ -2543,7 +2548,8 @@
     }
    ],
    "correct_option": "3",
-   "target_text": null
+   "target_text": null,
+   "audio_url": "/static/audio/2024-07-N2-listening.mp3"
   },
   {
    "group_local_id": "g_lis2_2",
@@ -2571,7 +2577,8 @@
     }
    ],
    "correct_option": "1",
-   "target_text": null
+   "target_text": null,
+   "audio_url": "/static/audio/2024-07-N2-listening.mp3"
   },
   {
    "group_local_id": "g_lis2_3",
@@ -2599,7 +2606,8 @@
     }
    ],
    "correct_option": "2",
-   "target_text": null
+   "target_text": null,
+   "audio_url": "/static/audio/2024-07-N2-listening.mp3"
   },
   {
    "group_local_id": "g_lis2_4",
@@ -2627,7 +2635,8 @@
     }
    ],
    "correct_option": "3",
-   "target_text": null
+   "target_text": null,
+   "audio_url": "/static/audio/2024-07-N2-listening.mp3"
   },
   {
    "group_local_id": "g_lis2_5",
@@ -2655,7 +2664,8 @@
     }
    ],
    "correct_option": "4",
-   "target_text": null
+   "target_text": null,
+   "audio_url": "/static/audio/2024-07-N2-listening.mp3"
   },
   {
    "group_local_id": "g_lis2_6",
@@ -2683,7 +2693,8 @@
     }
    ],
    "correct_option": "4",
-   "target_text": null
+   "target_text": null,
+   "audio_url": "/static/audio/2024-07-N2-listening.mp3"
   },
   {
    "group_local_id": "g_lis3_1",
@@ -2711,7 +2722,8 @@
     }
    ],
    "correct_option": "2",
-   "target_text": null
+   "target_text": null,
+   "audio_url": "/static/audio/2024-07-N2-listening.mp3"
   },
   {
    "group_local_id": "g_lis3_2",
@@ -2739,7 +2751,8 @@
     }
    ],
    "correct_option": "1",
-   "target_text": null
+   "target_text": null,
+   "audio_url": "/static/audio/2024-07-N2-listening.mp3"
   },
   {
    "group_local_id": "g_lis3_3",
@@ -2767,7 +2780,8 @@
     }
    ],
    "correct_option": "4",
-   "target_text": null
+   "target_text": null,
+   "audio_url": "/static/audio/2024-07-N2-listening.mp3"
   },
   {
    "group_local_id": "g_lis3_4",
@@ -2795,7 +2809,8 @@
     }
    ],
    "correct_option": "1",
-   "target_text": null
+   "target_text": null,
+   "audio_url": "/static/audio/2024-07-N2-listening.mp3"
   },
   {
    "group_local_id": "g_lis3_5",
@@ -2823,7 +2838,8 @@
     }
    ],
    "correct_option": "4",
-   "target_text": null
+   "target_text": null,
+   "audio_url": "/static/audio/2024-07-N2-listening.mp3"
   },
   {
    "group_local_id": "g_lis4_1",
@@ -2834,7 +2850,8 @@
    "stem": "聴解問題4（即時応答）・1番：発話「今日中に漢字20個覚えるなんて、無理に決まってるよ。」に対する最も適切な応答を選ぶ（無印刷、音声のみ）",
    "options": [],
    "correct_option": "1",
-   "target_text": null
+   "target_text": null,
+   "audio_url": "/static/audio/2024-07-N2-listening.mp3"
   },
   {
    "group_local_id": "g_lis4_2",
@@ -2845,7 +2862,8 @@
    "stem": "聴解問題4（即時応答）・2番：発話「課長、明日の会議の資料ですが、ご覧いただけないでしょうか。」に対する最も適切な応答を選ぶ（無印刷、音声のみ）",
    "options": [],
    "correct_option": "3",
-   "target_text": null
+   "target_text": null,
+   "audio_url": "/static/audio/2024-07-N2-listening.mp3"
   },
   {
    "group_local_id": "g_lis4_3",
@@ -2856,7 +2874,8 @@
    "stem": "聴解問題4（即時応答）・3番：発話「この会社、経験者に限らず応募できるって。」に対する最も適切な応答を選ぶ（無印刷、音声のみ）",
    "options": [],
    "correct_option": "2",
-   "target_text": null
+   "target_text": null,
+   "audio_url": "/static/audio/2024-07-N2-listening.mp3"
   },
   {
    "group_local_id": "g_lis4_4",
@@ -2867,7 +2886,8 @@
    "stem": "聴解問題4（即時応答）・4番：発話「僕が出張の間、庭の花の水やり、毎日欠かさないでね。」に対する最も適切な応答を選ぶ（無印刷、音声のみ）",
    "options": [],
    "correct_option": "2",
-   "target_text": null
+   "target_text": null,
+   "audio_url": "/static/audio/2024-07-N2-listening.mp3"
   },
   {
    "group_local_id": "g_lis4_5",
@@ -2878,7 +2898,8 @@
    "stem": "聴解問題4（即時応答）・5番：発話「履歴書の提出、もう少しで締切に遅れるところだったよ。」に対する最も適切な応答を選ぶ（無印刷、音声のみ）",
    "options": [],
    "correct_option": "1",
-   "target_text": null
+   "target_text": null,
+   "audio_url": "/static/audio/2024-07-N2-listening.mp3"
   },
   {
    "group_local_id": "g_lis4_6",
@@ -2889,7 +2910,8 @@
    "stem": "聴解問題4（即時応答）・6番：発話「前田さん、お客様への申し込み説明は、このパンフレットに沿って話してください。」に対する最も適切な応答を選ぶ（無印刷、音声のみ）",
    "options": [],
    "correct_option": "2",
-   "target_text": null
+   "target_text": null,
+   "audio_url": "/static/audio/2024-07-N2-listening.mp3"
   },
   {
    "group_local_id": "g_lis4_7",
@@ -2900,7 +2922,8 @@
    "stem": "聴解問題4（即時応答）・7番：発話「今日の午後、商品発表会で話すんだけど、緊張のあまり食欲もないよ。」に対する最も適切な応答を選ぶ（無印刷、音声のみ）",
    "options": [],
    "correct_option": "2",
-   "target_text": null
+   "target_text": null,
+   "audio_url": "/static/audio/2024-07-N2-listening.mp3"
   },
   {
    "group_local_id": "g_lis4_8",
@@ -2911,7 +2934,8 @@
    "stem": "聴解問題4（即時応答）・8番：発話「今日の会議でのプレゼン、先輩が休みだから、私がやらざるを得なくなって…」に対する最も適切な応答を選ぶ（無印刷、音声のみ）",
    "options": [],
    "correct_option": "3",
-   "target_text": null
+   "target_text": null,
+   "audio_url": "/static/audio/2024-07-N2-listening.mp3"
   },
   {
    "group_local_id": "g_lis4_9",
@@ -2922,7 +2946,8 @@
    "stem": "聴解問題4（即時応答）・9番：発話「今日のお昼の定食、食べ応えあったね。」に対する最も適切な応答を選ぶ（無印刷、音声のみ）",
    "options": [],
    "correct_option": "1",
-   "target_text": null
+   "target_text": null,
+   "audio_url": "/static/audio/2024-07-N2-listening.mp3"
   },
   {
    "group_local_id": "g_lis4_10",
@@ -2933,7 +2958,8 @@
    "stem": "聴解問題4（即時応答）・10番：発話「店長、山田さん、配達の仕事、頼まれたらやらないこともないって言ってました。」に対する最も適切な応答を選ぶ（無印刷、音声のみ）",
    "options": [],
    "correct_option": "3",
-   "target_text": null
+   "target_text": null,
+   "audio_url": "/static/audio/2024-07-N2-listening.mp3"
   },
   {
    "group_local_id": "g_lis4_11",
@@ -2944,7 +2970,8 @@
    "stem": "聴解問題4（即時応答）・11番：発話「来年からの入学先、迷ったあげく、はじめに思ってたところにしたよ。」に対する最も適切な応答を選ぶ（無印刷、音声のみ）",
    "options": [],
    "correct_option": "1",
-   "target_text": null
+   "target_text": null,
+   "audio_url": "/static/audio/2024-07-N2-listening.mp3"
   },
   {
    "group_local_id": "g_lis5_1",
@@ -2972,7 +2999,8 @@
     }
    ],
    "correct_option": "2",
-   "target_text": null
+   "target_text": null,
+   "audio_url": "/static/audio/2024-07-N2-listening.mp3"
   },
   {
    "group_local_id": "g_lis5_2q1",
@@ -3000,7 +3028,8 @@
     }
    ],
    "correct_option": "1",
-   "target_text": null
+   "target_text": null,
+   "audio_url": "/static/audio/2024-07-N2-listening.mp3"
   },
   {
    "group_local_id": "g_lis5_2q2",
@@ -3028,7 +3057,8 @@
     }
    ],
    "correct_option": "3",
-   "target_text": null
+   "target_text": null,
+   "audio_url": "/static/audio/2024-07-N2-listening.mp3"
   }
  ],
  "explanations": [

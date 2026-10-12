@@ -1,0 +1,1597 @@
+{
+ "groups": [
+  {
+   "local_id": "g_text9",
+   "section_code": "lang_reading",
+   "group_type": "passage",
+   "title": "問題9 文章文法",
+   "content": "わたしが手伝っているのは南さんという農家だ。40代の夫婦がトマトやキャベツなど、いろいろな野菜を作っている。農作業は初めての経験だったが、農業は想像していた以上に知識や経験が必要だと感じた。【48】、収穫のタイミングは、成長の具合や天気予報をもとに、いつかいいかを判断しなければならない。また、トマトなどは成長の段階に応じて与える水の量を変えないとしっかり育たない。体力【49】必要で、農業は本当に大変な仕事だ。\n\n収穫したばかりのトマトを初めて食べさせてもらったときはあまりおいしくて【50】。収穫したときの達成感や大切に育てた野菜を味わう喜びは、このボランティアに参加しなければ感じられなかっただろう。\n\n農業……として役に立てたことが嬉しかったし、多くの貴重な経験をすることができます。\n\n【51】本当に良かったと思う。",
+   "sort_order": 1
+  }
+ ],
+ "questions": [
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 31,
+   "stem": "水泳教室に通い始めたころは、怖くて水に顔をつけること( )できなかったが、今は泳ぐのが大好きだ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "なら"
+    },
+    {
+     "key": "2",
+     "text": "ほど"
+    },
+    {
+     "key": "3",
+     "text": "さえ"
+    },
+    {
+     "key": "4",
+     "text": "ばかり"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 32,
+   "stem": "この作業はかなり大変なので、一日で終わらせるのは( )無理だろう。",
+   "options": [
+    {
+     "key": "1",
+     "text": "つい"
+    },
+    {
+     "key": "2",
+     "text": "まず"
+    },
+    {
+     "key": "3",
+     "text": "たとえ"
+    },
+    {
+     "key": "4",
+     "text": "今に"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 33,
+   "stem": "母はいちごジャムを作るとき、いちご100グラム( )80グラムの砂糖を使う。",
+   "options": [
+    {
+     "key": "1",
+     "text": "に対して"
+    },
+    {
+     "key": "2",
+     "text": "に関して"
+    },
+    {
+     "key": "3",
+     "text": "によって"
+    },
+    {
+     "key": "4",
+     "text": "にあたって"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 34,
+   "stem": "この図書館には、借りている本を全部( )、ほかの本が借りられないという規則がある。",
+   "options": [
+    {
+     "key": "1",
+     "text": "返したすえに"
+    },
+    {
+     "key": "2",
+     "text": "返したとはいえ"
+    },
+    {
+     "key": "3",
+     "text": "返してはじめて"
+    },
+    {
+     "key": "4",
+     "text": "返してからでないと"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 35,
+   "stem": "タクシー会社を経営する青山氏は、インタビューで「お客様から感謝の言葉を( )、人の役に立つ喜びを感じます。」と語った。",
+   "options": [
+    {
+     "key": "1",
+     "text": "いただくよう"
+    },
+    {
+     "key": "2",
+     "text": "さしあげるよう"
+    },
+    {
+     "key": "3",
+     "text": "いただくたび"
+    },
+    {
+     "key": "4",
+     "text": "さしあけるたび"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 36,
+   "stem": "妻は息子にどうしてもピアノを習わせたいと言っているが私は本人が( )無理にさせなくてもいいと思っている。",
+   "options": [
+    {
+     "key": "1",
+     "text": "やらきれないのなら"
+    },
+    {
+     "key": "2",
+     "text": "やりたがらないのなら"
+    },
+    {
+     "key": "3",
+     "text": "やってほしくないのに"
+    },
+    {
+     "key": "4",
+     "text": "やってもはじまらないのに"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 37,
+   "stem": "この研究を始めたころは、そんなことを研究して意味が( )批判的な意見も多かったが、最近少しずつ認めてもらえるようになってきた。",
+   "options": [
+    {
+     "key": "1",
+     "text": "あるというような"
+    },
+    {
+     "key": "2",
+     "text": "あるのかというような"
+    },
+    {
+     "key": "3",
+     "text": "あるということの"
+    },
+    {
+     "key": "4",
+     "text": "あるのかということ"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 38,
+   "stem": "腕のけがはまだ完全に( )が、日常生活には困らなくなった。",
+   "options": [
+    {
+     "key": "1",
+     "text": "治りようがない"
+    },
+    {
+     "key": "2",
+     "text": "治らないでもない"
+    },
+    {
+     "key": "3",
+     "text": "治ったにすぎない"
+    },
+    {
+     "key": "4",
+     "text": "治ったわけではない"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 39,
+   "stem": "私は20年前に初めて富士山に登った。山頂に立ったときの感動は今でも( )。",
+   "options": [
+    {
+     "key": "1",
+     "text": "忘れがたい"
+    },
+    {
+     "key": "2",
+     "text": "忘れかけている"
+    },
+    {
+     "key": "3",
+     "text": "忘れないといい"
+    },
+    {
+     "key": "4",
+     "text": "忘れるおそれがある"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 40,
+   "stem": "洗濯機に入れるときに気づいたからよかったが、もう少しで大事な領収書をズボンのポケットに入れたまま( )。",
+   "options": [
+    {
+     "key": "1",
+     "text": "洗濯したようだ"
+    },
+    {
+     "key": "2",
+     "text": "洗濯するつもりだった"
+    },
+    {
+     "key": "3",
+     "text": "洗濯したせいだ"
+    },
+    {
+     "key": "4",
+     "text": "洗するところだった"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 41,
+   "stem": "毎晩私は、5歳の娘が寝る前にベッドで本を読んでやるのだが、読んでいるうちに自分のほうが( )。",
+   "options": [
+    {
+     "key": "1",
+     "text": "寝てしまうことがある"
+    },
+    {
+     "key": "2",
+     "text": "寝ておくことがある"
+    },
+    {
+     "key": "3",
+     "text": "寝てしまうことにする"
+    },
+    {
+     "key": "4",
+     "text": "寝ておくことにする"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "grammar_fill",
+   "mondai_no": 7,
+   "number_in_section": 42,
+   "stem": "社長として、社員全員が仕事に満足できる環境を整えたい。それは単なる理想( )。いや、私は理想ではなく必ず実現できると信じている。",
+   "options": [
+    {
+     "key": "1",
+     "text": "でしかないはずだ"
+    },
+    {
+     "key": "2",
+     "text": "でなくてはいけないはずだ"
+    },
+    {
+     "key": "3",
+     "text": "でしかないのだろうか"
+    },
+    {
+     "key": "4",
+     "text": "ではいけないのだろうか"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 8,
+   "number_in_section": 43,
+   "stem": "長く使っている電子レンジが壊れてしまった。古いものだし、修理に___ ___ ★___ 買い替えたほうがいいかもしれない。",
+   "options": [
+    {
+     "key": "1",
+     "text": "もう"
+    },
+    {
+     "key": "2",
+     "text": "考えると"
+    },
+    {
+     "key": "3",
+     "text": "かかる"
+    },
+    {
+     "key": "4",
+     "text": "費用を"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 8,
+   "number_in_section": 44,
+   "stem": "娘「今度のスピーチコンテスト、参加しようかなあ。でも、自信ないなあ。」\n母「チャレンジ___ ___ ★___ ?いい経験になると思うよ。」",
+   "options": [
+    {
+     "key": "1",
+     "text": "だけ"
+    },
+    {
+     "key": "2",
+     "text": "みたら"
+    },
+    {
+     "key": "3",
+     "text": "する"
+    },
+    {
+     "key": "4",
+     "text": "して"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 8,
+   "number_in_section": 45,
+   "stem": "このドレスを替ると、___ ___ ★___ 気分になる。",
+   "options": [
+    {
+     "key": "1",
+     "text": "映画か何かに"
+    },
+    {
+     "key": "2",
+     "text": "なったような"
+    },
+    {
+     "key": "3",
+     "text": "出てくる"
+    },
+    {
+     "key": "4",
+     "text": "お姉様にも"
+    }
+   ],
+   "correct_option": "4",
+   "target_text": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 8,
+   "number_in_section": 46,
+   "stem": "昨日は「母の日」だったので、いつもおいしいお弁当を___ ___ ★___ 母が欲しがっていたアクセサリをプレゼントした。",
+   "options": [
+    {
+     "key": "1",
+     "text": "感謝の"
+    },
+    {
+     "key": "2",
+     "text": "作ってくれて"
+    },
+    {
+     "key": "3",
+     "text": "ありがとうという"
+    },
+    {
+     "key": "4",
+     "text": "気持ちを込めて"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "sentence_order",
+   "mondai_no": 8,
+   "number_in_section": 47,
+   "stem": "学生時代は、周りの人から___ ___ ★___ 無理して人に合わせようとすることが多かった。",
+   "options": [
+    {
+     "key": "1",
+     "text": "言えずに"
+    },
+    {
+     "key": "2",
+     "text": "気にするあまり"
+    },
+    {
+     "key": "3",
+     "text": "自分の本当の気持ちを"
+    },
+    {
+     "key": "4",
+     "text": "自分がどう思われているかを"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "group_local_id": null
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "text_grammar",
+   "mondai_no": 9,
+   "number_in_section": 48,
+   "stem": "【48】",
+   "options": [
+    {
+     "key": "1",
+     "text": "一方"
+    },
+    {
+     "key": "2",
+     "text": "そして"
+    },
+    {
+     "key": "3",
+     "text": "例えば"
+    },
+    {
+     "key": "4",
+     "text": "ただし"
+    }
+   ],
+   "correct_option": "3",
+   "target_text": null,
+   "group_local_id": "g_text9"
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "text_grammar",
+   "mondai_no": 9,
+   "number_in_section": 49,
+   "stem": "体力【49】必要で、農業は本当に大変な仕事だ。",
+   "options": [
+    {
+     "key": "1",
+     "text": "だけ"
+    },
+    {
+     "key": "2",
+     "text": "も"
+    },
+    {
+     "key": "3",
+     "text": "は"
+    },
+    {
+     "key": "4",
+     "text": "こそ"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null,
+   "group_local_id": "g_text9"
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "text_grammar",
+   "mondai_no": 9,
+   "number_in_section": 50,
+   "stem": "収穫したばかりのトマトを初めて食べさせてもらったときはあまりおいしくて【50】。",
+   "options": [
+    {
+     "key": "1",
+     "text": "感動したことだ"
+    },
+    {
+     "key": "2",
+     "text": "感動していた"
+    },
+    {
+     "key": "3",
+     "text": "感動したはずだ"
+    },
+    {
+     "key": "4",
+     "text": "感動してしまった"
+    }
+   ],
+   "correct_option": "2",
+   "target_text": null,
+   "group_local_id": "g_text9"
+  },
+  {
+   "section_code": "lang_reading",
+   "qtype_code": "text_grammar",
+   "mondai_no": 9,
+   "number_in_section": 51,
+   "stem": "【51】本当に良かったと思う。",
+   "options": [
+    {
+     "key": "1",
+     "text": "やってみて"
+    },
+    {
+     "key": "2",
+     "text": "やってみても"
+    },
+    {
+     "key": "3",
+     "text": "やってみたら"
+    },
+    {
+     "key": "4",
+     "text": "やってみたから"
+    }
+   ],
+   "correct_option": "1",
+   "target_text": null,
+   "group_local_id": "g_text9"
+  }
+ ],
+ "explanations": [
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 31,
+   "key_point": "〜さえ（N2）",
+   "analysis_zh": "正解是 3「さえ」。「〜さえ〜ない」表示「連…都…不」，強調連最低限度的事都做不到。「怖くて水に顔をつけることさえできなかった」＝因為害怕，連把臉放進水裡都做不到，符合語境。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「なら」表假定（如果…的話），不合。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「ほど」表程度（…到…地步），此處不是比較程度。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「ばかり」表「只、光」，不合語境。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "なら",
+    "2": "ほど",
+    "3": "さえ",
+    "4": "ばかり"
+   },
+   "option_meanings": {
+    "1": "如果…的話",
+    "2": "…到…地步",
+    "3": "連…都",
+    "4": "只、光"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 32,
+   "key_point": "まず（N2）",
+   "analysis_zh": "正解是 2「まず」。「まず」在此表示推量語氣「恐怕、大概」，「一日で終わらせるのはまず無理だろう」＝一天內要完成恐怕不可能吧。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「つい」表「不禁、一不小心」，不合。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「たとえ」表讓步（即使…也），後面需要「〜ても」，不合。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「今に」表「遲早、不久」，不合。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "つい",
+    "2": "まず",
+    "3": "たとえ",
+    "4": "いまに"
+   },
+   "option_meanings": {
+    "1": "不禁、一不小心",
+    "2": "恐怕、大概",
+    "3": "即使",
+    "4": "遲早、不久"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 33,
+   "key_point": "〜に対して（N2）",
+   "analysis_zh": "正解是 1「に対して」。「Aに対してB」可表示比例關係「相對於A而言B」，「いちご100グラムに対して80グラムの砂糖」＝相對於100克草莓用80克糖。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「に関して」表「關於」，用於主題，不表比例。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「によって」表原因、依據或被動，不合。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「にあたって」表「值此…之際」，不合。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "にたいして",
+    "2": "にかんして",
+    "3": "によって",
+    "4": "にあたって"
+   },
+   "option_meanings": {
+    "1": "對於、相對於（比例）",
+    "2": "關於",
+    "3": "根據、由於",
+    "4": "值此…之際"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 34,
+   "key_point": "〜てからでないと（N2）",
+   "analysis_zh": "正解是 4「返してからでないと」。「〜てからでないと」＝「不…的話就不…」，表示必要條件。「借りている本を全部返してからでないと、ほかの本が借りられない」＝不把借的書全部還了，就不能借別的書。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「返したすえに」表「好不容易…之後」，不合規則語境。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「返したとはいえ」表讓步「雖說還了」，不合。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「返してはじめて」表「還了之後才」，語氣可用但官方答案為 4；「〜ないと」與「規則」更直接對應。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "かえしたすえに",
+    "2": "かえしたとはいえ",
+    "3": "かえしてはじめて",
+    "4": "かえしてからでないと"
+   },
+   "option_meanings": {
+    "1": "好不容易…之後",
+    "2": "雖說…",
+    "3": "…之後才",
+    "4": "不…的話就不…"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 35,
+   "key_point": "〜たび（に）（N2）",
+   "analysis_zh": "正解是 3「いただくたび」。「〜たび（に）」＝「每當…就…」，表反復。「お客様から感謝の言葉をいただくたび」＝每當收到客人的感謝話語。注意授受關係：感謝的話是從客人那裡「收到」，用謙讓語「いただく」。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「いただくよう」表目的（為了能收到），不合。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「さしあげる」是「給予」的謙讓語，方向反了（話是客人給的）。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "同 2，授受方向錯誤。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "いただくよう",
+    "2": "さしあげるよう",
+    "3": "いただくたび",
+    "4": "さしあけるたび"
+   },
+   "option_meanings": {
+    "1": "為了能收到",
+    "2": "為了能給予",
+    "3": "每當收到",
+    "4": "每當給予"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 36,
+   "key_point": "〜たがらない・〜のなら（N2）",
+   "analysis_zh": "正解是 2「やりたがらないのなら」。第三人稱的願望用「〜たがる」，否定為「〜たがらない」。「本人がやりたがらないのなら」＝如果本人不想做的话，「無理にさせなくてもいい」＝不勉強也沒關係，邏輯通順。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「やらきれない」表「做不完、應付不來」，指能力而非意願，不合。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「やってほしくないのに」表轉折「明明不想讓他做卻…」，後面不是轉折語氣。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「やってもはじまらないのに」＝明明做了也沒用，不合語境。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "やらきれないのなら",
+    "2": "やりたがらないのなら",
+    "3": "やってほしくないのに",
+    "4": "やってもはじまらないのに"
+   },
+   "option_meanings": {
+    "1": "如果做不完的話",
+    "2": "如果不想做的話",
+    "3": "明明不想讓他做卻",
+    "4": "明明做了也沒用卻"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 37,
+   "key_point": "〜のかというような（N2）",
+   "analysis_zh": "正解是 2「あるのかというような」。「〜のかというような＋名詞」用於引用不確定的傳聞或疑問作修飾，「意味があるのかというような批判的な意見」＝「研究這種東西有意義嗎」之類的批評意見。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「あるというような」缺少「のか」，疑問語氣不足。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「あるということの」是名詞化＋の，不合修飾結構。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「あるのかということ」後面直接加名詞不自然。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "あるというような",
+    "2": "あるのかというような",
+    "3": "あるということの",
+    "4": "あるのかということ"
+   },
+   "option_meanings": {
+    "1": "有所謂…之類的",
+    "2": "有…嗎之類的",
+    "3": "有…這件事的",
+    "4": "有…嗎這件事"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 38,
+   "key_point": "〜わけではない（N2）",
+   "analysis_zh": "正解是 4「治ったわけではない」。「〜わけではない」＝「並非…」，作部分否定。「腕のけがはまだ完全に治ったわけではないが、日常生活には困らなくなった」＝手臂的傷還沒完全好，但日常生活已無困擾，前後對比成立。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「治りようがない」＝沒法治好，語氣過重，與後文「不困擾」矛盾。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「治らないでもない」＝並非沒好，雙重否定表肯定，與「まだ完全に」不搭配。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「治ったにすぎない」＝只不過是好了，貶低語氣，不合。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "なおりようがない",
+    "2": "ななおらないでもない",
+    "3": "なったにすぎない",
+    "4": "なったわけではない"
+   },
+   "option_meanings": {
+    "1": "沒法治好",
+    "2": "並非沒好",
+    "3": "只不過是…",
+    "4": "並非…"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 39,
+   "key_point": "〜がたい（N2）",
+   "analysis_zh": "正解是 1「忘れがたい」。「〜がたい」＝「難以…」，表心理上難以做到。「山頂に立ったときの感動は今でも忘れがたい」＝站在山頂時的感動至今難以忘懷。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「忘れかけている」＝快要忘記了，與「今でも」強調的深刻印象矛盾。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「忘れないといい」＝希望不要忘記，是願望，不合。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「忘れるおそれがある」＝有可能忘記，不合語境。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "わすれがたい",
+    "2": "わすれかけている",
+    "3": "わすれないといい",
+    "4": "わすれるおそれがある"
+   },
+   "option_meanings": {
+    "1": "難以忘懷",
+    "2": "快要忘記",
+    "3": "希望不要忘記",
+    "4": "有可能忘記"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 40,
+   "key_point": "〜ところだった（N2）",
+   "analysis_zh": "正解是 4「洗するところだった」。「〜ところだった」＝「差一點就…（而實際沒發生）」。「もう少しで…入れまま（洗するところだった）」＝差一點就連著口袋裡的收據一起洗了，幸好發現得早。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「洗濯したようだ」＝好像洗了，表示推測已發生，不合。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「洗濯するつもりだった」＝本來打算洗，語義不合。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「洗濯したせいだ」＝因為洗了所以…，表示原因，不合。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "せんたくしたようだ",
+    "2": "せんたくするつもりだった",
+    "3": "せんたくしたせいだ",
+    "4": "あらうするところだった"
+   },
+   "option_meanings": {
+    "1": "好像洗了",
+    "2": "本來打算洗",
+    "3": "因為洗了所以",
+    "4": "差一點就…"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 41,
+   "key_point": "〜てしまう・〜ことがある（N2）",
+   "analysis_zh": "正解是 1「寝てしまうことがある」。「〜てしまう」表「不由得…、結果…」，「読んでいるうちに自分のほうが寝てしまうことがある」＝讀著讀著自己也不知不覺睡著了的情況時有發生。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「寝ておく」＝預先睡、事先睡好，表準備，不合。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「〜ことにする」表決定（決定要…），此處是敘述常發生的事，非決定。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "同 3，「おく」＋決定，不合。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "ねてしまうことがある",
+    "2": "ねておくことがある",
+    "3": "ねてしまうことにする",
+    "4": "ねておくことにする"
+   },
+   "option_meanings": {
+    "1": "有時會不知不覺睡著",
+    "2": "有時會預先睡",
+    "3": "決定要睡著",
+    "4": "決定預先睡"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 42,
+   "key_point": "〜でしかない・〜のだろうか（N2）",
+   "analysis_zh": "正解是 3「でしかないのだろうか」。「〜でしかない」＝「只不過是…」，「のだろうか」表自問。「それは単なる理想でしかないのだろうか。いや、私は…必ず実現できると信じている」＝難道那只不過是空想嗎？不，我相信一定能實現。前後轉折成立。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「でしかないはずだ」＝應該只不過是…，表斷定，與後文「不、我相信」矛盾。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「でなくてはいけないはずだ」＝應該必須不是…，語義混亂。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「ではいけないのだろうか」＝難道不行嗎，表許可疑問，不合。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "でしかないはずだ",
+    "2": "でなくてはいけないはずだ",
+    "3": "でしかないのだろうか",
+    "4": "ではいけないのだろうか"
+   },
+   "option_meanings": {
+    "1": "應該只不過是…",
+    "2": "應該必須不是…",
+    "3": "難道只不過是…嗎",
+    "4": "難道不行嗎"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 43,
+   "key_point": "排序・〜と考える（N2）",
+   "analysis_zh": "正解是 2「考えると」。正確語序：修理に（3 かかる）（4 費用を）★（2 考えると）（1 もう）買い替えたほうがいいかもしれない。＝考慮到維修要花的費用，或許乾脆換台新的比較好。「〜を考えると」＝考慮到…。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「もう」放 ★ 位則「費用をもう」不通。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「かかる」放 ★ 位則「費用をかかる」助詞錯誤（かかる是自動詞）。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「費用を」放 ★ 位則後面直接接「買い替えた」缺謂語。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "もう",
+    "2": "かんがえると",
+    "3": "かかる",
+    "4": "ひようを"
+   },
+   "option_meanings": {
+    "1": "乾脆、索性",
+    "2": "考慮到…的話",
+    "3": "花費（自動詞）",
+    "4": "費用"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 44,
+   "key_point": "排序・〜てみたら（N2）",
+   "analysis_zh": "正解是 4「して」。正確語序：チャレンジ（3 する）（1 だけ）★（4 して）（2 みたら）？いい経験になると思うよ。＝只試著挑戰看看如何？我覺得會成為很好的經驗。「〜だけしてみたら」＝只試試…看看。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「だけ」放 ★ 位則「するだけだけ」重複。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「みたら」放 ★ 位則「だけみたら」不通。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「する」放 ★ 位則「だけするみたら」語序錯亂。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "だけ",
+    "2": "みたら",
+    "3": "する",
+    "4": "して"
+   },
+   "option_meanings": {
+    "1": "只",
+    "2": "試試看",
+    "3": "做",
+    "4": "（te 形接續）"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 45,
+   "key_point": "排序・〜ような（N2）",
+   "analysis_zh": "正解是 4「お姉様にも」。正確語序：（1 映画か何かに）（3 出てくる）★（4 お姉様にも）（2 なったような）気分になる。＝換上這件洋裝，就有種變成了電影裡出現的千金小姐般的心情。「〜にもなったような気分」＝有種也變成了…的感覺。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「映画か何かに」放 ★ 位則「出てくる映画か何かに」修飾錯位。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「なったような」放 ★ 位則後面直接接「気分」缺被修飾語。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「出てくる」放 ★ 位則「お姉様にも出てくる」語義不通。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "えいがかとき",
+    "2": "なったような",
+    "3": "でてくる",
+    "4": "おじょうさまにも"
+   },
+   "option_meanings": {
+    "1": "電影什麼的",
+    "2": "變得像…一樣",
+    "3": "出現",
+    "4": "千金小姐也"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 46,
+   "key_point": "排序・気持ちを込めて（N2）",
+   "analysis_zh": "正解是 1「感謝の」。正確語序：いつもおいしいお弁当を（2 作ってくれて）（3 ありがとうという）★（1 感謝の）（4 気持ちを込めて）母が欲しがっていたアクセサリをプレゼントした。＝懷著「謝謝媽媽總是做美味便當」的感謝之情，送了媽媽想要的飾品。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「作ってくれて」放 ★ 位則「ありがとうという作ってくれて」不通。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「ありがとうという」放 ★ 位則「感謝のありがとうという」語序錯亂。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「気持ちを込めて」放 ★ 位則後面缺名詞。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "かんしゃの",
+    "2": "つくってくれて",
+    "3": "ありがとうという",
+    "4": "きもちをこめて"
+   },
+   "option_meanings": {
+    "1": "感謝的",
+    "2": "做了給我",
+    "3": "說謝謝的",
+    "4": "懷著…心情"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 47,
+   "key_point": "排序・〜あまり（N2）",
+   "analysis_zh": "正解是 3「自分の本当の気持ちを」。正確語序：周りの人から（4 自分がどう思われているかを）（2 気にするあまり）★（3 自分の本当の気持ちを）（1 言えずに）無理して人に合わせようとすることが多かった。＝因為太在意別人怎麼看我，常常說不出真心話而勉強迎合別人。「〜あまり」＝因為太…而…。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「言えずに」放 ★ 位則後面直接接「無理して」缺賓語。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「気にするあまり」放 ★ 位則「自分がどう思われているかを気にするあまり」已完整，★ 位應接賓語。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「自分がどう思われているかを」放 ★ 位則前面「周りの人から」缺謂語。"
+    }
+   ],
+   "evidence": null,
+   "option_readings": {
+    "1": "いえずに",
+    "2": "きにするあまり",
+    "3": "じぶんのほんとうのきもちを",
+    "4": "じぶんがどうおもわれているかを"
+   },
+   "option_meanings": {
+    "1": "說不出而",
+    "2": "因為太在意",
+    "3": "自己真實的心情",
+    "4": "自己被怎麼看待"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 48,
+   "key_point": "接続詞・例えば（N2）",
+   "analysis_zh": "正解是 3「例えば」。前文說農業比想像中更需要知識和經驗，後文舉出收穫時機判斷的具體例子，「例えば」＝例如，承接自然。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「一方」表對比轉折，前後不是對比關係。"
+    },
+    {
+     "option": "2",
+     "why_wrong": "「そして」表順接並列，此處是舉例，非並列。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「ただし」表逆接補充（不過），不合。"
+    }
+   ],
+   "evidence": "農業は想像していた以上に知識や経験が必要だと感じた（第1段末）→舉例收穫時機",
+   "option_readings": {
+    "1": "いっぽう",
+    "2": "そして",
+    "3": "たとえば",
+    "4": "ただし"
+   },
+   "option_meanings": {
+    "1": "另一方面",
+    "2": "然後、並且",
+    "3": "例如",
+    "4": "不過"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 49,
+   "key_point": "〜も（並列添加）（N2）",
+   "analysis_zh": "正解是 2「も」。前文已說需要知識和經驗，此處再加「体力も必要」＝體力也需要，「も」表添加，符合語境。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「だけ」＝只，表限定，與「知識經驗也需要」的語境矛盾。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「は」作主題提示，此處需要添加語氣。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「こそ」表強調，不合。"
+    }
+   ],
+   "evidence": "知識や経験が必要（第1段）→体力も必要で（第1段末）",
+   "option_readings": {
+    "1": "だけ",
+    "2": "も",
+    "3": "は",
+    "4": "こそ"
+   },
+   "option_meanings": {
+    "1": "只",
+    "2": "也",
+    "3": "（主題）",
+    "4": "正是"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 50,
+   "key_point": "〜ていた（狀態持續）（N2）",
+   "analysis_zh": "正解是 2「感動していた」。「あまりおいしくて感動していた」＝因為太好吃了而一直感動著，「〜ていた」表當時的持續狀態，符合回憶語境。",
+   "distractors": [
+    {
+     "option": "1",
+     "why_wrong": "「感動したことだ」是名詞化斷定，不合口語回憶語境。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「感動したはずだ」＝應該感動了，表推測，不合親身經歷。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「感動してしまった」表「不由得…了」，表意外完成，此處是持續感動。"
+    }
+   ],
+   "evidence": "あまりおいしくて【50】（第2段首句）",
+   "option_readings": {
+    "1": "かんどうしたことだ",
+    "2": "かんどうしていた",
+    "3": "かんどうしたはずだ",
+    "4": "かんどうしてしまった"
+   },
+   "option_meanings": {
+    "1": "是感動了這件事",
+    "2": "一直感動著",
+    "3": "應該感動了",
+    "4": "不由得感動了"
+   }
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 51,
+   "key_point": "〜てみて（N2）",
+   "analysis_zh": "正解是 1「やってみて」。前文列舉了幫忙農活的喜悅和收穫，「やってみて本当に良かったと思う」＝試著做了之後真覺得太好了，「〜てみて」表嘗試後的感想，收束全文。",
+   "distractors": [
+    {
+     "option": "2",
+     "why_wrong": "「やってみても」＝即使試了也…，表讓步逆接，不合。"
+    },
+    {
+     "option": "3",
+     "why_wrong": "「やってみたら」＝試了之後（發現…），後面應接發現的內容，不合。"
+    },
+    {
+     "option": "4",
+     "why_wrong": "「やってみたから」＝因為試了所以…，後面應接結果，不合。"
+    }
+   ],
+   "evidence": "【51】本当に良かったと思う（末段）",
+   "option_readings": {
+    "1": "やってみて",
+    "2": "やってみても",
+    "3": "やってみたら",
+    "4": "やってみたから"
+   },
+   "option_meanings": {
+    "1": "試著做了之後",
+    "2": "即使試了也",
+    "3": "一試（就發現）",
+    "4": "因為試了所以"
+   }
+  }
+ ],
+ "vocabulary": [
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 31,
+   "word": "水泳教室",
+   "reading": "すいえいきょうしつ",
+   "pos": "名詞",
+   "meaning_zh": "游泳教室",
+   "example_sentence": "水泳教室に通い始めたころは"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 32,
+   "word": "大変",
+   "reading": "たいへん",
+   "pos": "形容動詞",
+   "meaning_zh": "辛苦、艱難",
+   "example_sentence": "この作業はかなり大変なので"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 33,
+   "word": "砂糖",
+   "reading": "さとう",
+   "pos": "名詞",
+   "meaning_zh": "砂糖",
+   "example_sentence": "80グラムの砂糖を使う"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 34,
+   "word": "規則",
+   "reading": "きそく",
+   "pos": "名詞",
+   "meaning_zh": "規則",
+   "example_sentence": "という規則がある"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 35,
+   "word": "経営",
+   "reading": "けいえい",
+   "pos": "名詞",
+   "meaning_zh": "經營",
+   "example_sentence": "タクシー会社を経営する青山氏"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 35,
+   "word": "感謝",
+   "reading": "かんしゃ",
+   "pos": "名詞",
+   "meaning_zh": "感謝",
+   "example_sentence": "お客様から感謝の言葉を"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 36,
+   "word": "無理",
+   "reading": "むり",
+   "pos": "形容動詞",
+   "meaning_zh": "勉強、強求",
+   "example_sentence": "無理にさせなくてもいい"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 37,
+   "word": "批判的",
+   "reading": "ひはんてき",
+   "pos": "形容動詞",
+   "meaning_zh": "批判性的",
+   "example_sentence": "批判的な意見も多かった"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 37,
+   "word": "認める",
+   "reading": "みとめる",
+   "pos": "動詞",
+   "meaning_zh": "認可、承認",
+   "example_sentence": "少しずつ認めてもらえるようになってきた"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 38,
+   "word": "腕",
+   "reading": "うで",
+   "pos": "名詞",
+   "meaning_zh": "手臂",
+   "example_sentence": "腕のけがはまだ完全に"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 38,
+   "word": "日常生活",
+   "reading": "にちじょうせいかつ",
+   "pos": "名詞",
+   "meaning_zh": "日常生活",
+   "example_sentence": "日常生活には困らなくなった"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 39,
+   "word": "山頂",
+   "reading": "さんちょう",
+   "pos": "名詞",
+   "meaning_zh": "山頂",
+   "example_sentence": "山頂に立ったときの感動"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 39,
+   "word": "感動",
+   "reading": "かんどう",
+   "pos": "名詞",
+   "meaning_zh": "感動",
+   "example_sentence": "山頂に立ったときの感動は今でも"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 40,
+   "word": "領収書",
+   "reading": "りょうしゅうしょ",
+   "pos": "名詞",
+   "meaning_zh": "收據",
+   "example_sentence": "大事な領収書をズボンのポケットに"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 40,
+   "word": "気づく",
+   "reading": "きづく",
+   "pos": "動詞",
+   "meaning_zh": "察覺、注意到",
+   "example_sentence": "洗濯機に入れるときに気づいたから"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 41,
+   "word": "毎晩",
+   "reading": "まいばん",
+   "pos": "副詞",
+   "meaning_zh": "每晚",
+   "example_sentence": "毎晩私は、5歳の娘が寝る前に"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 42,
+   "word": "環境",
+   "reading": "かんきょう",
+   "pos": "名詞",
+   "meaning_zh": "環境",
+   "example_sentence": "仕事に満足できる環境を整えたい"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 42,
+   "word": "実現",
+   "reading": "じつげん",
+   "pos": "名詞",
+   "meaning_zh": "實現",
+   "example_sentence": "必ず実現できると信じている"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 43,
+   "word": "電子レンジ",
+   "reading": "でんしレンジ",
+   "pos": "名詞",
+   "meaning_zh": "微波爐",
+   "example_sentence": "長く使っている電子レンジが壊れてしまった",
+   "etymology_en": "electronic range"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 43,
+   "word": "買い替える",
+   "reading": "かいかえる",
+   "pos": "動詞",
+   "meaning_zh": "換購新的",
+   "example_sentence": "買い替えたほうがいいかもしれない"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 44,
+   "word": "自信",
+   "reading": "じしん",
+   "pos": "名詞",
+   "meaning_zh": "自信",
+   "example_sentence": "でも、自信ないなあ"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 45,
+   "word": "気分",
+   "reading": "きぶん",
+   "pos": "名詞",
+   "meaning_zh": "心情、感覺",
+   "example_sentence": "気分になる"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 46,
+   "word": "感謝",
+   "reading": "かんしゃ",
+   "pos": "名詞",
+   "meaning_zh": "感謝",
+   "example_sentence": "感謝の気持ちを込めて"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 46,
+   "word": "込める",
+   "reading": "こめる",
+   "pos": "動詞",
+   "meaning_zh": "傾注、懷著",
+   "example_sentence": "気持ちを込めて"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 47,
+   "word": "無理",
+   "reading": "むり",
+   "pos": "副詞",
+   "meaning_zh": "勉強",
+   "example_sentence": "無理して人に合わせようとする"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 47,
+   "word": "合わせる",
+   "reading": "あわせる",
+   "pos": "動詞",
+   "meaning_zh": "迎合、配合",
+   "example_sentence": "人に合わせようとすることが多かった"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 48,
+   "word": "収穫",
+   "reading": "しゅうかく",
+   "pos": "名詞",
+   "meaning_zh": "收穫",
+   "example_sentence": "収穫のタイミングは"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 48,
+   "word": "判断",
+   "reading": "はんだん",
+   "pos": "名詞",
+   "meaning_zh": "判斷",
+   "example_sentence": "いつかいいかを判断しなければならない"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 49,
+   "word": "体力",
+   "reading": "たいりょく",
+   "pos": "名詞",
+   "meaning_zh": "體力",
+   "example_sentence": "体力も必要で"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 50,
+   "word": "達成感",
+   "reading": "たっせいかん",
+   "pos": "名詞",
+   "meaning_zh": "成就感",
+   "example_sentence": "収穫したときの達成感"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 50,
+   "word": "味わう",
+   "reading": "あじわう",
+   "pos": "動詞",
+   "meaning_zh": "品味、體驗",
+   "example_sentence": "野菜を味わう喜び"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 51,
+   "word": "貴重",
+   "reading": "きちょう",
+   "pos": "形容動詞",
+   "meaning_zh": "珍貴",
+   "example_sentence": "多くの貴重な経験をする"
+  },
+  {
+   "section_code": "lang_reading",
+   "number_in_section": 51,
+   "word": "経験",
+   "reading": "けいけん",
+   "pos": "名詞",
+   "meaning_zh": "經驗",
+   "example_sentence": "多くの貴重な経験をすること"
+  }
+ ]
+}

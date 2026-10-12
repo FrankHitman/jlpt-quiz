@@ -1,0 +1,1639 @@
+{
+  "groups": [
+    {
+      "local_id": "g_text9",
+      "section_code": "lang_reading",
+      "group_type": "passage",
+      "title": "問題9 文章文法",
+      "content": "紅葉の異変\nサリムソフィア\n私は日本の秋の景色が好きです。秋になって紅葉が始まり、緑だった葉が黄色やオレンジ、赤に変わると、とてもきれいです。秋の紅葉は、日本の四季の変化を感じさせてくれるものです。\n（ 48 ）ですが、先日テレビで、紅葉がピークを迎える時期が年々遅くなっているというニュースを見ました。中には、1月になってからピークを迎えたところもあるそうで、驚きました。温暖化によって平均気温が上昇していることが大きな原因だそうです。私は、夏が過ぎて気温が下がってくれば、必ず紅葉が始まると思っていました。（ 49 ）、そうではありませんでした。紅葉には、条件となる気温の変化がありました。\n葉の変色が始まるのは、1日の最低気温が大体8度以下になってからです。秋になっても、最低気温が一定の気温まで下がらなければ、紅葉は（ 50 ）。その後、さらに寒くなり、5〜6度まで下がると、紅葉は一気に進みます。また、5度以下の日が続くと、最も美しい紅葉が見られるといわれています。\n紅葉に起きている異変を知り、このまま温暖化が進むと、日本の秋の景色が変わってしまう可能性もあるのではないかと思いました。もしかしたら、紅葉自体が見られなくなる日も来るかもしれません。紅葉を通して、温暖化が身近な問題であることをより強く（ 51 ）。",
+      "sort_order": 1
+    }
+  ],
+  "questions": [
+    {
+      "section_code": "lang_reading",
+      "qtype_code": "grammar_fill",
+      "mondai_no": 7,
+      "number_in_section": 31,
+      "stem": "卓球クラブの山谷さんは大きな大会で何度も優勝しているのに、「私（　）まだまだですよ。」といつも言っている。",
+      "target_text": null,
+      "options": [
+        {
+          "key": "1",
+          "text": "まで"
+        },
+        {
+          "key": "2",
+          "text": "さえ"
+        },
+        {
+          "key": "3",
+          "text": "ばかり"
+        },
+        {
+          "key": "4",
+          "text": "なんか"
+        }
+      ],
+      "correct_option": "4",
+      "group_local_id": null,
+      "audio_url": null
+    },
+    {
+      "section_code": "lang_reading",
+      "qtype_code": "grammar_fill",
+      "mondai_no": 7,
+      "number_in_section": 32,
+      "stem": "携帯電話を一人一台持つのが当たり前といわれる現代で、私のように携帯電話なしで生活している人は（　）いるのだろうか。",
+      "target_text": null,
+      "options": [
+        {
+          "key": "1",
+          "text": "どうも"
+        },
+        {
+          "key": "2",
+          "text": "どれほど"
+        },
+        {
+          "key": "3",
+          "text": "どうしても"
+        },
+        {
+          "key": "4",
+          "text": "どんなに"
+        }
+      ],
+      "correct_option": "2",
+      "group_local_id": null,
+      "audio_url": null
+    },
+    {
+      "section_code": "lang_reading",
+      "qtype_code": "grammar_fill",
+      "mondai_no": 7,
+      "number_in_section": 33,
+      "stem": "花山市では、きゅうりやトマト、なす（　）夏の野菜が多く生産されている。",
+      "target_text": null,
+      "options": [
+        {
+          "key": "1",
+          "text": "とする"
+        },
+        {
+          "key": "2",
+          "text": "に関する"
+        },
+        {
+          "key": "3",
+          "text": "といった"
+        },
+        {
+          "key": "4",
+          "text": "に沿った"
+        }
+      ],
+      "correct_option": "3",
+      "group_local_id": null,
+      "audio_url": null
+    },
+    {
+      "section_code": "lang_reading",
+      "qtype_code": "grammar_fill",
+      "mondai_no": 7,
+      "number_in_section": 34,
+      "stem": "彼とは数年前に先輩の結婚式で（　）、ずっと会っていない。",
+      "target_text": null,
+      "options": [
+        {
+          "key": "1",
+          "text": "会ったきり"
+        },
+        {
+          "key": "2",
+          "text": "会ったばかりか"
+        },
+        {
+          "key": "3",
+          "text": "会っただけに"
+        },
+        {
+          "key": "4",
+          "text": "会ったところ"
+        }
+      ],
+      "correct_option": "1",
+      "group_local_id": null,
+      "audio_url": null
+    },
+    {
+      "section_code": "lang_reading",
+      "qtype_code": "grammar_fill",
+      "mondai_no": 7,
+      "number_in_section": 35,
+      "stem": "近所に子供向けのダンススクールができるらしい。オープンしたら、娘を体験レッスンに（　）と思っている。",
+      "target_text": null,
+      "options": [
+        {
+          "key": "1",
+          "text": "参加してみようか"
+        },
+        {
+          "key": "2",
+          "text": "参加させてみようか"
+        },
+        {
+          "key": "3",
+          "text": "参加してみてよかった"
+        },
+        {
+          "key": "4",
+          "text": "参加させてみてよかった"
+        }
+      ],
+      "correct_option": "2",
+      "group_local_id": null,
+      "audio_url": null
+    },
+    {
+      "section_code": "lang_reading",
+      "qtype_code": "grammar_fill",
+      "mondai_no": 7,
+      "number_in_section": 36,
+      "stem": "（カメラ屋で）\n客「カメラを海に落としてしまって、電源が入らないんです。中に水が入ってしまったようなのですが…。」\n店員「海水が入った（　）、修理は難しいかもしれませんが、一応見てみますね。」",
+      "target_text": null,
+      "options": [
+        {
+          "key": "1",
+          "text": "のであれば"
+        },
+        {
+          "key": "2",
+          "text": "ことであれば"
+        },
+        {
+          "key": "3",
+          "text": "のであって"
+        },
+        {
+          "key": "4",
+          "text": "ことであって"
+        }
+      ],
+      "correct_option": "1",
+      "group_local_id": null,
+      "audio_url": null
+    },
+    {
+      "section_code": "lang_reading",
+      "qtype_code": "grammar_fill",
+      "mondai_no": 7,
+      "number_in_section": 37,
+      "stem": "母「引っ越しまでまだ時間はあるけど、直前になって慌てないように、（　）、荷物の整理、進めておきなさいね。」\n息子「うん、わかった。」",
+      "target_text": null,
+      "options": [
+        {
+          "key": "1",
+          "text": "少しだけでいいのに"
+        },
+        {
+          "key": "2",
+          "text": "少しだけならよくても"
+        },
+        {
+          "key": "3",
+          "text": "少しずつでいいから"
+        },
+        {
+          "key": "4",
+          "text": "少しずつならよくて"
+        }
+      ],
+      "correct_option": "3",
+      "group_local_id": null,
+      "audio_url": null
+    },
+    {
+      "section_code": "lang_reading",
+      "qtype_code": "grammar_fill",
+      "mondai_no": 7,
+      "number_in_section": 38,
+      "stem": "1896年の第1回オリンピックに参加した国と地域の数は14だったが、2004年には200を超える（　）。",
+      "target_text": null,
+      "options": [
+        {
+          "key": "1",
+          "text": "べきだった"
+        },
+        {
+          "key": "2",
+          "text": "つもりだった"
+        },
+        {
+          "key": "3",
+          "text": "ほかなかった"
+        },
+        {
+          "key": "4",
+          "text": "までになった"
+        }
+      ],
+      "correct_option": "4",
+      "group_local_id": null,
+      "audio_url": null
+    },
+    {
+      "section_code": "lang_reading",
+      "qtype_code": "grammar_fill",
+      "mondai_no": 7,
+      "number_in_section": 39,
+      "stem": "チームでの仕事をスムーズに進めるには、メンバー同士の十分なコミュニケーション（　）。",
+      "target_text": null,
+      "options": [
+        {
+          "key": "1",
+          "text": "にすぎない"
+        },
+        {
+          "key": "2",
+          "text": "が欠かせない"
+        },
+        {
+          "key": "3",
+          "text": "のおかげだ"
+        },
+        {
+          "key": "4",
+          "text": "とのことだ"
+        }
+      ],
+      "correct_option": "2",
+      "group_local_id": null,
+      "audio_url": null
+    },
+    {
+      "section_code": "lang_reading",
+      "qtype_code": "grammar_fill",
+      "mondai_no": 7,
+      "number_in_section": 40,
+      "stem": "昨日、新しくできた遊園地に行った。電車より車のほうが早いだろうと思って車で行ったら、ひどい渋滞でかえって時間がかかってしまった。やはり電車で（　）。",
+      "target_text": null,
+      "options": [
+        {
+          "key": "1",
+          "text": "行けばよかった"
+        },
+        {
+          "key": "2",
+          "text": "行くはずだった"
+        },
+        {
+          "key": "3",
+          "text": "行かなくて済んだ"
+        },
+        {
+          "key": "4",
+          "text": "行きたくてしかたがなかった"
+        }
+      ],
+      "correct_option": "1",
+      "group_local_id": null,
+      "audio_url": null
+    },
+    {
+      "section_code": "lang_reading",
+      "qtype_code": "grammar_fill",
+      "mondai_no": 7,
+      "number_in_section": 41,
+      "stem": "往復2時間の通勤を週に5日、40年間続けたとすると、通勤時間は約2万時間で、2年以上の時間を通勤に使う（　）。",
+      "target_text": null,
+      "options": [
+        {
+          "key": "1",
+          "text": "ということにする"
+        },
+        {
+          "key": "2",
+          "text": "ということにしている"
+        },
+        {
+          "key": "3",
+          "text": "ということになる"
+        },
+        {
+          "key": "4",
+          "text": "ということになっている"
+        }
+      ],
+      "correct_option": "3",
+      "group_local_id": null,
+      "audio_url": null
+    },
+    {
+      "section_code": "lang_reading",
+      "qtype_code": "grammar_fill",
+      "mondai_no": 7,
+      "number_in_section": 42,
+      "stem": "（電話で）\nA「お電話ありがとうございます。クロカワ建設営業課でございます。」\nB「高橋さんはいらっしゃいますか。」\nA「失礼ですが、お名前を（　）。」",
+      "target_text": null,
+      "options": [
+        {
+          "key": "1",
+          "text": "伺ったらいかがでしょうか"
+        },
+        {
+          "key": "2",
+          "text": "伺ってもよろしいでしょうか"
+        },
+        {
+          "key": "3",
+          "text": "お伝えしたらいかがでしょうか"
+        },
+        {
+          "key": "4",
+          "text": "お伝えしてもよろしいでしょうか"
+        }
+      ],
+      "correct_option": "2",
+      "group_local_id": null,
+      "audio_url": null
+    },
+    {
+      "section_code": "lang_reading",
+      "qtype_code": "sentence_order",
+      "mondai_no": 8,
+      "number_in_section": 43,
+      "stem": "「さわら」という魚は、漢字で「鰆」と書く ＿＿＿ ＿＿★＿＿ ＿＿＿ ＿＿＿ 魚の一つです。",
+      "target_text": null,
+      "options": [
+        {
+          "key": "1",
+          "text": "ように"
+        },
+        {
+          "key": "2",
+          "text": "わかる"
+        },
+        {
+          "key": "3",
+          "text": "ことから"
+        },
+        {
+          "key": "4",
+          "text": "春を代表する"
+        }
+      ],
+      "correct_option": "2",
+      "group_local_id": null,
+      "audio_url": null
+    },
+    {
+      "section_code": "lang_reading",
+      "qtype_code": "sentence_order",
+      "mondai_no": 8,
+      "number_in_section": 44,
+      "stem": "会議での西山さんのプレゼンは、普段はなかなか ＿＿＿ ＿＿★＿＿ ＿＿＿ ＿＿＿ 素晴らしかった。",
+      "target_text": null,
+      "options": [
+        {
+          "key": "1",
+          "text": "ぐらい"
+        },
+        {
+          "key": "2",
+          "text": "部長が"
+        },
+        {
+          "key": "3",
+          "text": "褒める"
+        },
+        {
+          "key": "4",
+          "text": "褒めることがない"
+        }
+      ],
+      "correct_option": "3",
+      "group_local_id": null,
+      "audio_url": null
+    },
+    {
+      "section_code": "lang_reading",
+      "qtype_code": "sentence_order",
+      "mondai_no": 8,
+      "number_in_section": 45,
+      "stem": "同じ高温 ＿＿＿ ＿＿★＿＿ ＿＿＿ ＿＿＿ は大きく変わる。",
+      "target_text": null,
+      "options": [
+        {
+          "key": "1",
+          "text": "感じ方"
+        },
+        {
+          "key": "2",
+          "text": "でも"
+        },
+        {
+          "key": "3",
+          "text": "温度や風の強さなど"
+        },
+        {
+          "key": "4",
+          "text": "によって"
+        }
+      ],
+      "correct_option": "4",
+      "group_local_id": null,
+      "audio_url": null
+    },
+    {
+      "section_code": "lang_reading",
+      "qtype_code": "sentence_order",
+      "mondai_no": 8,
+      "number_in_section": 46,
+      "stem": "「山川大学アニメ研究会」は、＿＿＿ ＿＿★＿＿ ＿＿＿ ＿＿＿ できた団体です。",
+      "target_text": null,
+      "options": [
+        {
+          "key": "1",
+          "text": "学生が"
+        },
+        {
+          "key": "2",
+          "text": "集まって"
+        },
+        {
+          "key": "3",
+          "text": "アニメが"
+        },
+        {
+          "key": "4",
+          "text": "好きでたまらないという"
+        }
+      ],
+      "correct_option": "1",
+      "group_local_id": null,
+      "audio_url": null
+    },
+    {
+      "section_code": "lang_reading",
+      "qtype_code": "sentence_order",
+      "mondai_no": 8,
+      "number_in_section": 47,
+      "stem": "会社の今井先輩は、自分はミスが多いといつも言っているが、＿＿＿ ＿＿★＿＿ ＿＿＿ ＿＿＿ ように見える。",
+      "target_text": null,
+      "options": [
+        {
+          "key": "1",
+          "text": "新人で"
+        },
+        {
+          "key": "2",
+          "text": "何でも完璧にできている"
+        },
+        {
+          "key": "3",
+          "text": "私からすると"
+        },
+        {
+          "key": "4",
+          "text": "わからないことばかりの"
+        }
+      ],
+      "correct_option": "3",
+      "group_local_id": null,
+      "audio_url": null
+    },
+    {
+      "section_code": "lang_reading",
+      "qtype_code": "text_grammar",
+      "mondai_no": 9,
+      "number_in_section": 48,
+      "stem": "（　）ですが、先日テレビで、紅葉がピークを迎える時期が年々遅くなっているというニュースを見ました。",
+      "target_text": null,
+      "options": [
+        {
+          "key": "1",
+          "text": "そこの紅葉"
+        },
+        {
+          "key": "2",
+          "text": "そんな紅葉"
+        },
+        {
+          "key": "3",
+          "text": "そちら"
+        },
+        {
+          "key": "4",
+          "text": "紅葉"
+        }
+      ],
+      "correct_option": "2",
+      "group_local_id": "g_text9",
+      "audio_url": null
+    },
+    {
+      "section_code": "lang_reading",
+      "qtype_code": "text_grammar",
+      "mondai_no": 9,
+      "number_in_section": 49,
+      "stem": "（　）、そうではありませんでした。",
+      "target_text": null,
+      "options": [
+        {
+          "key": "1",
+          "text": "結局"
+        },
+        {
+          "key": "2",
+          "text": "確かに"
+        },
+        {
+          "key": "3",
+          "text": "しかし"
+        },
+        {
+          "key": "4",
+          "text": "つまり"
+        }
+      ],
+      "correct_option": "3",
+      "group_local_id": "g_text9",
+      "audio_url": null
+    },
+    {
+      "section_code": "lang_reading",
+      "qtype_code": "text_grammar",
+      "mondai_no": 9,
+      "number_in_section": 50,
+      "stem": "秋になっても、最低気温が一定の気温まで下がらなければ、紅葉は（　）。",
+      "target_text": null,
+      "options": [
+        {
+          "key": "1",
+          "text": "始まらないのです"
+        },
+        {
+          "key": "2",
+          "text": "始まらないためです"
+        },
+        {
+          "key": "3",
+          "text": "始まらないのでしょうか"
+        },
+        {
+          "key": "4",
+          "text": "始まらないためでしょうか"
+        }
+      ],
+      "correct_option": "1",
+      "group_local_id": "g_text9",
+      "audio_url": null
+    },
+    {
+      "section_code": "lang_reading",
+      "qtype_code": "text_grammar",
+      "mondai_no": 9,
+      "number_in_section": 51,
+      "stem": "紅葉を通して、温暖化が身近な問題であることをより強く（　）。",
+      "target_text": null,
+      "options": [
+        {
+          "key": "1",
+          "text": "感じているからだと思います"
+        },
+        {
+          "key": "2",
+          "text": "感じられるところだと思います"
+        },
+        {
+          "key": "3",
+          "text": "感じさせることができました"
+        },
+        {
+          "key": "4",
+          "text": "感じるようになりました"
+        }
+      ],
+      "correct_option": "4",
+      "group_local_id": "g_text9",
+      "audio_url": null
+    }
+  ],
+  "explanations": [
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 31,
+      "key_point": "〜なんか（N2）",
+      "analysis_zh": "正解是 4「なんか」。「名詞＋なんか」表示自謙、自嘲，相當於「像我這種…」。山谷先生多次奪冠卻說「私なんかまだまだですよ」（像我還差得遠呢），是典型的自謙表達。",
+      "evidence": null,
+      "distractors": [
+        {
+          "option": "1",
+          "why_wrong": "「まで」表範圍的終點（到…為止），不合自謙語境。"
+        },
+        {
+          "option": "2",
+          "why_wrong": "「さえ」表極端例示（連…都），「私さえまだまだ」語感不自然。"
+        },
+        {
+          "option": "3",
+          "why_wrong": "「ばかり」表限定（只、淨是），不合自謙語境。"
+        }
+      ],
+      "option_readings": {
+        "1": "まで",
+        "2": "さえ",
+        "3": "ばかり",
+        "4": "なんか"
+      },
+      "option_meanings": {
+        "1": "到…為止",
+        "2": "連…都、甚至",
+        "3": "只、淨是",
+        "4": "像…這種（自謙、自嘲）"
+      }
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 32,
+      "key_point": "疑問詞＋か（どれほど〜のだろうか）（N2）",
+      "analysis_zh": "正解是 2「どれほど」。「どれほど〜のだろうか」＝「有多少…呢」，對數量表示疑問推測。",
+      "evidence": null,
+      "distractors": [
+        {
+          "option": "1",
+          "why_wrong": "「どうも」表「總覺得…」或「怎麼也…」，後不接「のだろうか」表數量的疑問。"
+        },
+        {
+          "option": "3",
+          "why_wrong": "「どうしても」＝無論如何也…，後接意志性表達，不接表推測的「のだろうか」。"
+        },
+        {
+          "option": "4",
+          "why_wrong": "「どんなに」＝無論多麼…，多與「ても」連用，不表「有多少」。"
+        }
+      ],
+      "option_readings": {
+        "1": "どうも",
+        "2": "どれほど",
+        "3": "どうしても",
+        "4": "どんなに"
+      },
+      "option_meanings": {
+        "1": "總覺得；怎麼也",
+        "2": "有多少、到何種程度",
+        "3": "無論如何也",
+        "4": "無論多麼"
+      }
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 33,
+      "key_point": "〜といった（N2）",
+      "analysis_zh": "正解是 3「といった」。「AやBといったC」＝「像A、B這樣的C」，表舉例說明，後接上位概念（夏の野菜）。",
+      "evidence": null,
+      "distractors": [
+        {
+          "option": "1",
+          "why_wrong": "「とする」＝作為…／假定…，不合舉例語境。"
+        },
+        {
+          "option": "2",
+          "why_wrong": "「に関する」＝關於…，後接主題，不合。"
+        },
+        {
+          "option": "4",
+          "why_wrong": "「に沿った」＝沿著…（方針、路線），不合。"
+        }
+      ],
+      "option_readings": {
+        "1": "とする",
+        "2": "にかんする",
+        "3": "といった",
+        "4": "にそった"
+      },
+      "option_meanings": {
+        "1": "作為；假定",
+        "2": "關於…的",
+        "3": "像…這樣的（舉例）",
+        "4": "沿著…的"
+      }
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 34,
+      "key_point": "Vた＋きり（N2）",
+      "analysis_zh": "正解是 1「会ったきり」。「Vたきり」＝「自從…之後就再也沒…」，後多接否定（ずっと会っていない）。",
+      "evidence": null,
+      "distractors": [
+        {
+          "option": "2",
+          "why_wrong": "「Vたばかり」＝剛…（主觀感覺剛發生），與「ずっと会っていない」（長期未見）矛盾。"
+        },
+        {
+          "option": "3",
+          "why_wrong": "「Vただけに」＝正因為…，表原因，不合。"
+        },
+        {
+          "option": "4",
+          "why_wrong": "「Vたところ」＝剛…（客觀），不合長期未見的語境。"
+        }
+      ],
+      "option_readings": {
+        "1": "あったきり",
+        "2": "あったばかり",
+        "3": "あっただけに",
+        "4": "あったところ"
+      },
+      "option_meanings": {
+        "1": "自…之後就再也沒…",
+        "2": "剛…（主觀）",
+        "3": "正因為…",
+        "4": "剛…（客觀）"
+      }
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 35,
+      "key_point": "使役＋てみる（N2）",
+      "analysis_zh": "正解是 2「参加させてみようか」。主語是「我」，對象是「女兒」→ 必須用使役形「参加させて」＝讓（女兒）試著參加。",
+      "evidence": null,
+      "distractors": [
+        {
+          "option": "1",
+          "why_wrong": "「参加してみようか」是自己參加，與「娘を…に」（讓女兒…）矛盾。"
+        },
+        {
+          "option": "3",
+          "why_wrong": "「〜てみてよかった」表既成事實的感想（做了…真好），與「と思っている」（打算）矛盾。"
+        },
+        {
+          "option": "4",
+          "why_wrong": "同 3，且使役對象混亂。"
+        }
+      ],
+      "option_readings": {
+        "1": "さんかしてみようか",
+        "2": "さんかさせてみようか",
+        "3": "さんかしてみてよかった",
+        "4": "さんかさせてみてよかった"
+      },
+      "option_meanings": {
+        "1": "試著參加吧（自己）",
+        "2": "讓（她）試著參加吧",
+        "3": "試著參加了真好",
+        "4": "讓試著參加了真好"
+      }
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 36,
+      "key_point": "〜のであれば（N2）",
+      "analysis_zh": "正解是 1「のであれば」。「海水が入ったのであれば」＝「如果是進了海水的話」。「のであれば」接在動詞た形後，表示對既定事態的假定。",
+      "evidence": null,
+      "distractors": [
+        {
+          "option": "2",
+          "why_wrong": "「ことであれば」：「こと」不指代前述具體事態，假定語境中用「の」才自然。"
+        },
+        {
+          "option": "3",
+          "why_wrong": "「のであって」表原因（因為…），與後項「かもしれません」（推測）不搭配。"
+        },
+        {
+          "option": "4",
+          "why_wrong": "同 2、3。"
+        }
+      ],
+      "option_readings": {
+        "1": "のであれば",
+        "2": "ことであれば",
+        "3": "のであって",
+        "4": "ことであって"
+      },
+      "option_meanings": {
+        "1": "如果是…的話",
+        "2": "如果是…這件事的話",
+        "3": "因為…",
+        "4": "因為是…這件事"
+      }
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 37,
+      "key_point": "〜ずつ＋から（N2）",
+      "analysis_zh": "正解是 3「少しずつでいいから」。「〜でいいから」＝「因為…就好」，「から」表示勸告、請求的理由。母親勸兒子一點一點整理就好。",
+      "evidence": null,
+      "distractors": [
+        {
+          "option": "1",
+          "why_wrong": "「〜のに」表「明明…」（不滿、意外），不合母親勸告的語氣。"
+        },
+        {
+          "option": "2",
+          "why_wrong": "「〜ても」表讓步（即使…），不合。"
+        },
+        {
+          "option": "4",
+          "why_wrong": "「〜なら」是條件句（如果…的話），句子未完結，不合。"
+        }
+      ],
+      "option_readings": {
+        "1": "すこしだけでいいのに",
+        "2": "すこしだけならよくても",
+        "3": "すこしずつでいいから",
+        "4": "すこしずつならよくて"
+      },
+      "option_meanings": {
+        "1": "明明一點點就好",
+        "2": "即使一點點也好",
+        "3": "因為一點一點就好",
+        "4": "如果一點一點的話就好"
+      }
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 38,
+      "key_point": "〜までになる（N2）",
+      "analysis_zh": "正解是 4「までになった」。「200を超えるまでになった」＝「增加到了超過200個」，「〜までになる」表示變化的結果、達到的地步。",
+      "evidence": null,
+      "distractors": [
+        {
+          "option": "1",
+          "why_wrong": "「べきだった」＝應該…，表義務、忠告，不合客觀敘述。"
+        },
+        {
+          "option": "2",
+          "why_wrong": "「つもりだった」＝打算…，表意圖，不合。"
+        },
+        {
+          "option": "3",
+          "why_wrong": "「ほかなかった」＝除了…別無…，表無選擇，不合。"
+        }
+      ],
+      "option_readings": {
+        "1": "べきだった",
+        "2": "つもりだった",
+        "3": "ほかなかった",
+        "4": "までになった"
+      },
+      "option_meanings": {
+        "1": "應該…",
+        "2": "打算…",
+        "3": "除了…別無…",
+        "4": "達到了…地步"
+      }
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 39,
+      "key_point": "〜が欠かせない（N2）",
+      "analysis_zh": "正解是 2「が欠かせない」。「〜が欠かせない」＝不可或缺、不能缺少。",
+      "evidence": null,
+      "distractors": [
+        {
+          "option": "1",
+          "why_wrong": "「にすぎない」＝只不過是…，表否定性評價，不合。"
+        },
+        {
+          "option": "3",
+          "why_wrong": "「のおかげだ」＝多虧了…，表原因，與「には」（為了…）的條件語境不合。"
+        },
+        {
+          "option": "4",
+          "why_wrong": "「とのことだ」＝聽說…，表傳聞，不合。"
+        }
+      ],
+      "option_readings": {
+        "1": "にすぎない",
+        "2": "がかかせない",
+        "3": "のおかげだ",
+        "4": "とのことだ"
+      },
+      "option_meanings": {
+        "1": "只不過是…",
+        "2": "不可或缺",
+        "3": "多虧了…",
+        "4": "聽說…"
+      }
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 40,
+      "key_point": "Vばよかった（N2）",
+      "analysis_zh": "正解是 1「行けばよかった」。「Vばよかった」＝「…就好了」，表示對過去的後悔。開車遇到大塞車，後悔「還是坐電車去就好了」。",
+      "evidence": null,
+      "distractors": [
+        {
+          "option": "2",
+          "why_wrong": "「行くはずだった」＝本應該去…，表預定或過去推測，不表後悔。"
+        },
+        {
+          "option": "3",
+          "why_wrong": "「行かなくて済んだ」＝沒去就了事了，表僥倖免除，不合。"
+        },
+        {
+          "option": "4",
+          "why_wrong": "「〜てしかたがなかった」＝…得不得了，不合。"
+        }
+      ],
+      "option_readings": {
+        "1": "いけばよかった",
+        "2": "いくはずだった",
+        "3": "いかなくてすんだ",
+        "4": "いきたくてしかたがなかった"
+      },
+      "option_meanings": {
+        "1": "…就好了（後悔）",
+        "2": "本應該…",
+        "3": "沒…就了事了",
+        "4": "想…想得不得了"
+      }
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 41,
+      "key_point": "ということになる（N2）",
+      "analysis_zh": "正解是 3「ということになる」。「ということになる」表示由前述條件自然導出的客觀結論（結果上等於…）。",
+      "evidence": null,
+      "distractors": [
+        {
+          "option": "1",
+          "why_wrong": "「ということにする」＝決定當作…，表主觀決定，不合客觀計算。"
+        },
+        {
+          "option": "2",
+          "why_wrong": "「ということにしている」表習慣性認定，不合。"
+        },
+        {
+          "option": "4",
+          "why_wrong": "「ということになっている」表既成狀態、規約，不合即時推導的結論。"
+        }
+      ],
+      "option_readings": {
+        "1": "ということにする",
+        "2": "ということにしている",
+        "3": "ということになる",
+        "4": "ということになっている"
+      },
+      "option_meanings": {
+        "1": "決定當作…",
+        "2": "（一向）當作…",
+        "3": "結果等於…",
+        "4": "已是…的狀態"
+      }
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 42,
+      "key_point": "〜てもよろしいでしょうか（N2）",
+      "analysis_zh": "正解是 2「伺ってもよろしいでしょうか」。A 想詢問對方姓名 → 用求許可的表達「請問您的尊姓大名可以嗎」。「伺う」是「聞く・尋ねる」的自謙語。",
+      "evidence": null,
+      "distractors": [
+        {
+          "option": "1",
+          "why_wrong": "「〜たらいかがでしょうか」是向對方提建議（你去問怎麼樣），方向反了。"
+        },
+        {
+          "option": "3",
+          "why_wrong": "「お伝えしたら…」＝我來轉達怎麼樣，文不對題（要問的是對方姓名）。"
+        },
+        {
+          "option": "4",
+          "why_wrong": "「お伝えしても…」＝我轉達可以嗎，同樣不合。"
+        }
+      ],
+      "option_readings": {
+        "1": "うかがったらいかがでしょうか",
+        "2": "うかがってもよろしいでしょうか",
+        "3": "おつたえしたらいかがでしょうか",
+        "4": "おつたえしてもよろしいでしょうか"
+      },
+      "option_meanings": {
+        "1": "去問一下怎麼樣？（提建議）",
+        "2": "請問一下可以嗎？（求許可）",
+        "3": "我來轉達怎麼樣？",
+        "4": "我轉達可以嗎？"
+      }
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 43,
+      "key_point": "〜ことからわかる（N2）",
+      "analysis_zh": "正解是 2。正確排序為 3214：「漢字で『鰆』と書くことからわかるように春を代表する魚の一つです」（從漢字寫作「鰆」這一點可以看出，是代表春天的魚之一）。★位置填「わかる」。「〜ことから」＝從…（根據）；「〜ように」＝如…所示。",
+      "evidence": null,
+      "distractors": [
+        {
+          "option": "1",
+          "why_wrong": "「ように」接在「わかる」之後（わかるように＝如可知），不能放★。"
+        },
+        {
+          "option": "3",
+          "why_wrong": "「ことから」接在「書く」之後（書くことから＝從寫作…這點），不能放★。"
+        },
+        {
+          "option": "4",
+          "why_wrong": "「春を代表する」修飾「魚」，放句末，不能放★。"
+        }
+      ],
+      "option_readings": {
+        "1": "ように",
+        "2": "わかる",
+        "3": "ことから",
+        "4": "はるをだいひょうする"
+      },
+      "option_meanings": {
+        "1": "如…所示",
+        "2": "可知",
+        "3": "從…",
+        "4": "代表春天"
+      }
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 44,
+      "key_point": "なかなか〜ない＋〜ぐらい（N2）",
+      "analysis_zh": "正解是 3。正確排序為 4231：「普段はなかなか褒めることがない部長が褒めるぐらい素晴らしかった」（連平時怎麼也不誇人的部長都誇了，可見多麼出色）。★位置填「褒める」。「なかなか＋否定」＝怎麼也不…；「〜ぐらい」表程度。",
+      "evidence": null,
+      "distractors": [
+        {
+          "option": "1",
+          "why_wrong": "「ぐらい」表程度，放★後的句末，不能放★。"
+        },
+        {
+          "option": "2",
+          "why_wrong": "「部長が」是被「なかなか褒めることがない」修飾的主語，不能放★。"
+        },
+        {
+          "option": "4",
+          "why_wrong": "「褒めることがない」與「なかなか」固定搭配，不能放★。"
+        }
+      ],
+      "option_readings": {
+        "1": "ぐらい",
+        "2": "ぶちょうが",
+        "3": "ほめる",
+        "4": "ほめることがない"
+      },
+      "option_meanings": {
+        "1": "…的程度",
+        "2": "部長",
+        "3": "誇獎",
+        "4": "從不誇獎"
+      }
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 45,
+      "key_point": "〜によって（N2）",
+      "analysis_zh": "正解是 4。正確排序為 2341：「同じ高温でも温度や風の強さなどによって感じ方は大きく変わる」（即使相同高溫，根據溫度、風力強弱，感受也大不相同）。★位置填「によって」。「でも」表即使；「〜によって」＝根據…。",
+      "evidence": null,
+      "distractors": [
+        {
+          "option": "1",
+          "why_wrong": "「感じ方」是主語，放句末，不能放★。"
+        },
+        {
+          "option": "2",
+          "why_wrong": "「でも」接在「同じ高温」後表即使，不能放★。"
+        },
+        {
+          "option": "3",
+          "why_wrong": "「温度や風の強さなど」是「によって」的對象，不能放★。"
+        }
+      ],
+      "option_readings": {
+        "1": "かんじかた",
+        "2": "でも",
+        "3": "おんどやかぜのつよさなど",
+        "4": "によって"
+      },
+      "option_meanings": {
+        "1": "感受、感覺方式",
+        "2": "即使…也",
+        "3": "溫度、風力強弱等",
+        "4": "根據…"
+      }
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 46,
+      "key_point": "〜でたまらない（N2）",
+      "analysis_zh": "正解是 1。正確排序為 3412：「アニメが好きでたまらないという学生が集まってできた団体です」（由非常喜歡動漫的學生聚集而成的團體）。★位置填「学生が」。「〜でたまらない」＝…得不得了；「という」作同格修飾。",
+      "evidence": null,
+      "distractors": [
+        {
+          "option": "2",
+          "why_wrong": "「集まって」接在「学生が」後（学生が集まって），不能放★。"
+        },
+        {
+          "option": "3",
+          "why_wrong": "「アニメが」接「好きでたまらない」，不能放★。"
+        },
+        {
+          "option": "4",
+          "why_wrong": "「好きでたまらないという」修飾「学生」，不能放★。"
+        }
+      ],
+      "option_readings": {
+        "1": "がくせいが",
+        "2": "あつまって",
+        "3": "アニメが",
+        "4": "すきでたまらないという"
+      },
+      "option_meanings": {
+        "1": "學生",
+        "2": "聚集",
+        "3": "動漫",
+        "4": "喜歡得不得了的"
+      }
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 47,
+      "key_point": "N＋からすると（N2）",
+      "analysis_zh": "正解是 3。正確排序為 1432：「新人でわからないことばかりの私からすると何でも完璧にできているように見える」（從我這個什麼都不懂的新人看來，他什麼都做得完美）。★位置填「私からすると」。「N＋からすると」＝在…看來；「N＋ばかり」＝盡是…。",
+      "evidence": null,
+      "distractors": [
+        {
+          "option": "1",
+          "why_wrong": "「新人で」修飾「私」（新人でわからないことばかりの私），不能放★。"
+        },
+        {
+          "option": "2",
+          "why_wrong": "「何でも完璧にできている」是句末謂語，不能放★。"
+        },
+        {
+          "option": "4",
+          "why_wrong": "「わからないことばかりの」修飾「私」，不能放★。"
+        }
+      ],
+      "option_readings": {
+        "1": "しんじんで",
+        "2": "なんでもかんぺきにできている",
+        "3": "わたしからすると",
+        "4": "わからないことばかりの"
+      },
+      "option_meanings": {
+        "1": "作為新人",
+        "2": "什麼都做得很完美",
+        "3": "在我看來",
+        "4": "盡是什麼都不懂的"
+      }
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 48,
+      "key_point": "指示語 そんな（N2）",
+      "analysis_zh": "正解是 2「そんな紅葉」。「そんな」指代前文描述的對象（讓人感受到四季變化的美麗紅葉）＝那樣的紅葉，「そんな紅葉ですが」承接上文轉入新聞話題。",
+      "evidence": null,
+      "distractors": [
+        {
+          "option": "1",
+          "why_wrong": "「そこの紅葉」的「そこ」指場所（那裡的紅葉），前文並無特定場所，不合。"
+        },
+        {
+          "option": "3",
+          "why_wrong": "「そちら」指方向或對方（您），不合。"
+        },
+        {
+          "option": "4",
+          "why_wrong": "直接說「紅葉ですが」缺指示詞，無法承接前文對紅葉的描述，語感不自然。"
+        }
+      ],
+      "option_readings": {
+        "1": "そこのこうよう",
+        "2": "そんなこうよう",
+        "3": "そちら",
+        "4": "こうよう"
+      },
+      "option_meanings": {
+        "1": "那裡的紅葉",
+        "2": "那樣的紅葉",
+        "3": "那邊；您",
+        "4": "紅葉"
+      }
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 49,
+      "key_point": "接続詞 しかし（N2）",
+      "analysis_zh": "正解是 3「しかし」。前句「我以為夏天過後氣溫一下降紅葉就一定開始」，後句「並非如此」→ 轉折，用「しかし」。",
+      "evidence": null,
+      "distractors": [
+        {
+          "option": "1",
+          "why_wrong": "「結局」＝最終、結果如何，表歸結，不合轉折。"
+        },
+        {
+          "option": "2",
+          "why_wrong": "「確かに」＝確實…，表肯定、讓步，不合。"
+        },
+        {
+          "option": "4",
+          "why_wrong": "「つまり」＝也就是說，表換言說明，不合。"
+        }
+      ],
+      "option_readings": {
+        "1": "けっきょく",
+        "2": "たしかに",
+        "3": "しかし",
+        "4": "つまり"
+      },
+      "option_meanings": {
+        "1": "最終、結果",
+        "2": "確實",
+        "3": "但是",
+        "4": "也就是說"
+      }
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 50,
+      "key_point": "〜なければ＋否定（N2）",
+      "analysis_zh": "正解是 1「始まらないのです」。前句「最低気温が一定の気温まで下がらなければ」（如果最低氣溫不降到一定程度）→ 否定條件句後接否定結果「紅葉是不會開始的」。「のです」表說明語氣。",
+      "evidence": null,
+      "distractors": [
+        {
+          "option": "2",
+          "why_wrong": "「ためです」表目的（為了…），不合條件句。"
+        },
+        {
+          "option": "3",
+          "why_wrong": "「のでしょうか」表疑問，不合陳述語境。"
+        },
+        {
+          "option": "4",
+          "why_wrong": "同 2、3。"
+        }
+      ],
+      "option_readings": {
+        "1": "はじまらないのです",
+        "2": "はじまらないためです",
+        "3": "はじまらないのでしょうか",
+        "4": "はじまらないためでしょうか"
+      },
+      "option_meanings": {
+        "1": "是不會開始的",
+        "2": "是為了不開始",
+        "3": "是不會開始嗎",
+        "4": "是為了不開始嗎"
+      }
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 51,
+      "key_point": "〜ようになる（N2）",
+      "analysis_zh": "正解是 4「感じるようになりました」。「〜ようになる」表示變化（變得…）。「より強く感じるようになりました」＝變得更強烈地感受到。",
+      "evidence": null,
+      "distractors": [
+        {
+          "option": "1",
+          "why_wrong": "「感じているからだと思います」：「からだ」前不能接動詞ている形，文法不通。"
+        },
+        {
+          "option": "2",
+          "why_wrong": "「感じられるところだ」：「ところだ」表正在…的階段，不合。"
+        },
+        {
+          "option": "3",
+          "why_wrong": "「感じさせることができました」：使役形，主語混亂（誰讓誰感受到？），不合。"
+        }
+      ],
+      "option_readings": {
+        "1": "かんじているからだとおもいます",
+        "2": "かんじられるところだとおもいます",
+        "3": "かんじさせることができました",
+        "4": "かんじるようになりました"
+      },
+      "option_meanings": {
+        "1": "我認為是因為正在感受到",
+        "2": "我認為正處於能感受到的階段",
+        "3": "使感受到了",
+        "4": "變得能感受到了"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 31,
+      "word": "優勝",
+      "reading": "ゆうしょう",
+      "pos": "名詞",
+      "meaning_zh": "奪冠、優勝",
+      "example_sentence": "何度も優勝しているのに、「私なんかまだまだですよ」と言っている。",
+      "note": null,
+      "etymology_en": null
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 31,
+      "word": "まだまだ",
+      "reading": "まだまだ",
+      "pos": "副詞",
+      "meaning_zh": "還差得遠、還早呢",
+      "example_sentence": "「私なんかまだまだですよ」と謙遜している。",
+      "note": null,
+      "etymology_en": null
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 32,
+      "word": "当たり前",
+      "reading": "あたりまえ",
+      "pos": "名詞",
+      "meaning_zh": "理所當然",
+      "example_sentence": "携帯電話を一人一台持つのが当たり前といわれる現代。",
+      "note": null,
+      "etymology_en": null
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 33,
+      "word": "生産",
+      "reading": "せいさん",
+      "pos": "名詞",
+      "meaning_zh": "生產",
+      "example_sentence": "夏の野菜が多く生産されている。",
+      "note": null,
+      "etymology_en": null
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 34,
+      "word": "きり",
+      "reading": "きり",
+      "pos": "助詞",
+      "meaning_zh": "自…之後就（再也沒…）",
+      "example_sentence": "会ったきり、ずっと会っていない。",
+      "note": null,
+      "etymology_en": null
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 35,
+      "word": "体験レッスン",
+      "reading": "たいけんレッスン",
+      "pos": "名詞",
+      "meaning_zh": "體驗課",
+      "example_sentence": "娘を体験レッスンに参加させてみようかと思っている。",
+      "note": null,
+      "etymology_en": null
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 35,
+      "word": "使役",
+      "reading": "しえき",
+      "pos": "名詞",
+      "meaning_zh": "使役形（讓…做）",
+      "example_sentence": "「参加させて」は「参加する」的使役形。",
+      "note": null,
+      "etymology_en": null
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 36,
+      "word": "一応",
+      "reading": "いちおう",
+      "pos": "副詞",
+      "meaning_zh": "姑且、暫且",
+      "example_sentence": "一応見てみますね。",
+      "note": null,
+      "etymology_en": null
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 37,
+      "word": "慌てる",
+      "reading": "あわてる",
+      "pos": "動詞",
+      "meaning_zh": "慌張",
+      "example_sentence": "直前になって慌てないように。",
+      "note": null,
+      "etymology_en": null
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 37,
+      "word": "荷物",
+      "reading": "にもつ",
+      "pos": "名詞",
+      "meaning_zh": "行李",
+      "example_sentence": "荷物の整理、進めておきなさいね。",
+      "note": null,
+      "etymology_en": null
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 38,
+      "word": "超える",
+      "reading": "こえる",
+      "pos": "動詞",
+      "meaning_zh": "超過",
+      "example_sentence": "200を超えるまでになった。",
+      "note": null,
+      "etymology_en": null
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 39,
+      "word": "欠かせない",
+      "reading": "かかせない",
+      "pos": "形容詞",
+      "meaning_zh": "不可或缺",
+      "example_sentence": "十分なコミュニケーションが欠かせない。",
+      "note": null,
+      "etymology_en": null
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 39,
+      "word": "スムーズ",
+      "reading": "スムーズ",
+      "pos": "形容動詞",
+      "meaning_zh": "順利的",
+      "example_sentence": null,
+      "note": null,
+      "etymology_en": "smooth"
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 40,
+      "word": "渋滞",
+      "reading": "じゅうたい",
+      "pos": "名詞",
+      "meaning_zh": "塞車",
+      "example_sentence": "ひどい渋滞で時間がかかってしまった。",
+      "note": null,
+      "etymology_en": null
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 40,
+      "word": "かえって",
+      "reading": "かえって",
+      "pos": "副詞",
+      "meaning_zh": "反而",
+      "example_sentence": "かえって時間がかかってしまった。",
+      "note": null,
+      "etymology_en": null
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 41,
+      "word": "通勤",
+      "reading": "つうきん",
+      "pos": "名詞",
+      "meaning_zh": "通勤",
+      "example_sentence": "往復2時間の通勤を週に5日。",
+      "note": null,
+      "etymology_en": null
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 42,
+      "word": "伺う",
+      "reading": "うかがう",
+      "pos": "動詞",
+      "meaning_zh": "問、拜訪（自謙語）",
+      "example_sentence": "お名前を伺ってもよろしいでしょうか。",
+      "note": null,
+      "etymology_en": null
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 43,
+      "word": "鰆",
+      "reading": "さわら",
+      "pos": "名詞",
+      "meaning_zh": "馬鮫魚（土魠魚）",
+      "example_sentence": "「さわら」という魚は、漢字で「鰆」と書く。",
+      "note": null,
+      "etymology_en": null
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 44,
+      "word": "なかなか",
+      "reading": "なかなか",
+      "pos": "副詞",
+      "meaning_zh": "怎麼也（後接否定）",
+      "example_sentence": "なかなか褒めることがない部長。",
+      "note": null,
+      "etymology_en": null
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 44,
+      "word": "褒める",
+      "reading": "ほめる",
+      "pos": "動詞",
+      "meaning_zh": "誇獎",
+      "example_sentence": "部長が褒めるぐらい素晴らしかった。",
+      "note": null,
+      "etymology_en": null
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 45,
+      "word": "によって",
+      "reading": "によって",
+      "pos": "助詞",
+      "meaning_zh": "根據…",
+      "example_sentence": "温度や風の強さなどによって感じ方は変わる。",
+      "note": null,
+      "etymology_en": null
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 46,
+      "word": "たまらない",
+      "reading": "たまらない",
+      "pos": "形容詞",
+      "meaning_zh": "…得不得了",
+      "example_sentence": "アニメが好きでたまらないという学生。",
+      "note": null,
+      "etymology_en": null
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 47,
+      "word": "からすると",
+      "reading": "からすると",
+      "pos": "助詞",
+      "meaning_zh": "在…看來",
+      "example_sentence": "私からすると完璧にできているように見える。",
+      "note": null,
+      "etymology_en": null
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 47,
+      "word": "先輩",
+      "reading": "せんぱい",
+      "pos": "名詞",
+      "meaning_zh": "前輩",
+      "example_sentence": "会社の今井先輩。",
+      "note": null,
+      "etymology_en": null
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 48,
+      "word": "紅葉",
+      "reading": "こうよう",
+      "pos": "名詞",
+      "meaning_zh": "紅葉",
+      "example_sentence": "秋の紅葉は日本の四季の変化を感じさせてくれる。",
+      "note": null,
+      "etymology_en": null
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 49,
+      "word": "接続詞",
+      "reading": "せつぞくし",
+      "pos": "名詞",
+      "meaning_zh": "連接詞",
+      "example_sentence": "「しかし」は逆接的接続詞。",
+      "note": null,
+      "etymology_en": null
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 50,
+      "word": "下がる",
+      "reading": "さがる",
+      "pos": "動詞",
+      "meaning_zh": "下降",
+      "example_sentence": "最低気温が一定の気温まで下がらなければ。",
+      "note": null,
+      "etymology_en": null
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 51,
+      "word": "温暖化",
+      "reading": "おんだんか",
+      "pos": "名詞",
+      "meaning_zh": "全球暖化",
+      "example_sentence": "温暖化が身近な問題であること。",
+      "note": null,
+      "etymology_en": null
+    },
+    {
+      "section_code": "lang_reading",
+      "number_in_section": 51,
+      "word": "異変",
+      "reading": "いへん",
+      "pos": "名詞",
+      "meaning_zh": "異變、異常變化",
+      "example_sentence": "紅葉に起きている異変。",
+      "note": "「紅葉の異変」是文章標題。",
+      "etymology_en": null
+    }
+  ]
+}
