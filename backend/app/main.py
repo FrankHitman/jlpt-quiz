@@ -13,6 +13,19 @@ from .routers import attempts, auth, exams, practice, wrong_answers
 
 IS_PRODUCTION = os.getenv("APP_ENV", "development") == "production"
 
+
+def _cors_origins() -> list[str]:
+    """CORS 允許來源：CORS_ORIGINS 環境變數（逗號分隔）優先，否則用預設值。"""
+    raw = os.getenv("CORS_ORIGINS", "").strip()
+    if raw:
+        return [o.strip() for o in raw.split(",") if o.strip()]
+    return [
+        "http://localhost:5173",
+        "http://jlpt.gothruwall.eu.org:5173",
+        "http://jlpt.gothruwall.eu.org:8000",
+    ]
+
+
 app = FastAPI(
     title="JLPT Quiz API",
     docs_url=None if IS_PRODUCTION else "/docs",
@@ -30,7 +43,7 @@ app.mount(
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173", "http://jlpt.gothruwall.eu.org:5173", "http://jlpt.gothruwall.eu.org:8000"],
+    allow_origins=_cors_origins(),
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

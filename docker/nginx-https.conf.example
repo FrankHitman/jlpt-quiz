@@ -1,0 +1,51 @@
+# 生產環境 HTTPS 反向代理模板（以 jlpt.gothruwall.eu.org 為例）
+#
+# 用法：
+#   1. 在 VPS 上安裝 certbot：apt install certbot python3-certbot-nginx
+#   2. 簽發證書：certbot --nginx -d jlpt.gothruwall.eu.org
+#      （certbot 會自動改寫 443 配置；此文件作為手動配置的參考底稿）
+#   3. 把下面兩個 server 塊放到 /etc/nginx/sites-enabled/jlpt-quiz，
+#      並把 docker-compose.yml 裡 frontend/backend 的 ports 改為只綁 127.0.0.1
+#     （例："127.0.0.1:5173:80"），避免繞過代理直接訪問。
+#
+# 注意：啟用 HTTPS 後，如需讓前端走 https，CORS_ORIGINS 與
+# VITE_API_BASE 也要相應改為 https:// 開頭並重建前端鏡像。
+
+# HTTP：只做 301 跳轉到 HTTPS（certbot 簽發時需要先能訪問 80）
+server {
+    listen 80;
+    server_name jlpt.gothruwall.eu.org;
+    return 301 https://$host$request_uri;
+}
+
+server {
+    listen 443 ssl;
+    server_name jlpt.gothruwall.eu.org;
+
+    # certbot 會自動填入下面兩行（或手動指定證書路徑）
+    # ssl_certificate /etc/letsencrypt/live/jlpt.gothruwall.eu.org/fullchain.pem;
+    # ssl_certificate_key /etc/letsencrypt/live/jlpt.gothruwall.eu.org/privkey.pem;
+
+    # 前端靜態站
+    location / {
+        proxy_pass http://127.0.0.1:5173;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+
+    # 後端 API（含 /static 音頻）
+    location /api/ {
+        proxy_pass http://127.0.0.1:8000;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+    location /static/ {
+        proxy_pass http://127.0.0.1:8000;
+        proxy_set_header Host $host;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    }
+}

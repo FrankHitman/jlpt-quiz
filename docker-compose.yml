@@ -1,10 +1,17 @@
 # JLPT 刷題系統 — Docker 一鍵部署
 # 用法：docker compose up -d --build
 # 之後瀏覽器打開 http://localhost:5173
+#
+# 生產環境（示例域名 jlpt.gothruwall.eu.org）：
+#   APP_ENV=production JWT_SECRET=$(openssl rand -hex 32) \
+#   VITE_API_BASE=http://jlpt.gothruwall.eu.org:8000/api \
+#   docker compose up -d --build
+# 生產建議另配反向代理做 HTTPS（見 docker/nginx-https.conf.example）。
 
 services:
   db:
     image: postgres:16-alpine
+    restart: unless-stopped
     environment:
       POSTGRES_USER: jlpt_app
       POSTGRES_PASSWORD: ${DB_PASSWORD:-jlpt_quiz_local}
@@ -21,15 +28,31 @@ services:
     build:
       context: .
       dockerfile: docker/backend.Dockerfile
+    restart: unless-stopped
     environment:
       DATABASE_URL: postgresql://jlpt_app:${DB_PASSWORD:-jlpt_quiz_local}@db:5432/jlpt_quiz
-      # 開發預設值；生產環境務必設置強隨機的 JWT_SECRET 環境變數
+      # APP_ENV=production 時：關閉 /docs、JWT_SECRET 未設置則拒絕啟動、
+      # seed 自動重導默認關閉（見 SEED_AUTO_REIMPORT）。
+      APP_ENV: ${APP_ENV:-development}
+      # 生產環境必須設置強隨機值（例：$(openssl rand -hex 32)）；
+      # APP_ENV=production 且未設置時後端拒絕啟動。
       JWT_SECRET: ${JWT_SECRET:-dev-jwt-secret-change-me}
+      # 逗號分隔；不設置則用內建預設（含 localhost 與 jlpt.gothruwall.eu.org）。
+      CORS_ORIGINS: ${CORS_ORIGINS:-}
+      # 設為 0 可在已有數據的庫上禁用啟動時 seed 自動重導
+      #（重導會清空該卷的作答明細；生產環境建議設為 0）。
+      SEED_AUTO_REIMPORT: ${SEED_AUTO_REIMPORT:-1}
     ports:
       - "8000:8000"
     depends_on:
       db:
         condition: service_healthy
+    healthcheck:
+      test: ["CMD-SHELL", "python3 -c \"import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/api/health', timeout=5)\""]
+      interval: 15s
+      timeout: 8s
+      retries: 5
+      start_period: 60s
 
   frontend:
     build:
@@ -37,10 +60,17 @@ services:
       dockerfile: docker/frontend.Dockerfile
       args:
         VITE_API_BASE: ${VITE_API_BASE:-http://localhost:8000/api}
+    restart: unless-stopped
     ports:
       - "5173:80"
     depends_on:
       - backend
+    healthcheck:
+      test: ["CMD-SHELL", "wget -q -O /dev/null http://127.0.0.1/ || exit 1"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 20s
 
 volumes:
   pgdata:

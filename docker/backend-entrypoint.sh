@@ -56,17 +56,21 @@ with conn.cursor() as cur:
             subprocess.run(['python3', '/app/pipeline/import_exam.py', jf], check=True)
     else:
         # 舊庫：seed 比庫新（多了 target_text / 生詞等）時重新匯入；
-        # import 冪等，但會清空該套試卷的舊作答明細（attempt_answers 級聯）
+        # import 冪等，但會清空該套試卷的舊作答明細（attempt_answers 級聯）。
+        # SEED_AUTO_REIMPORT=0 時跳過此步（生產環境建議關閉，避免啟動時清空用戶數據）。
         need = False
-        for jf in seeds:
-            data = json.load(open(jf, encoding='utf-8'))
-            seed_tt = sum(1 for q in data['questions'] if q.get('target_text'))
-            db_tt = cur.execute("SELECT count(*) FROM questions WHERE target_text IS NOT NULL").fetchone()[0]
-            seed_v = len(data.get('vocabulary', []))
-            db_v = cur.execute("SELECT count(*) FROM vocabulary").fetchone()[0]
-            if seed_tt > db_tt or seed_v != db_v:
-                need = True
-                break
+        if os.environ.get("SEED_AUTO_REIMPORT", "1") != "0":
+            for jf in seeds:
+                data = json.load(open(jf, encoding='utf-8'))
+                seed_tt = sum(1 for q in data['questions'] if q.get('target_text'))
+                db_tt = cur.execute("SELECT count(*) FROM questions WHERE target_text IS NOT NULL").fetchone()[0]
+                seed_v = len(data.get('vocabulary', []))
+                db_v = cur.execute("SELECT count(*) FROM vocabulary").fetchone()[0]
+                if seed_tt > db_tt or seed_v != db_v:
+                    need = True
+                    break
+        else:
+            print("[entrypoint] SEED_AUTO_REIMPORT=0, skipping seed re-import")
         if need:
             print("[entrypoint] seed data newer than db, re-importing")
             for jf in seeds:

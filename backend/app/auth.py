@@ -27,6 +27,11 @@ def get_jwt_secret() -> str:
     global _warned
     secret = os.environ.get("JWT_SECRET")
     if not secret:
+        if os.getenv("APP_ENV", "development") == "production":
+            raise RuntimeError(
+                "JWT_SECRET 未設置：生產環境（APP_ENV=production）拒絕使用開發預設密鑰，"
+                "請設置強隨機的 JWT_SECRET 環境變數後再啟動。"
+            )
         if not _warned:
             log.warning(
                 "JWT_SECRET 未設置，使用開發預設值；生產環境務必設置強隨機密鑰。"
