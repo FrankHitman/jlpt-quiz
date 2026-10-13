@@ -199,7 +199,7 @@ function Header() {
   return (
     <header className="app-header">
       <Link to="/" className="brand">
-        JLPT N1 刷題系統
+        JLPT 刷題系統
       </Link>
       <nav className="app-nav">
         <Link to="/">首頁</Link>

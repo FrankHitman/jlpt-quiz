@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""匯入結構化試卷 JSON 到 PostgreSQL（JLPT N1 刷題系統）。
+"""匯入結構化試卷 JSON 到 PostgreSQL（JLPT 刷題系統）。
 
 用法：
     python3 import_exam.py pipeline/seed/2025-12/exam.json

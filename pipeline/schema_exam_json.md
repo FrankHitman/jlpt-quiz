@@ -1,4 +1,4 @@
-# exam.json 格式說明（JLPT N1 刷題系統・試卷結構化標準）
+# exam.json 格式說明（JLPT 刷題系統・試卷結構化標準）
 
 供以後年份（2015-07 … 2025-12 …）的資料 agent 複用。JSON 為 UTF-8（`ensure_ascii=False`）。
 

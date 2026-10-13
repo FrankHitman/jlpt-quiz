@@ -1,4 +1,4 @@
-"""JLPT N1 quiz backend — FastAPI app factory."""
+"""JLPT quiz backend — FastAPI app factory."""
 from __future__ import annotations
 
 from pathlib import Path
@@ -14,7 +14,7 @@ from .routers import attempts, auth, exams, practice, wrong_answers
 IS_PRODUCTION = os.getenv("APP_ENV", "development") == "production"
 
 app = FastAPI(
-    title="JLPT N1 Quiz API",
+    title="JLPT Quiz API",
     docs_url=None if IS_PRODUCTION else "/docs",
     redoc_url=None if IS_PRODUCTION else "/redoc",
     openapi_url=None if IS_PRODUCTION else "/openapi.json",

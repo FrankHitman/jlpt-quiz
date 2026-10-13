@@ -1,4 +1,4 @@
-# JLPT N1 刷題系統 — Docker 一鍵部署
+# JLPT 刷題系統 — Docker 一鍵部署
 # 用法：docker compose up -d --build
 # 之後瀏覽器打開 http://localhost:5173
 

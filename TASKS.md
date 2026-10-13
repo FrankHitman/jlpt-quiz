@@ -1,4 +1,4 @@
-# JLPT N1 刷題系統 — Agent 任務清單（TASKS.md）
+# JLPT 刷題系統 — Agent 任務清單（TASKS.md）
 
 > 專案目標：為 Charles（個人自用學習）打造一個免登入的線上 N1 刷題系統：
 > PDF 試卷 → 結構化入庫（PostgreSQL）→ Web 模擬考（倒計時）＋專項練習（按題型）→ 提交後給正確率、錯題集、逐題解析。
