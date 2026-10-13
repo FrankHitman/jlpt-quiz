@@ -2803,7 +2803,12 @@
       ],
       "evidence": null,
       "option_readings": {},
-      "option_meanings": {}
+      "option_meanings": {
+        "1": "錯覺",
+        "2": "錯覺",
+        "3": "錯覺",
+        "4": "錯覺"
+      }
     },
     {
       "section_code": "lang_reading",
@@ -2826,7 +2831,12 @@
       ],
       "evidence": null,
       "option_readings": {},
-      "option_meanings": {}
+      "option_meanings": {
+        "1": "尊貴的、寶貴的",
+        "2": "尊貴的、寶貴的",
+        "3": "尊貴的、寶貴的",
+        "4": "尊貴的、寶貴的"
+      }
     },
     {
       "section_code": "lang_reading",
@@ -2849,7 +2859,12 @@
       ],
       "evidence": null,
       "option_readings": {},
-      "option_meanings": {}
+      "option_meanings": {
+        "1": "枯竭",
+        "2": "枯竭",
+        "3": "枯竭",
+        "4": "枯竭"
+      }
     },
     {
       "section_code": "lang_reading",
@@ -2872,7 +2887,12 @@
       ],
       "evidence": null,
       "option_readings": {},
-      "option_meanings": {}
+      "option_meanings": {
+        "1": "安撫",
+        "2": "安慰",
+        "3": "改正、重新",
+        "4": "留住、制止"
+      }
     },
     {
       "section_code": "lang_reading",
@@ -2895,7 +2915,12 @@
       ],
       "evidence": null,
       "option_readings": {},
-      "option_meanings": {}
+      "option_meanings": {
+        "1": "詳盡確實的",
+        "2": "詳盡確實的",
+        "3": "詳盡確實的",
+        "4": "詳盡確實的"
+      }
     },
     {
       "section_code": "lang_reading",
@@ -2918,7 +2943,12 @@
       ],
       "evidence": null,
       "option_readings": {},
-      "option_meanings": {}
+      "option_meanings": {
+        "1": "緊迫、緊張",
+        "2": "緊迫、緊張",
+        "3": "緊迫、緊張",
+        "4": "緊迫、緊張"
+      }
     },
     {
       "section_code": "lang_reading",
@@ -3102,7 +3132,12 @@
       ],
       "evidence": null,
       "option_readings": {},
-      "option_meanings": {}
+      "option_meanings": {
+        "1": "磨磨蹭蹭地",
+        "2": "拖拖拉拉地",
+        "3": "突飛猛進地",
+        "4": "徘徊、東張西望"
+      }
     },
     {
       "section_code": "lang_reading",
@@ -3125,7 +3160,12 @@
       ],
       "evidence": null,
       "option_readings": {},
-      "option_meanings": {}
+      "option_meanings": {
+        "1": "倚靠",
+        "2": "溺水",
+        "3": "惡化、變複雜",
+        "4": "發麻"
+      }
     },
     {
       "section_code": "lang_reading",
@@ -3214,7 +3254,12 @@
       ],
       "evidence": null,
       "option_readings": {},
-      "option_meanings": {}
+      "option_meanings": {
+        "1": "清爽、神清氣爽",
+        "2": "失望、洩氣",
+        "3": "悠閒、從容",
+        "4": "大吃一驚"
+      }
     },
     {
       "section_code": "lang_reading",
@@ -3530,7 +3575,12 @@
       ],
       "evidence": null,
       "option_readings": {},
-      "option_meanings": {}
+      "option_meanings": {
+        "1": "即使……也",
+        "2": "不僅……",
+        "3": "姑且不論……",
+        "4": "與……有關"
+      }
     },
     {
       "section_code": "lang_reading",
@@ -3553,7 +3603,12 @@
       ],
       "evidence": null,
       "option_readings": {},
-      "option_meanings": {}
+      "option_meanings": {
+        "1": "假設、姑且",
+        "2": "毫無、絲毫（不）",
+        "3": "相當、頗",
+        "4": "過於……"
+      }
     },
     {
       "section_code": "lang_reading",
@@ -3576,7 +3631,12 @@
       ],
       "evidence": null,
       "option_readings": {},
-      "option_meanings": {}
+      "option_meanings": {
+        "1": "只因為……",
+        "2": "……的事",
+        "3": "為了……",
+        "4": "（本該……）卻"
+      }
     },
     {
       "section_code": "lang_reading",
@@ -3665,7 +3725,12 @@
       ],
       "evidence": null,
       "option_readings": {},
-      "option_meanings": {}
+      "option_meanings": {
+        "1": "雖說您大駕光臨、卻……",
+        "2": "雖承蒙您前來、卻……",
+        "3": "既然您大駕光臨",
+        "4": "既然承蒙您前來"
+      }
     },
     {
       "section_code": "lang_reading",
@@ -3717,7 +3782,12 @@
       ],
       "evidence": null,
       "option_readings": {},
-      "option_meanings": {}
+      "option_meanings": {
+        "1": "不只、不僅",
+        "2": "（不自然）限於……之事",
+        "3": "也該有個限度",
+        "4": "也沒到……的程度"
+      }
     },
     {
       "section_code": "lang_reading",
@@ -3773,7 +3843,12 @@
       ],
       "evidence": null,
       "option_readings": {},
-      "option_meanings": {}
+      "option_meanings": {
+        "1": "頂多……而已",
+        "2": "到……的地步",
+        "3": "只是不會……而已",
+        "4": "應該不會……"
+      }
     },
     {
       "section_code": "lang_reading",
@@ -4021,7 +4096,12 @@
       ],
       "evidence": "「そのとき悟った。しなくていいようでいて」",
       "option_readings": {},
-      "option_meanings": {}
+      "option_meanings": {
+        "1": "所謂過程之類",
+        "2": "明明是過程卻",
+        "3": "曾是過程、但",
+        "4": "正是過程（斷定）"
+      }
     },
     {
       "section_code": "lang_reading",

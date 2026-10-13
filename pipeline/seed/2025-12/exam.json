@@ -2449,7 +2449,13 @@
         }
       ],
       "evidence": null,
-      "option_readings": {}
+      "option_readings": {},
+      "option_meanings": {
+        "1": "堅固、結實",
+        "2": "（錯誤讀音）",
+        "3": "（錯誤讀音）",
+        "4": "（錯誤讀音）"
+      }
     },
     {
       "section_code": "lang_reading",
@@ -2471,7 +2477,13 @@
         }
       ],
       "evidence": null,
-      "option_readings": {}
+      "option_readings": {},
+      "option_meanings": {
+        "1": "游泳（泳ぐ）",
+        "2": "糾纏（絡む）",
+        "3": "下沉（沈む）",
+        "4": "潛藏（潜む）"
+      }
     },
     {
       "section_code": "lang_reading",
@@ -2493,7 +2505,13 @@
         }
       ],
       "evidence": null,
-      "option_readings": {}
+      "option_readings": {},
+      "option_meanings": {
+        "1": "（錯誤讀音）",
+        "2": "（錯誤讀音）",
+        "3": "（錯誤讀音）",
+        "4": "行政"
+      }
     },
     {
       "section_code": "lang_reading",
@@ -2515,7 +2533,13 @@
         }
       ],
       "evidence": null,
-      "option_readings": {}
+      "option_readings": {},
+      "option_meanings": {
+        "1": "（錯誤讀音）",
+        "2": "卓越、傑出",
+        "3": "（錯誤讀音）",
+        "4": "（錯誤讀音）"
+      }
     },
     {
       "section_code": "lang_reading",
@@ -2537,7 +2561,13 @@
         }
       ],
       "evidence": null,
-      "option_readings": {}
+      "option_readings": {},
+      "option_meanings": {
+        "1": "不合適（相応しくない）",
+        "2": "不好、不理想（宜しくない）",
+        "3": "不理想、不盡人意",
+        "4": "不顯著（著しくない）"
+      }
     },
     {
       "section_code": "lang_reading",
@@ -2559,7 +2589,13 @@
         }
       ],
       "evidence": null,
-      "option_readings": {}
+      "option_readings": {},
+      "option_meanings": {
+        "1": "（錯誤讀音）",
+        "2": "管轄",
+        "3": "（錯誤讀音）",
+        "4": "（錯誤讀音）"
+      }
     },
     {
       "section_code": "lang_reading",
@@ -2614,7 +2650,13 @@
         }
       ],
       "evidence": null,
-      "option_readings": {}
+      "option_readings": {},
+      "option_meanings": {
+        "1": "加分、正分",
+        "2": "上升、提高",
+        "3": "領先",
+        "4": "接住、趕上"
+      }
     },
     {
       "section_code": "lang_reading",
@@ -2735,7 +2777,13 @@
         }
       ],
       "evidence": null,
-      "option_readings": {}
+      "option_readings": {},
+      "option_meanings": {
+        "1": "前不久、最近",
+        "2": "不知不覺",
+        "3": "總有一天、早晚",
+        "4": "姑且、暫且"
+      }
     },
     {
       "section_code": "lang_reading",
@@ -2757,7 +2805,13 @@
         }
       ],
       "evidence": null,
-      "option_readings": {}
+      "option_readings": {},
+      "option_meanings": {
+        "1": "提心吊膽",
+        "2": "膽戰心驚",
+        "3": "畏畏縮縮",
+        "4": "煩躁、鬱悶"
+      }
     },
     {
       "section_code": "lang_reading",
@@ -2808,7 +2862,13 @@
         }
       ],
       "evidence": null,
-      "option_readings": {}
+      "option_readings": {},
+      "option_meanings": {
+        "1": "一直",
+        "2": "牢固地、好好地",
+        "3": "偷偷地",
+        "4": "已經"
+      }
     },
     {
       "section_code": "lang_reading",
@@ -3185,7 +3245,13 @@
         }
       ],
       "evidence": null,
-      "option_readings": {}
+      "option_readings": {},
+      "option_meanings": {
+        "1": "以…為首",
+        "2": "若無…就不會…",
+        "3": "正因為是…",
+        "4": "不僅…"
+      }
     },
     {
       "section_code": "lang_reading",
@@ -3240,7 +3306,13 @@
         }
       ],
       "evidence": null,
-      "option_readings": {}
+      "option_readings": {},
+      "option_meanings": {
+        "1": "要斷定為…的話",
+        "2": "要成為…的話",
+        "3": "說是…的話（意外）",
+        "4": "一成為…就（意外）"
+      }
     },
     {
       "section_code": "lang_reading",
@@ -3361,7 +3433,13 @@
         }
       ],
       "evidence": null,
-      "option_readings": {}
+      "option_readings": {},
+      "option_meanings": {
+        "1": "竟然為我做了…（感謝的責難語氣）",
+        "2": "竟然做得出…（責難）",
+        "3": "應該為我做了…吧（推量）",
+        "4": "不可能做…吧（推量）"
+      }
     },
     {
       "section_code": "lang_reading",
@@ -3383,7 +3461,13 @@
         }
       ],
       "evidence": null,
-      "option_readings": {}
+      "option_readings": {},
+      "option_meanings": {
+        "1": "像是…的事（客觀描述）",
+        "2": "有…的地方（部分肯定）",
+        "3": "像是…的事（主觀描述）",
+        "4": "有點…的傾向"
+      }
     },
     {
       "section_code": "lang_reading",
@@ -3591,7 +3675,13 @@
         }
       ],
       "evidence": null,
-      "option_readings": {}
+      "option_readings": {},
+      "option_meanings": {
+        "1": "就當作是因為…吧（假定）",
+        "2": "也會變成…的事（結果）",
+        "3": "可以說是…的時候（斷定）",
+        "4": "正是因為…（強調原因）"
+      }
     },
     {
       "section_code": "lang_reading",
@@ -3679,7 +3769,13 @@
         }
       ],
       "evidence": null,
-      "option_readings": {}
+      "option_readings": {},
+      "option_meanings": {
+        "1": "或者",
+        "2": "順帶一提",
+        "3": "因此、於是",
+        "4": "即、也就是"
+      }
     },
     {
       "section_code": "lang_reading",
