@@ -79,6 +79,28 @@ jlpt-quiz/
 
 N1：言語知識（文字・語彙・文法）・読解 **110 分鐘**；聴解 **55 分鐘**（2022 年起由 60 改為 55，題數同步調整為 30 題）。存於 `sections.time_limit_min`，可配置。
 
+## 備份與恢復
+
+`backup` 服務每天自動備份一次資料庫（pg_dump，存於部署目錄下的 `backups/`），
+預設保留 7 天（`BACKUP_RETENTION_DAYS` 環境變數可調）。
+
+恢復（在 VPS 部署目錄下執行）：
+
+```bash
+./scripts/restore.sh backups/jlpt_quiz-20261014-030000.dump
+```
+
+把備份同步到自己的電腦（二選一）：
+
+```bash
+# 方案 A：rsync 腳本（推薦，見文件內註釋填好 VPS 信息後加到本機 crontab）
+bash scripts/pull-backup.sh
+
+# 方案 B：ansible（ansible/ 目錄下有現成 playbook）
+cp ansible/inventory.ini.example ansible/inventory.ini  # 填好後
+ansible-playbook -i ansible/inventory.ini ansible/pull-backup.yml
+```
+
 ## 已知限制
 
 - 聽解暫無音頻：只入庫了題目冊資訊（題型＋選項），模擬考暫不含聽解

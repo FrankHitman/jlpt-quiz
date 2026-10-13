@@ -1,0 +1,6 @@
+FROM postgres:16-alpine
+
+COPY docker/backup.sh /backup.sh
+RUN chmod +x /backup.sh
+
+CMD ["/backup.sh"]

@@ -72,5 +72,23 @@ services:
       retries: 3
       start_period: 20s
 
+  backup:
+    build:
+      context: .
+      dockerfile: docker/backup.Dockerfile
+    restart: unless-stopped
+    environment:
+      PGHOST: db
+      PGUSER: jlpt_app
+      PGPASSWORD: ${DB_PASSWORD:-jlpt_quiz_local}
+      PGDATABASE: jlpt_quiz
+      # 備份保留天數；啟動時備份一次，之後每 24 小時一次
+      BACKUP_RETENTION_DAYS: ${BACKUP_RETENTION_DAYS:-7}
+    volumes:
+      - ./backups:/backups
+    depends_on:
+      db:
+        condition: service_healthy
+
 volumes:
   pgdata:

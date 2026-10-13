@@ -1,0 +1,29 @@
+# 用 ansible 把 VPS 上的最新備份拉取到本機。
+# 用法：
+#   1. cp inventory.ini.example inventory.ini 並填好你的 VPS 信息
+#   2. ansible-playbook -i inventory.ini pull-backup.yml
+# 定時：加到本機 crontab，例如每天 4 點：
+#   0 4 * * * cd /path/to/ansible && ansible-playbook -i inventory.ini pull-backup.yml >> ~/jlpt-backups/pull.log 2>&1
+- name: 拉取 JLPT 資料庫備份到本機
+  hosts: jlpt_vps
+  gather_facts: false
+  vars:
+    remote_backup_dir: /root/jlpt-quiz/backups
+    local_backup_dir: "{{ lookup('env', 'HOME') }}/jlpt-backups"
+  tasks:
+    - name: 確認本機目錄存在
+      file:
+        path: "{{ local_backup_dir }}"
+        state: directory
+      delegate_to: localhost
+
+    - name: 找 VPS 上最新的備份
+      shell: ls -t {{ remote_backup_dir }}/jlpt_quiz-*.dump | head -1
+      register: latest
+      changed_when: false
+
+    - name: 拉取到本機
+      fetch:
+        src: "{{ latest.stdout }}"
+        dest: "{{ local_backup_dir }}/"
+        flat: true
