@@ -184,11 +184,20 @@ class AuthOut(BaseModel):
 
 # ---------- wrong answers （錯題本） ----------
 
+class ExamRef(BaseModel):
+    id: int
+    level: str
+    year: int
+    month: int
+    title: str
+
+
 class WrongAnswerItem(BaseModel):
     id: int
     question: QuestionOut
     correct_option: str
     explanation: ExplanationOut
+    exam: ExamRef | None = None
     wrong_count: int
     mastered: bool
     mastered_at: datetime | None = None

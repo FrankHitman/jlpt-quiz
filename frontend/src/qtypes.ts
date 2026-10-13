@@ -43,3 +43,25 @@ export function sectionDisplay(code: string, fallback?: string): string {
 export const QTYPE_OPTIONS: { code: string; name: string }[] = Object.entries(QTYPE_ZH).map(
   ([code, name]) => ({ code, name }),
 );
+
+/**
+ * 題型適用級別（由 pipeline/seed 全 20 套試卷實際統計）。
+ * N2 專有：kanji_writing（漢字表記）、word_formation（詞語構成）；
+ * 其餘題型 N1/N2 皆有（目前沒有 N1 專有題型）。
+ */
+export const QTYPE_LEVELS: Record<string, 'N1' | 'N2' | 'both'> = Object.fromEntries(
+  Object.keys(QTYPE_ZH).map((code) => [
+    code,
+    code === 'kanji_writing' || code === 'word_formation' ? 'N2' : 'both',
+  ]),
+) as Record<string, 'N1' | 'N2' | 'both'>;
+
+/**
+ * 專項練習頁的題型下拉：與級別級聯。
+ * level 為空（全部級別）時返回全部題型；指定級別時只返回該級別實際有的題型。
+ */
+export function qtypeOptionsForLevel(level: string): { code: string; name: string }[] {
+  return QTYPE_OPTIONS.filter(
+    (o) => !level || QTYPE_LEVELS[o.code] === 'both' || QTYPE_LEVELS[o.code] === level,
+  );
+}

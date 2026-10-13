@@ -1,10 +1,39 @@
-import { useEffect, useMemo, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import { Link, useSearchParams } from 'react-router-dom';
 import { getApi } from '../api';
 import type { AnsweringQuestion, ExamSummary, PerQuestionResult, SubmitResult } from '../types';
-import { QTYPE_OPTIONS } from '../qtypes';
+import { qtypeOptionsForLevel } from '../qtypes';
 import { QuestionCard } from '../components/QuestionCard';
 import { ReviewItem } from '../components/ReviewItem';
+
+interface PracticeProgress {
+  examId: string;
+  level: string;
+  qtype: string;
+  limit: string;
+  question_ids: number[];
+  answers: Record<string, string | null>;
+}
+
+const PRACTICE_PROG_KEY = 'jlpt-progress-practice';
+
+function loadPracticeProgress(): PracticeProgress | null {
+  try {
+    const s = localStorage.getItem(PRACTICE_PROG_KEY);
+    return s ? (JSON.parse(s) as PracticeProgress) : null;
+  } catch {
+    return null;
+  }
+}
+
+function savePracticeProgress(p: PracticeProgress | null) {
+  try {
+    if (p) localStorage.setItem(PRACTICE_PROG_KEY, JSON.stringify(p));
+    else localStorage.removeItem(PRACTICE_PROG_KEY);
+  } catch {
+    /* 忽略（隱私模式等） */
+  }
+}
 
 export default function Practice() {
   const [searchParams] = useSearchParams();
@@ -19,6 +48,8 @@ export default function Practice() {
   const [attemptId, setAttemptId] = useState<number | null>(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [restored, setRestored] = useState(false);
+  const [restoring, setRestoring] = useState(true);
 
   useEffect(() => {
     getApi()
@@ -33,8 +64,51 @@ export default function Practice() {
       .catch((e: unknown) => setError(e instanceof Error ? e.message : String(e)));
   }, []);
 
+  // iOS 切後台可能整頁重載：恢復上次未提交的練習進度
+  useEffect(() => {
+    const saved = loadPracticeProgress();
+    if (!saved || saved.question_ids.length === 0) {
+      setRestoring(false);
+      return;
+    }
+    let cancelled = false;
+    getApi()
+      .then(async (a) => {
+        const pool = await a.getPracticeQuestions({
+          exam_id: saved.examId ? Number(saved.examId) : undefined,
+          qtype_code: saved.qtype || undefined,
+          limit: 100,
+        });
+        if (cancelled) return;
+        const byId = new Map(pool.map((q) => [q.id, q]));
+        const qs = saved.question_ids
+          .map((id) => byId.get(id))
+          .filter((q): q is AnsweringQuestion => !!q);
+        if (qs.length === 0) {
+          savePracticeProgress(null);
+        } else {
+          setExamId(saved.examId);
+          setLevel(saved.level);
+          setQtype(saved.qtype);
+          setLimit(saved.limit);
+          setQuestions(qs);
+          setAnswers(saved.answers);
+          setRestored(true);
+        }
+        setRestoring(false);
+      })
+      .catch(() => {
+        if (!cancelled) setRestoring(false);
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+
   const levels = [...new Set(exams.map((e) => e.level))];
   const visibleExams = level ? exams.filter((e) => e.level === level) : exams;
+  // 題型下拉與級別級聯：只顯示所選級別實際有的題型
+  const qtypeOptions = useMemo(() => qtypeOptionsForLevel(level), [level]);
 
   const isListeningQtype = qtype.startsWith('listening');
 
@@ -43,6 +117,8 @@ export default function Practice() {
     setResult(null);
     setAttemptId(null);
     setAnswers({});
+    setRestored(false);
+    savePracticeProgress(null);
     if (isListeningQtype) {
       setQuestions([]);
       return;
@@ -63,6 +139,38 @@ export default function Practice() {
     }
   };
 
+  // 作答過程中持久化（iOS 切後台重載後可恢復）
+  const progressRef = useRef<PracticeProgress | null>(null);
+  useEffect(() => {
+    if (questions && questions.length > 0 && !result) {
+      const p: PracticeProgress = {
+        examId,
+        level,
+        qtype,
+        limit,
+        question_ids: questions.map((q) => q.id),
+        answers,
+      };
+      progressRef.current = p;
+      savePracticeProgress(p);
+    } else {
+      progressRef.current = null;
+    }
+  }, [questions, answers, result, examId, level, qtype, limit]);
+
+  // iOS 上 beforeunload 不可靠，用 pagehide 在頁面被丟棄前同步落盤
+  //（應對「剛作答就切後台、effect 還沒跑」的競態）
+  useEffect(() => {
+    const flush = () => savePracticeProgress(progressRef.current);
+    window.addEventListener('pagehide', flush);
+    document.addEventListener('visibilitychange', () => {
+      if (document.visibilityState === 'hidden') flush();
+    });
+    return () => {
+      window.removeEventListener('pagehide', flush);
+    };
+  }, []);
+
   const submit = async () => {
     if (!questions || questions.length === 0) return;
     const unanswered = questions.filter((qq) => answers[String(qq.id)] == null && qq.options.length > 0).length;
@@ -82,6 +190,7 @@ export default function Practice() {
       );
       setResult(r);
       setAttemptId(att.attempt_id);
+      savePracticeProgress(null);
       window.scrollTo({ top: 0 });
     } catch (e: unknown) {
       setError(e instanceof Error ? e.message : String(e));
@@ -101,6 +210,14 @@ export default function Practice() {
     setResult(null);
     setAttemptId(null);
     setAnswers({});
+    setRestored(false);
+    savePracticeProgress(null);
+  };
+
+  const discardRestored = () => {
+    savePracticeProgress(null);
+    setRestored(false);
+    reset();
   };
 
   return (
@@ -116,6 +233,9 @@ export default function Practice() {
             onChange={(e) => {
               const lv = e.target.value;
               setLevel(lv);
+              // 級別變更後，若當前已選題型在該級別不存在，回到「全部題型」
+              const opts = qtypeOptionsForLevel(lv);
+              if (qtype && !opts.some((o) => o.code === qtype)) setQtype('');
               const first = exams.find((x) => !lv || x.level === lv);
               setExamId(first ? String(first.id) : '');
             }}
@@ -142,7 +262,7 @@ export default function Practice() {
           題型
           <select value={qtype} onChange={(e) => setQtype(e.target.value)}>
             <option value="">全部題型</option>
-            {QTYPE_OPTIONS.map((o) => (
+            {qtypeOptions.map((o) => (
               <option key={o.code} value={o.code}>
                 {o.name}
               </option>
@@ -164,6 +284,18 @@ export default function Practice() {
       </div>
 
       {error && <div className="error">{error}</div>}
+
+      {restoring && <div className="loading">恢復進度中…</div>}
+
+      {!restoring && restored && questions !== null && questions.length > 0 && !result && (
+        <div className="notice">
+          已恢復上次未完成的練習（{Object.values(answers).filter((v) => v != null).length}/
+          {questions.length} 題已作答）。
+          <button type="button" className="link-btn" onClick={discardRestored}>
+            丟棄並重新篩選
+          </button>
+        </div>
+      )}
 
       {questions !== null && isListeningQtype && (
         <div className="notice">聽解題型暫無音頻，本系統暫不提供該題型練習。</div>

@@ -310,6 +310,11 @@ export default function WrongBook() {
               aria-label="選擇"
             />
             <span className="qtype-tag">{qtypeName(w.question.qtype_code)}</span>
+            {w.exam && (
+              <span className="exam-tag">
+                {w.exam.year}年{w.exam.month}月 JLPT {w.exam.level}
+              </span>
+            )}
             <span className="wrong-meta">
               錯 {w.wrong_count} 次
               {w.review_count > 0 && `・已複習 ${w.review_count} 次`}

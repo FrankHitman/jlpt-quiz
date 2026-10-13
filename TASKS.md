@@ -38,6 +38,9 @@
 
 section_code：`lang_reading`（言語知識・読解）、`listening`（聴解）。
 
+**題型適用級別**（由全 20 套 seed 實際統計，`frontend/src/qtypes.ts` 的 `QTYPE_LEVELS` 為唯一來源）：
+N2 專有：`kanji_writing`（漢字表記）、`word_formation`（詞語構成）；其餘題型 N1/N2 皆有（目前無 N1 專有題型）。專項練習頁的題型下拉已與級別級聯（`qtypeOptionsForLevel(level)`）。
+
 ---
 
 ## T1. 資料庫建置（DB agent）

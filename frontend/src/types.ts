@@ -174,11 +174,20 @@ export interface AuthSession {
   user: AuthUser;
 }
 
+export interface ExamRef {
+  id: number;
+  level: string;
+  year: number;
+  month: number;
+  title: string;
+}
+
 export interface WrongAnswerItem {
   id: number;
   question: AnsweringQuestion;
   correct_option: string;
   explanation: Explanation;
+  exam?: ExamRef | null;
   wrong_count: number;
   mastered: boolean;
   mastered_at: string | null;

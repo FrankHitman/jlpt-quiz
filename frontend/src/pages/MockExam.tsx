@@ -12,6 +12,7 @@ interface Progress {
   time_limit_min: number;
   answers: Record<string, string | null>;
   flags: string[];
+  idx?: number;
 }
 
 const progKey = (examId: string, section: string) => `jlpt-progress-mock-${examId}-${section}`;
@@ -36,7 +37,7 @@ export default function MockExam() {
   const [exam, setExam] = useState<ExamDetail | null>(null);
   const [questions, setQuestions] = useState<AnsweringQuestion[] | null>(null);
   const [progress, setProgress] = useState<Progress | null>(() => loadProgress(examId, SECTION));
-  const [idx, setIdx] = useState(0);
+  const [idx, setIdx] = useState(() => loadProgress(examId, SECTION)?.idx ?? 0);
   const [now, setNow] = useState(() => Date.now());
   const [submitting, setSubmitting] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -59,16 +60,43 @@ export default function MockExam() {
       .catch((e: unknown) => setError(e instanceof Error ? e.message : String(e)));
   }, [examIdNum, progress]);
 
-  // 持久化進度
+  // 持久化進度（含當前題號；iOS 切後台重載後可恢復）
+  const persistRef = useRef<Progress | null>(null);
   useEffect(() => {
     if (progress) {
+      const p = { ...progress, idx };
+      persistRef.current = p;
       try {
-        localStorage.setItem(progKey(examId, SECTION), JSON.stringify(progress));
+        localStorage.setItem(progKey(examId, SECTION), JSON.stringify(p));
       } catch {
         /* 忽略 */
       }
+    } else {
+      persistRef.current = null;
     }
-  }, [progress, examId]);
+  }, [progress, idx, examId, SECTION]);
+
+  // iOS 上 beforeunload 不可靠，用 pagehide/visibilitychange 在頁面被丟棄前同步落盤
+  useEffect(() => {
+    const flush = () => {
+      const p = persistRef.current;
+      if (!p) return;
+      try {
+        localStorage.setItem(progKey(examId, SECTION), JSON.stringify(p));
+      } catch {
+        /* 忽略 */
+      }
+    };
+    const onVis = () => {
+      if (document.visibilityState === 'hidden') flush();
+    };
+    window.addEventListener('pagehide', flush);
+    document.addEventListener('visibilitychange', onVis);
+    return () => {
+      window.removeEventListener('pagehide', flush);
+      document.removeEventListener('visibilitychange', onVis);
+    };
+  }, [examId, SECTION]);
 
   // 倒計時 tick
   useEffect(() => {
@@ -102,6 +130,7 @@ export default function MockExam() {
           selected_option: progress.answers[String(q.id)] ?? null,
         }));
         await a.submitAttempt(progress.attempt_id, answers);
+        persistRef.current = null;
         try {
           localStorage.removeItem(progKey(examId, SECTION));
         } catch {

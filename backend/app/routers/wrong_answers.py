@@ -16,11 +16,15 @@ router = APIRouter()
 
 def _wrong_answer_to_out(wa: models.WrongAnswer) -> schemas.WrongAnswerItem:
     q = wa.question
+    ex = q.exam
     return schemas.WrongAnswerItem(
         id=wa.id,
         question=question_to_out(q),
         correct_option=q.correct_option,
         explanation=explanation_to_out(q.explanation, q.vocabulary),
+        exam=schemas.ExamRef(
+            id=ex.id, level=ex.level, year=ex.year, month=ex.month, title=ex.title
+        ) if ex is not None else None,
         wrong_count=wa.wrong_count,
         mastered=wa.mastered,
         mastered_at=wa.mastered_at,
@@ -37,6 +41,7 @@ def _get_owned(wa_id: int, user: models.User, db: Session) -> models.WrongAnswer
             joinedload(models.WrongAnswer.question).joinedload(models.Question.explanation),
             joinedload(models.WrongAnswer.question).joinedload(models.Question.vocabulary),
             joinedload(models.WrongAnswer.question).joinedload(models.Question.group),
+            joinedload(models.WrongAnswer.question).joinedload(models.Question.exam),
         )
         .filter_by(id=wa_id, user_id=user.id)
         .first()
@@ -59,6 +64,7 @@ def list_wrong_answers(
             joinedload(models.WrongAnswer.question).joinedload(models.Question.explanation),
             joinedload(models.WrongAnswer.question).joinedload(models.Question.vocabulary),
             joinedload(models.WrongAnswer.question).joinedload(models.Question.group),
+            joinedload(models.WrongAnswer.question).joinedload(models.Question.exam),
         )
         .filter_by(user_id=user.id)
     )

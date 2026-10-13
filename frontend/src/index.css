@@ -400,6 +400,15 @@ h2 {
   font-weight: 700;
 }
 
+.exam-tag {
+  background: #f0eef9;
+  color: #5b4a9e;
+  border-radius: 6px;
+  padding: 0.1rem 0.5rem;
+  font-weight: 700;
+  margin-left: 0.4rem;
+}
+
 .qcard-stem {
   font-size: 1.05rem;
   margin-bottom: 0.8rem;
