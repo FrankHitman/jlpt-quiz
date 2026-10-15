@@ -139,3 +139,6 @@ lerna-debug.log*
 *.odm
 *.odn
 *.ppm
+
+backup/
+backups/

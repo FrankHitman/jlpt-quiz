@@ -108,6 +108,7 @@ function toAnswering(q: QuestionRow): AnsweringQuestion {
     mondai_no: q.mondai_no,
     number_in_section: q.number_in_section,
     stem: q.stem,
+    stem_zh: (q as any).stem_zh ?? null,
     target_text: q.target_text ?? null,
     audio_url: q.audio_url ?? null,
     options: q.options.map((o) => ({ key: o.key, text: o.text })),

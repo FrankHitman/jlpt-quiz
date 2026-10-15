@@ -138,7 +138,8 @@
         }
       ],
       "correct_option": "2",
-      "target_text": "余暇"
+      "target_text": "余暇",
+      "stem_zh": "打發閒暇的方式多種多樣。"
     },
     {
       "group_local_id": null,
@@ -166,7 +167,8 @@
         }
       ],
       "correct_option": "2",
-      "target_text": "鈍い"
+      "target_text": "鈍い",
+      "stem_zh": "那種動物的動作遲鈍。"
     },
     {
       "group_local_id": null,
@@ -194,7 +196,8 @@
         }
       ],
       "correct_option": "4",
-      "target_text": "検閲"
+      "target_text": "検閲",
+      "stem_zh": "並沒有進行審查。"
     },
     {
       "group_local_id": null,
@@ -222,7 +225,8 @@
         }
       ],
       "correct_option": "1",
-      "target_text": "崇高"
+      "target_text": "崇高",
+      "stem_zh": "他所倡導的理念十分崇高。"
     },
     {
       "group_local_id": null,
@@ -250,7 +254,8 @@
         }
       ],
       "correct_option": "4",
-      "target_text": "裁く"
+      "target_text": "裁く",
+      "stem_zh": "我做不出裁決。"
     },
     {
       "group_local_id": null,
@@ -278,7 +283,8 @@
         }
       ],
       "correct_option": "3",
-      "target_text": "胸中"
+      "target_text": "胸中",
+      "stem_zh": "向摯友傾訴複雜的心情。"
     },
     {
       "group_local_id": null,
@@ -306,7 +312,8 @@
         }
       ],
       "correct_option": "1",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "藉由兩家公司的（ ），誕生了國內規模最大的食品公司。"
     },
     {
       "group_local_id": null,
@@ -334,7 +341,8 @@
         }
       ],
       "correct_option": "2",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "中山（ ）很靈巧，聽說孩子們的衣服都是親手做的。"
     },
     {
       "group_local_id": null,
@@ -362,7 +370,8 @@
         }
       ],
       "correct_option": "2",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "他才19歲，卻想（ ）年齡參加只有20歲以上才能參加的活動。"
     },
     {
       "group_local_id": null,
@@ -390,7 +399,8 @@
         }
       ],
       "correct_option": "3",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "活動報告的草案已經整理好了，請您確認一下，如有不足之處請（ ）。"
     },
     {
       "group_local_id": null,
@@ -418,7 +428,8 @@
         }
       ],
       "correct_option": "1",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "原田因為育兒有好幾年的（ ），但考取了證照，聽說已經確定再就業。"
     },
     {
       "group_local_id": null,
@@ -446,7 +457,8 @@
         }
       ],
       "correct_option": "2",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "從她最近的態度，我（ ）就察覺到她的心意有所改變。"
     },
     {
       "group_local_id": null,
@@ -474,7 +486,8 @@
         }
       ],
       "correct_option": "4",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "聽到老歌，童年好友的臉龐（ ）浮現在腦海中。"
     },
     {
       "group_local_id": null,
@@ -502,7 +515,8 @@
         }
       ],
       "correct_option": "3",
-      "target_text": "着手していない"
+      "target_text": "着手していない",
+      "stem_zh": "還有幾件尚未著手的工作。"
     },
     {
       "group_local_id": null,
@@ -530,7 +544,8 @@
         }
       ],
       "correct_option": "4",
-      "target_text": "トレンド"
+      "target_text": "トレンド",
+      "stem_zh": "這個趨勢被認為會持續一陣子。"
     },
     {
       "group_local_id": null,
@@ -558,7 +573,8 @@
         }
       ],
       "correct_option": "4",
-      "target_text": "破格"
+      "target_text": "破格",
+      "stem_zh": "聽說中川在跳槽後的公司受到了破格的待遇。"
     },
     {
       "group_local_id": null,
@@ -586,7 +602,8 @@
         }
       ],
       "correct_option": "2",
-      "target_text": "冷やかして"
+      "target_text": "冷やかして",
+      "stem_zh": "小學時因為取笑朋友而被罵。"
     },
     {
       "group_local_id": null,
@@ -614,7 +631,8 @@
         }
       ],
       "correct_option": "3",
-      "target_text": "けげんな"
+      "target_text": "けげんな",
+      "stem_zh": "聽到這話，大木露出了狐疑的表情。"
     },
     {
       "group_local_id": null,
@@ -642,7 +660,8 @@
         }
       ],
       "correct_option": "1",
-      "target_text": "ことごとく"
+      "target_text": "ことごとく",
+      "stem_zh": "女兒正值叛逆期，對父母說的話事事反對。"
     },
     {
       "group_local_id": null,
@@ -670,7 +689,8 @@
         }
       ],
       "correct_option": "2",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "保留\n請從下列選項中選出該詞語用法最恰當的一項。"
     },
     {
       "group_local_id": null,
@@ -698,7 +718,8 @@
         }
       ],
       "correct_option": "4",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "緩和\n請從下列選項中選出該詞語用法最恰當的一項。"
     },
     {
       "group_local_id": null,
@@ -726,7 +747,8 @@
         }
       ],
       "correct_option": "1",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "相去甚遠\n請從下列選項中選出該詞語用法最恰當的一項。"
     },
     {
       "group_local_id": null,
@@ -754,7 +776,8 @@
         }
       ],
       "correct_option": "3",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "圓潤\n請從下列選項中選出該詞語用法最恰當的一項。"
     },
     {
       "group_local_id": null,
@@ -782,7 +805,8 @@
         }
       ],
       "correct_option": "1",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "脫卻\n請從下列選項中選出該詞語用法最恰當的一項。"
     },
     {
       "group_local_id": null,
@@ -810,7 +834,8 @@
         }
       ],
       "correct_option": "4",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "熟練運用\n請從下列選項中選出該詞語用法最恰當的一項。"
     },
     {
       "group_local_id": null,
@@ -838,7 +863,8 @@
         }
       ],
       "correct_option": "2",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "我覺得，忍耐著不做喜歡的事而（ ）的節約，是無法長久持續的。"
     },
     {
       "group_local_id": null,
@@ -866,7 +892,8 @@
         }
       ],
       "correct_option": "1",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "據說，即便是在腦科學研究發達的現代（ ），關於人類做夢的機制仍有許多尚未解開的部分。"
     },
     {
       "group_local_id": null,
@@ -894,7 +921,8 @@
         }
       ],
       "correct_option": "4",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "同事山川是這樣的性格：不管對方是（ ），覺得不對勁的事就忍不住要指出來。"
     },
     {
       "group_local_id": null,
@@ -922,7 +950,8 @@
         }
       ],
       "correct_option": "3",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "偏偏今天是無論如何都不能遲到的日子（ ），電車卻不知為什麼誤點了。"
     },
     {
       "group_local_id": null,
@@ -950,7 +979,8 @@
         }
       ],
       "correct_option": "4",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "這部小說以政界權力鬥爭為題材（ ），描寫的卻是家人之間的羈絆，成為觸動許多人心的感人故事。"
     },
     {
       "group_local_id": null,
@@ -978,7 +1008,8 @@
         }
       ],
       "correct_option": "1",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "昨天慢跑時扭傷了腳踝。只是稍微扭了一下，在醫院（ ）了一下，今早還是有點痛。"
     },
     {
       "group_local_id": null,
@@ -1006,7 +1037,8 @@
         }
       ],
       "correct_option": "4",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "兒子小時候對顏色的好惡很分明，討厭顏色的衣服絕對（ ）。"
     },
     {
       "group_local_id": null,
@@ -1034,7 +1066,8 @@
         }
       ],
       "correct_option": "1",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "（官網上）本公司將進一步推進兼顧地球環境的產品開發（ ）。"
     },
     {
       "group_local_id": null,
@@ -1062,7 +1095,8 @@
         }
       ],
       "correct_option": "2",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "聽說朋友田中創辦的公司經營順利。如果當時沒有拒絕他「要不要來我們公司」的邀請，現在大概已經（ ）部長了。"
     },
     {
       "group_local_id": null,
@@ -1090,7 +1124,8 @@
         }
       ],
       "correct_option": "3",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "惹出那麼大麻煩的他，竟然一點責任都（ ）。"
     },
     {
       "group_local_id": null,
@@ -1118,7 +1153,8 @@
         }
       ],
       "correct_option": "3",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "雖然嚮往高級車，但以我的薪水，不中樂透 ＿＿ ★ ＿＿ ＿＿ ＿＿\n一輩子都買不起。"
     },
     {
       "group_local_id": null,
@@ -1146,7 +1182,8 @@
         }
       ],
       "correct_option": "3",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "全年無休營業、是我們日常生活不可或缺的 ＿＿ ＿＿ ★ ＿＿\n＿＿ 聽說也出現了這樣的店鋪。"
     },
     {
       "group_local_id": null,
@@ -1174,7 +1211,8 @@
         }
       ],
       "correct_option": "2",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "3歲的女兒每天都興高采烈地看同一部動畫DVD。不管 ＿＿ ＿＿\n★ ＿＿ ＿＿ 都沒有看膩的樣子。"
     },
     {
       "group_local_id": null,
@@ -1202,7 +1240,8 @@
         }
       ],
       "correct_option": "1",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "（電視節目中）醫生：「明明應該睡得很足，白天卻犯睏、半夜多次醒來 ＿＿ ＿＿ ★ ＿＿ ＿＿ 的可能性。有睡眠困擾的人，建議去醫療機構就診一次。」"
     },
     {
       "group_local_id": null,
@@ -1230,7 +1269,8 @@
         }
       ],
       "correct_option": "4",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "前幾天參加了以環境問題為主題的座談會，專家們的 ＿＿ ＿＿ ★ ＿＿ ＿＿ 讓我陷入深思、深受觸動。"
     },
     {
       "group_local_id": "g_mondai7",
@@ -1258,7 +1298,8 @@
         }
       ],
       "correct_option": "4",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "但是，那[41]並不是人與人之間的交往。"
     },
     {
       "group_local_id": "g_mondai7",
@@ -1286,7 +1327,8 @@
         }
       ],
       "correct_option": "3",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "人與人之間的往來，經常[42]。"
     },
     {
       "group_local_id": "g_mondai7",
@@ -1314,7 +1356,8 @@
         }
       ],
       "correct_option": "1",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "要[43]誤解，恐怕需要長時間的商談。"
     },
     {
       "group_local_id": "g_mondai7",
@@ -1342,7 +1385,8 @@
         }
       ],
       "correct_option": "2",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "為了避免摩擦而試圖掌握「不會失敗的對話」，反而是[44]溝通。"
     },
     {
       "group_local_id": "g_p8_1",
@@ -1370,7 +1414,8 @@
         }
       ],
       "correct_option": "3",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "關於社會，作者是怎麼想的？"
     },
     {
       "group_local_id": "g_p8_2",
@@ -1398,7 +1443,8 @@
         }
       ],
       "correct_option": "4",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "根據作者的說法，診斷時醫生應該怎麼做？"
     },
     {
       "group_local_id": "g_p8_3",
@@ -1426,7 +1472,8 @@
         }
       ],
       "correct_option": "3",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "根據作者的說法，專利制度給企業帶來的好處是什麼？"
     },
     {
       "group_local_id": "g_p8_4",
@@ -1454,7 +1501,8 @@
         }
       ],
       "correct_option": "4",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "哪一項符合作者的想法？"
     },
     {
       "group_local_id": "g_p9_1",
@@ -1482,7 +1530,8 @@
         }
       ],
       "correct_option": "2",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "關於「現學現賣」的專業性，作者是怎麼說的？"
     },
     {
       "group_local_id": "g_p9_1",
@@ -1510,7 +1559,8 @@
         }
       ],
       "correct_option": "2",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "根據作者的說法，對領導者的要求是什麼？"
     },
     {
       "group_local_id": "g_p9_2",
@@ -1538,7 +1588,8 @@
         }
       ],
       "correct_option": "4",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "根據作者的說法，寫作的好處是什麼？"
     },
     {
       "group_local_id": "g_p9_2",
@@ -1566,7 +1617,8 @@
         }
       ],
       "correct_option": "2",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "文中寫道「是非常可惜的事」，為什麼？"
     },
     {
       "group_local_id": "g_p9_3",
@@ -1594,7 +1646,8 @@
         }
       ],
       "correct_option": "4",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "關於意見不被採納的人，作者是怎麼說的？"
     },
     {
       "group_local_id": "g_p9_3",
@@ -1622,7 +1675,8 @@
         }
       ],
       "correct_option": "1",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "文中寫道「也要對團隊的士氣負責」，那該怎麼做？"
     },
     {
       "group_local_id": "g_p9_4",
@@ -1650,7 +1704,8 @@
         }
       ],
       "correct_option": "2",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "文中寫道「一開始就不會走上玻璃地板」，為什麼？"
     },
     {
       "group_local_id": "g_p9_4",
@@ -1678,7 +1733,8 @@
         }
       ],
       "correct_option": "3",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "關於人類的能力，作者是怎麼說的？"
     },
     {
       "group_local_id": "g_p10",
@@ -1706,7 +1762,8 @@
         }
       ],
       "correct_option": "4",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "文中寫道「①這樣想的人很多」，關於這些人的心情，作者是怎麼想的？"
     },
     {
       "group_local_id": "g_p10",
@@ -1734,7 +1791,8 @@
         }
       ],
       "correct_option": "2",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "作者讓孩子們進行②「尋寶」是為了什麼？"
     },
     {
       "group_local_id": "g_p10",
@@ -1762,7 +1820,8 @@
         }
       ],
       "correct_option": "1",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "根據作者的說法，美術館對孩子們的教育有什麼幫助？"
     },
     {
       "group_local_id": "g_p11",
@@ -1790,7 +1849,8 @@
         }
       ],
       "correct_option": "4",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "感到不安或緊張時，A和B說應該怎麼做？"
     },
     {
       "group_local_id": "g_p11",
@@ -1818,7 +1878,8 @@
         }
       ],
       "correct_option": "4",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "A和B共同闡述的是什麼？"
     },
     {
       "group_local_id": "g_p12",
@@ -1846,7 +1907,8 @@
         }
       ],
       "correct_option": "1",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "關於人類棋手之間對弈的將棋魅力，作者是怎麼想的？"
     },
     {
       "group_local_id": "g_p12",
@@ -1874,7 +1936,8 @@
         }
       ],
       "correct_option": "1",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "關於電腦將棋，作者是怎麼說的？"
     },
     {
       "group_local_id": "g_p12",
@@ -1902,7 +1965,8 @@
         }
       ],
       "correct_option": "3",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "哪一項符合作者的想法？"
     },
     {
       "group_local_id": "g_p13",
@@ -1930,7 +1994,8 @@
         }
       ],
       "correct_option": "3",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "以下4個團體都是由玉北市居民組成的團體，今後打算開設下列講座。在這之中，能夠申請「市民企劃講座」的是哪個團體？"
     },
     {
       "group_local_id": "g_p13",
@@ -1958,7 +2023,8 @@
         }
       ],
       "correct_option": "3",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "田村擔任某團體的代表，這次想首次申請「市民企劃講座」。他正在尋找外部講師，關於講師必須注意的事項是什麼？"
     },
     {
       "group_local_id": null,
@@ -1987,7 +2053,8 @@
       ],
       "correct_option": "1",
       "target_text": null,
-      "audio_url": "/static/audio/2025-07-listening.mp3"
+      "audio_url": "/static/audio/2025-07-listening.mp3",
+      "stem_zh": "聽解問題1（課題理解）・第1題：關於集訓要提交的文件"
     },
     {
       "group_local_id": null,
@@ -2016,7 +2083,8 @@
       ],
       "correct_option": "2",
       "target_text": null,
-      "audio_url": "/static/audio/2025-07-listening.mp3"
+      "audio_url": "/static/audio/2025-07-listening.mp3",
+      "stem_zh": "聽解問題1（課題理解）・第2題：關於交接的手續"
     },
     {
       "group_local_id": null,
@@ -2045,7 +2113,8 @@
       ],
       "correct_option": "4",
       "target_text": null,
-      "audio_url": "/static/audio/2025-07-listening.mp3"
+      "audio_url": "/static/audio/2025-07-listening.mp3",
+      "stem_zh": "聽解問題1（課題理解）・第3題：關於說明會的準備"
     },
     {
       "group_local_id": null,
@@ -2074,7 +2143,8 @@
       ],
       "correct_option": "2",
       "target_text": null,
-      "audio_url": "/static/audio/2025-07-listening.mp3"
+      "audio_url": "/static/audio/2025-07-listening.mp3",
+      "stem_zh": "聽解問題1（課題理解）・第4題：關於企劃書的修改"
     },
     {
       "group_local_id": null,
@@ -2103,7 +2173,8 @@
       ],
       "correct_option": "3",
       "target_text": null,
-      "audio_url": "/static/audio/2025-07-listening.mp3"
+      "audio_url": "/static/audio/2025-07-listening.mp3",
+      "stem_zh": "聽解問題1（課題理解）・第5題：關於參觀會的改善"
     },
     {
       "group_local_id": null,
@@ -2132,7 +2203,8 @@
       ],
       "correct_option": "4",
       "target_text": null,
-      "audio_url": "/static/audio/2025-07-listening.mp3"
+      "audio_url": "/static/audio/2025-07-listening.mp3",
+      "stem_zh": "聽解問題2（ポイント理解）・第1題：關於洗碗機的特點"
     },
     {
       "group_local_id": null,
@@ -2161,7 +2233,8 @@
       ],
       "correct_option": "3",
       "target_text": null,
-      "audio_url": "/static/audio/2025-07-listening.mp3"
+      "audio_url": "/static/audio/2025-07-listening.mp3",
+      "stem_zh": "聽解問題2（ポイント理解）・第2題：關於運動隊的魅力"
     },
     {
       "group_local_id": null,
@@ -2190,7 +2263,8 @@
       ],
       "correct_option": "3",
       "target_text": null,
-      "audio_url": "/static/audio/2025-07-listening.mp3"
+      "audio_url": "/static/audio/2025-07-listening.mp3",
+      "stem_zh": "聽解問題2（ポイント理解）・第3題：關於遙控車的改良"
     },
     {
       "group_local_id": null,
@@ -2219,7 +2293,8 @@
       ],
       "correct_option": "1",
       "target_text": null,
-      "audio_url": "/static/audio/2025-07-listening.mp3"
+      "audio_url": "/static/audio/2025-07-listening.mp3",
+      "stem_zh": "聽解問題2（ポイント理解）・第4題：關於歌舞伎的魅力"
     },
     {
       "group_local_id": null,
@@ -2248,7 +2323,8 @@
       ],
       "correct_option": "1",
       "target_text": null,
-      "audio_url": "/static/audio/2025-07-listening.mp3"
+      "audio_url": "/static/audio/2025-07-listening.mp3",
+      "stem_zh": "聽解問題2（ポイント理解）・第5題：關於背包的改良之處"
     },
     {
       "group_local_id": null,
@@ -2277,7 +2353,8 @@
       ],
       "correct_option": "4",
       "target_text": null,
-      "audio_url": "/static/audio/2025-07-listening.mp3"
+      "audio_url": "/static/audio/2025-07-listening.mp3",
+      "stem_zh": "聽解問題2（ポイント理解）・第6題：關於照護機構的措施"
     },
     {
       "group_local_id": null,
@@ -2289,7 +2366,8 @@
       "options": [],
       "correct_option": "1",
       "target_text": null,
-      "audio_url": "/static/audio/2025-07-listening.mp3"
+      "audio_url": "/static/audio/2025-07-listening.mp3",
+      "stem_zh": "聽解問題3（概要理解）・第1題：聽錄音選擇整體大意（無印刷、メモ可）"
     },
     {
       "group_local_id": null,
@@ -2301,7 +2379,8 @@
       "options": [],
       "correct_option": "4",
       "target_text": null,
-      "audio_url": "/static/audio/2025-07-listening.mp3"
+      "audio_url": "/static/audio/2025-07-listening.mp3",
+      "stem_zh": "聽解問題3（概要理解）・第2題：聽錄音選擇整體大意（無印刷、メモ可）"
     },
     {
       "group_local_id": null,
@@ -2313,7 +2392,8 @@
       "options": [],
       "correct_option": "3",
       "target_text": null,
-      "audio_url": "/static/audio/2025-07-listening.mp3"
+      "audio_url": "/static/audio/2025-07-listening.mp3",
+      "stem_zh": "聽解問題3（概要理解）・第3題：聽錄音選擇整體大意（無印刷、メモ可）"
     },
     {
       "group_local_id": null,
@@ -2325,7 +2405,8 @@
       "options": [],
       "correct_option": "1",
       "target_text": null,
-      "audio_url": "/static/audio/2025-07-listening.mp3"
+      "audio_url": "/static/audio/2025-07-listening.mp3",
+      "stem_zh": "聽解問題3（概要理解）・第4題：聽錄音選擇整體大意（無印刷、メモ可）"
     },
     {
       "group_local_id": null,
@@ -2337,7 +2418,8 @@
       "options": [],
       "correct_option": "4",
       "target_text": null,
-      "audio_url": "/static/audio/2025-07-listening.mp3"
+      "audio_url": "/static/audio/2025-07-listening.mp3",
+      "stem_zh": "聽解問題3（概要理解）・第5題：聽錄音選擇整體大意（無印刷、メモ可）"
     },
     {
       "group_local_id": null,
@@ -2349,7 +2431,8 @@
       "options": [],
       "correct_option": "3",
       "target_text": null,
-      "audio_url": "/static/audio/2025-07-listening.mp3"
+      "audio_url": "/static/audio/2025-07-listening.mp3",
+      "stem_zh": "聽解問題4（即時応答）・第1題：聽短句選擇適當的回應（無印刷、メモ可）"
     },
     {
       "group_local_id": null,
@@ -2361,7 +2444,8 @@
       "options": [],
       "correct_option": "1",
       "target_text": null,
-      "audio_url": "/static/audio/2025-07-listening.mp3"
+      "audio_url": "/static/audio/2025-07-listening.mp3",
+      "stem_zh": "聽解問題4（即時応答）・第2題：聽短句選擇適當的回應（無印刷、メモ可）"
     },
     {
       "group_local_id": null,
@@ -2373,7 +2457,8 @@
       "options": [],
       "correct_option": "3",
       "target_text": null,
-      "audio_url": "/static/audio/2025-07-listening.mp3"
+      "audio_url": "/static/audio/2025-07-listening.mp3",
+      "stem_zh": "聽解問題4（即時応答）・第3題：聽短句選擇適當的回應（無印刷、メモ可）"
     },
     {
       "group_local_id": null,
@@ -2385,7 +2470,8 @@
       "options": [],
       "correct_option": "1",
       "target_text": null,
-      "audio_url": "/static/audio/2025-07-listening.mp3"
+      "audio_url": "/static/audio/2025-07-listening.mp3",
+      "stem_zh": "聽解問題4（即時応答）・第4題：聽短句選擇適當的回應（無印刷、メモ可）"
     },
     {
       "group_local_id": null,
@@ -2397,7 +2483,8 @@
       "options": [],
       "correct_option": "1",
       "target_text": null,
-      "audio_url": "/static/audio/2025-07-listening.mp3"
+      "audio_url": "/static/audio/2025-07-listening.mp3",
+      "stem_zh": "聽解問題4（即時応答）・第5題：聽短句選擇適當的回應（無印刷、メモ可）"
     },
     {
       "group_local_id": null,
@@ -2409,7 +2496,8 @@
       "options": [],
       "correct_option": "2",
       "target_text": null,
-      "audio_url": "/static/audio/2025-07-listening.mp3"
+      "audio_url": "/static/audio/2025-07-listening.mp3",
+      "stem_zh": "聽解問題4（即時応答）・第6題：聽短句選擇適當的回應（無印刷、メモ可）"
     },
     {
       "group_local_id": null,
@@ -2421,7 +2509,8 @@
       "options": [],
       "correct_option": "3",
       "target_text": null,
-      "audio_url": "/static/audio/2025-07-listening.mp3"
+      "audio_url": "/static/audio/2025-07-listening.mp3",
+      "stem_zh": "聽解問題4（即時応答）・第7題：聽短句選擇適當的回應（無印刷、メモ可）"
     },
     {
       "group_local_id": null,
@@ -2433,7 +2522,8 @@
       "options": [],
       "correct_option": "3",
       "target_text": null,
-      "audio_url": "/static/audio/2025-07-listening.mp3"
+      "audio_url": "/static/audio/2025-07-listening.mp3",
+      "stem_zh": "聽解問題4（即時応答）・第8題：聽短句選擇適當的回應（無印刷、メモ可）"
     },
     {
       "group_local_id": null,
@@ -2445,7 +2535,8 @@
       "options": [],
       "correct_option": "1",
       "target_text": null,
-      "audio_url": "/static/audio/2025-07-listening.mp3"
+      "audio_url": "/static/audio/2025-07-listening.mp3",
+      "stem_zh": "聽解問題4（即時応答）・第9題：聽短句選擇適當的回應（無印刷、メモ可）"
     },
     {
       "group_local_id": null,
@@ -2457,7 +2548,8 @@
       "options": [],
       "correct_option": "2",
       "target_text": null,
-      "audio_url": "/static/audio/2025-07-listening.mp3"
+      "audio_url": "/static/audio/2025-07-listening.mp3",
+      "stem_zh": "聽解問題4（即時応答）・第10題：聽短句選擇適當的回應（無印刷、メモ可）"
     },
     {
       "group_local_id": null,
@@ -2469,7 +2561,8 @@
       "options": [],
       "correct_option": "2",
       "target_text": null,
-      "audio_url": "/static/audio/2025-07-listening.mp3"
+      "audio_url": "/static/audio/2025-07-listening.mp3",
+      "stem_zh": "聽解問題4（即時応答）・第11題：聽短句選擇適當的回應（無印刷、メモ可）"
     },
     {
       "group_local_id": null,
@@ -2481,7 +2574,8 @@
       "options": [],
       "correct_option": "2",
       "target_text": null,
-      "audio_url": "/static/audio/2025-07-listening.mp3"
+      "audio_url": "/static/audio/2025-07-listening.mp3",
+      "stem_zh": "聽解問題5（総合理解）・第1題：聽較長的談話後作答（無印刷、メモ可）"
     },
     {
       "group_local_id": null,
@@ -2493,7 +2587,8 @@
       "options": [],
       "correct_option": "3",
       "target_text": null,
-      "audio_url": "/static/audio/2025-07-listening.mp3"
+      "audio_url": "/static/audio/2025-07-listening.mp3",
+      "stem_zh": "聽解問題5（総合理解）・第2題：聽較長的談話後作答（無印刷、メモ可）"
     },
     {
       "group_local_id": null,
@@ -2505,7 +2600,8 @@
       "options": [],
       "correct_option": "2",
       "target_text": null,
-      "audio_url": "/static/audio/2025-07-listening.mp3"
+      "audio_url": "/static/audio/2025-07-listening.mp3",
+      "stem_zh": "聽解問題5（総合理解）・第3題：聽較長的談話後作答（無印刷、メモ可）"
     }
   ],
   "explanations": [

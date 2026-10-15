@@ -49,6 +49,8 @@ export interface AnsweringQuestion {
   mondai_no: number | null;
   number_in_section: number;
   stem: string;
+  /** 題幹繁體中文翻譯；無則為 null */
+  stem_zh: string | null;
   /** 題干中需強調的候選詞原文（漢字讀音／近義詞題）；無則為 null */
   target_text: string | null;
   /** 聽力音頻 URL（相對於 API origin，如 /static/audio/xxx.mp3）；無則為 null */

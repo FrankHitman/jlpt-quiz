@@ -8,10 +8,12 @@ export function ExplanationBlock({
   explanation,
   options,
   correctOption,
+  stemZh,
 }: {
   explanation: Explanation;
   options: OptionItem[];
   correctOption: string | null;
+  stemZh?: string | null;
 }) {
   const textOf = (key: string): string => options.find((o) => o.key === key)?.text ?? '';
   const readingOf = (key: string): string | null => {
@@ -35,6 +37,12 @@ export function ExplanationBlock({
 
   return (
     <div className="explanation">
+      {stemZh && (
+        <div className="expl-row">
+          <strong>題幹翻譯：</strong>
+          {stemZh}
+        </div>
+      )}
       {explanation.key_point && (
         <div className="expl-row">
           <strong>考點：</strong>

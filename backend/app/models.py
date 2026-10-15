@@ -64,6 +64,7 @@ class Question(Base):
     mondai_no: Mapped[int | None] = mapped_column(Integer, nullable=True)
     number_in_section: Mapped[int] = mapped_column(Integer)
     stem: Mapped[str] = mapped_column(Text)
+    stem_zh: Mapped[str | None] = mapped_column(Text, nullable=True)  # 題幹繁中翻譯
     options: Mapped[list] = mapped_column(JSON)  # [{key, text}, ...]
     correct_option: Mapped[str] = mapped_column(String(4))
     target_text: Mapped[str | None] = mapped_column(Text, nullable=True)

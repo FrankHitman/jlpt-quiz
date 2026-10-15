@@ -32,6 +32,7 @@ class QuestionOut(BaseModel):
     mondai_no: int | None = None
     number_in_section: int
     stem: str
+    stem_zh: str | None = None
     target_text: str | None = None
     options: list[OptionItem]
     audio_url: str | None = None

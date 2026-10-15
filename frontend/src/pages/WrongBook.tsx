@@ -354,6 +354,7 @@ export default function WrongBook() {
                 explanation={w.explanation}
                 options={w.question.options}
                 correctOption={w.correct_option}
+                stemZh={w.question.stem_zh}
               />
             </div>
           )}

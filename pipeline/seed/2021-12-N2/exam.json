@@ -378,7 +378,8 @@
         }
       ],
       "correct_option": "1",
-      "target_text": "情景"
+      "target_text": "情景",
+      "stem_zh": "美麗的情景浮現在眼前。"
     },
     {
       "group_local_id": null,
@@ -406,7 +407,8 @@
         }
       ],
       "correct_option": "2",
-      "target_text": "乏しい"
+      "target_text": "乏しい",
+      "stem_zh": "我覺得這個世代的人似乎電腦知識很貧乏。"
     },
     {
       "group_local_id": null,
@@ -434,7 +436,8 @@
         }
       ],
       "correct_option": "3",
-      "target_text": "介護"
+      "target_text": "介護",
+      "stem_zh": "我以志工身分在照顧老年人。"
     },
     {
       "group_local_id": null,
@@ -462,7 +465,8 @@
         }
       ],
       "correct_option": "1",
-      "target_text": "焦って"
+      "target_text": "焦って",
+      "stem_zh": "事到如今再著急也沒有用。"
     },
     {
       "group_local_id": null,
@@ -490,7 +494,8 @@
         }
       ],
       "correct_option": "4",
-      "target_text": "賛否"
+      "target_text": "賛否",
+      "stem_zh": "關於高速公路的建設，贊成與反對的意見分歧。"
     },
     {
       "group_local_id": null,
@@ -518,7 +523,8 @@
         }
       ],
       "correct_option": "3",
-      "target_text": "まかせて"
+      "target_text": "まかせて",
+      "stem_zh": "這份工作交給山本先生做的話就放心了。"
     },
     {
       "group_local_id": null,
@@ -546,7 +552,8 @@
         }
       ],
       "correct_option": "1",
-      "target_text": "かんゆう"
+      "target_text": "かんゆう",
+      "stem_zh": "邀請了新生加入網球社團。"
     },
     {
       "group_local_id": null,
@@ -574,7 +581,8 @@
         }
       ],
       "correct_option": "4",
-      "target_text": "じゅんちょう"
+      "target_text": "じゅんちょう",
+      "stem_zh": "這個計畫正順利進行中。"
     },
     {
       "group_local_id": null,
@@ -602,7 +610,8 @@
         }
       ],
       "correct_option": "4",
-      "target_text": "つもった"
+      "target_text": "つもった",
+      "stem_zh": "走在堆滿落葉的路上。"
     },
     {
       "group_local_id": null,
@@ -630,7 +639,8 @@
         }
       ],
       "correct_option": "2",
-      "target_text": "えいきゅう"
+      "target_text": "えいきゅう",
+      "stem_zh": "這種狀態不會永遠持續下去。"
     },
     {
       "group_local_id": null,
@@ -658,7 +668,8 @@
         }
       ],
       "correct_option": "2",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "我和山口先生也是（　）意見。"
     },
     {
       "group_local_id": null,
@@ -686,7 +697,8 @@
         }
       ],
       "correct_option": "1",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "這根香蕉散發出甜甜的香味，快可以吃（　）了喔。"
     },
     {
       "group_local_id": null,
@@ -714,7 +726,8 @@
         }
       ],
       "correct_option": "3",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "在正式註冊之前，請先進行（　）註冊。"
     },
     {
       "group_local_id": null,
@@ -742,7 +755,8 @@
         }
       ],
       "correct_option": "3",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "學生時代，作業常常拖到（　）才做。"
     },
     {
       "group_local_id": null,
@@ -770,7 +784,8 @@
         }
       ],
       "correct_option": "2",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "我想（　）人壽保險，請告訴我手續。"
     },
     {
       "group_local_id": null,
@@ -798,7 +813,8 @@
         }
       ],
       "correct_option": "1",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "我們提供符合顧客（　）的服務。"
     },
     {
       "group_local_id": null,
@@ -826,7 +842,8 @@
         }
       ],
       "correct_option": "4",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "已經決定明年在這裡（　）新的分店。"
     },
     {
       "group_local_id": null,
@@ -854,7 +871,8 @@
         }
       ],
       "correct_option": "4",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "畢業派對是不是穿正式一點的（　）去比較好呢？"
     },
     {
       "group_local_id": null,
@@ -882,7 +900,8 @@
         }
       ],
       "correct_option": "3",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "店裡忙的時候會臨時（　）打工人員。"
     },
     {
       "group_local_id": null,
@@ -910,7 +929,8 @@
         }
       ],
       "correct_option": "1",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "一直煩惱著、誰都無法訴說，昨天試著向好朋友（　）商量了一下。"
     },
     {
       "group_local_id": null,
@@ -938,7 +958,8 @@
         }
       ],
       "correct_option": "2",
-      "target_text": "最寄り"
+      "target_text": "最寄り",
+      "stem_zh": "我的公司從最近的車站走路要 15 分鐘。"
     },
     {
       "group_local_id": null,
@@ -966,7 +987,8 @@
         }
       ],
       "correct_option": "4",
-      "target_text": "レンタル"
+      "target_text": "レンタル",
+      "stem_zh": "演奏會上穿的禮服，總是在附近的店租借。"
     },
     {
       "group_local_id": null,
@@ -994,7 +1016,8 @@
         }
       ],
       "correct_option": "1",
-      "target_text": "指図"
+      "target_text": "指図",
+      "stem_zh": "聽說村上先生很討厭被別人指使。"
     },
     {
       "group_local_id": null,
@@ -1022,7 +1045,8 @@
         }
       ],
       "correct_option": "3",
-      "target_text": "欠かせない"
+      "target_text": "欠かせない",
+      "stem_zh": "這個時期旅行，雨傘是不可或缺的。"
     },
     {
       "group_local_id": null,
@@ -1050,7 +1074,8 @@
         }
       ],
       "correct_option": "2",
-      "target_text": "依然"
+      "target_text": "依然",
+      "stem_zh": "雨依然下得很大。"
     },
     {
       "group_local_id": null,
@@ -1078,7 +1103,8 @@
         }
       ],
       "correct_option": "4",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "栽培"
     },
     {
       "group_local_id": null,
@@ -1106,7 +1132,8 @@
         }
       ],
       "correct_option": "2",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "急劇"
     },
     {
       "group_local_id": null,
@@ -1134,7 +1161,8 @@
         }
       ],
       "correct_option": "3",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "漏出"
     },
     {
       "group_local_id": null,
@@ -1162,7 +1190,8 @@
         }
       ],
       "correct_option": "2",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "傾向"
     },
     {
       "group_local_id": null,
@@ -1190,7 +1219,8 @@
         }
       ],
       "correct_option": "1",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "迅速地、乾脆俐落"
     },
     {
       "group_local_id": null,
@@ -1218,7 +1248,8 @@
         }
       ],
       "correct_option": "1",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "A「我有事要跟田中先生說，他現在在開會嗎？」\nB「嗯。」\nA「那我就等會議結束（　）囉。」"
     },
     {
       "group_local_id": null,
@@ -1246,7 +1277,8 @@
         }
       ],
       "correct_option": "2",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "關於這個道路擴散計畫頁面（　），需要各位市民的理解。"
     },
     {
       "group_local_id": null,
@@ -1274,7 +1306,8 @@
         }
       ],
       "correct_option": "3",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "今天的比賽因大雪延期了。（　）沒想到這個時期會下大雪。"
     },
     {
       "group_local_id": null,
@@ -1302,7 +1335,8 @@
         }
       ],
       "correct_option": "4",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "游泳社的山田教練，對我們來說是教練（　）哥哥一般的存在。"
     },
     {
       "group_local_id": null,
@@ -1330,7 +1364,8 @@
         }
       ],
       "correct_option": "1",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "X 公司的健康食品自從在電視節目被介紹（　）以來，賣得非常好。"
     },
     {
       "group_local_id": null,
@@ -1358,7 +1393,8 @@
         }
       ],
       "correct_option": "1",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "（在店裡）\nA「這件襯衫好可愛。不過穿去公司會不會太花俏？」\nB「嗯。用來約會穿（　），穿去工作就太花俏了喔。」"
     },
     {
       "group_local_id": null,
@@ -1386,7 +1422,8 @@
         }
       ],
       "correct_option": "1",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "女兒都已經是社會人士了（　），早上還沒辦法一個人起床。要是不叫她，她會一直睡下去。"
     },
     {
       "group_local_id": null,
@@ -1414,7 +1451,8 @@
         }
       ],
       "correct_option": "4",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "朋友自從用茶漱口（　），就沒再感冒了似的。我也想試試看。"
     },
     {
       "group_local_id": null,
@@ -1442,7 +1480,8 @@
         }
       ],
       "correct_option": "3",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "好想知道她那時候在想什麼，但現在已經見不到面了（　）。"
     },
     {
       "group_local_id": null,
@@ -1470,7 +1509,8 @@
         }
       ],
       "correct_option": "4",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "（在不動產仲介店）\n店員「客人，今天帶您看了幾間房間（　），有符合您希望的房間嗎？」\n客人「我覺得第一間不錯，不過讓我考慮一下。」"
     },
     {
       "group_local_id": null,
@@ -1498,7 +1538,8 @@
         }
       ],
       "correct_option": "2",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "咖哩做太多了，覺得一個人吃（　）完，就叫了朋友一起吃。"
     },
     {
       "group_local_id": null,
@@ -1526,7 +1567,8 @@
         }
       ],
       "correct_option": "2",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "最近有每月固定金額、國際電話打到飽的服務。要是我留學時也有那樣的服務的話（　）。"
     },
     {
       "group_local_id": null,
@@ -1554,7 +1596,8 @@
         }
       ],
       "correct_option": "2",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "我發誓再也不喝酒，__ __ ★ __ 我一定要堅守到底。"
     },
     {
       "group_local_id": null,
@@ -1582,7 +1625,8 @@
         }
       ],
       "correct_option": "4",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "即使是不需要的東西，一旦想要，__ __ ★ __ 買了下來。"
     },
     {
       "group_local_id": null,
@@ -1610,7 +1654,8 @@
         }
       ],
       "correct_option": "1",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "我打開了電腦電源，但螢幕上顯示「請稍候」的 __ __ ★ __，於是重新開機了。"
     },
     {
       "group_local_id": null,
@@ -1638,7 +1683,8 @@
         }
       ],
       "correct_option": "2",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "（電話中）\nA「不好意思，關於下週下午 2 點開始的會議，那個時間我臨時有別的事，如果您那邊 __ __ ★ __，不知如何？」\nB「我這邊沒問題。」"
     },
     {
       "group_local_id": null,
@@ -1666,7 +1712,8 @@
         }
       ],
       "correct_option": "3",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "20 年前第一次聽到這位歌手的歌時，__ __ ★ __。"
     },
     {
       "group_local_id": "g_text9",
@@ -1694,7 +1741,8 @@
         }
       ],
       "correct_option": "4",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "以前在課上讀過一則落語，但並不覺得多有趣【48】，心想光是聽別人講話大概很無聊吧，也擔心自己聽不聽得懂。"
     },
     {
       "group_local_id": "g_text9",
@@ -1722,7 +1770,8 @@
         }
       ],
       "correct_option": "3",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "【49】聽落語的時候，我笑得很開心。"
     },
     {
       "group_local_id": "g_text9",
@@ -1750,7 +1799,8 @@
         }
       ],
       "correct_option": "1",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "所謂落語，就是同時【50】落語家的動作與講述。"
     },
     {
       "group_local_id": "g_text9",
@@ -1778,7 +1828,8 @@
         }
       ],
       "correct_option": "1",
-      "target_text": null
+      "target_text": null,
+      "stem_zh": "據說落語也有恐怖故事和感人故事。落語家到底是怎麼【51】的呢？"
     },
     {
       "group_local_id": "g_s1",
@@ -1807,7 +1858,8 @@
       ],
       "correct_option": "2",
       "target_text": null,
-      "audio_url": null
+      "audio_url": null,
+      "stem_zh": "關於某種物質的作用，從這篇文章可以得知什麼？"
     },
     {
       "group_local_id": "g_s2",
@@ -1836,7 +1888,8 @@
       ],
       "correct_option": "4",
       "target_text": null,
-      "audio_url": null
+      "audio_url": null,
+      "stem_zh": "這封郵件的要旨是什麼？"
     },
     {
       "group_local_id": "g_s3",
@@ -1865,7 +1918,8 @@
       ],
       "correct_option": "4",
       "target_text": null,
-      "audio_url": null
+      "audio_url": null,
+      "stem_zh": "哪一項描述了這個網站方便之處？"
     },
     {
       "group_local_id": "g_s4",
@@ -1894,7 +1948,8 @@
       ],
       "correct_option": "4",
       "target_text": null,
-      "audio_url": null
+      "audio_url": null,
+      "stem_zh": "寫這份文件最主要的目的為何？"
     },
     {
       "group_local_id": "g_s5",
@@ -1923,7 +1978,8 @@
       ],
       "correct_option": "3",
       "target_text": null,
-      "audio_url": null
+      "audio_url": null,
+      "stem_zh": "筆者提到，如果人才得不到公正的評價，組織會變成什麼樣？"
     },
     {
       "group_local_id": "g_m1",
@@ -1952,7 +2008,8 @@
       ],
       "correct_option": "1",
       "target_text": null,
-      "audio_url": null
+      "audio_url": null,
+      "stem_zh": "文中寫道「我不想做啦。」，T 男為什麼說不想做「尋找優點」的活動？"
     },
     {
       "group_local_id": "g_m1",
@@ -1981,7 +2038,8 @@
       ],
       "correct_option": "3",
       "target_text": null,
-      "audio_url": null
+      "audio_url": null,
+      "stem_zh": "「尋找優點」是怎麼做的？"
     },
     {
       "group_local_id": "g_m1",
@@ -2010,7 +2068,8 @@
       ],
       "correct_option": "2",
       "target_text": null,
-      "audio_url": null
+      "audio_url": null,
+      "stem_zh": "「尋找優點」的目的為何？"
     },
     {
       "group_local_id": "g_m2",
@@ -2039,7 +2098,8 @@
       ],
       "correct_option": "1",
       "target_text": null,
-      "audio_url": null
+      "audio_url": null,
+      "stem_zh": "筆者認為人們為什麼會使用「職業嗓音」？"
     },
     {
       "group_local_id": "g_m2",
@@ -2068,7 +2128,8 @@
       ],
       "correct_option": "4",
       "target_text": null,
-      "audio_url": null
+      "audio_url": null,
+      "stem_zh": "對於用「職業嗓音」說話這件事，筆者怎麼看？"
     },
     {
       "group_local_id": "g_m3",
@@ -2097,7 +2158,8 @@
       ],
       "correct_option": "1",
       "target_text": null,
-      "audio_url": null
+      "audio_url": null,
+      "stem_zh": "文中寫道「這個物量真是浪費啊」，筆者為什麼會這麼想？"
     },
     {
       "group_local_id": "g_m3",
@@ -2126,7 +2188,8 @@
       ],
       "correct_option": "4",
       "target_text": null,
-      "audio_url": null
+      "audio_url": null,
+      "stem_zh": "「那」指的是什麼？"
     },
     {
       "group_local_id": "g_m3",
@@ -2155,7 +2218,8 @@
       ],
       "correct_option": "2",
       "target_text": null,
-      "audio_url": null
+      "audio_url": null,
+      "stem_zh": "在「託管之物思想」中，是怎麼看待物品的？"
     },
     {
       "group_local_id": "g_comp1",
@@ -2184,7 +2248,8 @@
       ],
       "correct_option": "2",
       "target_text": null,
-      "audio_url": null
+      "audio_url": null,
+      "stem_zh": "A 的「森中市立圖書館公告」禁止了什麼？"
     },
     {
       "group_local_id": "g_comp1",
@@ -2213,7 +2278,8 @@
       ],
       "correct_option": "2",
       "target_text": null,
-      "audio_url": null
+      "audio_url": null,
+      "stem_zh": "關於 A 的「森中市立圖書館公告」與 B 的「高中生意見」的內容，哪一項是正確的？"
     },
     {
       "group_local_id": "g_l1",
@@ -2242,7 +2308,8 @@
       ],
       "correct_option": "3",
       "target_text": null,
-      "audio_url": null
+      "audio_url": null,
+      "stem_zh": "根據筆者，人類的「離線狀態」是怎樣的狀態？"
     },
     {
       "group_local_id": "g_l1",
@@ -2271,7 +2338,8 @@
       ],
       "correct_option": "1",
       "target_text": null,
-      "audio_url": null
+      "audio_url": null,
+      "stem_zh": "根據筆者，人類去旅行會變得如何？"
     },
     {
       "group_local_id": "g_l1",
@@ -2300,7 +2368,8 @@
       ],
       "correct_option": "3",
       "target_text": null,
-      "audio_url": null
+      "audio_url": null,
+      "stem_zh": "關於旅行，哪一項符合筆者的想法？"
     },
     {
       "group_local_id": "g_info1",
@@ -2329,7 +2398,8 @@
       ],
       "correct_option": "4",
       "target_text": null,
-      "audio_url": null
+      "audio_url": null,
+      "stem_zh": "下列四人剛在森下超市買完東西，希望把商品送到家中。其中誰可以使用店家的宅配服務？\n小李：南區平川町 2 丁目・非會員・5232 日圓・3 箱／川口：中區綠町 4 丁目・一般會員・2546 日圓・2 箱／哈里斯：北區千京町 1 丁目・年長會員・2179 日圓・1 箱／高橋：北區朝春町 5 丁目・年長會員・1630 日圓・1 箱"
     },
     {
       "group_local_id": "g_info1",
@@ -2358,7 +2428,8 @@
       ],
       "correct_option": "2",
       "target_text": null,
-      "audio_url": null
+      "audio_url": null,
+      "stem_zh": "加山先生是一般會員，可以使用這項宅配服務。今天打算買水等常溫商品和冷凍食品，希望明天上午把商品送到。可以選擇哪種寄送方式？必須在幾點到幾點之間辦好受理手續？"
     },
     {
       "section_code": "listening",
@@ -2387,7 +2458,8 @@
       "correct_option": "3",
       "target_text": null,
       "group_local_id": "g_lis1_1",
-      "audio_url": "/static/audio/2021-12-N2-listening.mp3"
+      "audio_url": "/static/audio/2021-12-N2-listening.mp3",
+      "stem_zh": "聽解問題1（課題理解）・第1題：在音樂教室辦公室的委託"
     },
     {
       "section_code": "listening",
@@ -2416,7 +2488,8 @@
       "correct_option": "3",
       "target_text": null,
       "group_local_id": "g_lis1_2",
-      "audio_url": "/static/audio/2021-12-N2-listening.mp3"
+      "audio_url": "/static/audio/2021-12-N2-listening.mp3",
+      "stem_zh": "聽解問題1（課題理解）・第2題：花壇志工的第一次作業"
     },
     {
       "section_code": "listening",
@@ -2445,7 +2518,8 @@
       "correct_option": "2",
       "target_text": null,
       "group_local_id": "g_lis1_3",
-      "audio_url": "/static/audio/2021-12-N2-listening.mp3"
+      "audio_url": "/static/audio/2021-12-N2-listening.mp3",
+      "stem_zh": "聽解問題1（課題理解）・第3題：不要物品的處理"
     },
     {
       "section_code": "listening",
@@ -2474,7 +2548,8 @@
       "correct_option": "2",
       "target_text": null,
       "group_local_id": "g_lis1_4",
-      "audio_url": "/static/audio/2021-12-N2-listening.mp3"
+      "audio_url": "/static/audio/2021-12-N2-listening.mp3",
+      "stem_zh": "聽解問題1（課題理解）・第4題：演講稿的修改處"
     },
     {
       "section_code": "listening",
@@ -2503,7 +2578,8 @@
       "correct_option": "4",
       "target_text": null,
       "group_local_id": "g_lis1_5",
-      "audio_url": "/static/audio/2021-12-N2-listening.mp3"
+      "audio_url": "/static/audio/2021-12-N2-listening.mp3",
+      "stem_zh": "聽解問題1（課題理解）・第5題：飛機座位的選擇（從圖中選擇）"
     },
     {
       "section_code": "listening",
@@ -2532,7 +2608,8 @@
       "correct_option": "4",
       "target_text": null,
       "group_local_id": "g_lis2_1",
-      "audio_url": "/static/audio/2021-12-N2-listening.mp3"
+      "audio_url": "/static/audio/2021-12-N2-listening.mp3",
+      "stem_zh": "聽解問題2（要點理解）・第1題：種植番茄的理由"
     },
     {
       "section_code": "listening",
@@ -2561,7 +2638,8 @@
       "correct_option": "3",
       "target_text": null,
       "group_local_id": "g_lis2_2",
-      "audio_url": "/static/audio/2021-12-N2-listening.mp3"
+      "audio_url": "/static/audio/2021-12-N2-listening.mp3",
+      "stem_zh": "聽解問題2（要點理解）・第2題：換打工的原因"
     },
     {
       "section_code": "listening",
@@ -2590,7 +2668,8 @@
       "correct_option": "2",
       "target_text": null,
       "group_local_id": "g_lis2_3",
-      "audio_url": "/static/audio/2021-12-N2-listening.mp3"
+      "audio_url": "/static/audio/2021-12-N2-listening.mp3",
+      "stem_zh": "聽解問題2（要點理解）・第3題：報告的問題點"
     },
     {
       "section_code": "listening",
@@ -2619,7 +2698,8 @@
       "correct_option": "4",
       "target_text": null,
       "group_local_id": "g_lis2_4",
-      "audio_url": "/static/audio/2021-12-N2-listening.mp3"
+      "audio_url": "/static/audio/2021-12-N2-listening.mp3",
+      "stem_zh": "聽解問題2（要點理解）・第4題：跳蚤市場的陳列"
     },
     {
       "section_code": "listening",
@@ -2648,7 +2728,8 @@
       "correct_option": "2",
       "target_text": null,
       "group_local_id": "g_lis2_5",
-      "audio_url": "/static/audio/2021-12-N2-listening.mp3"
+      "audio_url": "/static/audio/2021-12-N2-listening.mp3",
+      "stem_zh": "聽解問題2（要點理解）・第5題：箱子裡的東西"
     },
     {
       "section_code": "listening",
@@ -2677,7 +2758,8 @@
       "correct_option": "3",
       "target_text": null,
       "group_local_id": "g_lis2_6",
-      "audio_url": "/static/audio/2021-12-N2-listening.mp3"
+      "audio_url": "/static/audio/2021-12-N2-listening.mp3",
+      "stem_zh": "聽解問題2（要點理解）・第6題：舒壓方法"
     },
     {
       "section_code": "listening",
@@ -2689,7 +2771,8 @@
       "correct_option": "4",
       "target_text": null,
       "group_local_id": "g_lis3_1",
-      "audio_url": "/static/audio/2021-12-N2-listening.mp3"
+      "audio_url": "/static/audio/2021-12-N2-listening.mp3",
+      "stem_zh": "聽解問題3（概要理解）・第1題：事務室的聯絡內容（無印刷選項）"
     },
     {
       "section_code": "listening",
@@ -2701,7 +2784,8 @@
       "correct_option": "1",
       "target_text": null,
       "group_local_id": "g_lis3_2",
-      "audio_url": "/static/audio/2021-12-N2-listening.mp3"
+      "audio_url": "/static/audio/2021-12-N2-listening.mp3",
+      "stem_zh": "聽解問題3（概要理解）・第2題：電影感想（無印刷選項）"
     },
     {
       "section_code": "listening",
@@ -2713,7 +2797,8 @@
       "correct_option": "2",
       "target_text": null,
       "group_local_id": "g_lis3_3",
-      "audio_url": "/static/audio/2021-12-N2-listening.mp3"
+      "audio_url": "/static/audio/2021-12-N2-listening.mp3",
+      "stem_zh": "聽解問題3（概要理解）・第3題：健身訓練的話題（無印刷選項）"
     },
     {
       "section_code": "listening",
@@ -2725,7 +2810,8 @@
       "correct_option": "3",
       "target_text": null,
       "group_local_id": "g_lis3_4",
-      "audio_url": "/static/audio/2021-12-N2-listening.mp3"
+      "audio_url": "/static/audio/2021-12-N2-listening.mp3",
+      "stem_zh": "聽解問題3（概要理解）・第4題：作文比賽（無印刷選項）"
     },
     {
       "section_code": "listening",
@@ -2737,7 +2823,8 @@
       "correct_option": "4",
       "target_text": null,
       "group_local_id": "g_lis3_5",
-      "audio_url": "/static/audio/2021-12-N2-listening.mp3"
+      "audio_url": "/static/audio/2021-12-N2-listening.mp3",
+      "stem_zh": "聽解問題3（概要理解）・第5題：鳥鳴聲（無印刷選項）"
     },
     {
       "section_code": "listening",
@@ -2749,7 +2836,8 @@
       "correct_option": "3",
       "target_text": null,
       "group_local_id": "g_lis4_1",
-      "audio_url": "/static/audio/2021-12-N2-listening.mp3"
+      "audio_url": "/static/audio/2021-12-N2-listening.mp3",
+      "stem_zh": "聽解問題4（即時應答）・第1題：星期五截止的報告，來得及嗎？…（無印刷選項）"
     },
     {
       "section_code": "listening",
@@ -2761,7 +2849,8 @@
       "correct_option": "2",
       "target_text": null,
       "group_local_id": "g_lis4_2",
-      "audio_url": "/static/audio/2021-12-N2-listening.mp3"
+      "audio_url": "/static/audio/2021-12-N2-listening.mp3",
+      "stem_zh": "聽解問題4（即時應答）・第2題：研討會的發表不太順利，所以別那麼……（無印刷選項）"
     },
     {
       "section_code": "listening",
@@ -2773,7 +2862,8 @@
       "correct_option": "2",
       "target_text": null,
       "group_local_id": "g_lis4_3",
-      "audio_url": "/static/audio/2021-12-N2-listening.mp3"
+      "audio_url": "/static/audio/2021-12-N2-listening.mp3",
+      "stem_zh": "聽解問題4（即時應答）・第3題：明天要考漢字，卻還完全沒背。…（無印刷選項）"
     },
     {
       "section_code": "listening",
@@ -2785,7 +2875,8 @@
       "correct_option": "3",
       "target_text": null,
       "group_local_id": "g_lis4_4",
-      "audio_url": "/static/audio/2021-12-N2-listening.mp3"
+      "audio_url": "/static/audio/2021-12-N2-listening.mp3",
+      "stem_zh": "聽解問題4（即時應答）・第4題：課長，上週用郵件寄給您的出差報告，您看了……（無印刷選項）"
     },
     {
       "section_code": "listening",
@@ -2797,7 +2888,8 @@
       "correct_option": "1",
       "target_text": null,
       "group_local_id": "g_lis4_5",
-      "audio_url": "/static/audio/2021-12-N2-listening.mp3"
+      "audio_url": "/static/audio/2021-12-N2-listening.mp3",
+      "stem_zh": "聽解問題4（即時應答）・第5題：啊，佐藤先生，您好，在這種地方遇見您……（無印刷選項）"
     },
     {
       "section_code": "listening",
@@ -2809,7 +2901,8 @@
       "correct_option": "2",
       "target_text": null,
       "group_local_id": "g_lis4_6",
-      "audio_url": "/static/audio/2021-12-N2-listening.mp3"
+      "audio_url": "/static/audio/2021-12-N2-listening.mp3",
+      "stem_zh": "聽解問題4（即時應答）・第6題：文化祭上我們的活動，多虧森前輩的建議……（無印刷選項）"
     },
     {
       "section_code": "listening",
@@ -2821,7 +2914,8 @@
       "correct_option": "2",
       "target_text": null,
       "group_local_id": "g_lis4_7",
-      "audio_url": "/static/audio/2021-12-N2-listening.mp3"
+      "audio_url": "/static/audio/2021-12-N2-listening.mp3",
+      "stem_zh": "聽解問題4（即時應答）・第7題：村田先生，部長看了您上次的簡報，說……（無印刷選項）"
     },
     {
       "section_code": "listening",
@@ -2833,7 +2927,8 @@
       "correct_option": "1",
       "target_text": null,
       "group_local_id": "g_lis4_8",
-      "audio_url": "/static/audio/2021-12-N2-listening.mp3"
+      "audio_url": "/static/audio/2021-12-N2-listening.mp3",
+      "stem_zh": "聽解問題4（即時應答）・第8題：很突然，但後天的出差，能代替小野先生去……（無印刷選項）"
     },
     {
       "section_code": "listening",
@@ -2845,7 +2940,8 @@
       "correct_option": "2",
       "target_text": null,
       "group_local_id": "g_lis4_9",
-      "audio_url": "/static/audio/2021-12-N2-listening.mp3"
+      "audio_url": "/static/audio/2021-12-N2-listening.mp3",
+      "stem_zh": "聽解問題4（即時應答）・第9題：老師，我一直擔心能否進入理想的公司就職，不過……（無印刷選項）"
     },
     {
       "section_code": "listening",
@@ -2857,7 +2953,8 @@
       "correct_option": "1",
       "target_text": null,
       "group_local_id": "g_lis4_10",
-      "audio_url": "/static/audio/2021-12-N2-listening.mp3"
+      "audio_url": "/static/audio/2021-12-N2-listening.mp3",
+      "stem_zh": "聽解問題4（即時應答）・第10題：你的企劃書，我讀得津津有味。……（無印刷選項）"
     },
     {
       "section_code": "listening",
@@ -2869,7 +2966,8 @@
       "correct_option": "1",
       "target_text": null,
       "group_local_id": "g_lis4_11",
-      "audio_url": "/static/audio/2021-12-N2-listening.mp3"
+      "audio_url": "/static/audio/2021-12-N2-listening.mp3",
+      "stem_zh": "聽解問題4（即時應答）・第11題：不好意思，我點了三明治之後，已經等了……（無印刷選項）"
     },
     {
       "section_code": "listening",
@@ -2881,7 +2979,8 @@
       "correct_option": "2",
       "target_text": null,
       "group_local_id": "g_lis5_1",
-      "audio_url": "/static/audio/2021-12-N2-listening.mp3"
+      "audio_url": "/static/audio/2021-12-N2-listening.mp3",
+      "stem_zh": "聽解問題5（統合理解）・第1題：圖書館的服務改善（無印刷選項）"
     },
     {
       "section_code": "listening",
@@ -2910,7 +3009,8 @@
       "correct_option": "2",
       "target_text": null,
       "group_local_id": "g_lis5_2",
-      "audio_url": "/static/audio/2021-12-N2-listening.mp3"
+      "audio_url": "/static/audio/2021-12-N2-listening.mp3",
+      "stem_zh": "聽解問題5（統合理解）・第2題問題1：兩人先去哪裡？"
     },
     {
       "section_code": "listening",
@@ -2939,7 +3039,8 @@
       "correct_option": "1",
       "target_text": null,
       "group_local_id": "g_lis5_2",
-      "audio_url": "/static/audio/2021-12-N2-listening.mp3"
+      "audio_url": "/static/audio/2021-12-N2-listening.mp3",
+      "stem_zh": "聽解問題5（統合理解）・第2題問題2：兩人接下來去哪裡？"
     }
   ],
   "explanations": [

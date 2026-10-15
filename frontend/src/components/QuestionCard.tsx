@@ -96,6 +96,7 @@ export function QuestionCard({ question, selected, onSelect, disabled, review, s
             explanation={review.explanation}
             options={question.options}
             correctOption={review.correct_option}
+            stemZh={question.stem_zh}
           />
         </div>
       )}

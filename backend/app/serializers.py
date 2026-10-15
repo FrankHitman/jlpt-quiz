@@ -38,6 +38,7 @@ def question_to_out(q: models.Question) -> schemas.QuestionOut:
         mondai_no=q.mondai_no,
         number_in_section=q.number_in_section,
         stem=q.stem,
+        stem_zh=q.stem_zh,
         target_text=q.target_text,
         options=[
             schemas.OptionItem(key=o.get("key"), text=o.get("text"))

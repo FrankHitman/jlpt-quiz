@@ -31,6 +31,7 @@ with conn.cursor() as cur:
         "ALTER TABLE explanations ADD COLUMN IF NOT EXISTS option_readings JSONB",
         "ALTER TABLE users ADD COLUMN IF NOT EXISTS email TEXT",
         "ALTER TABLE explanations ADD COLUMN IF NOT EXISTS option_meanings JSONB",
+        "ALTER TABLE questions ADD COLUMN IF NOT EXISTS stem_zh TEXT",
         """CREATE TABLE IF NOT EXISTS wrong_answers (
           id SERIAL PRIMARY KEY,
           user_id INT NOT NULL REFERENCES users(id) ON DELETE CASCADE,
@@ -58,6 +59,28 @@ with conn.cursor() as cur:
         # 舊庫：seed 比庫新（多了 target_text / 生詞等）時重新匯入；
         # import 冪等，但會清空該套試卷的舊作答明細（attempt_answers 級聯）。
         # SEED_AUTO_REIMPORT=0 時跳過此步（生產環境建議關閉，避免啟動時清空用戶數據）。
+        # 非破壞性補 stem_zh：按 (level,year,month,section,nis) 匹配更新，不刪數據
+        # （先於 need 檢查執行；stem_zh 由此步處理，不計入 need 觸發條件）
+        if os.environ.get("SEED_AUTO_REIMPORT", "1") != "0":
+            zh_updated = 0
+            for jf in seeds:
+                import re
+                slug = jf.split('/seed/')[1].split('/')[0]  # e.g. 2020-12 / 2020-12-N2
+                m = re.match(r'(\d{4})-(\d{2})(-N2)?$', slug)
+                if not m: continue
+                year, month = int(m.group(1)), int(m.group(2))
+                level = 'N2' if m.group(3) else 'N1'
+                data = json.load(open(jf, encoding='utf-8'))
+                for q in data['questions']:
+                    zh = q.get('stem_zh')
+                    if not zh: continue
+                    cur.execute("""UPDATE questions SET stem_zh=%s WHERE stem_zh IS DISTINCT FROM %s
+                        AND exam_id=(SELECT id FROM exams WHERE level=%s AND year=%s AND month=%s)
+                        AND section_code=%s AND number_in_section=%s""",
+                        (zh, zh, level, year, month, q['section_code'], q['number_in_section']))
+                    zh_updated += cur.rowcount
+            if zh_updated:
+                print(f"[entrypoint] backfilled stem_zh for {zh_updated} questions (non-destructive)")
         need = False
         if os.environ.get("SEED_AUTO_REIMPORT", "1") != "0":
             for jf in seeds:

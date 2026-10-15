@@ -35,6 +35,7 @@ CREATE TABLE questions (
   mondai_no INT,                              -- 問題1..13（聽解為1..5）
   number_in_section INT NOT NULL,             -- section 內題號
   stem TEXT NOT NULL,                         -- 題干（含★標記與空格）
+  stem_zh TEXT,                               -- 題幹繁中翻譯
   options JSONB NOT NULL,                     -- [{"key":"1","text":"..."}]，固定4項
   correct_option VARCHAR(4) NOT NULL,
   target_text TEXT,                           -- 題干中需強調的候選詞（漢字讀音/近義詞題），可空

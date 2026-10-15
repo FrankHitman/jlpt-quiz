@@ -132,10 +132,10 @@ def main() -> None:
                 cur.execute(
                     """INSERT INTO questions
                        (exam_id, group_id, section_code, qtype_code, mondai_no,
-                        number_in_section, stem, options, correct_option, target_text, audio_url)
-                       VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s) RETURNING id""",
+                        number_in_section, stem, stem_zh, options, correct_option, target_text, audio_url)
+                       VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s) RETURNING id""",
                     (exam_id, gid, q["section_code"], q["qtype_code"], q.get("mondai_no"),
-                     q["number_in_section"], q["stem"],
+                     q["number_in_section"], q["stem"], q.get("stem_zh"),
                      json.dumps(q.get("options") or [], ensure_ascii=False),
                      q["correct_option"], q.get("target_text"), q.get("audio_url")),
                 )
