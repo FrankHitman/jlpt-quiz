@@ -1133,7 +1133,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 6,
       "number_in_section": 36,
-      "stem": "そんな簡単なこと、わざわざあなたに＿＿＿ ＿＿＿ ★ ＿＿＿。",
+      "stem": "そんな簡単なこと、わざわざあなたに＿＿ ＿＿ ★ ＿＿。",
       "options": [
         {
           "key": "1",
@@ -1154,7 +1154,7 @@
       ],
       "target_text": null,
       "correct_option": "4",
-      "stem_zh": "這麼簡單的事，還特地＿＿＿ ＿＿＿ ★ ＿＿＿你。"
+      "stem_zh": "這麼簡單的事，還特地＿＿ ＿＿ ★ ＿＿你。"
     },
     {
       "group_local_id": null,
@@ -1162,7 +1162,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 6,
       "number_in_section": 37,
-      "stem": "ちょっと考えれば、さっきの話は冗談＿＿＿ ＿＿＿ ★ ＿＿＿、単純な彼は簡単に信じてしまった。",
+      "stem": "ちょっと考えれば、さっきの話は冗談＿＿ ＿＿ ★ ＿＿、単純な彼は簡単に信じてしまった。",
       "options": [
         {
           "key": "1",
@@ -1183,7 +1183,7 @@
       ],
       "target_text": null,
       "correct_option": "1",
-      "stem_zh": "稍微想一下，剛才的話是玩笑＿＿＿ ＿＿＿ ★ ＿＿＿，單純的他卻輕易相信了。"
+      "stem_zh": "稍微想一下，剛才的話是玩笑＿＿ ＿＿ ★ ＿＿，單純的他卻輕易相信了。"
     },
     {
       "group_local_id": null,
@@ -1191,7 +1191,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 6,
       "number_in_section": 38,
-      "stem": "彼はとても優秀で成績が学年の上位に入っている＿＿＿ ＿＿＿ ★ ＿＿＿真面目で好感が持てる。",
+      "stem": "彼はとても優秀で成績が学年の上位に入っている＿＿ ＿＿ ★ ＿＿真面目で好感が持てる。",
       "options": [
         {
           "key": "1",
@@ -1212,7 +1212,7 @@
       ],
       "target_text": null,
       "correct_option": "2",
-      "stem_zh": "他非常優秀，成績名列年級前茅＿＿＿ ＿＿＿ ★ ＿＿＿，而且認真踏實，令人很有好感。"
+      "stem_zh": "他非常優秀，成績名列年級前茅＿＿ ＿＿ ★ ＿＿，而且認真踏實，令人很有好感。"
     },
     {
       "group_local_id": null,
@@ -1220,7 +1220,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 6,
       "number_in_section": 39,
-      "stem": "全国高校バスケットボール大会で、惜しくも＿＿＿ ＿＿＿ ★ ＿＿＿しばらくの間、ぼう然としていた。",
+      "stem": "全国高校バスケットボール大会で、惜しくも＿＿ ＿＿ ★ ＿＿しばらくの間、ぼう然としていた。",
       "options": [
         {
           "key": "1",
@@ -1241,7 +1241,7 @@
       ],
       "target_text": null,
       "correct_option": "3",
-      "stem_zh": "在全國高中籃球大賽中，遺憾地＿＿＿ ＿＿＿ ★ ＿＿＿，好一陣子都茫然若失。"
+      "stem_zh": "在全國高中籃球大賽中，遺憾地＿＿ ＿＿ ★ ＿＿，好一陣子都茫然若失。"
     },
     {
       "group_local_id": null,
@@ -1249,7 +1249,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 6,
       "number_in_section": 40,
-      "stem": "私が接客するにあたって＿＿＿ ＿＿＿ ★ ＿＿＿自分は何をすべきかということだ。",
+      "stem": "私が接客するにあたって＿＿ ＿＿ ★ ＿＿自分は何をすべきかということだ。",
       "options": [
         {
           "key": "1",
@@ -1270,7 +1270,7 @@
       ],
       "target_text": null,
       "correct_option": "2",
-      "stem_zh": "我在接待客人時＿＿＿ ＿＿＿ ★ ＿＿＿，就是自己應該做什麼。"
+      "stem_zh": "我在接待客人時＿＿ ＿＿ ★ ＿＿，就是自己應該做什麼。"
     },
     {
       "group_local_id": "g_text",

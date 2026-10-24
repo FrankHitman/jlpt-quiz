@@ -1168,7 +1168,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 6,
       "number_in_section": 36,
-      "stem": "秋の初めでのこの時期は、真夏に戻った＿＿＿ ★ ＿＿＿ ＿＿＿、気温の差が大きくて体調を崩しやすいので、注意が必要だ。",
+      "stem": "秋の初めのこの時期は、真夏に戻った＿＿ ★ ＿＿ ＿＿、気温の差が大きくて体調を崩しやすいので、注意が必要だ。",
       "options": [
         {
           "key": "1",
@@ -1190,7 +1190,7 @@
       "correct_option": "2",
       "target_text": null,
       "audio_url": null,
-      "stem_zh": "秋初的這個時節，有時熱得像是回到了盛夏＿＿＿　＿＿　＿★＿　＿＿，氣溫變化大，容易影響健康，需要注意。"
+      "stem_zh": "秋初的這個時節，有時熱得像是回到了盛夏＿＿ ★ ＿＿ ＿＿，氣溫變化大，容易影響健康，需要注意。"
     },
     {
       "group_local_id": null,
@@ -1198,7 +1198,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 6,
       "number_in_section": 37,
-      "stem": "歴史的価値が高いとされる旧日本小学校の校舎を始めて見たが、とても＿＿＿ ＿＿＿ ★ ＿＿＿驚いた。",
+      "stem": "歴史的価値が高いとされる旧日本小学校の校舎を始めて見たが、とても＿＿ ＿＿ ★ ＿＿驚いた。",
       "options": [
         {
           "key": "1",
@@ -1220,7 +1220,7 @@
       "correct_option": "4",
       "target_text": null,
       "audio_url": null,
-      "stem_zh": "第一次看到被認為歷史價值很高的舊日本小學校舍，非常＿＿＿　＿＿＿　＿★＿　＿＿，嚇了一跳。"
+      "stem_zh": "第一次看到被認為歷史價值很高的舊日本小學校舍，非常＿＿ ＿＿ ★ ＿＿，嚇了一跳。"
     },
     {
       "group_local_id": null,
@@ -1228,7 +1228,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 6,
       "number_in_section": 38,
-      "stem": "くしゃみや鼻水といった症状が現れる花粉症は、風邪と＿＿＿ ＿＿＿ ★ ＿＿＿ケースもあるそうだ。",
+      "stem": "くしゃみや鼻水といった症状が現れる花粉症は、風邪と＿＿ ＿＿ ★ ＿＿ケースもあるそうだ。",
       "options": [
         {
           "key": "1",
@@ -1250,7 +1250,7 @@
       "correct_option": "2",
       "target_text": null,
       "audio_url": null,
-      "stem_zh": "會出現打噴嚏、流鼻水等症狀的花粉症，據說也有＿＿＿　＿＿＿　＿★＿　＿＿的案例。"
+      "stem_zh": "會出現打噴嚏、流鼻水等症狀的花粉症，據說也有＿＿ ＿＿ ★ ＿＿的案例。"
     },
     {
       "group_local_id": null,
@@ -1280,7 +1280,7 @@
       "correct_option": "1",
       "target_text": null,
       "audio_url": null,
-      "stem_zh": "關於高中畢業後的出路雖然遭到父母反對，但不管別人說什麼，我＿＿　＿＿　＿★＿　＿＿（都這麼）想。"
+      "stem_zh": "關於高中畢業後的出路雖然遭到父母反對，但不管別人說什麼，我＿＿ ＿＿ ★ ＿＿（都這麼）想。"
     },
     {
       "group_local_id": null,
@@ -1288,7 +1288,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 6,
       "number_in_section": 40,
-      "stem": "企業の海外進出が成功するかどうかは、＿＿＿ ★ ＿＿＿といってもいいだろう。",
+      "stem": "企業の海外進出が成功するかどうかは、＿＿ ＿＿ ★ ＿＿といってもいいだろう。",
       "options": [
         {
           "key": "1",
@@ -1310,7 +1310,7 @@
       "correct_option": "3",
       "target_text": null,
       "audio_url": null,
-      "stem_zh": "企業進軍海外能否成功，可以說＿＿＿　＿★＿　＿＿＿。"
+      "stem_zh": "企業進軍海外能否成功，可以說＿＿ ＿＿ ★ ＿＿。"
     },
     {
       "group_local_id": "g7",

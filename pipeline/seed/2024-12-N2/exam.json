@@ -1613,7 +1613,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 43,
-      "stem": "長く使っている電子レンジが壊れてしまった。古いものだし、修理に___ ___ ★___ 買い替えたほうがいいかもしれない。",
+      "stem": "長く使っている電子レンジが壊れてしまった。古いものだし、修理に＿＿ ＿＿ ★ ＿＿ 買い替えたほうがいいかもしれない。",
       "options": [
         {
           "key": "1",
@@ -1635,14 +1635,14 @@
       "correct_option": "2",
       "target_text": null,
       "group_local_id": null,
-      "stem_zh": "用了很久的微波爐壞了。反正是舊東西，與其拿去修理，___ ___ ★___，不如換一台新的比較好。"
+      "stem_zh": "用了很久的微波爐壞了。反正是舊東西，與其拿去修理，＿＿ ＿＿ ★ ＿＿，不如換一台新的比較好。"
     },
     {
       "section_code": "lang_reading",
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 44,
-      "stem": "娘「今度のスピーチコンテスト、参加しようかなあ。でも、自信ないなあ。」\n母「チャレンジ___ ___ ★___ ?いい経験になると思うよ。」",
+      "stem": "娘「今度のスピーチコンテスト、参加しようかなあ。でも、自信ないなあ。」\n母「チャレンジ＿＿ ＿＿ ★ ＿＿ ?いい経験になると思うよ。」",
       "options": [
         {
           "key": "1",
@@ -1664,14 +1664,14 @@
       "correct_option": "4",
       "target_text": null,
       "group_local_id": null,
-      "stem_zh": "女兒「這次的演講比賽，要不要參加呢。可是，沒什麼自信。」媽媽「要不要試著挑戰___ ___ ★___ ？我覺得會是很好的經驗喔。」"
+      "stem_zh": "女兒「這次的演講比賽，要不要參加呢。可是，沒什麼自信。」媽媽「要不要試著挑戰＿＿ ＿＿ ★ ＿＿ ？我覺得會是很好的經驗喔。」"
     },
     {
       "section_code": "lang_reading",
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 45,
-      "stem": "このドレスを替ると、___ ___ ★___ 気分になる。",
+      "stem": "このドレスを替ると、＿＿ ＿＿ ★ ＿＿ 気分になる。",
       "options": [
         {
           "key": "1",
@@ -1693,14 +1693,14 @@
       "correct_option": "4",
       "target_text": null,
       "group_local_id": null,
-      "stem_zh": "換穿這件洋裝，___ ___ ★___，心情會變好。"
+      "stem_zh": "換穿這件洋裝，＿＿ ＿＿ ★ ＿＿，心情會變好。"
     },
     {
       "section_code": "lang_reading",
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 46,
-      "stem": "昨日は「母の日」だったので、いつもおいしいお弁当を___ ___ ★___ 母が欲しがっていたアクセサリをプレゼントした。",
+      "stem": "昨日は「母の日」だったので、いつもおいしいお弁当を＿＿ ＿＿ ★ ＿＿ 母が欲しがっていたアクセサリをプレゼントした。",
       "options": [
         {
           "key": "1",
@@ -1722,14 +1722,14 @@
       "correct_option": "1",
       "target_text": null,
       "group_local_id": null,
-      "stem_zh": "昨天是「母親節」，所以我把媽媽想要的飾品，送給了總是為我做美味便當的___ ___ ★___。"
+      "stem_zh": "昨天是「母親節」，所以我把媽媽想要的飾品，送給了總是為我做美味便當的＿＿ ＿＿ ★ ＿＿。"
     },
     {
       "section_code": "lang_reading",
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 47,
-      "stem": "学生時代は、周りの人から___ ___ ★___ 無理して人に合わせようとすることが多かった。",
+      "stem": "学生時代は、周りの人から＿＿ ＿＿ ★ ＿＿ 無理して人に合わせようとすることが多かった。",
       "options": [
         {
           "key": "1",
@@ -1751,7 +1751,7 @@
       "correct_option": "3",
       "target_text": null,
       "group_local_id": null,
-      "stem_zh": "學生時代，為了___ ___ ★___，常常勉強自己去迎合別人。"
+      "stem_zh": "學生時代，為了＿＿ ＿＿ ★ ＿＿，常常勉強自己去迎合別人。"
     },
     {
       "section_code": "lang_reading",

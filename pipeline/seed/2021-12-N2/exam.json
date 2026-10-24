@@ -1576,7 +1576,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 43,
-      "stem": "もう酒は飲まないと __ __ ★ __ 絶対に守りたい。",
+      "stem": "もう酒は飲まないと ＿＿ ＿＿ ★ ＿＿ 絶対に守りたい。",
       "options": [
         {
           "key": "1",
@@ -1597,7 +1597,7 @@
       ],
       "correct_option": "2",
       "target_text": null,
-      "stem_zh": "我發誓再也不喝酒，__ __ ★ __ 我一定要堅守到底。"
+      "stem_zh": "我發誓再也不喝酒，＿＿ ＿＿ ★ ＿＿ 我一定要堅守到底。"
     },
     {
       "group_local_id": null,
@@ -1605,7 +1605,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 44,
-      "stem": "必要なない物でも、欲しくなると __ __ ★ __ しまう。",
+      "stem": "必要なない物でも、欲しくなると ＿＿ ＿＿ ★ ＿＿ しまう。",
       "options": [
         {
           "key": "1",
@@ -1626,7 +1626,7 @@
       ],
       "correct_option": "4",
       "target_text": null,
-      "stem_zh": "即使是不需要的東西，一旦想要，__ __ ★ __ 買了下來。"
+      "stem_zh": "即使是不需要的東西，一旦想要，＿＿ ＿＿ ★ ＿＿ 買了下來。"
     },
     {
       "group_local_id": null,
@@ -1634,7 +1634,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 45,
-      "stem": "パソコンの電源を入れたのだが、画面に「お待ちください」という __ __ ★ __、電源を入れ直した。",
+      "stem": "パソコンの電源を入れたのだが、画面に「お待ちください」という ＿＿ ＿＿ ★ ＿＿、電源を入れ直した。",
       "options": [
         {
           "key": "1",
@@ -1655,7 +1655,7 @@
       ],
       "correct_option": "1",
       "target_text": null,
-      "stem_zh": "我打開了電腦電源，但螢幕上顯示「請稍候」的 __ __ ★ __，於是重新開機了。"
+      "stem_zh": "我打開了電腦電源，但螢幕上顯示「請稍候」的 ＿＿ ＿＿ ★ ＿＿，於是重新開機了。"
     },
     {
       "group_local_id": null,
@@ -1663,7 +1663,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 46,
-      "stem": "(電話で)\nA「すみません、来週の2時からの会議ですが、その時間、別の用件が入ってしまいまして、もしそちらのご都合が __ __ ★ __、いかがでしょうか。」\nB「こちらは大丈夫ですよ。」",
+      "stem": "(電話で)\nA「すみません、来週の2時からの会議ですが、その時間、別の用件が入ってしまいまして、もしそちらのご都合が ＿＿ ＿＿ ★ ＿＿、いかがでしょうか。」\nB「こちらは大丈夫ですよ。」",
       "options": [
         {
           "key": "1",
@@ -1684,7 +1684,7 @@
       ],
       "correct_option": "2",
       "target_text": null,
-      "stem_zh": "（電話中）\nA「不好意思，關於下週下午 2 點開始的會議，那個時間我臨時有別的事，如果您那邊 __ __ ★ __，不知如何？」\nB「我這邊沒問題。」"
+      "stem_zh": "（電話中）\nA「不好意思，關於下週下午 2 點開始的會議，那個時間我臨時有別的事，如果您那邊 ＿＿ ＿＿ ★ ＿＿，不知如何？」\nB「我這邊沒問題。」"
     },
     {
       "group_local_id": null,
@@ -1692,7 +1692,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 47,
-      "stem": "20年前に初めてこの歌手の歌を聴いたとき、 __ __ ★ __。",
+      "stem": "20年前に初めてこの歌手の歌を聴いたとき、 ＿＿ ＿＿ ★ ＿＿。",
       "options": [
         {
           "key": "1",
@@ -1713,7 +1713,7 @@
       ],
       "correct_option": "3",
       "target_text": null,
-      "stem_zh": "20 年前第一次聽到這位歌手的歌時，__ __ ★ __。"
+      "stem_zh": "20 年前第一次聽到這位歌手的歌時，＿＿ ＿＿ ★ ＿＿。"
     },
     {
       "group_local_id": "g_text9",

@@ -1168,7 +1168,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 6,
       "number_in_section": 36,
-      "stem": "スピーチやプレゼンテーションにおいて、ジェスチャーを使いながら話すのは＿＿＿ ★ ＿＿＿ ＿＿＿印象を悪くすることもある。",
+      "stem": "スピーチやプレゼンテーションにおいて、ジェスチャーを使いながら話すのは＿＿ ＿＿ ★ ＿＿印象を悪くすることもある。",
       "options": [
         {
           "key": "1",
@@ -1190,7 +1190,7 @@
       "correct_option": "1",
       "target_text": null,
       "audio_url": null,
-      "stem_zh": "在演講或簡報中，邊做手勢邊說話＿＿＿ ★ ＿＿＿ ＿＿＿也可能會給人留下壞印象。"
+      "stem_zh": "在演講或簡報中，邊做手勢邊說話＿＿ ＿＿ ★ ＿＿也可能會給人留下壞印象。"
     },
     {
       "group_local_id": null,
@@ -1198,7 +1198,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 6,
       "number_in_section": 37,
-      "stem": "今や、書類や衣料品だけでなく生鮮食品も、インターネットへの＿＿＿ ★ ＿＿＿時代である。",
+      "stem": "今や、書類や衣料品だけでなく生鮮食品も、インターネットへの＿＿ ★ ＿＿ ＿＿時代である。",
       "options": [
         {
           "key": "1",
@@ -1220,7 +1220,7 @@
       "correct_option": "3",
       "target_text": null,
       "audio_url": null,
-      "stem_zh": "如今，不只文件、衣物，連生鮮食品都進入了在網路上＿＿＿ ★ ＿＿＿的時代。"
+      "stem_zh": "如今，不只文件、衣物，連生鮮食品都進入了在網路上＿＿ ★ ＿＿ ＿＿的時代。"
     },
     {
       "group_local_id": null,
@@ -1228,7 +1228,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 6,
       "number_in_section": 38,
-      "stem": "よく似た昆虫の判別は大変難しいという。中には、かなり＿＿＿ ＿＿＿ ★ ＿＿＿場合もあるそうだ。",
+      "stem": "よく似た昆虫の判別は大変難しいという。中には、かなり＿＿ ＿＿ ★ ＿＿場合もあるそうだ。",
       "options": [
         {
           "key": "1",
@@ -1250,7 +1250,7 @@
       "correct_option": "4",
       "target_text": null,
       "audio_url": null,
-      "stem_zh": "聽說外形相似的昆蟲很難分辨，據說有些＿＿＿ ＿＿＿ ★ ＿＿＿相當＿＿＿的情形。"
+      "stem_zh": "聽說外形相似的昆蟲很難分辨，據說有些相當＿＿ ＿＿ ★ ＿＿的情形。"
     },
     {
       "group_local_id": null,
@@ -1258,7 +1258,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 6,
       "number_in_section": 39,
-      "stem": "今回の＿＿＿ ＿＿＿ ★ ＿＿＿気持ちの方が大きかった。",
+      "stem": "今回の＿＿ ＿＿ ★ ＿＿気持ちの方が大きかった。",
       "options": [
         {
           "key": "1",
@@ -1280,7 +1280,7 @@
       "correct_option": "2",
       "target_text": null,
       "audio_url": null,
-      "stem_zh": "這次＿＿＿ ＿＿＿ ★ ＿＿＿的心情反而更大一些。"
+      "stem_zh": "這次＿＿ ＿＿ ★ ＿＿的心情反而更大一些。"
     },
     {
       "group_local_id": null,
@@ -1288,7 +1288,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 6,
       "number_in_section": 40,
-      "stem": "北山市は＿＿＿ ＿＿＿ ★ ＿＿＿のどかなところだった。",
+      "stem": "北山市は＿＿ ＿＿ ★ ＿＿のどかなところだった。",
       "options": [
         {
           "key": "1",
@@ -1310,7 +1310,7 @@
       "correct_option": "4",
       "target_text": null,
       "audio_url": null,
-      "stem_zh": "北山市是＿＿＿ ＿＿＿ ★ ＿＿＿寧靜的地方。"
+      "stem_zh": "北山市是＿＿ ＿＿ ★ ＿＿寧靜的地方。"
     },
     {
       "group_local_id": "g_q7",

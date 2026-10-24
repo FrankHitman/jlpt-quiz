@@ -1125,7 +1125,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 6,
       "number_in_section": 36,
-      "stem": "(インタビューで)「私が30年間歌手を続けてこられたのは、ファンの方の支えがあったからです。＿＿＿ ★ ＿＿＿、歌い続けたいと思っています。」",
+      "stem": "(インタビューで)「私が30年間歌手を続けてこられたのは、ファンの方の支えがあったからです。＿＿ ＿＿ ★ ＿＿、歌い続けたいと思っています。」",
       "options": [
         {
           "key": "1",
@@ -1146,7 +1146,7 @@
       ],
       "correct_option": "4",
       "target_text": null,
-      "stem_zh": "（採訪中）「我能持續唱歌 30 年，是因為有歌迷們的支持。＿＿＿ ★ ＿＿＿，我想繼續唱下去。」"
+      "stem_zh": "（採訪中）「我能持續唱歌 30 年，是因為有歌迷們的支持。＿＿ ＿＿ ★ ＿＿，我想繼續唱下去。」"
     },
     {
       "group_local_id": null,
@@ -1154,7 +1154,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 6,
       "number_in_section": 37,
-      "stem": "S市が18歳以上の＿＿＿ ★ ＿＿＿運動不足を感じていることがわかった。",
+      "stem": "S市が18歳以上の＿＿ ＿＿ ★ ＿＿運動不足を感じていることがわかった。",
       "options": [
         {
           "key": "1",
@@ -1175,7 +1175,7 @@
       ],
       "correct_option": "1",
       "target_text": null,
-      "stem_zh": "S 市發現，18 歲以上的＿＿＿ ★ ＿＿＿感到運動不足。"
+      "stem_zh": "S 市發現，18 歲以上的＿＿ ＿＿ ★ ＿＿感到運動不足。"
     },
     {
       "group_local_id": null,
@@ -1183,7 +1183,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 6,
       "number_in_section": 38,
-      "stem": "子供のころ、母はしつけに厳しくて、私はそれが嫌だった。しかし、母が＿＿＿ ★ ＿＿＿ ＿＿＿今ならわかる。",
+      "stem": "子供のころ、母はしつけに厳しくて、私はそれが嫌だった。しかし、母が＿＿ ＿＿ ★ ＿＿今ならわかる。",
       "options": [
         {
           "key": "1",
@@ -1204,7 +1204,7 @@
       ],
       "correct_option": "3",
       "target_text": null,
-      "stem_zh": "小時候母親管教很嚴，我很討厭。但母親＿＿＿ ★ ＿＿＿ ＿＿＿，現在的我懂了。"
+      "stem_zh": "小時候母親管教很嚴，我很討厭。但母親＿＿ ＿＿ ★ ＿＿，現在的我懂了。"
     },
     {
       "group_local_id": null,
@@ -1212,7 +1212,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 6,
       "number_in_section": 39,
-      "stem": "去年＿＿＿ ＿＿＿ ★ ＿＿＿、若者の間で流行している。",
+      "stem": "去年＿＿ ＿＿ ★ ＿＿、若者の間で流行している。",
       "options": [
         {
           "key": "1",
@@ -1233,7 +1233,7 @@
       ],
       "correct_option": "2",
       "target_text": null,
-      "stem_zh": "去年＿＿＿ ＿＿＿ ★ ＿＿＿，在年輕人之間流行了起來。"
+      "stem_zh": "去年＿＿ ＿＿ ★ ＿＿，在年輕人之間流行了起來。"
     },
     {
       "group_local_id": null,
@@ -1241,7 +1241,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 6,
       "number_in_section": 40,
-      "stem": "「未来のものづくりコンテスト」は、＿＿＿ ＿＿＿ ★ ＿＿＿、今年で20回目を迎える。",
+      "stem": "「未来のものづくりコンテスト」は、＿＿ ＿＿ ★ ＿＿、今年で20回目を迎える。",
       "options": [
         {
           "key": "1",
@@ -1262,7 +1262,7 @@
       ],
       "correct_option": "4",
       "target_text": null,
-      "stem_zh": "「未來製造競賽」＿＿＿ ＿＿＿ ★ ＿＿＿，今年迎來第 20 屆。"
+      "stem_zh": "「未來製造競賽」＿＿ ＿＿ ★ ＿＿，今年迎來第 20 屆。"
     },
     {
       "group_local_id": "g7",

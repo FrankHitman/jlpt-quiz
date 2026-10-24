@@ -1133,7 +1133,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 6,
       "number_in_section": 36,
-      "stem": "当社が先月発売したパソコンについて、印刷の __★__ ___ ___ ___ ことが判明しました。",
+      "stem": "当社が先月発売したパソコンについて、印刷の ＿＿ ＿＿ ★ ＿＿ ことが判明しました。",
       "options": [
         {
           "key": "1",
@@ -1154,7 +1154,7 @@
       ],
       "correct_option": "2",
       "target_text": null,
-      "stem_zh": "關於本公司上個月發售的電腦，發現印刷的 __★__ ___ ___ ___ 問題。"
+      "stem_zh": "關於本公司上個月發售的電腦，發現印刷的 ＿＿ ＿＿ ★ ＿＿ 問題。"
     },
     {
       "group_local_id": null,
@@ -1162,7 +1162,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 6,
       "number_in_section": 37,
-      "stem": "このフライパンは、さすが ___ ___ __★__ ___ とても使いやすい。",
+      "stem": "このフライパンは、さすが ＿＿ ＿＿ ★ ＿＿ とても使いやすい。",
       "options": [
         {
           "key": "1",
@@ -1183,7 +1183,7 @@
       ],
       "correct_option": "3",
       "target_text": null,
-      "stem_zh": "這個平底鍋不愧是 ___ ___ __★__ ___，非常好用。"
+      "stem_zh": "這個平底鍋不愧是 ＿＿ ＿＿ ★ ＿＿，非常好用。"
     },
     {
       "group_local_id": null,
@@ -1191,7 +1191,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 6,
       "number_in_section": 38,
-      "stem": "最後に見た映画が ___ ___ __★__ ___ 映画を見ていない。",
+      "stem": "最後に見た映画が ＿＿ ＿＿ ★ ＿＿ 映画を見ていない。",
       "options": [
         {
           "key": "1",
@@ -1212,7 +1212,7 @@
       ],
       "correct_option": "1",
       "target_text": null,
-      "stem_zh": "上次看的電影是 ___ ___ __★__ ___，從那之後就沒再看過電影。"
+      "stem_zh": "上次看的電影是 ＿＿ ＿＿ ★ ＿＿，從那之後就沒再看過電影。"
     },
     {
       "group_local_id": null,
@@ -1220,7 +1220,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 6,
       "number_in_section": 39,
-      "stem": "学生から提出された論文の中に面白いものがあった。私が ___ ___ __★__ ___ これまでにない。",
+      "stem": "学生から提出された論文の中に面白いものがあった。私が ＿＿ ＿＿ ★ ＿＿ これまでにない。",
       "options": [
         {
           "key": "1",
@@ -1241,7 +1241,7 @@
       ],
       "correct_option": "3",
       "target_text": null,
-      "stem_zh": "學生交來的論文中有有趣的作品。這是我 ___ ___ __★__ ___ 從未有過的。"
+      "stem_zh": "學生交來的論文中有有趣的作品。這是我 ＿＿ ＿＿ ★ ＿＿ 從未有過的。"
     },
     {
       "group_local_id": null,
@@ -1249,7 +1249,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 6,
       "number_in_section": 40,
-      "stem": "このレシピ本は、ふだん料理をしない人でも ___ ___ __★__ ___ 評判になっているそうだ。",
+      "stem": "このレシピ本は、ふだん料理をしない人でも ＿＿ ＿＿ ★ ＿＿ 評判になっているそうだ。",
       "options": [
         {
           "key": "1",
@@ -1270,7 +1270,7 @@
       ],
       "correct_option": "4",
       "target_text": null,
-      "stem_zh": "這本食譜書 ___ ___ __★__ ___，聽說連平常不做菜的人也評價很高。"
+      "stem_zh": "這本食譜書 ＿＿ ＿＿ ★ ＿＿，聽說連平常不做菜的人也評價很高。"
     },
     {
       "group_local_id": "g_text7",

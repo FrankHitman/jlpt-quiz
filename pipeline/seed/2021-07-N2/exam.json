@@ -1575,7 +1575,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 43,
-      "stem": "もうすぐ高校卒業だ。この学校で先生や友達と過ごす＿＿　＿★＿　＿＿　＿＿。",
+      "stem": "もうすぐ高校卒業だ。この学校で先生や友達と過ごす＿＿ ★ ＿＿ ＿＿。",
       "options": [
         {
           "key": "1",
@@ -1597,14 +1597,14 @@
       "correct_option": "1",
       "group_local_id": null,
       "target_text": null,
-      "stem_zh": "高中快畢業了。在這所學校和老師、朋友們一起度過的＿＿　＿★＿　＿＿　＿＿。"
+      "stem_zh": "高中快畢業了。在這所學校和老師、朋友們一起度過的＿＿ ★ ＿＿ ＿＿。"
     },
     {
       "section_code": "lang_reading",
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 44,
-      "stem": "A「サラリーマンから農家＿＿　＿＿　＿★＿　＿＿　があるんだね。」B「自分の夢をどうしてもあきらめきれなくてね。」",
+      "stem": "A「サラリーマンから農家＿＿ ＿＿ ★ ＿＿　があるんだね。」B「自分の夢をどうしてもあきらめきれなくてね。」",
       "options": [
         {
           "key": "1",
@@ -1626,14 +1626,14 @@
       "correct_option": "3",
       "group_local_id": null,
       "target_text": null,
-      "stem_zh": "A：「從上班族轉行當農夫＿＿　＿＿　＿★＿　＿＿　啊。」B：「因為無論如何都無法放棄自己的夢想。」"
+      "stem_zh": "A：「從上班族轉行當農夫＿＿ ＿＿ ★ ＿＿　啊。」B：「因為無論如何都無法放棄自己的夢想。」"
     },
     {
       "section_code": "lang_reading",
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 45,
-      "stem": "遠足の日の朝、娘は、「いってきます」と＿＿　＿＿　＿★＿　＿＿　飛び出していった。",
+      "stem": "遠足の日の朝、娘は、「いってきます」と＿＿ ＿＿ ★ ＿＿　飛び出していった。",
       "options": [
         {
           "key": "1",
@@ -1655,14 +1655,14 @@
       "correct_option": "4",
       "group_local_id": null,
       "target_text": null,
-      "stem_zh": "遠足那天早上，女兒說了聲「我出門了」，然後＿＿　＿＿　＿★＿　＿＿　衝了出去。"
+      "stem_zh": "遠足那天早上，女兒說了聲「我出門了」，然後＿＿ ＿＿ ★ ＿＿　衝了出去。"
     },
     {
       "section_code": "lang_reading",
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 46,
-      "stem": "参考書を読んで完璧に＿＿　＿＿　＿★＿　＿＿　ということがよくある。",
+      "stem": "参考書を読んで完璧に＿＿ ＿＿ ★ ＿＿　ということがよくある。",
       "options": [
         {
           "key": "1",
@@ -1684,14 +1684,14 @@
       "correct_option": "2",
       "group_local_id": null,
       "target_text": null,
-      "stem_zh": "讀了參考書，自以為已經完全＿＿　＿＿　＿★＿　＿＿，這種事很常見。"
+      "stem_zh": "讀了參考書，自以為已經完全＿＿ ＿＿ ★ ＿＿，這種事很常見。"
     },
     {
       "section_code": "lang_reading",
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 47,
-      "stem": "この池に＿＿　＿＿　＿★＿　＿＿　そうだ。",
+      "stem": "この池に＿＿ ＿＿ ★ ＿＿　そうだ。",
       "options": [
         {
           "key": "1",
@@ -1713,7 +1713,7 @@
       "correct_option": "4",
       "group_local_id": null,
       "target_text": null,
-      "stem_zh": "據說這個池塘＿＿　＿＿　＿★＿　＿＿。"
+      "stem_zh": "據說這個池塘＿＿ ＿＿ ★ ＿＿。"
     },
     {
       "section_code": "lang_reading",

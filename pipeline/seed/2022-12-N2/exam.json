@@ -1625,7 +1625,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 43,
-      "stem": "私はとにかく勉強が嫌いで、学校があまりすきではない子供だった。そんな＿＿ ＿★＿ ＿＿きっかけだった。",
+      "stem": "私はとにかく勉強が嫌いで、学校があまりすきではない子供だった。そんな＿＿ ★ ＿＿ ＿＿きっかけだった。",
       "options": [
         {
           "key": "1",
@@ -1648,14 +1648,14 @@
       "group_local_id": null,
       "target_text": null,
       "audio_url": null,
-      "stem_zh": "我總之就是討厭讀書，是個不太喜歡學校的孩子。那樣的＿＿　＿＿　＿★＿　＿＿成為了契機。"
+      "stem_zh": "我總之就是討厭讀書，是個不太喜歡學校的孩子。那樣的＿＿ ★ ＿＿ ＿＿成為了契機。"
     },
     {
       "section_code": "lang_reading",
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 44,
-      "stem": "若いときに努力して＿＿ ＿★＿ ＿＿なって必ず将来役に立つと思う。",
+      "stem": "若いときに努力して＿＿ ★ ＿＿ ＿＿なって必ず将来役に立つと思う。",
       "options": [
         {
           "key": "1",
@@ -1678,14 +1678,14 @@
       "group_local_id": null,
       "target_text": null,
       "audio_url": null,
-      "stem_zh": "年輕時努力＿＿　＿＿　＿★＿　＿＿，我相信將來一定會派上用場。"
+      "stem_zh": "年輕時努力＿＿ ★ ＿＿ ＿＿，我相信將來一定會派上用場。"
     },
     {
       "section_code": "lang_reading",
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 45,
-      "stem": "この町では、都心で家を借りる＿＿ ＿★＿ ＿＿家が借りられる。",
+      "stem": "この町では、都心で家を借りる＿＿ ★ ＿＿ ＿＿家が借りられる。",
       "options": [
         {
           "key": "1",
@@ -1708,14 +1708,14 @@
       "group_local_id": null,
       "target_text": null,
       "audio_url": null,
-      "stem_zh": "在這個鎮上，用在都心租屋的＿＿　＿＿　＿★＿　＿＿就能租到房子。"
+      "stem_zh": "在這個鎮上，用在都心租屋的＿＿ ★ ＿＿ ＿＿就能租到房子。"
     },
     {
       "section_code": "lang_reading",
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 46,
-      "stem": "＿＿ ＿★＿ ＿＿酸素や栄養が十分に細胞に届かなくなってしまう。",
+      "stem": "＿＿ ★ ＿＿ ＿＿酸素や栄養が十分に細胞に届かなくなってしまう。",
       "options": [
         {
           "key": "1",
@@ -1738,14 +1738,14 @@
       "group_local_id": null,
       "target_text": null,
       "audio_url": null,
-      "stem_zh": "＿＿　＿＿　＿★＿　＿＿，氧氣和營養就無法充分送達細胞。"
+      "stem_zh": "＿＿ ★ ＿＿ ＿＿，氧氣和營養就無法充分送達細胞。"
     },
     {
       "section_code": "lang_reading",
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 47,
-      "stem": "さくら駅周辺の再開発事業を行う＿＿ ＿★＿ ＿＿予定だ。",
+      "stem": "さくら駅周辺の再開発事業を行う＿＿ ★ ＿＿ ＿＿予定だ。",
       "options": [
         {
           "key": "1",
@@ -1768,7 +1768,7 @@
       "group_local_id": null,
       "target_text": null,
       "audio_url": null,
-      "stem_zh": "預定＿＿　＿＿　＿★＿　＿＿進行櫻車站周邊的再開發事業。"
+      "stem_zh": "預定＿＿ ★ ＿＿ ＿＿進行櫻車站周邊的再開發事業。"
     },
     {
       "section_code": "lang_reading",

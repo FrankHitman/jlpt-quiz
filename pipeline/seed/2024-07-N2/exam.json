@@ -1603,7 +1603,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 43,
-      "stem": "「さわら」という魚は、漢字で「鰆」と書く ＿＿＿ ＿＿★＿＿ ＿＿＿ ＿＿＿ 魚の一つです。",
+      "stem": "「さわら」という魚は、漢字で「鰆」と書く ＿＿ ★ ＿＿ ＿＿ 魚の一つです。",
       "target_text": null,
       "options": [
         {
@@ -1626,14 +1626,14 @@
       "correct_option": "2",
       "group_local_id": null,
       "audio_url": null,
-      "stem_zh": "「鰆」這種魚，漢字寫作「鰆」，是 ＿＿＿ ＿＿★＿＿ ＿＿＿ ＿＿＿ 魚類之一。"
+      "stem_zh": "「鰆」這種魚，漢字寫作「鰆」，是 ＿＿ ★ ＿＿ ＿＿ 魚類之一。"
     },
     {
       "section_code": "lang_reading",
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 44,
-      "stem": "会議での西山さんのプレゼンは、普段はなかなか ＿＿＿ ＿＿★＿＿ ＿＿＿ ＿＿＿ 素晴らしかった。",
+      "stem": "会議での西山さんのプレゼンは、普段はなかなか ＿＿ ＿＿ ★ ＿＿ 素晴らしかった。",
       "target_text": null,
       "options": [
         {
@@ -1656,14 +1656,14 @@
       "correct_option": "3",
       "group_local_id": null,
       "audio_url": null,
-      "stem_zh": "西山在會議上的簡報，＿＿＿ ＿＿★＿＿ ＿＿＿ ＿＿＿非常精彩。"
+      "stem_zh": "西山在會議上的簡報，＿＿ ＿＿ ★ ＿＿非常精彩。"
     },
     {
       "section_code": "lang_reading",
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 45,
-      "stem": "同じ高温 ＿＿＿ ＿＿★＿＿ ＿＿＿ ＿＿＿ は大きく変わる。",
+      "stem": "同じ高温 ＿＿ ＿＿ ★ ＿＿ は大きく変わる。",
       "target_text": null,
       "options": [
         {
@@ -1686,14 +1686,14 @@
       "correct_option": "4",
       "group_local_id": null,
       "audio_url": null,
-      "stem_zh": "同樣的高溫＿＿＿ ＿＿★＿＿ ＿＿＿ ＿＿＿會有很大的變化。"
+      "stem_zh": "同樣的高溫＿＿ ＿＿ ★ ＿＿會有很大的變化。"
     },
     {
       "section_code": "lang_reading",
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 46,
-      "stem": "「山川大学アニメ研究会」は、＿＿＿ ＿＿★＿＿ ＿＿＿ ＿＿＿ できた団体です。",
+      "stem": "「山川大学アニメ研究会」は、＿＿ ＿＿ ★ ＿＿ できた団体です。",
       "target_text": null,
       "options": [
         {
@@ -1716,14 +1716,14 @@
       "correct_option": "1",
       "group_local_id": null,
       "audio_url": null,
-      "stem_zh": "「山川大學動漫研究會」是＿＿＿ ＿＿★＿＿ ＿＿＿ ＿＿＿成立的團體。"
+      "stem_zh": "「山川大學動漫研究會」是＿＿ ＿＿ ★ ＿＿成立的團體。"
     },
     {
       "section_code": "lang_reading",
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 47,
-      "stem": "会社の今井先輩は、自分はミスが多いといつも言っているが、＿＿＿ ＿＿★＿＿ ＿＿＿ ＿＿＿ ように見える。",
+      "stem": "会社の今井先輩は、自分はミスが多いといつも言っているが、＿＿ ＿＿ ★ ＿＿ ように見える。",
       "target_text": null,
       "options": [
         {
@@ -1746,7 +1746,7 @@
       "correct_option": "3",
       "group_local_id": null,
       "audio_url": null,
-      "stem_zh": "公司的今井前輩總說自己經常出錯，但看起來＿＿＿ ＿＿★＿＿ ＿＿＿ ＿＿＿。"
+      "stem_zh": "公司的今井前輩總說自己經常出錯，但看起來＿＿ ＿＿ ★ ＿＿。"
     },
     {
       "section_code": "lang_reading",

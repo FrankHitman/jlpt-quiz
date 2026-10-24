@@ -1154,7 +1154,7 @@
       ],
       "correct_option": "1",
       "target_text": null,
-      "stem_zh": "昨天非常冷，雪積了 ＿＿　＿＿　＿★＿　＿＿，一直下個不停。"
+      "stem_zh": "昨天非常冷，雪積了 ＿＿ ★ ＿＿ ＿＿，一直下個不停。"
     },
     {
       "group_local_id": null,
@@ -1183,7 +1183,7 @@
       ],
       "correct_option": "2",
       "target_text": null,
-      "stem_zh": "這部電影太過真實，＿＿　＿＿　＿★＿　＿＿，實在算不上一部喜劇作品。"
+      "stem_zh": "這部電影太過真實，＿＿ ＿＿ ★ ＿＿，實在算不上一部喜劇作品。"
     },
     {
       "group_local_id": null,
@@ -1212,7 +1212,7 @@
       ],
       "correct_option": "4",
       "target_text": null,
-      "stem_zh": "＿＿　＿＿　＿★＿　＿＿ 為了方便閱讀，最近有很多用漫畫淺顯解說商業理論的書。"
+      "stem_zh": "＿＿ ＿＿ ★ ＿＿ 為了方便閱讀，最近有很多用漫畫淺顯解說商業理論的書。"
     },
     {
       "group_local_id": null,
@@ -1241,7 +1241,7 @@
       ],
       "correct_option": "1",
       "target_text": null,
-      "stem_zh": "在塞車中 ＿＿　＿＿　＿★＿　＿＿，還沒進遊樂園就已經累了。"
+      "stem_zh": "在塞車中 ＿＿ ＿＿ ★ ＿＿，還沒進遊樂園就已經累了。"
     },
     {
       "group_local_id": null,
@@ -1270,7 +1270,7 @@
       ],
       "correct_option": "3",
       "target_text": null,
-      "stem_zh": "商品或服務 ＿＿　＿＿　＿★＿　＿＿。"
+      "stem_zh": "商品或服務 ＿＿ ＿＿ ★ ＿＿。"
     },
     {
       "group_local_id": "g7",

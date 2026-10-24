@@ -1621,7 +1621,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 43,
-      "stem": "この本の内容をきちんと ＿＿＿ ＿＿★＿＿ ＿＿＿ ＿＿＿ 多いだろう。",
+      "stem": "この本の内容をきちんと ＿＿ ★ ＿＿ ＿＿ 多いだろう。",
       "options": [
         {
           "key": "1",
@@ -1643,14 +1643,14 @@
       "correct_option": "1",
       "group_local_id": null,
       "target_text": null,
-      "stem_zh": "能真正理解這本書內容的 ＿＿＿ ＿＿★＿＿ ＿＿＿ ＿＿＿ 人應該很多吧。"
+      "stem_zh": "能真正理解這本書內容的 ＿＿ ★ ＿＿ ＿＿ 人應該很多吧。"
     },
     {
       "section_code": "lang_reading",
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 44,
-      "stem": "石油は、自動車や航空機などの ＿＿＿ ＿＿★＿＿ ＿＿＿ ＿＿＿ 原料としても利用されている。",
+      "stem": "石油は、自動車や航空機などの ＿＿ ★ ＿＿ ＿＿ 原料としても利用されている。",
       "options": [
         {
           "key": "1",
@@ -1672,14 +1672,14 @@
       "correct_option": "1",
       "group_local_id": null,
       "target_text": null,
-      "stem_zh": "石油除了作為汽車、飛機等的 ＿＿＿ ＿＿★＿＿ ＿＿＿ ＿＿＿ 原料外，也被使用。"
+      "stem_zh": "石油除了作為汽車、飛機等的 ＿＿ ★ ＿＿ ＿＿ 原料外，也被使用。"
     },
     {
       "section_code": "lang_reading",
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 45,
-      "stem": "東鉄道竹山線内にある二つの信号機が故障しており、大事故が ＿＿＿ ＿＿＿ ＿＿★＿＿ ＿＿＿ 明らかになった。",
+      "stem": "東鉄道竹山線内にある二つの信号機が故障しており、大事故が ＿＿ ＿＿ ★ ＿＿ 明らかになった。",
       "options": [
         {
           "key": "1",
@@ -1701,14 +1701,14 @@
       "correct_option": "3",
       "group_local_id": null,
       "target_text": null,
-      "stem_zh": "東鐵道竹山線內的兩個信號機發生故障，大事故 ＿＿＿ ＿＿＿ ＿＿★＿＿ ＿＿＿，已經查明。"
+      "stem_zh": "東鐵道竹山線內的兩個信號機發生故障，大事故 ＿＿ ＿＿ ★ ＿＿，已經查明。"
     },
     {
       "section_code": "lang_reading",
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 46,
-      "stem": "（インタビューで）\n「店長になって最初の１年間は大変でした。店長になった ＿＿＿ ＿＿＿ ＿＿★＿＿ ＿＿＿ と悩むこともありました。」",
+      "stem": "（インタビューで）\n「店長になって最初の１年間は大変でした。店長になった ＿＿ ＿＿ ★ ＿＿ と悩むこともありました。」",
       "options": [
         {
           "key": "1",
@@ -1730,14 +1730,14 @@
       "correct_option": "2",
       "group_local_id": null,
       "target_text": null,
-      "stem_zh": "（採訪中）\n「成為店長的第一年很辛苦。成為店長 ＿＿＿ ＿＿＿ ＿＿★＿＿ ＿＿＿，也曾有煩惱的時候。」"
+      "stem_zh": "（採訪中）\n「成為店長的第一年很辛苦。成為店長 ＿＿ ＿＿ ★ ＿＿，也曾有煩惱的時候。」"
     },
     {
       "section_code": "lang_reading",
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 47,
-      "stem": "家を買うことについて ＿＿＿ ＿＿＿ ＿＿★＿＿ ＿＿＿ 簡単に引っ越せないのが嫌だと言っている。",
+      "stem": "家を買うことについて ＿＿ ＿＿ ★ ＿＿ 簡単に引っ越せないのが嫌だと言っている。",
       "options": [
         {
           "key": "1",
@@ -1759,7 +1759,7 @@
       "correct_option": "4",
       "group_local_id": null,
       "target_text": null,
-      "stem_zh": "關於買房這件事 ＿＿＿ ＿＿＿ ＿＿★＿＿ ＿＿＿，說不喜歡不能輕易搬家。"
+      "stem_zh": "關於買房這件事 ＿＿ ＿＿ ★ ＿＿，說不喜歡不能輕易搬家。"
     },
     {
       "section_code": "lang_reading",

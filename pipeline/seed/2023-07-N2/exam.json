@@ -1550,7 +1550,7 @@
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 43,
-      "stem": "隣のクラスの友達とけんかをしてしまい、学校の廊下で ＿＿ ＿★＿ ＿なくなってしまった。",
+      "stem": "隣のクラスの友達とけんかをしてしまい、学校の廊下で ＿＿ ＿＿ ★ ＿＿なくなってしまった。",
       "options": [
         {
           "key": "1",
@@ -1573,14 +1573,14 @@
       "target_text": null,
       "audio_url": null,
       "group_local_id": null,
-      "stem_zh": "和隔壁班的朋友吵了一架，在學校的走廊裡 ＿＿ ＿★＿ ＿了。"
+      "stem_zh": "和隔壁班的朋友吵了一架，在學校的走廊裡 ＿＿ ＿＿ ★ ＿＿了。"
     },
     {
       "section_code": "lang_reading",
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 44,
-      "stem": "このソファーは、それなりの大きさはあるが、見た目＿＿ ＿★＿ ＿楽に動かせる。",
+      "stem": "このソファーは、それなりの大きさはあるが、見た目＿＿ ＿＿ ★ ＿＿楽に動かせる。",
       "options": [
         {
           "key": "1",
@@ -1603,14 +1603,14 @@
       "target_text": null,
       "audio_url": null,
       "group_local_id": null,
-      "stem_zh": "這張沙發雖然頗有份量，但看起來＿＿ ＿★＿ ＿可以輕鬆搬動。"
+      "stem_zh": "這張沙發雖然頗有份量，但看起來＿＿ ＿＿ ★ ＿＿可以輕鬆搬動。"
     },
     {
       "section_code": "lang_reading",
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 45,
-      "stem": "友達にスキー旅行に誘われている。返事を＿＿ ＿★＿ ＿まだ返事がきていない。",
+      "stem": "友達にスキー旅行に誘われている。返事を＿＿ ＿＿ ★ ＿＿まだ返事がきていない。",
       "options": [
         {
           "key": "1",
@@ -1633,14 +1633,14 @@
       "target_text": null,
       "audio_url": null,
       "group_local_id": null,
-      "stem_zh": "朋友邀我去滑雪旅行。＿＿ ＿★＿ ＿回覆他，但至今還沒收到回音。"
+      "stem_zh": "朋友邀我去滑雪旅行。＿＿ ＿＿ ★ ＿＿回覆他，但至今還沒收到回音。"
     },
     {
       "section_code": "lang_reading",
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 46,
-      "stem": "私は、美術館では音声ガイドの機械を借りて、説明を聞きながら作品を鑑賞する。作品のどこに＿＿ ＿★＿ ＿その作品をより深く味わえるからだ。",
+      "stem": "私は、美術館では音声ガイドの機械を借りて、説明を聞きながら作品を鑑賞する。作品のどこに＿＿ ＿＿ ★ ＿＿その作品をより深く味わえるからだ。",
       "options": [
         {
           "key": "1",
@@ -1663,14 +1663,14 @@
       "target_text": null,
       "audio_url": null,
       "group_local_id": null,
-      "stem_zh": "在美術館，我會租借語音導覽機，一邊聽解說一邊欣賞作品。因為能知道作品的＿＿ ＿★＿ ＿，所以能更深入地品味那件作品。"
+      "stem_zh": "在美術館，我會租借語音導覽機，一邊聽解說一邊欣賞作品。因為能知道作品的＿＿ ＿＿ ★ ＿＿，所以能更深入地品味那件作品。"
     },
     {
       "section_code": "lang_reading",
       "qtype_code": "sentence_order",
       "mondai_no": 8,
       "number_in_section": 47,
-      "stem": "雪が降っている＿＿ ＿★＿ ＿風がほとんどないからだろう。",
+      "stem": "雪が降っている＿＿ ＿＿ ★ ＿＿風がほとんどないからだろう。",
       "options": [
         {
           "key": "1",
@@ -1693,7 +1693,7 @@
       "target_text": null,
       "audio_url": null,
       "group_local_id": null,
-      "stem_zh": "雪下著＿＿ ＿★＿ ＿，想必是因為幾乎沒有風吧。"
+      "stem_zh": "雪下著＿＿ ＿＿ ★ ＿＿，想必是因為幾乎沒有風吧。"
     },
     {
       "section_code": "lang_reading",
