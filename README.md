@@ -19,7 +19,7 @@ docker compose up -d --build
 
 常用命令：`docker compose logs -f` 查看日誌；`docker compose down` 停止（加 `-v` 會清空題庫資料）。
 
-> 版本更新：下載新版原始碼包覆蓋後，直接 `docker compose up -d --build` 即可——後端容器啟動時會自動做冪等遷移（加列、補新數據），舊的作答記錄不受影響，只有該套試卷的作答「明細」在數據版本變化時會重導清空。
+> 版本更新：下載新版原始碼包覆蓋後，直接 `docker compose up -d --build` 即可——後端容器啟動時會自動做冪等遷移（加列）並以 `pipeline/sync_seed.py` 非破壞性同步題庫：既有題目按 (級別，年，月）＋（section，題號）匹配就地更新，question id 不變，註冊用戶、作答記錄與錯題本的關聯全部保留。切勿對已上線的庫跑 `import_exam.py` 更新題庫——它會先刪除整套試卷並級聯清掉該卷的作答明細與錯題本；它只用於全新庫的首次匯入。不重啟也可手動同步：`docker compose exec backend python3 /app/pipeline/sync_seed.py --all`（加 `--dry-run` 只看差異）。
 
 > 進階：部署到雲伺服器時，把 `docker-compose.yml` 中的 `VITE_API_BASE` 改為伺服器的公網地址（如 `http://你的IP:8000/api`）後重新 `docker compose up -d --build` 即可。
 
@@ -52,7 +52,8 @@ jlpt-quiz/
 ├── pipeline/
 │   ├── schema.sql           # 9 張表 DDL
 │   ├── schema_exam_json.md  # 試卷 JSON 格式說明
-│   ├── import_exam.py       # 通用匯入程式（冪等）
+│   ├── import_exam.py       # 全新庫匯入程式（重跑會先刪整套試卷，勿用於已上線的庫）
+│   ├── sync_seed.py         # 非破壞性同步（已上線的庫更新題庫用，保留用戶數據關聯）
 │   └── seed/2025-12/        # 2025-12 真題：exam.json、transcription.md、manifest.json
 ├── backend/                 # FastAPI（:8000）
 │   ├── .env                 # DATABASE_URL（chmod 600，僅本地）
@@ -73,7 +74,7 @@ jlpt-quiz/
 
 1. 把 PDF（題目＋答案）放到 `pipeline/seed/<年份>-<月份>/`
 2. 按 `pipeline/schema_exam_json.md` 整理成 `exam.json`（題干、4 選項、以答案表為準核對答案、逐題解析＋迷惑選項辨析＋讀解原文依據）
-3. 跑 `(cd pipeline && ../backend/venv/bin/python import_exam.py)`（同一卷重跑會先清舊資料）
+3. 全新庫跑 `(cd pipeline && ../backend/venv/bin/python import_exam.py seed/<slug>/exam.json)`；已有用戶數據的庫改跑 `sync_seed.py`（見上方版本更新說明）
 
 ## 考試時間（jlpt.jp 官方）
 

@@ -1,5 +1,5 @@
 #!/bin/bash
-# Docker 容器啟動入口：等 DB → 建表 → 匯入 seed 試卷 → 啟動 uvicorn
+# Docker 容器啟動入口：等 DB → 建表/遷移 → 非破壞性同步 seed → 啟動 uvicorn
 set -e
 
 # pipeline/import_exam.py 只讀固定路徑 ~/workspace/jlpt-quiz/backend/.env，這裡按容器環境生成它
@@ -14,7 +14,7 @@ done
 echo "[entrypoint] postgres is up"
 
 python3 - <<'EOF'
-import os, glob, json, subprocess, psycopg
+import os, psycopg
 url = os.environ['DATABASE_URL']
 conn = psycopg.connect(url)
 conn.autocommit = True
@@ -47,70 +47,21 @@ with conn.cursor() as cur:
         )""",
     ]:
         cur.execute(ddl)
-    # 3) 匯入 seed 試卷
-    seeds = sorted(glob.glob('/app/pipeline/seed/*/exam.json'))
-    q_db = cur.execute("SELECT count(*) FROM questions").fetchone()[0]
-    print("[entrypoint] questions in db:", q_db)
-    if q_db == 0:
-        for jf in seeds:
-            print("[entrypoint] importing", jf)
-            subprocess.run(['python3', '/app/pipeline/import_exam.py', jf], check=True)
-    else:
-        # 舊庫：seed 比庫新（多了 target_text / 生詞等）時重新匯入；
-        # import 冪等，但會清空該套試卷的舊作答明細（attempt_answers 級聯）。
-        # SEED_AUTO_REIMPORT=0 時跳過此步（生產環境建議關閉，避免啟動時清空用戶數據）。
-        # 非破壞性補 stem／stem_zh：按 (level,year,month,section,nis) 匹配更新，不刪數據
-        # （先於 need 檢查執行；stem／stem_zh 由此步處理，不計入 need 觸發條件）
-        if os.environ.get("SEED_AUTO_REIMPORT", "1") != "0":
-            zh_updated = 0
-            stem_updated = 0
-            for jf in seeds:
-                import re
-                slug = jf.split('/seed/')[1].split('/')[0]  # e.g. 2020-12 / 2020-12-N2
-                m = re.match(r'(\d{4})-(\d{2})(-N2)?$', slug)
-                if not m: continue
-                year, month = int(m.group(1)), int(m.group(2))
-                level = 'N2' if m.group(3) else 'N1'
-                data = json.load(open(jf, encoding='utf-8'))
-                for q in data['questions']:
-                    stem = q.get('stem')
-                    if stem:
-                        cur.execute("""UPDATE questions SET stem=%s WHERE stem IS DISTINCT FROM %s
-                            AND exam_id=(SELECT id FROM exams WHERE level=%s AND year=%s AND month=%s)
-                            AND section_code=%s AND number_in_section=%s""",
-                            (stem, stem, level, year, month, q['section_code'], q['number_in_section']))
-                        stem_updated += cur.rowcount
-                    zh = q.get('stem_zh')
-                    if not zh: continue
-                    cur.execute("""UPDATE questions SET stem_zh=%s WHERE stem_zh IS DISTINCT FROM %s
-                        AND exam_id=(SELECT id FROM exams WHERE level=%s AND year=%s AND month=%s)
-                        AND section_code=%s AND number_in_section=%s""",
-                        (zh, zh, level, year, month, q['section_code'], q['number_in_section']))
-                    zh_updated += cur.rowcount
-            if stem_updated:
-                print(f"[entrypoint] backfilled stem for {stem_updated} questions (non-destructive)")
-            if zh_updated:
-                print(f"[entrypoint] backfilled stem_zh for {zh_updated} questions (non-destructive)")
-        need = False
-        if os.environ.get("SEED_AUTO_REIMPORT", "1") != "0":
-            for jf in seeds:
-                data = json.load(open(jf, encoding='utf-8'))
-                seed_tt = sum(1 for q in data['questions'] if q.get('target_text'))
-                db_tt = cur.execute("SELECT count(*) FROM questions WHERE target_text IS NOT NULL").fetchone()[0]
-                seed_v = len(data.get('vocabulary', []))
-                db_v = cur.execute("SELECT count(*) FROM vocabulary").fetchone()[0]
-                if seed_tt > db_tt or seed_v != db_v:
-                    need = True
-                    break
-        else:
-            print("[entrypoint] SEED_AUTO_REIMPORT=0, skipping seed re-import")
-        if need:
-            print("[entrypoint] seed data newer than db, re-importing")
-            for jf in seeds:
-                subprocess.run(['python3', '/app/pipeline/import_exam.py', jf], check=True)
-        else:
-            print("[entrypoint] db already up to date")
 conn.close()
 EOF
+
+# 3) seed 同步：一律使用非破壞性同步（pipeline/sync_seed.py）。
+#    它按 (level,year,month) + (section_code,number_in_section) 匹配既有題目並就地
+#    UPDATE，question id 不變，users / attempts / attempt_answers / wrong_answers
+#    （錯題本）的關聯全部保留；全新庫則直接 INSERT 建庫。
+#    舊的 SEED_AUTO_REIMPORT 已廢棄：它控制的 import_exam.py 重導會先 DELETE 整套
+#    試卷並級聯刪除作答明細與錯題本，entrypoint 不再走那條路徑。
+#    如需完全跳過同步，設 SEED_SYNC=0。
+if [ "${SEED_SYNC:-1}" != "0" ]; then
+  echo "[entrypoint] syncing seed data (non-destructive)..."
+  python3 /app/pipeline/sync_seed.py --all
+else
+  echo "[entrypoint] SEED_SYNC=0, skipping seed sync"
+fi
 
 exec uvicorn app.main:app --host 0.0.0.0 --port 8000

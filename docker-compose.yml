@@ -31,17 +31,18 @@ services:
     restart: unless-stopped
     environment:
       DATABASE_URL: postgresql://jlpt_app:${DB_PASSWORD:-jlpt_quiz_local}@db:5432/jlpt_quiz
-      # APP_ENV=production 時：關閉 /docs、JWT_SECRET 未設置則拒絕啟動、
-      # seed 自動重導默認關閉（見 SEED_AUTO_REIMPORT）。
+      # APP_ENV=production 時：關閉 /docs、JWT_SECRET 未設置則拒絕啟動。
+      # seed 同步是非破壞性的（見 SEED_SYNC），生產環境可放心保持開啟。
       APP_ENV: ${APP_ENV:-development}
       # 生產環境必須設置強隨機值（例：$(openssl rand -hex 32)）；
       # APP_ENV=production 且未設置時後端拒絕啟動。
       JWT_SECRET: ${JWT_SECRET:-dev-jwt-secret-change-me}
       # 逗號分隔；不設置則用內建預設（含 localhost 與 jlpt.gothruwall.eu.org）。
       CORS_ORIGINS: ${CORS_ORIGINS:-}
-      # 設為 0 可在已有數據的庫上禁用啟動時 seed 自動重導
-      #（重導會清空該卷的作答明細；生產環境建議設為 0）。
-      SEED_AUTO_REIMPORT: ${SEED_AUTO_REIMPORT:-1}
+      # 啟動時以 pipeline/sync_seed.py 非破壞性同步題庫（就地 UPDATE，
+      # question id 不變，用戶/作答/錯題本關聯保留）。設為 0 可跳過同步。
+      # 舊的 SEED_AUTO_REIMPORT 已廢棄，不再有刪除式重導。
+      SEED_SYNC: ${SEED_SYNC:-1}
     ports:
       - "8000:8000"
     depends_on:

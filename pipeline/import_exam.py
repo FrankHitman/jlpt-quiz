@@ -6,6 +6,9 @@
 
 - 讀取 ~/workspace/jlpt-quiz/backend/.env 的 DATABASE_URL（psycopg 直連）。
 - 冪等：同一 (level, year, month) 已存在時先刪除舊 exam（CASCADE 級聯），再重建。
+- 警告：刪除會級聯清掉該卷的 attempt_answers 與 wrong_answers（錯題本），
+  已上線（有註冊用戶）的庫更新題庫請改用 sync_seed.py（非破壞性就地更新）；
+  本程式只用於全新庫首次匯入或可清空的開發庫。
 - sections 由程式自動建立（lang_reading 110 分鐘 / listening 55 分鐘，見 TASKS.md 全局約定）。
 """
 import json
