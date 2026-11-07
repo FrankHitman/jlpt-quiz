@@ -2867,7 +2867,7 @@
       "evidence": null,
       "option_readings": {},
       "option_meanings": {
-        "1": "（無此讀音）",
+        "1": "契約書",
         "2": "（無此讀音）",
         "3": "誓約書、保證書",
         "4": "（無此讀音）"
@@ -3314,7 +3314,7 @@
       "option_readings": {
         "1": "ほんださんは、いつもふうちょうのふぁっしょんにみをつつんでいる。",
         "2": "なにごともけいざいてきなこうりつではんだんするのがいまのしゃかいのふうちょうだ。",
-        "3": "ちけいのかんけいで、このあたりはなつにあめがおりやすいふうちょうがある。",
+        "3": "ちけいのかんけいで、このあたりはなつにあめがふりやすいふうちょうがある。",
         "4": "きょうとのまちをあるいて、ことのふうちょうをたのしんだ。"
       },
       "option_meanings": {
@@ -5392,23 +5392,23 @@
     {
       "section_code": "lang_reading",
       "number_in_section": 1,
-      "word": "不廃",
+      "word": "腐敗",
       "reading": "ふはい",
       "pos": "名詞",
-      "meaning_zh": "不廢除、不滅",
-      "example_sentence": "不廃の精神で、困難に立ち向かった。",
-      "note": "「廃」音讀 はい，注意不讀 はつ（発）。",
+      "meaning_zh": "腐爛、腐敗",
+      "example_sentence": "食品の腐敗を防止する。",
+      "note": "食べ物が腐ること。比喩的に、組織や道徳が堕落することにも使う。",
       "etymology_en": null
     },
     {
       "section_code": "lang_reading",
       "number_in_section": 2,
-      "word": "新しい",
-      "reading": "あたらしい",
+      "word": "粗い",
+      "reading": "あらい",
       "pos": "形容詞",
-      "meaning_zh": "新的",
-      "example_sentence": "新しいアイデアが次々と生まれた。",
-      "note": "熟字訓讀 あら（しい）。",
+      "meaning_zh": "粗糙的",
+      "example_sentence": "こちらのほうが粗いようだ。",
+      "note": null,
       "etymology_en": null
     },
     {
@@ -5525,7 +5525,7 @@
       "section_code": "lang_reading",
       "number_in_section": 13,
       "word": "足手まとい",
-      "reading": "あしでまとい",
+      "reading": "あしてまとい",
       "pos": "名詞",
       "meaning_zh": "拖後腿、累贅",
       "example_sentence": "チームの足手まといにならないよう努力する。",
@@ -5579,11 +5579,11 @@
     {
       "section_code": "lang_reading",
       "number_in_section": 18,
-      "word": "うつむく",
-      "reading": "うつむく",
+      "word": "うなだれる",
+      "reading": "うなだれる",
       "pos": "動詞",
-      "meaning_zh": "低頭、垂頭",
-      "example_sentence": "下を向いて歩く。",
+      "meaning_zh": "垂頭、低頭喪氣",
+      "example_sentence": "男の子は父親の話をうなだれて聞いていた。",
       "note": null,
       "etymology_en": null
     },

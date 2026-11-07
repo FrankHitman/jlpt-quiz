@@ -13,6 +13,10 @@ echo "=== $(date '+%F %T') watchdog start ==="
 # 2. 後端（用 -f：HTTP 500 視為不健康，觸發重啟）
 if ! curl -s -f -m 8 http://127.0.0.1:8000/api/exams > /dev/null; then
   echo "backend down, restarting..."
+  # 舊 uvicorn 若仍佔著 :8000（DB 斷線時仍回 500），新進程會綁定失敗；
+  # 先按埠號殺掉佔用者（fuser 按埠殺，不用 pkill -f，避免誤殺自身 shell）
+  fuser -k 8000/tcp 2>/dev/null || true
+  sleep 2
   cd "$QUIZ/backend"
   nohup ./venv/bin/uvicorn app.main:app --host 127.0.0.1 --port 8000 > "$QUIZ/scripts/backend.log" 2>&1 &
   sleep 4
